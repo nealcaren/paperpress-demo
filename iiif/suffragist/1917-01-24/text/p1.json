@@ -12,7 +12,7 @@
     "value": "Sufffagist",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=116,338,2775,754"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=309,901,7400,2011"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1/text/r2",
@@ -23,7 +23,7 @@
     "value": "WEDNESDAY, JANUARY 24, 1917",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=2208,1111,598,57"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=5888,2963,1595,152"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1/text/r3",
@@ -34,7 +34,7 @@
     "value": "H —",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=471,1172,1987,2873"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p1#xywh=1256,3125,5299,7662"
   }
  ]
 }

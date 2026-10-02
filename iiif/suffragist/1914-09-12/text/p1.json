@@ -12,7 +12,7 @@
     "value": "SEPTEMBER 12, 1914 “FIVE CENTS — a f t . t 4",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=129,273,2737,3740"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=344,728,7297,9972"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1/text/r1",
@@ -23,7 +23,7 @@
     "value": "u-",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=0,895,51,119"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=0,2386,136,318"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1/text/r2",
@@ -34,7 +34,7 @@
     "value": "“Stand by Your Disfranchised Sisters!\"",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=1873,4039,699,60"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=4994,10769,1864,160"
   }
  ]
 }

@@ -12,7 +12,7 @@
     "value": "Suffraotist",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=198,352,2784,718"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=528,939,7424,1914"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1/text/r1",
@@ -23,7 +23,7 @@
     "value": "PUBLISHED BY THE CONGRESSIONAL UNION FOR WOMAN SUFFRAGE AND THE NATIONAL WOMAN'S PARTY",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=596,1070,934,158"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=1589,2853,2491,422"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1/text/r4",
@@ -34,7 +34,7 @@
     "value": "Suffrage Guard Outside White House",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=1103,4035,995,79"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=2941,10760,2654,211"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1/text/r8",
@@ -45,7 +45,7 @@
     "value": "WEDNESDAY, JANUARY 17, 1917",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=2287,1108,601,58"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=6099,2955,1602,154"
   },
   {
    "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1/text/r10",
@@ -56,7 +56,7 @@
     "value": "—",
     "format": "text/plain"
    },
-   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=2483,2699,349,389"
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p1#xywh=6621,7197,931,1038"
   }
  ]
 }
