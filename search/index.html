@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search</title><link rel="stylesheet" href="/paperpress-demo/static/style.css">
+</head>
+<body><header class="top">
+  <nav class="crumbs"><a class="home" href="/paperpress-demo/">Suffrage Press</a> <span class="sep">/</span> <span>Search</span></nav>
+  <form class="searchbox" action="/paperpress-demo/search/"><input type="search" name="q"
+    value="" placeholder="Search the text" aria-label="Search the text"></form>
+</header>
+<main><form class="filters" action="/paperpress-demo/search/">
+      <input type="search" name="q" value="" placeholder="Words or &quot;a phrase&quot;" autofocus>
+      <select name="title"><option value="">All titles</option><option value="revolution">The Revolution</option><option value="womans-journal">The Woman&#x27;s Journal</option><option value="suffragist">The Suffragist</option></select>
+      <select name="year"><option value="">All years</option><option>1870</option><option>1912</option><option>1914</option><option>1917</option></select><select name="sort"><option selected>relevance</option><option>oldest</option><option>newest</option></select><button>Search</button></form><p class="count" id="count"></p><ol class="hits" id="hits"></ol><nav class="more"><button type="button" id="more" hidden>More results</button></nav><script>window.PAPERPRESS={pagefind: "/paperpress-demo/pagefind/pagefind.js", titles: {"revolution": "The Revolution", "womans-journal": "The Woman's Journal", "suffragist": "The Suffragist"}};</script></main>
+<script src="/paperpress-demo/static/app.js"></script></body></html>
