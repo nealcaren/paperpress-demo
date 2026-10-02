@@ -1,0 +1,260 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p14.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "238",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=256,136,100,51"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "if we do mot misteks, mative here and to the manor born. When wuch a lady steps forward in advooacy of privileges which the law has thought proper to deny her sex, it may well be asked if woman has mot wrongs to be mighted as well as man? and it may be wise to consider now tost a wider lstitude has been given to manhood suffrage by the spirit of this sage. whether a blunder may not have been committed by our lawmakers in excluding from the jury and ballot-box an educated snd bighly refined clas of individuals. After s good deal more, some of which ssvors of Soutbern politices and need not be introduced bere, the sarticle is thus eloquently closed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=233,227,565,515"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The limits of a ne wepaper article will not permit us to notice, as we intended, the eloquent arguments set forth within the pages of Mrs. Stanton's pamphlet. But this much must be acknowledged, that no champion of woman oould have been better qualified to undertake the righting of her wrongs—if profound rescarch, well estsblished facts, and indomitsble oouage be considered as convincing. It we should but grant her premise sound, we then perioroe admit that sll her conclusions are correct—but this we cannot honestly do. As a specimen of her style we extract fiom ber pages the following For woman, alss! there is mo bigber law than the will of man. Herein behold the bloated conceit of the Petruchios of the law, who seem to say:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=231,748,561,578"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ay, look not big, mor stamp, nor stars, not ret, 1 will be mastor of what is my own; Sbe 1s my goo0, my chattsls; she is my bouss, My bousenod s, ms fe1d, my barn. My horse, my ox, ms aes, my nying And here she stan ds, touch her whoover dare I'll bring my sotion on the proudest he That stops my way in Pada. How could man ever look thus on womsn? she at whose feet Socrates learned wisdom—she who gave the world a Saviour, witnessed alike the adorstion of the Mags and the agonies of the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=232,1334,562,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DisTINoUIS ED ARRIVALS.—They constitute an important department in the city dsihrs. Ta REvoLUIOoN off oe, Twenty-third street, wes greeted 1ast Monday morming, severe as was the storm, with most agreeable calls from Mrs. Lucretis Mott and scting Gov. Lee of Wyoming. The meeting was quite unexpeoted, and with Mrs. Phelps' and Mrs. Wilbour added to he party, a most pieasant and profitable hour was enjoyed. Gen. Lee gave excellent and enoouraging reports of the conduct of the Wyoming women in their mew relations, and is confident there can be no future regrets at the act of justie done to the poblest ball of bumamity in exaltimg it to equal ostinenship in bis flourishing torritory. And moreover, be very cheerfully sooepted an mvitation to attond our May anniversary and tell us all about it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=235,1754,560,572"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RusstAn VAroR BATHS—PRIoFs REDUOED The well known estsblisbment, No. 23 and 2 East Fourth street, hes just beon renovated. pamted and put in most tempting and luxun ous order every way, and with prices reduced to ten dollare for packege of fiftoon boket the patronase i py rosching wll the ontorprising propristors can desire. The heslthy wo there to wash and be clean the dinense, with oold, coughs, theumstim, neursigs, to wash and Le bealed,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=241,2342,558,383"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hs entin THE PEACE CONPERRNCE.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=890,137,446,122"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ap7 the rego moeting of the Cimommet Womsn Suffrage Associstion, beld on the 9 of March. the followimg resolntions were adopted snd forwarded to the Confereneoe Whers, There ha arien pr Ginoor the friends of Womsn Sofrags, whih hes irty pro Guced opposing fastions threstening materiay to m are and retard the suocess of the case Thereiore. Resoved. Thst e Womsn's Suffrage Ansociation of Omeimat ba wi r y every movement to units s7 in systematic efort, bo cure to woman the baliot and every other pontiesl righ equaily with man Rooolved. That the good of the caase sowid out weigh every other consideracion. and as harmony fin our rsnks is absoimioly e ial, there hould be bu one National Associstion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=809,292,568,483"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rosolved, That this Asocistion dep'y depiored the movement whersby the Amerwan Womsn Sufrage Asmo ciation was tormed .—belie mg thet i the National Woman's Soufirage Association was Seficient i an parice lar, the good of the cause required it to be remodeied and improved. and pot a rival one formed although we do mot impugn the motives of thowe who orgenined the Associstion st Cloveland. Rosotv. Tht ou A y movement for Consererce to be beld et for the Circular on the 6th of April. 1870, and wust it will be able to reconone sli ivisions, and recommend a plan of union satisfactory to all AwNz L RYDE. Lume Com. Jor B. QUn , Signed. Respactully.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=810,776,563,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Signed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=838,1192,78,24"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Signed. Respectully, Jos B. QU, Cor c'y O W. The sbove are only given as specimen of the almost myrisd voi00s that have come swelling up from North, South and East, as well as West!— Ad. Rev.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=812,1192,560,183"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "IDOWS OF HUSBANDS, DEAD AN. LIVING.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=844,1418,514,64"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "IDOWS OF HUSBANDS, DEAD AN. LIVING.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=844,1418,514,64"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A 2250.0m108 bas been introduoed into the Kansss legisiature, instructing the judiciary committee to “report a bill giving to widows o deceased busbands the exclusive control of all property, both resl and personal, and empowering them to pay all legal clsims sgainst the estotes of said deceased persons, and to eol lect all moneys due such estates.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=813,1518,560,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In view of this measure, Mrs. Nichols asks. in the Kansas Commo. aralth, if there is pot m the logslature amother man in the Bouse, who will introduce a resotion for bill in beblt of the same co-widows of Uning e curing to them st least pis money tron the proeeds of the estates which legally absor their entire earnings and savmgs? Under the present laws. whe ay, the wite has po leg claims to a pownyworth of principal or wse in the estate acoumulnted by the joint savmgs and carnings of berself and busband. during bis life. Only his desth gives ber an mdefessible right to s portion of such ertate. (Men must bave great confidence mthe forbering love of women to sieep of sights with such premium sttached to ther decesse) Mr Nichols das thttbs eoo ie for public benefactors to give of thes substance. distibuting portions of their esites during theow lifetime, instend of leaving it. as formerly, will. It would be s happy mexi step ton the male besds of families to drwade with the fo male beads, and thus enjoy in ife luory which the baobolor Pesbody eonld mot—the rostrl contet of well ondowed parteer in the bome departmeont. The smell. gein in pinmoney wold o t 1oes t Geose of husband. kind in the ol p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=815,1778,559,955"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANRIVERSARY or TH2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1581,231,200,70"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "or TH2 NA11ONAL WOMAN'S SUFFRAGE ASS80- CLATION. —— Tan Associstion will hoid its reguier smnul meosting m Coorns Iwrro Kew York. on Tuday the 100 of May. mext bogiming ttn o'clock s. m., 54 contng, probbly. throug Wedne sdey and Thursday.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1396,277,562,287"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The various Womsne SufirageAssocitions througbout this country, and the Oid World, are invited to send delegates to this Convention prepared to report the progres of owr movement in their respective looaties. And. in order thet this amnual meosting may be the epression of the whole people we further ask every finend of Womsn Suffrage to oonsider bimeelf or berself personaily invited to attend snd take part in its di scnssions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1394,567,562,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "With the phistaos rights of woman secured in the Territores of Utab snd Wyoming—with the sgtation of the question in the various Stste Legsistures. with the propostion to strike the word “male\" trom the stste copstituon of Vermont— with New York. New Engisnd and the great West well orgamized, we are confident that our lesing poltiosl parties will soon soe that their own interest smd the hughest imteret of the country require them to recognine our",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1394,885,560,342"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Executive Committee recomment the triends of Womsn's Suffrage. everywhere, to concentrate their eforts upon the worl of - curing a Suxteenth Amendment to the Feders Constitntion thet shall prohibst sny stte from srrancoing any of, its citizens on ooount of ex. Therefore, we ask the dolegntes and friend, to come to this May Anniversary wit practicsl suggestions as to how this work shall be dune.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1393,1230,562,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The following are smong the wpeakers airesdy secured for the oocasion Elizsbeth Cady Stanwood and. Jenmie Colline, Mass M. Addle Bartitt, Mich. Mrs. Frenoes Minor and Phobe Cornens, Mo. Hon. Henry 8. Stenton Judge Barlow. Cannestots Josephine S8. Grifing. Rev. Phoe A. Hansord, Lime M. Boo. Maud D. Molson, Susen B. Anthony. Gen. E. M Lee, Act Gov Wroming Bon A G Ris. dle. Washington. Hon. Jes WStlmen. Rhode Inland. Cot K. GIngersol. T and Hon. 3 M. Soobell, New Jersey The names of otber distnguisbed speskers will be announced as ast the wr Communiostions and contruo for mecting sbould be 33ree Corr ponding Secretnry",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1393,1548,562,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ELIZABETH CADY STANTON Pres Onamorrs B Whoun, Oor Sees. 151 East 51t wtroet. New Vor",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1419,2118,509,96"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Puss BaAwne Bea three yenrs New Vork his boon in ireated pro r hshments for iwrins populson. ol and youngs. Bowton hes mo oniy w oble example in regrs t hom. bot Ao rtd o wle a pore as to Jouwe me Aou t wiety po p e t l. N Lm wesk, the 5t in., p mt o 500 sret, om g",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p14#xywh=1395,2295,562,440"
+  }
+ ]
+}

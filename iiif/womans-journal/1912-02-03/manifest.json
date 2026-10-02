@@ -1,0 +1,1593 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "The Woman's Journal, February 3, 1912"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Woman's Journal"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "en": [
+     "February 3, 1912"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Volume"
+    ]
+   },
+   "value": {
+    "en": [
+     "43"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Number"
+    ]
+   },
+   "value": {
+    "en": [
+     "5"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Pages"
+    ]
+   },
+   "value": {
+    "en": [
+     "8"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Source"
+    ]
+   },
+   "value": {
+    "en": [
+     "<a href=\"https://archive.org/details/sim_the-womans-journal_1912-02-03_43_5\">https://archive.org/details/sim_the-womans-journal_1912-02-03_43_5</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "en": [
+     "Out-of-copyright"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Citation"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Woman's Journal, vol. 43, no. 5, February 3, 1912"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "8 pages. Text by OCR (newspaper-ocr 0.10.0); it contains errors."
+  ]
+ },
+ "viewingDirection": "left-to-right",
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Woman's Journal, February 3, 1912"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Scans from the Internet Archive: <a href=\"https://archive.org/details/sim_the-womans-journal_1912-02-03_43_5\">https://archive.org/details/sim_the-womans-journal_1912-02-03_43_5</a>"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 33"
+    ]
+   },
+   "width": 3711,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/1/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3711,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0000.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p1.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 34"
+    ]
+   },
+   "width": 3714,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_02.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/2/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3714,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p2.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 35"
+    ]
+   },
+   "width": 3714,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_03.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/3/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3714,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0002.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p3.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 36"
+    ]
+   },
+   "width": 3731,
+   "height": 5093,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_04.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/4/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3731,
+        "height": 5093,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0003.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p4.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 37"
+    ]
+   },
+   "width": 3732,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_05.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/5/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3732,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0004.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p5.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 38"
+    ]
+   },
+   "width": 3729,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_06.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/6/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3729,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0005.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p6.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 39"
+    ]
+   },
+   "width": 3729,
+   "height": 5094,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_07.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/7/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3729,
+        "height": 5094,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0006.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p7.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 40"
+    ]
+   },
+   "width": 3728,
+   "height": 5093,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_08.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/1912-02-03/p/8/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/womans-journal/1912-02-03/page_08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3728,
+        "height": 5093,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/sim_the-womans-journal_1912-02-03_43_5%2Fsim_the-womans-journal_1912-02-03_43_5_jp2.zip%2Fsim_the-womans-journal_1912-02-03_43_5_jp2%2Fsim_the-womans-journal_1912-02-03_43_5_0007.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p8.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  }
+ ],
+ "navDate": "1912-02-03T00:00:00Z",
+ "seeAlso": [
+  {
+   "id": "https://archive.org/details/sim_the-womans-journal_1912-02-03_43_5",
+   "type": "Text",
+   "format": "text/html",
+   "label": {
+    "en": [
+     "Source"
+    ]
+   }
+  }
+ ],
+ "rendering": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/full_text.txt",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Full text (OCR)"
+    ]
+   },
+   "format": "text/plain"
+  }
+ ],
+ "structures": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/contents",
+   "type": "Range",
+   "label": {
+    "en": [
+     "Contents"
+    ]
+   },
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LABOR MEN WILL HELP VOTES FOR WOMEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Suffragette Arousing Her Sisters"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MISS MARY JOHNSTON DRAWS CONTRASTS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "4,000 WOMAN VOTERS TURN OUT IN DETROIT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SWEDISH-AMERICANS PROUD AND ELATED"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMEN OF OAKLAND STUDY THEIR TAXES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "A GREAT WELCOME TO JANE ADDAMS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NEED NOT TELL AGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p1a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[International Woman Suffrage Congress]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "IN FREEDOM'S LAND"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Mrs. Mira H. Pitman"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MIRANDY TELLS WHY WOMEN CAN'T VOTE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Dorothy Dix"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MARYLAND ASTIR"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "JUDGE TAYLOR GONE Distinguished Ohio Friend of Equal Rights Passes Away"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SUFFRAGE IN SWEDEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SAYS WOMEN WILL SOON BE VOTING"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CONCERNING WOMEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "EQUAL-PAY FIGHT IN VIRGINIA"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p2a11",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Suffrage club at Yale]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p3a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WISCONSIN DEBATERS WIN FOR SUFFRAGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p3a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[News briefs]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p3a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "A WOMAN DOCTOR"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p3a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Municipal appointments]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "S. R. McL."
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p3a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NOTES & NEWS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p4a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "DESTROYING THE HOME"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p4a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "BAN SUCCESSFUL SPINSTERS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Alice Stone Blackwell"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p4a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LAWS, WRITTEN AND UNWRITTEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p4a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "EFFECTIVE ENTHUSIASM"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p4a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SAYINGS OF WENDELL PHILLIPS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LOVERS AND CHIVALRY"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LEGISLATIVE HEARING HELD IN VIRGINIA"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "JOINT GUARDIANSHIP"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Catharine Waugh McCulloch"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "RHODE ISLAND WOMEN HEAR DR. THOMAS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WILL MEND ITS WAYS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WESTERN WOMEN FAVOR IMPROVED ROADS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "AN UNDESIRABLE JUDGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a13",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMEN IN PUBLIC SERVICE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a14",
+     "type": "Range",
+     "label": {
+      "en": [
+       "IN THE MAGAZINES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p5a15",
+     "type": "Range",
+     "label": {
+      "en": [
+       "TORONTO WOMEN SEEK FRANCHISE EXTENSION"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p6a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LEGAL STATUS OF WOMEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p6a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "PURSUING SUFFRAGE UNDER DIFFICULTIES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p6",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p7a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NINETY BEAUTIFUL YEARS HONORED BY HOME CLUB"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p7a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NEW HAMPSHIRE NOTES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p7a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "A CAPABLE PRESIDENT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p7a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Woman's citizenship address]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Said Love to the Young Knight"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Theodore Roberts"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "GINA KROG HONORED"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE CHILDREN'S BUREAU"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "ANTIS ARE SHY GAME EVEN IN TEXAS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "HOLDS FIRST PLACE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "“WOMEN ARE WOMEN”"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "HUMOROUS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/range/p8a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "An Old Man's Vengeance"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p8",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Agnes E. Ryan"
+        ]
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_01.jpg",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ]
+}

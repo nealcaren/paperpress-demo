@@ -1,0 +1,227 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffragist",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1799,464,856,278"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Columbian Printing Company, Inc., Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1824,1128,808,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Columbian Printing Company, Inc., Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1824,1128,808,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Entered as second-class matter, Nov. 14, 1913, at the Postoffice at Washington, D. C., under act of March 3, 1879",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1743,1309,974,75"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President's Responsibility",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1730,1588,993,96"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WILSON has told the suffragists who urge him from all over the country to support the federal suffrage amendment and to use his power to get it through Congress this session that his commands come from his party and not from his private personal convictions. On January ninth he said to the Congressional Union deputation “It is impossible for me, until the orders of my party are changed, to do anything other than I am doing as a party leader.\" Thus the President disclaimed responsibility and put upon suffragists the whole burden of concerting action upon a principle in which he acknowledges belief.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1447,1746,1550,595"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Two weeks later, however, on January 18, the President made a special visit to the Capitol to confer with various members of Congress and with the Democratic steering committee in regard to legislation that he is anxious to have passed during the present short session. One of the measures he is urging most strongly is the Railroad Arbitration Bill. This bill, among others, he is so determined to see put through this session that he has announced his intention of coming three or four times a week to the Capitol to see how Congress is getting on with it. Already he is threatening an extra session if after all his efforts Congress should prove intractible to his will.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1449,2348,1547,545"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This kind of championship is exactly what the Congressional Union wants the President to give to the federal amendment and what he has said he cannot do for any cause unless definite commands are given him by his party. But no command in regard to the compulsory arbitration bill has been given President Wilson. The subject was not treated in the Democratic platform. The whole question of the railroad strike and the legislation proposed in connection with it came up several months after the platform was made. To get the action the President wants from Congress he will have to use all the power he has over his party. In the case of this issue he must certainly take all the responsibility as the real leader.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1443,2900,1549,597"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It would seem that the President can hardly go on denying after this that he molds his party when he wants to. There is no reason why he cannot exert his leadership for us if he will. He cannot continue to put off a great body of women demanding federal action on woman suffrage with such a flimsy excuse. It is as much in his power to lead his party to legislate for a measure involving the self-government of half the population of the United States as it is to lead it to legislate for a disputed labor question.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1439,3503,1553,423"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=433,359,41,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Susan B. Anthony Amendment",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=604,510,629,157"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "an amendment to the Constitution of the United States extending the right of suffrage to women. Resolved by the Senate and House of Representatives of the United States of America in Congress assembled (tiwo-thirds of each House concurring therein), That the following article be proposed to the legislatures of the several States as an amendment to the Constitution of the United States, which, when ratified by three-fourths of the said legislatures, shall be valid as part of said Constitution, nmamely: ARTICLE—SEC. 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. “SEC. 2. Congress. shall have power, by appropriate legislation, to enforce the provisions of this article,\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=488,711,881,573"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE AMENDMENT IN THE SIXTY-FOURTH CONGRESS Senate, on December 7, 1915, by Senators Sutherland, Thomas and Thompson. In the House, on December 6, 1915, by Representatives Mondell, Raker, Keating and Referred",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=433,1284,936,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate, to the Committee on Woman Suffrage. In the House, to the Judiciary Committee. Reported without recommendation by Sub-committee No. 1 to Judiciary Committee, February 15, 1916. Reported back by Judiciary Committee to Suborders to hold till December Tu o o M 14, 1918 to reconsider on March 28 motion to postpone consideration till December 14. Judiciary Committee voted on March 28to indefinitely (that is, until after clection) all constitutional amendments. Reported",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=483,1759,880,461"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate, January 8, 1916, the Sutherland Amendment, known as Senate Joint Resolution No. 1, by a favorable vote. In the House, December 14, 1916, the Raker Amendment, known as House Joint Resolution No. 1, without recommendation. Present Status On the Senate calendar awaiting action. On the House calendar awaiting action. HISTORY OF THE AMENDMENT Drafted In its present form, by Susan B. Anthony in 1875.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=433,2222,936,589"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "First Introduced January 10, 1878, by Hon. A. A. Sargent, in the Senate. Reported from Committee In the Senate 1878, Adverse majority. 1879, Favorable minority. 1882, Favorable majority, adverse minority. 1884, Favorable majority, adverse minority. 1886, Favorable majority. 1890, Favorable ority. 1892, Favorable majority, adverse minority. 1896, Adverse 1913, Favorable majority. 1914, Favorable 1916, Favorable majority. In the House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=481,2828,875,529"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1883, Favorable majority, 1884, Adverse majority, favorable minority. 1886, Favorable minority. 1890, Favorable majority. 1894, Adverse majority. 1914, Without recommendation. 1916, Without recommendation. Voted Upon In the Senate",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=433,3364,936,284"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Voted Upon In the Senate January 25, 1887. Yeas 16, nays 34. Absent 26 (of whom 4 were anmd against) March 19, 1914. Yeas 35, nays 34, failing by 11 of the necessary two-thirds vote. In the House January 12, 1915. Yeas 174, nays 204, failing by 78 of the necessary two-thirds vote.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=477,3572,877,293"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "; Miss Joy Young Assistant Editors... Art Editor........ Mrs. Nina E. Allender Business Manager... Miss S. Ada Flatman Office Manager..... Miss Elizabeth Smith Chairman Cir. Dept..... Mrs. W. T. Burch",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=1459,806,724,283"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Subscription Price: Checks, drafts and postoffice orders should be made payable to The Treasurer of the Congressional Union.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p6#xywh=2273,804,729,283"
+  }
+ ]
+}

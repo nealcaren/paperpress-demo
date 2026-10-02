@@ -1,0 +1,469 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, FEBRUARY 3, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1257,216,1370,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "36",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=538,220,87,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FOUNDED BY LUCY STONE and HENRY B. BLACKWELL A Weekly Newspaper Devoted to Winning Equal Rights and especially to Winning Equal Suffrage for Women. E ditor MISS ALICE STONE BLACKWELL 3 MONADNOCK STREET, DORCHESTER, MASS Contributing Editors MISS MARY JOHNSTON MRS. IDA H. HARPER MISS ELLIS MEREDITH REV. CAROLINS BARTLETT CRANE MRS. MABEL CRAFT DEERING.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=518,322,935,511"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Office - 585 Boylston Street, Boston, Mass. Telephone, Back Bay 4717 NEW YORK office: National Suffrase Headquarters, 508 Fifth Ave. NATIONAL AMERICAN WOMAN SUFFRAGE ASSOCIATION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=507,839,955,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "505 Fifth Avenue, New York City. ANNA HOWARD SHAW, President, Moylan, Pa. JANE ADDAMS, 1st Vice-President, Hull House, Chicago, Ills. SOPHONISBA P. BRECKINRIDGE, 2nd Vice President, Green Hall, University of Chicago, Ills. MARY WARE DENNETT, Corresponding Secretary. 505 Fifth Avenue, New Yors. SUSAN W. FITZGER ALD, Recording Secretary, 585 Boyliston Street, Boston, Mass. JESSIE ASHLEY, Treasurer, 5065 Fifth Avenue, New York. HARRIET BURTON LAIDLAW, 2nd Auditor, 6 East 60th Street, New York. ALICE STONE BLACKWELL, Editor of “The Woman's Journal. Monadnock Strect. Dorchester., Mass. ————— SATURDAY, FEBRUARY 3, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=527,1053,906,536"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Entered at the post-office, Boston, Massachusens, as second class manter SUBSCRIPTION One Year . $1.00 Six Months 50 Domestie Four Months on Trial . . .25 Single Copies .05 Canadian or Foreign: One Year 1.50 On sale at Brentano's, New York City; also on news-stands in New York, Boston and elsewhere. nnn RECEIPT of payment must not be expected to show on address label wder two weeks from date received. Instructions for RENEWAL. DISCONTINUANCE or CHANGE OF ADDRESS should be sent two weeks before the date they are to go into effect. Both old and new addresses must always be given. A rrh r Business letters should be addressed to the office of The Woman's Journal, 585 Boylston Street, Boston, Mass. Registered letters or express company's money orders may be sent at our risk. Money sent inetter mot registered will be at the risk of the sender. Checks and drafts and post-office orders should be made payable to The Woman's Journal. Advertising rates will be sent upon application to advertising manager. New York Advertising Representative, M. D. Bryant & Co., Inc., 200 Firth Avenue. New York City. Business Manager, AGNES E. RYAN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=505,1598,970,774"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DESTROYING THE HOME\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=732,2411,545,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The assertion is constantly made, by the mediaeval minded, that equal suffrage will destroy the home. The home is dear to the hearts of women, and the last thing that they would desire is its destruction. Equal suffrage does not operate to destroy it. This has been abundantly proved by the experience of the enfranchised States. The homes there are much the same as elsewhere, except that the mothers generally take a more intelligent interest in public questions, and can put forth more power for the protection of the home in an emergency—as when they prevented the defeat of Judge Lindsey in Denver and secured the recall of Mayor Gill in Seattle. In fact, while many good but conservative men hesitate to give women the ballot for fear it may hurt the home, many of a different stripe oppose it for fear women will use their votes too drastically against such enemies of the home as drunkenness, gambling and licentiousness.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=512,2484,954,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "These are well knewn foes, and thoughtful women are on their guard against them. But the home is menaced, perhaps even more seriously, by other forces to which many women are not yet awake. Mrs. Caroline Bartlett Crane, in her address at the National Suffrage Convention in Louisville, put it in a nutshell when she said that the great need is to protect the home from the encroachments of trade and of partisan politics. At the same meeting, Dr. Harvey M. Wiley said that the women's cooperation and the women's votes were urgently needed to help solve the difficult problems before the country.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=508,3085,956,370"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Not long ago The Survey, which represents the organized charities of New York City, published the results of an investigation into the financial condition of a large number of wageearning families. It brought out the astounding fact that, in two-fifths of the cases investigated, it was impossible for the parents to support even a single child unless the mother as well as the father worked for wages. It was not a question of maintaining a decent standard of living. The father's wages alone would not buy the bare necessaries. There are now in this country, it was said, so many unmarried male immigrants who can be hired for the price of a mere subsistence, that in a growing number of industries the standard of wages is no longer what will support a married man with a family, but what will support a single man living in a bunk-house. It used to be complained that the entrance of women into the labor market had lowered the wages for men. Now the large supply of single men in the labor market has lowered the wases for married men. The Survey susgested establishing a minimum wasge for unnaturalized foreigners. Of course the male immigrant does not work cheap because he likes to any more than the woman in industry does. Both would gset more if they could. But the competition between employers is so fierce and the wish to make money so sreat that the cheapest possible labor is sought, and the wage-scale for all tends constantly to approximate to the lowest standard.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=506,3460,959,925"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The same usgly fact was brought out at the recent hearing in Massachusetts on the question of establishing a minimum wage for women and minors. The chief speaker against it was the head of the State Beard of Education. He argued that the basis of wages today was not the earning power of the head of a family, but the earning power of the whole family. it would not do to haye a minimum wage for women and children, he said, because so many men were absolutely unable to support their famiilles uress their wives and children became waseearners, too; the wives and children sot small pay, but if each of them earned a little, the family could get along. The very",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=505,4391,957,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "fact which seemd to the writer in The Survey an argument for establishing a minimum wase, seemed to this gentleman an argument asgainst it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1485,315,956,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The same fact is brought out yet again by the shocking conditions revealed by the Lawrence strike. Mills paying the owners large dividends have been paying the workers such miserable wages that an American standard of living could not be maintained upon them. The cheapest foreign labor was summoned in to do the work. When the working time was slightly shortened by law—two hours in the course of the week, a measure designed to protect the health of women workers— these small wages were still further cut down, and then even this cheap foreign labor revolted. Thirty-two nationalities have gone on a strike. The workers say it was hardly possible to keep a home going even on the former wages, and on the new ones it cannot be done at all. They say, further, that instead of sending the militia, it would be better to send the Board of Health to see how they are forced to live. But the only way of settling the trouble, under our present arrangements, is by the barbaric method of a sreat industrial duel—a contest of strength and endurance between rich employers on the one side and starving operatives on the other, as to which can hold out the longer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1484,428,963,751"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The same kind of difficulties are constantly breaking out, now here, now there. A Chicago paper has a cartoon which represents the destroying of the American home. A sinister figure is hacking through the roof of a modest frame cottage with a weapon labelled “Poverty.\" Thousands of homes are always on the ragged edge of destruction from sheer destitution, and illness or accident is liable at any moment to send them over the verge. Is it not high time that women—the natural “guardians of the home\"—should study the causes of these unsatisfactory conditions, and unite with men in trying to find a cure? The best efforts of both will be needed to solve the problems, which are pressing more urgently every day. Nothing will stimulate women to study them like having the ballot, and feeling an actual responsibility in the matter. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1489,1182,956,528"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BAN SUCCESSFUL SPINSTERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1655,1755,624,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the American Magazine for February, Miss Tarbell gives us another reactionary article entitled “Making a Man of Herself.' By this she means following a trade or profession. Forty years ago, or even thirty, it would have been worth while to defend business and professional women from such charges as Miss Tarbell brings against them. Now, it would be to waste energy in “attacking extinct Satans.\" We have travelled too far away from the time when a jeering crowd sgathered in Worcester, Mass., in front of the little shop where a shoe-maker's widow had put her name over the door and set out to make a living for her children by continuing her husband's business.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1492,1835,951,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "All of us know business and professional women to whom Miss Tarbell's accusations of being “cold, self-centred,\" etc., do not apply; and probably most of us know some to whom they do. Of course, if a woman “makes success in a trade or profession her exclusive and sufficient ambition,\" crushing out all the affectional part of her nature, the result is “repellant;\" but the business or professional woman is rare indeed who has not her other and tenderer side. Excessive absorption in business narrows the mind and hardens the heart, but it is oftener a masculine than a feminine failing.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1488,2287,953,373"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Tarbell says that “in free fields we have yet to produce a woman of the first calibre.\" America has yet to produce a male dramatist, novelist, artist or musician of the first calibre; but he may appear in tfime, and so may the firstclass woman. And it must be remembered that even in the fields that Miss Tarbell calls free to women, a woman is generally at a very real disadvantage. She instances manufacturing. But how many sirls are given any business training? How many factories employing women look upon a woman as eligible for their higher posts? It may be inherently impossible for a woman to become a first-class manufacturer, but this is not yet proven.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1484,2663,953,447"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "But if an unmarried woman does make a business or porfessional success, Miss Tarbell says, “her triumph is resented by nature and society;\" “Society regards her as one who has shirked the task of life and therefore should not be honored;\" “The antagonism of nature and society to the militant woman is less prejudice than self-defense. It is a protest against the wastefulness and sacrifice of her career.\" That is a very unworthy and short-sighted view. In ninety-nine cases out of a hundred, when a woman stays single it is because she has not had a chance to marry for love, and has too much good sense and real womanliness to marry for any lower motive. If she does something else and makes a success of it, society regards her as having shirked her proper task, Miss Tarbell says. And if she does nothing else, how does society regard her? As having falled to “catch a husband.\" Nature unquestionably resents celibacy. Whether in men or women, it tends to crankiness, or worse, unless they have learned how to take rational care of their physical and mental health. But the unmarried woman who is making a business or professional success does not fare half so badly at the hands of either nature or society as the unmarried woman who has no such resource.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1480,3112,951,779"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Tarbell seems to think the successful single woman ought to be put under some kind of ban: “Nature and Society must not permit her triumph to appear desirable to the youns.\" Nature, happily, does not permit celibacy to appear desirable to the younsg, and nature is strong enough in that particular to dispense with adventitious aid from society. The man who does not choose to marry is not subjected to social contempt as the “old maid” still is among unthinking persons, yet the great majority of men prefer to marry. But, if celibacy is in no danger of seeming attractive, the same can not be said of a business or professional triumph. A score of Miss Tarbells, preaching their best, could not keep thousands of sirls from admiring the successful actress, authoress or singer; nor many of the more thoughtful from admiring and wishing to emulate the successful teacher or physician.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1480,3893,953,557"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Tarbell alleges that there exists among equalrights women “a frank advocacy of celibacy.' If so, it must be limited to a very small school, and no one need worry for fear it will gain many followers. An illiterate alderman, posing as a champion of economy, once objected to a proposal to place twelve gondolas on the lake in a certain city's public park. \"“No,\" he said, “there is a better way. Let us buy two ay thim—a male wan and a female wan. Thin, gintlemen, let Nature take her coorse.\" Nature is so sure to take her course",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=1477,4458,956,335"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "that argument on that head is a waste of breath. As Wendell Phillips said, “Let education form the rational and moral beins. and Nature will take care of the woman.\" Society's ban upon the spinster has been much lessened of late years—so much so that Miss Tarbell actually seems to feel called upon to reinforce it. But could anything be more fantasey funny than for one successful spinster to demand the placing of a social stigma upon others? A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2452,314,968,302"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAWS, WRITTEN AND UNWRITTEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2573,653,734,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An anonymous opponent is writing to the Baltimore papers challenging the suffragists to name any law for the benefit of women or children in an equal suffrage State that he cannot match in a State where equal suffrage does not prevail. Let them invite him to show in an anti-suffrage State a law like those statutes of Wyoming and Utah which provide that women teachers in the public school shall receive equal pay with men when equally qualified: (Revised Statutes. of Wyomins, Section 614; Revised Statutes of Utah, Section 1853). The New York law, as we understand, applies only to New York City, not to the whole State.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2461,737,960,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Let them next invite him to show in an anti-suffrage State a law like that mentioned by the Chief Justice of Idaho, in his letter to The Woman's Journal, a measure providing that “lewd and lascivious persons, male or female, shall not be permitted to register as voters or to vote\" (Section 360 of Election laws). Not long ago many Baltimore women were strengthened in their wish for the ballot by a curious incident of local politics. A political ball was given by the supporters of a certain candidate, and the ball programs bore his portrait, together with advertisements of half a dozen brothels. Baltimore women used their “indirect influence\" to the utmost to defeat this candidate, yet he was elected. Could he have been elected if the kind of persons who are debarred from voting in Idaho had been debarred in Maryland?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2460,1150,962,519"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Unwritten law is sometimes more potent than that which is written. Equal suffrage has brought about an unwritten law, the existence of which is conceded even by Mr. A. Lawrence Lewis, almost the only respectable man in Colorado who has ever written anything against votes for women. In his article in the Outlook, which the anti-suffragists have reprinted as a tract, Mr. Lewis says: “Since the extension of the franchise to women, political parties have learned the inadvisability of nominating for office drunkards, samblers, notorious libertines, retail liquordealers, and men who ensase in similar discredited occupations, because the women almost always vote them down.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2461,1675,962,446"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pe ing to b Cert bles. who ing selll are noth",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3666,2004,65,362"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Is it not for the benefit of women and children that such persons should be kept out of office? Are they kept out in any of the non-suffrage States?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2470,2122,948,110"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "But the whole contention is irrevelant. 1f women were forbidden to travel on the railroad, and complained of the injustice, it would be absurd to ask, “Can you name any place that can be reached by rail which cannot also be reached on foot?\" There is mo such place; yet it would be a plain injustice to forbid women the quicker and easier way of travelling, for fear they might be contaminated by meeting unprincipled people on the train or might neslect their household duties. They would have to take tenfold as much time away from home to make the journey on foot. There is hardly any good law which has not been secured somewhere and at some time by “indirect influence,\" but the women who have done it have almost all of them come to the conclusion that the indirect way is needlessly hard and slow, and are now asking for the hallot. .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2462,2235,957,556"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mpr At er.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3670,2539,61,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Th suffr Privi impr New",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3659,2689,72,185"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EFFECTIVE ENTHUSIASM",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2681,2831,530,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Smit soil a gre Virgi of th ileges most with ilizat re-ech freed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3652,2896,79,418"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Young men and boys, young women, old women, and especially cellege women, in many different States, are growing enthusiastic about selling The Woman's Journal on the streets. This takes a little more courage than some other kinds of suffrage work, but it is also worth more. The sight of the newsies on the street is a magnificent advertisement for the cause, and would be worth while for this alcne, even if they did not sell a paper. In the second pla ce, the papers sold bring a large profit to the treasury. In the third place, nothing is so sreat a help in pushing the national organ. Those who have not quite courage enough to sell on the streets should sell the paper at suffrage meetings, a much easier task. Not a meeting ought to be allowed to pass withcut everyone present being asked to buy a copy of The Journal. .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2456,2906,962,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "W again fail t mity but a with The s pray, his fa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3646,3322,84,333"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SAYINGS OF WENDELL PHILLIPS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2590,3468,697,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I do not think that woman is identical with man. I think, if she was, marriage would be a very stupid state. God made the races and sexes the complement one of the other, and not the identical copy. I think the world, and literature itself, would be barren and insipid, if it was not for the exquisite variety of capacities and endowments with which God has variegated the human race. I think woman is different from man, and by reason of that very difference, she should be in legislative halls, and everywhere else, in order to protect herself.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2454,3548,959,334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Th the f hour t wealth an ers the v liams, Privile of Del tone o the j amend",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3637,3696,94,443"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 am speaking in a republic which admits the principle that the poor are not to be protected by the rich, but to have the means of protecting themselves. So, too, with the ignorant; so, too, with races. The Irish are not to trust to the sense of justice in the Saxon; the German is not to trust to the native-born citizen; the Catholic is not to trust to the Protestant; but all sects, all classes, are to hold in their own hands the sceptre—the American sceptre—of the ballot, which protects each class. We claim it, therefore, for woman.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2452,3923,959,335"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The votes eral As joint r —prob. who sr cry the for the mor for and th will kn at the until th",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3626,4163,105,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Men say: “Woman is not fit to vote; she does not know enough.\" 1 am speaking in a democracy! I am speaking under republican institutions. The rule of despotism is that one class is made to protect the other; that the rich, the noble, the educated, are a sort of Probate Court, to take care of the poor, the ignorant and the common classes. Our fathers got rid of all that. They knocked it on the head by the simple principle that no class is safe unless government is so arranged that each class has in its own hands the means of protecting itself. That is the idea of republics. The Briton says to the poor man: “Be content! I am worth five millions and I will protect you.” America says: “Thank you, sir; I had rather take care of myself!\"—and that is the essence of democracy. It is the corner-stone of progress.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=2451,4301,955,484"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Won write, w",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p4#xywh=3614,4688,117,77"
+  }
+ ]
+}

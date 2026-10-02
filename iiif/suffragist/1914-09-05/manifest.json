@@ -1,0 +1,1143 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "The Suffragist, September 5, 1914"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "en": [
+     "September 5, 1914"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Volume"
+    ]
+   },
+   "value": {
+    "en": [
+     "2"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Number"
+    ]
+   },
+   "value": {
+    "en": [
+     "36"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Pages"
+    ]
+   },
+   "value": {
+    "en": [
+     "8"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "en": [
+     "Congressional Union for Woman Suffrage"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Source"
+    ]
+   },
+   "value": {
+    "en": [
+     "<a href=\"https://archive.org/details/per_the-suffragist_the-suffragist_1914-09-05_2_36\">https://archive.org/details/per_the-suffragist_the-suffragist_1914-09-05_2_36</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Citation"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist, vol. 2, no. 36, September 5, 1914"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "8 pages. Text by OCR (newspaper-ocr 0.10.0); it contains errors."
+  ]
+ },
+ "viewingDirection": "left-to-right",
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Suffragist, September 5, 1914"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Scans from the Internet Archive: <a href=\"https://archive.org/details/per_the-suffragist_the-suffragist_1914-09-05_2_36\">https://archive.org/details/per_the-suffragist_the-suffragist_1914-09-05_2_36</a>"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 1"
+    ]
+   },
+   "width": 3255,
+   "height": 4333,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/1/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3255,
+        "height": 4333,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0000.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p1.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 2"
+    ]
+   },
+   "width": 3260,
+   "height": 4336,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_02.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/2/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3260,
+        "height": 4336,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p2.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 3"
+    ]
+   },
+   "width": 3260,
+   "height": 4336,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_03.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/3/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3260,
+        "height": 4336,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0002.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p3.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 4"
+    ]
+   },
+   "width": 3250,
+   "height": 4335,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_04.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/4/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3250,
+        "height": 4335,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0003.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p4.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p5",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 5"
+    ]
+   },
+   "width": 3250,
+   "height": 4335,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_05.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/5/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3250,
+        "height": 4335,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0004.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p5"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p5.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 6"
+    ]
+   },
+   "width": 3256,
+   "height": 4335,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_06.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/6/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3256,
+        "height": 4335,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0005.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p6.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 7"
+    ]
+   },
+   "width": 3256,
+   "height": 4335,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_07.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/7/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3256,
+        "height": 4335,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0006.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p7.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 8"
+    ]
+   },
+   "width": 3254,
+   "height": 4336,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_08.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1914-09-05/p/8/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1914-09-05/page_08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3254,
+        "height": 4336,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1914-09-05_2_36%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2.zip%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_jp2%2Fper_the-suffragist_the-suffragist_1914-09-05_2_36_0007.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p8.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  }
+ ],
+ "navDate": "1914-09-05T00:00:00Z",
+ "seeAlso": [
+  {
+   "id": "https://archive.org/details/per_the-suffragist_the-suffragist_1914-09-05_2_36",
+   "type": "Text",
+   "format": "text/html",
+   "label": {
+    "en": [
+     "Source"
+    ]
+   }
+  }
+ ],
+ "rendering": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/full_text.txt",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Full text (OCR)"
+    ]
+   },
+   "format": "text/plain"
+  }
+ ],
+ "structures": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/contents",
+   "type": "Range",
+   "label": {
+    "en": [
+     "Contents"
+    ]
+   },
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p1a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Cartoon]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Rules Committee Dodges Action on"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Petitions to Congress"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Again “Taxation without Representation"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Anti-Narcotic"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Women and Medicine"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Indian Council Votes Favoring Woman Suffrage"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "English Women in Industry"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p2a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Woman's Social and Political Union Issues a Manifesto of Peace"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p3a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE RULES COMMITTEE IN ACTION"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p3a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Record of the Rules Committee"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p3a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Comments of the Press"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p4a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Senate Resolution 130, and House Resolution 1"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p4a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Mr. Henry on Suffrage"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p4a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Women and Filipinos"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p4a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Seaman's Bill"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p4a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Women Who Are Left Behind"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p5a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE NEWPORT CONFERENCE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p5",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p7a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Garden Party at Hill Top"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p7a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Star Spangled Banner Centennial Parade September 7th"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SUMMER CAMPAIGN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Anna McCue"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Atlantic City Headquarters"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Elizabeth Smith"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Nevada"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Mabel Vernon"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Members Who Have Secured New Subscribers"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Correction to the Treasurer's Report]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/range/p8a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Contributions Toward $50,000 Fund for Securing the Passage of the Federal Suffrage Amendment"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1914-09-05/page_01.jpg",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ]
+}

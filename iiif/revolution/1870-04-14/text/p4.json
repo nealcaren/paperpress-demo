@@ -1,0 +1,205 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "228",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=239,129,90,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "flond inoarnate plan the Gestruction of so much innooemos? And who should that one be but $he wolf in sheep's wool who had come to dwell among them True he had a wife and one prattiing babe. but d this quench the fires within, ighted as they must have been by that sulphurous flsme which ocoasionally he dealt out to his hstening congregation ? There was another shading to the pioture. In the back ground of Lis plans stood that strong-minded and consequently fer-seeing",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=232,217,561,382"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "He must ingratiate himself into her favor. He must win her confidence, this would pave the way to the dsughter's heart. He was assured of success, be had never farled, why should he now, but how soon was the only question for solution? Time would solve the problem. The mother, too, was besutiful, was an envisble mark for him, but he had no hope there. Neither pinching poverty nor want, like a derk oloud, hung over her horizon. Ab! how well the skilled libertime knows how and whers to spread his mets. Beside, sbe had been educated to s trade, a profession which mow in the hour of need was to ber a safe-guard and support. Men so0 and realize this strong barricade raised against the tempter's wiles. When will women wake to a realization of the same truth ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=233,601,560,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "How many of the trusting, dependent, belpless women must be sacrificed? Thank God; the number grows daily less as the dawn approaches. Another lesf is turned. Pocp into that quiet study at the parsonage, its oocupent sits musifigly in slippers and gown. intent upon a future pian.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=225,1180,562,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "His Sunday sermon is written, corrected and 1aid upon the shelf for 10 o'clock wppontment two days ahend of time. A besutiful form hat just closed the gate; his eyes watch the retreat ing footsteps, from the open door, he soes her cross the treet and disappesr around the square. 1t was Evelone Gooduer, she was just home from school. Had come out of her way to leave a note from a poor woman requesting the \"good ministero come and pray with her busband, who was very ill and she feared be woul 1 die in his sins.\" Yes, he would go immedistely and on his way back would csll at sister Goodner's. He mused thus, \"all women bave their weak pomts consequonly Mrs. G— bad hers, what was it ?It must be her pride in her children. That was the vulnerable point.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=223,1409,556,536"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mothers lowe to hear their children proised. their good qualities moticed, which often mothers know they possess. The same eveming the door bell rang, and Mr. Dernam entered be bad often called, but this ume be bad made it a pecualty. After a fow casusl remarks. one of which was the great sttachment the people. both in and out of the church, cherished for their former pastor; “Yeos,\" rephed Mra. Goodner. \"we all loved him ; a crown boset with jeweln of good deeds must be his blossed inberitance. \"Such a one the faithful may all bope some day to wear,\" replied the pious brother",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=216,1956,561,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our hves alone will decide that; ench must bear the sears win has wronght wpon the inner Jife ; its fairnews will retan the marring, the wounds may hesl, but the prints be 1on.\" Hor soul spoke in these few words aud showed the deop et primeiple by which ber e we shaped. Yes, but do you mot forget the atonement You know it the only sure foundation upon which to rest our fith;\" ewident!y messurin",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=210,2407,562,319"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sinti the length of rope which tethered him to bis final salvstion. Breaking the pause which followed he said: “Yonr dsugbter is to be baptized two weeks from Sebbsth?\" “If she prefers to be,\" replied the mother, thoughtfully, I consider ber young. snd feel thet two miuch outside influence has already been brought to bear upon bes during this protracted revival.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=809,125,562,383"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This was unerpected Should he censure ber for s lack of fauth, and warn bep to fie moe closely to the fountsm? or would it not be bet ter to bold up the dsughter's mature judgment in choosing for herself, if such s thing were possible. amid the undue religions excitement of the last month?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=811,511,560,218"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Sister Goodner, I teel that Evelens ialres dy s chosen one of God's saving grace—s lamb of Christ's flock ; so pure, so gentie, so intelgent. s0 everything we are apt to love. She is a ressure to you, and will be an instrument of sswing many others sbe now exerts a grest influenoe over all ber mates. I have felt for a long time that the unusual success of the Sabbath Scbool was owing mech to her earnestuess and power in drawing ber csmates mto st. Think not that she is too young. Shall not babes be made to show forth the wisdom of God?\" Thus he exto led her good qualites, and furtively watched the effect upon his quiet listener. It was not rs effectual as he had flsttered himself it would be. With s short prayer he bade her \"good-night.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=807,737,564,546"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Not long after this csll, meeting Evelens upon the walk at an early hour, with a small basket in one havud and twirling her hat in the other, he accosted ber thus: Which way, so early, my lamb?\"O, to the wild rose bushes way down by the creek yonder. I want some for my teacher ; she is so kind snd loves flowers desrly. She says the wild roses snd blue violets growimg smong the swoet grasses are God's own plant ing. “I am gomg that way for a walk we will go together. Let me carry your basket, my dea.\" “No, sir; ma teaches me to wait on myself.\" O, you are too independent. “Am I7 1 never thought of that ; you will forgive me?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=803,1286,562,507"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "\"Yes. You know that I am your spiritual friend, Evelene. Did vou not love Father Mosier?” O. yes.\" and her tones saddened as she thought of that good man, \"he was s real fiber to everybody. Can you not love me just as woll, dew Evelene Bor eyes opened wide wonderingly she looked upon him. “Love him just as well. Love him aswell as she did Father Mosier, with bis silver beir, and whose very smile was a bepe diction ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=797,1796,561,420"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "He bad gone wo far, be must retroat. O. no, you do not understand me. 1 k you to love me s your pastor—one who bas led you to Christ through baptism, whe prays for you overy day, who takes pride in your goodme. and who fecls that you are to be s shing ight in the world. I hope to be,\" was her modest reply He conuinundI never bad so fir lam my fiook betore 1 must take good eare of you, those curis and bright eyes are worth my wetoh ing. St down on this mound whils 1 gather thone agh ones tor you.\" No, thenh you. I wl climb the fonee and et them mywel my tonober will love them better, il 3.piok them all.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=788,2219,568,507"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Onoe.s week, just as long a they last. Well, I oftn come this wey t ke morning wak, and 1 will Be oompny or yon. After srranging them micely., she took the short route, scrors the aeid, bomeward He watches er to him she was He poi quite unlike sny be hbad known before— abe oared so little for s fistier. h was music. iu the ears of young girls especialy. He would ssunter this way in has morning strolls no opportunity sbould pass unimproed. And so he d:d. The unsusproung gir was often queried. \"Do you love me now?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=1391,216,560,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Her unsined apswer, She 654 mot know\" Msny times on her way to school would be ower take ber and pever far' to pour twte her youns cars words of praise mimgied with his relio counsels. Two years and a-balf bad passed simoe bis avent smong abem. Some reports bad been spread abroad by busy tongues that his goos name was not as spotiess as it should be. Yet the cloak be wore was s brosd one and covered a multtnde of sins. Not iike the sesmiess garment of the loving Master whom be professed to follow, but full of unseem rents through which the sugels could look upon the foulness beneatn and weep.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=1390,675,562,475"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Evelene had bloomed mto womanhood, tender and lowimg. One yens bad been spent at s neighboring college, and now, after s wacation of two months, she was to return. The Pastor made bis appesranoe, be was plessed to ee bot. she had grown so tall in ome yest; could be onll ber his “pet\" any more? Sbe trested ham with gentlemess and s true covility The girlish indifference had rounded into a noble besrmg she was indeed besutitol, and ber besrt bespoke that inward besuty which excels all other; the trusting chiidlikenens had charmingly given pisce to s graceful sell-erust developed from within",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=1385,1153,562,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "After an hour past in convers ion M. De mam rose to depart. savimg thet be was poing away to remain a fortmight or more, but he hoped. on his return. to woe ber and be would ke to engigelong .1before bend He telt deeply mrerestod in ber soul's grown she feared she might morlect is woltre. The door clowed ter im he folt rolievd His very presemce orented a ane hdowing torth of hidden evil, unonmle, eo deply veiled. The pext morning witnessed the Pastor's departure on, the first train. nd pow the plot domon like in ms planning' He wes well convinoed that fisttery was of mo aval He oould not win her an inch on that boeEvslone was to bigh-omed. too omi. od that",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=1380,1597,562,572"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Whst thenHe wonld folio onr pi ondaer the frendship be would betray the immooest He would fabrioate fonl n e, o p per and send it to ber On hs retr e wo e r and ympathier in r Tw p e thunderbot. Would she confide thi to he mother No. she wonid mot a het $o ar the er p She would look win he wn ho Sha we gve the i? Extrects will wofioe 1 ve ot",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p4#xywh=1369,2171,567,555"
+  }
+ ]
+}

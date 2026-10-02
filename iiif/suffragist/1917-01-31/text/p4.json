@@ -1,0 +1,139 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "State Delegations Join the Picket Line at the White House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=912,488,1642,251"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tt r f Virginia Delegation Leaving Headquarters for tee White House PRESIDENT the National Advisory Council of the Union; Mrs. G. von Horvath; Mrs. M. C. Dowell; Mrs. Josephine Justice; Miss WOMEN wal Bertha Sapowitz; Mrs. Eleanor Arrison; Miss Elizabeth Elder; Mrs. R. C. Swayze;, o LIBERTY and Miss Martha W. Moore, worker in . the Children's Aid Society of Pennsylvania. Miss Marie Ernst Kennedy, state chairman, and Miss Caroline Katsenstein, executive secretary of the Pennsylvania : Branch of the Union, arranged and led the Miss Alice Paul delegation. Coffee for the Picket Line on Picket Duty",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=450,914,2429,1532"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ELEGATIONS from three states have come D this week to take their place in the picket guard stationed by the Congressional Union in front of the White House to show the President that the women of the country are waiting for him to act on the federal amendment before the end of the 64th Congress.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=457,2583,830,345"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ONDAY was District of Columbia day as M it is each week. Pennsylvania day, Thursday the 24th, brought from that state an enthusiastic group of women eager to stand sentinel all day till nightfall. They were, however, divided into squads that served in regular turns until four o'clock, when the whole long line was stretched across the front of the White House from gate to gate, reiterating with their banners the question that keeps the Congressional Union standing guard, “Mr. President, how long must women wait for liberty?\" A dark-blue limousine turned in through the gates and the President looked smilingly down the sentinel line. He knows now that Pennsylvania women are asking why he refuses support to a constitutional question whose justice he has admitted.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=454,2997,834,770"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Among the women in the delegation were Miss Martha Hovendon, daughter of the famous artist; Mrs. Leonard Bartlett; Mrs. John M. Mc- Lean; Mrs. W. C. Uhl; Miss Ella Riegel, of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=448,3771,835,174"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York delegation on January 26 carried on their banners phrases from President Wilson's book, “The New Freedom.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=1323,2469,827,153"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Liberty is the fundamental demand of the human spirit.\" “We are interested in the United States, politically speaking, in nothing but human liberty.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=1423,2669,621,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Twenty-four women came down from New York to join the picket line on one of the coldest and most blustering days of the year. They stood staunchly on guard, however, windwhipped but serene, calling the President's own words to his attention when he came in late in the afternoon.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=1324,2989,825,304"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Matinee crowds, motor-cars of tea-going ladies, Congressmen, newspaper men, government clerks hurrying home, men with the badges of some visiting delegation, sightseers on holiday from every nook and corner of the country—the composite Washington crowd never streamed more steadily down Pennsylvania Avenue past the White House than on that afternoon. Every one of these passers-by was plainly struck by the dignified line against the background of, wintry gardens and white facade. Many stopped to speak, bits of discussion reached the sentinels ears, and the sentinels' eyes were frequently amused by seeing engrossed gazers falling into the little wickets that enclose the Pennsylvania",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=1320,3296,828,647"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Avenue trees and prove to be stumbling-blocks for people who try to mask lively interest in the picket line with pretended indifference and side-long glances.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=2185,2697,828,172"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the delegation were Mrs. George Elmer Adams, Miss Anna Constable, Mrs. Philip Comstock, Mrs. Edmund Kelly, Mrs. Walter B. Thompson, Mrs. Calvin Tompkins, Miss Marion Burritt, Mrs. Minnie Friedmann, Miss Winona Marlin, Mrs. J. E. Lambie, and Mrs. Charles W. Farnham. Miss Alice Carpenter, chairman of the New York City Committee of the Union, made the arrangements and conducted the delegation.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=2186,2873,827,431"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "V IRGINIA day, Saturday, brought a group of delegates who had made a long over-night journey by boat and train to prove that the women of this most conservative state are taking their part in the movement for federal suffrage. Mrs. Sophic Meredith, state chairman of Virginia, arranged the delegation, in which were Mrs. Bertha Mulhall, Mrs. Rose Walker, Miss J. S. Jennings, Mrs. L. C. Flanigan, Mrs. Maude H. Hudson, Mrs. Walter J. Adams, Mrs. Thomas, Mrs. Merrifield, Mrs. Albertson, Mrs. Moncure, Miss Ada Rhodes, Mrs. J. N. Steed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p4#xywh=2182,3383,830,564"
+  }
+ ]
+}

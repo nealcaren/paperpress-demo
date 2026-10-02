@@ -1,0 +1,381 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Congressional Union for Woman Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=377,245,878,206"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EXECUTIVE COMMITTEE MISS ALIOE PAUL, N. J., Chairman MISS LUOY BURNS, N. Y., Vice-Chairman MRS. DONALD HOOKER, Md., Chairman of Finsnee MRS. MARY BEARD, N. Y. MRS. 0. H. P. BELMONT, N. Y. MRS. CRYSTAL EASTMAN BENEDIOT. N. Y. MRS. GILSON GARDNER, D. C. MISS ELSIE HILL, Conn. MRS. WM. KENT, Cal. MRS. LAWRENGE LEWIS, JR., Pa.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=381,516,791,490"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NATIONAL HEADQUARTERS—1420 F STREET WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=418,1061,803,96"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "COLORS—PURPLE, WHITE AND GOLD Senate Resolution 130, and House Resolution 1",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=377,1200,882,326"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Proposing an amendment to the Constitution of the United States extending the right of suffrage to women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=391,1576,868,154"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Resolved by the Senate and House of Representatives of the United States of America in Gongress Assemblod thirds of each House concurring therein), That the follow. ing article be proposed to the legislatures of the several Statos as an amen mont to the Constitution of the United States, which, wheon ratified by three-fourths of the said legislatures, shall be valid as part of said Constitution, namely: “ARTICLE .—SECTION 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. SEC. 2. Congress shall have power, by lesislation, to enforce the provisions of this article.\"\" HISTORY OF AMENDMENT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=377,1764,882,554"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Introduced: In the Senate r 7, 1913, by Senator George E. Chamberlain, of Oregon. In the House: April 7, 1913, by Representative Frank W. Mondell, of Wyoming. Referred: In the Senate: April 7, 1913, to the Woman Suffrage Committee. In the House: April 7, 1913, to the Judiciary Committee. Reported:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=442,2383,766,475"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate: June 13, 1913, favorable report. In the House: May 5, 1914. Reported without recommendation. Discussed:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=446,2859,761,216"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate: July 31, 1913, twenty-two Senators in favor, three September 18, 1913, Senator Wesley L. Jones, of Washington, demanded immediate action. On January 21, 1914, Senator Ashurst of Arizona, delivered a speech urging the passage of the Amendment. Made unfinished business, March 2, 1914. Debated almost continuously from March 2d to March 19th. Voted Upon:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=444,3080,767,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate: March 19, thirty-five Senators in favor, thirty-four opposed, failing by eleven of the necessary twothirds vote.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=486,3538,724,147"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Henry on Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1396,248,757,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Henry, chairman of the Rules Committee. announced last Saturday that he was “unalterably opposed” to the pending resolution proposing a woman suffrage constitutional amendment. “My deliberate judgment is against these amendments,\" said Mr. Henry, speaking of the woman suffrage and the prohibition measures, “and I shall oppose all of them.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1349,387,864,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The point to be remembered is that the measure Mr. Henry is now opposing is the resolution giving the representatives of the people in the House an opportunity to vote for woman suffrage or against it. The Rules Committee is not called upon to report favorably or unfavorably the woman suffrage amendment itself. That amendment has been acted upon by the House Judiciary Committee, which, after long thought, has reported it to the House for action. It is the duty of Mr. Henry's committee to consider the justice of providing time for this action. When he opposes such a resolution, he puts himself and his party on record as defying every principle of political fairness.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1351,810,865,778"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women and Filipinos",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1422,1748,738,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Rules Committee, which has, with devious manoeuvers but unwavering obstinacy, refused to allow a vote in the House on the question of women's enfranchisement, voted last week to report favorably a rule for the consideration of a measure granting increased self-government to the Filipinos.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1353,1888,865,362"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the eyes of women, the Administration is adding insult to injury when it deliberately chooses to give the men in the Philippines greater rights of self-government than the women of their own land. A certain type of man still questions the capacity of women to control their own affairs; but no reasonable human being could doubt that the twentieth century American woman, responsible and intelligent as she has grown to be, is not immeasurably the intellectual superior of the Filipino man. To enfranchise one without enfranchising the other indicates a sex bias which one would think a responsible politician in America hardly dared to reveal.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1354,2260,866,730"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffragists are the last people in the world to wish independence denied to any race or class under our Government. They realize too keenly the incapacity of one class of people to govern another. Yet the unlimited enfranchisement of men in our country, of whatever race or creed or color, or character, or degree of education, coupled with the indiscriminate disfranchisement of women, they feel to be a burning injustice. When a committee which acts for the Administration in one of the Houses of Congress not only refuses to allow the representatives of the people",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=1357,2998,867,631"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "to vote on the question of woman suffrage, but at the very same meeting goes out of its way to enfranchise an Asiatic race, still half civilized, i profoundly alienates women from the institutions of their country.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2303,254,868,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is not as if the independence bill .for the Filipinos was imperative at this time. On the contrary, it is rather an injudicious moment to have chosen for the selection of such a measure The free discussion of it will lead to comments on the international situation in the Far East which are highly undesirable in the present unsettled state of Europe. The sole reason for forcing it upon Congress at the present time is to provide material for Democratic speeches i the November elections. But the material wil not please all of our voters in November. If will certainly not be relished by the women voters.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2310,517,861,728"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in 30 an el jo at ca",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3210,544,39,383"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "H wi ba de",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3211,964,38,189"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of to m Ju di",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3210,1193,39,237"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Seaman's Bill",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2442,1343,619,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE Seaman's Bill has passed both Senate and House and is now in conference. The original bill has been somewhat weakened in the House and much is left to be desired in the section which deals with the safety of passengers at sea.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2308,1473,867,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ca bi fa th 8 fa th s2 s is",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3212,1501,37,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Women Who Are Left Bechind",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2365,1882,766,195"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ta ha th g m at pl m sa as",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3210,1978,39,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THER things besides chain armor and O flintlocks have become obsolete in modern warfare. Knitting socks for soldiers, for example. In our own Civil War one of the proudest occupations of the women left behind was the making of clothes for the men at the front. When the present war broke out the women of England, or many of them, instinctively began to organize for sewing and knitting.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2311,2114,870,471"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "la W tr to si",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3214,2471,35,240"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Soon, however, it was felt that old-fashioned womanly help of this description was doing more harm than good. Thousands of girls and women, wage earners and supports of families, were put in danger of losing their jobs by the competition of these voluntary workers. Factories threatened to close. Finally Queen Mary was appealed to, and through her expressed wish the work of the Needlework Guild is to be carefully restricted and competition with wage earners avoided.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2313,2591,868,570"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "re st ye H lo ar n",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3215,2749,34,339"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The little episode is a wholesome commentary on the changes in our home and industrial life from fifty years ago. Then the whole manufacturing system was in its infancy, a large part of all clothes making was still conducted in the home, and the factory employment of women on a vast scale was unknown. Today the modern way of life has, for good or ill, made woman an essential part of the wage earning class, and old charities must bow to new needs and responsibilities.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2317,3172,864,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "re o it S 1 W h fa a p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=3217,3598,32,483"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "M. G. Copeland Company AWNINGS — FLAGS — TENTS Window Shades Camp Fixtures 409 ELEVENTH STREET N. W.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p4#xywh=2315,3743,871,354"
+  }
+ ]
+}

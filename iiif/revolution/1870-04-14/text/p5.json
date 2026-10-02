@@ -1,0 +1,205 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p5.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "My Pet Lamb, the one I thougnt all purity and wirre that, la, to, n to the doote tr r now in the downward path How coud I beheve it yet it wes confed to me wy those who kmow, and who hoped that 1 might be the one to lesd you back to Ohnist. Onty a few are cognizant of these crushing facts. 1 will bush it up, and promise close secrecy till I ase you. And then, what then? time would develop the sequel. The fiendish letter dropped from her grasp! What could it mean? What dod it mesn? Had she read aright? Another glance at the signsture; there was no mistake.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=267,239,566,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She shuddered as only innocence of soul and purpose can, at such crue l socusations. Unconscious of a single enemy, soarce dreamig of a seoret one ; from whenoe came this, and to whom should she fiee for help? The first impuise prompted her to the bosom which had first pillowed her head, but ere she resched the door the purpose failed her, for those poisoned words would stimg like an adder, and why should they pierce two souls ? She had no misgivinge that her mother's faith was mot implicit in ber, but she would spare the pain just now. She would wait the Pastor's return. A week passed by, fraught with doubts, mental suffer ing and solf-questionings. The close of the next brought Mr. Dernam, with a sesred con. sc.ence, of which his heart took mo note. Where was that spark of good we beheve innate in every human soul ? Burned to cinders by the ungoverned fires of a demon passion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=263,658,566,634"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Anxiously Evelene looked for his sppearance at her mother's house he came—it was eventide, just as the sun had diappeared beneath the western slope. Mrs. Goodner had gone to keep the might watches at the bed-side of an iuvs'id. Alone and in deep thought sat Evelene as Mr. Dornam entered. Scarlet mantled her cheek as she bid him welcome. She felt, for the first time, that her power of sofpossesmon refused to assert itself. She burst into a flood of tears—lest he might mstoke them for penitential ones, she rallied, seating herself on the sofa, waited for the disclosure. Seating himself beside her, and gently drawing her band withim lis own soothingly, be said Don't weep: don't be excited, my dear It the same as has befallen many before yon.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=260,1302,568,580"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I am innocent; I know nothing sbout it, sobbed shs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=264,1890,555,61"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Soarcely noticing her words he rehearsed what be had whtton adding much more, such as would suit his purpose. Said that it lay within his power, whether she be gwuilty or mot, to save or ruin her forever. It hor good name was gone, it mattered htte to the world whether her virtue remsined or not. He declared after all this that he loved her loved her an he had never loved another. his beart was at her fert; could she mot love him half as muoh\" 1t would bring heaven down to earth it she would. il could never be happy without her love, or a pat of it, at least. Be bad long wantsd an opportunity to express the adorabon he fell for her. God wonld bless such devotion as his. He hoped some day that she might become hias wedded wire, but thll then wou ' she not be bis seoret love With all hin lowe, with ber good mame in bis power, how coul\" she refuse him. her true irond? No, she wouid not be so ungratefal Hor heart was too generous. It was onty s small favor on her part; it she would promise bim this mow, be would sae ber from the e t was just ready to drop upon her. If mot, the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=226,1955,597,788"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "C blow must fsll, and when onoe fallen was writ ten sgainst your name, it will gather rubbish on every mde. She started up, she would fain fie from the room, and the presence which seemed like death to ber. He grasped her armWould she not yield to his wishes. She must; ber all depended upon ber decision this very hour? Her scruples had atready been overcome, be was sssured of that",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=852,152,559,438"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Frightened by his strange looks and words, and the strength by which he held her, sbe stood trembling and wresolute, thinking wherein lay safety. Then looking straight into his excited face said. \"Never nver Lesve this house instantly. you demon\" The fiash of her eyes deepened the mesning of her words. There wes a power in that looh and tone which cowed the lustful decerver. Muttering snd ohop fallen be left the bouse— the gate clicked behmd him. Sne histened till his steps died away, and then breathed out her thanks for this deliverance.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=848,594,560,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The carly and late watches of the night passed in sleepless hours to Evelons. She longed for her mother's return. Just as the darknes began to fade away, she came. Soeing the light gioaming trom Evelene's window, she bastened to her room. Evglene threw herself into her arms, and after the first wild burst of pent-up beart-aches was over she told her all Her mother listened in wonder, in pain and indimation. It was a plot of his own begetting. Thou art saved my child! saved!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=847,1005,561,412"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dear reader, to-day my friend. Evelene. is the loved and loving wife of Prof. L. of the University, at which, two yesrs later, she gradusted with bonor. And her heart is the bome of the unfortunsto, for has she not been tempted by the charmer ; charming never so wisely?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=847,1420,561,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN SUFFRAGE IN COLORADO—1mE SPLRIT MOVING. ———— T MARY L. OLOvOR ALTRoUon the bill for the enfranchisement of women was fost in this borritory, after baving the approbation of the Governor and passing the Council ; it is, notwitstandins, very gvident that much good was sccomplisbed by agitating the question.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=846,1656,560,351"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On coming to this country, mot quite a year ago, 1 was disagreeably impressed by the gener.1 depreciation of the abilities and powers of women, when exercised outside their omentie pheres. Indond I found mysel in oon- Ginual state of antagonsm with somebody or something and always brstling in a sust of armor, waging defenmve and offensive warfare everywhere.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=844,2011,561,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Masculine eyes would open pretty wide to see what aWoman's Right's woman\"was really hke but 1 wa ore aonr y the mild horror or contemptuous smeers of the foir se when Woman's Rights were mentsoned than by the outspoken condempation or meule of their lords\" For in the first oase thore wes groat discouragement and bumilation in ssking for women what they disdnined for themselves. Bosidon i was weapon that our paturs ne mywielded tmphanly,We ar wiling inave it to the women. 11the majority ssh it, lot thom have the bali But hos many denire",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=839,2301,561,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "0",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1896,155,92,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now all fhis is changed ; by contined ag tion, by disousion in the legiinture and debates outside, from the practionl iustrton of the mixnsd yuries of oor meighbor, Wyoming. from being brought as subjent of convermtion very freide i. have oome to 1ook more calmly and rationally pon the movement It is no longer o mh s horror and ridioule as mstter for earnet thought and enlightenment. And when poople begin to wiew a matter impartialy ant to talk of it sensibly there is hope of their coming all right st isst. Therefore. I sonmo all the time and sioquenoe cxpended by the igisiature and all the efforts of aotrve isborers for the right, as a decided gain to the osuse of woman. I am more than ever persnaded that the Woman Suffrage movement is to be siowly but surely sdvanoed by being kept before the people. Acoustomimg them to look st it in all its phaes, to Cost 1ts ony by ctunl peri when they may, and by mekmg t s meatter of educstion; thus it beoomes a sure and suooees. ful revelution metured by the advanoement and peeds of a people. The very fact of so many women contending agsinst teir own elevation proves thia. I bave known many such. sfter investags ing the subject and foroing themselves to comsider it without prejudioe, to bowostly confess they had been wrong smd to earpent ly set abo at putting themselves right. The ton ble . most women will not think. They bave been trained to imb-cility, and whet they pow need is the knowiedge of their own powers antd duns, and their relstionnd obliget om to ciety and the world.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1427,247,558,1136"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "COURT FOOLs. 1 Lo . U",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1574,1392,265,159"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz Court wee in turmost! The King. the Queen, the Lord high Fiddetick, the wery Bisbops, in their gowns and lswn sieeven, and were all down on thetr knees, werohng for it. And yet one oould barly bisme the i) Who would not bave thrown it into the fire? The wisest man in the kingdom was just aens. He bad lived s oentiry snd s ball; and be bequethed the ing the e. wt yo m call the sam tots of his resesrcbee—written on sorp of ppet, psibly fve mobee long Fancy! The king bad expeoted nine wolumes st lenst and throwing t in vage on the oola. the arsft bad drewn it up the chimney before it hed time to bura.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1428,1551,558,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bot po oome w i o y began to wonde whet the wisest men oonld have ssid. The more be thought of t. the more oumous be grew. So, 1 y. the whote eomrt was in commotion, and there might hawe beon soen the apectncie of indies in welwet tin. ages tn pow red wigs o wain, for the beost c1 all rennons The Court-o0 had' found it. and ressoned. hike wisor man on the pulpees 1t be worth e mueh t owed whst is it ot wor to por he put in i po the preiduct of wise mens Lfe e goe t fool's pocket.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1419,2036,573,512"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "single wentony t what you desire be, and the we heve you.The foo rend i. nd pon Whet is 5. e m sire bo be?a prinon. of eourse, and y",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p5#xywh=1419,2554,561,190"
+  }
+ ]
+}

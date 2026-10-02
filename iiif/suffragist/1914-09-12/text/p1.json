@@ -1,0 +1,40 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SEPTEMBER 12, 1914 “FIVE CENTS — a f t . t 4",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=129,273,2737,3740"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "u-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=0,895,51,119"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Stand by Your Disfranchised Sisters!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p1#xywh=1873,4039,699,60"
+  }
+ ]
+}

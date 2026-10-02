@@ -1,0 +1,370 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "28",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=217,146,54,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VoLr. DECEMBER 6, 1913 No. 4",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=188,267,915,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VoL. DECEMBER 6, 1913 NoO. 4 S Official weekly newspaper of the o CONGRESSIONAL UNION FOR WOMAN SUFFRAGE COMMITTEE: Miss ALICE PAUL, N. J., Chairman MRS. CRYSTAL EASTMAN BENEDICT, Wis. Miss Lucy BURNS, N. Y. MRS. LAWRENCE LEWIS, Pa. MRS. MARY BEARD, N. Y.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=188,267,915,592"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Editor: RHETA CHILDE DORR Business Manaser: MARTH A PIER TAGG EDITORIAL AND BUSINESS OFFICE 1416 F STREET NORTHWEST, WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=240,902,830,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUBSCRIPTION PRICEpDomestic. . $1.00 Foreign. . $1.50 Single copies 5 cents For CHANGE OF ADDRESS, send both old and new addresses. Checks, drafts, and postoffice orders should be made payable to The Suffragist.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=192,1094,926,249"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For subscriptions, special club offers, etc., address CIR- CULATION MANAGER SUFFRA- GIST, 1416 F ST. NORTHWEST, WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=197,1383,441,140"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For advertising rates address ADVERTISING MANAGER SUFFRAGIST, 1416 FST.NORTH- WEST, WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=681,1390,438,127"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "JAMES KEATING, General Manager Published by the CONGRESSIONAL UNION FOR WOMAN SUFFRAG",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=315,1559,687,181"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SENATE AND HOUSE JOINT RESOLUTION NUMBER ONE Proposing an amendment to the Constitution of the United States extending the right of suffrage to women Resolved by the Senate and House of Representatives of the United States of America in Congress Assembled (two-thirds of each House or im herem), That the following article be proposed to the legislatures of the several States as an amendment to the Constition of the United States, which, when ratified by three-fourths of the said legislatures, shall be yauid as part of said Constitution, namely “ARTICLE—",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=201,1786,926,420"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“ARTICLE— SECcTION 1. The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. SEc. 2. The Congress shall have power, by appropriate legislation, to enforce the provisions of this article.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=205,2169,925,268"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HISTORY OF AMENDMENT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=399,2544,542,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Thtrou need. In the Senate: April 7, 1913, by Senator George E. Chamberlain, of Oregon. In the House: April 7, 1913, by Representative Frank W. Mondell, of Wyoming. Referred In the Senate: April 7, 1913, to the Woman Suffrage Committee. In the House: April 7, 1913, to the Judiciary Committee. Reported: In the Senate: June 13, 1913, unanimous favorable report. Discussed: In the Senate: July 31, 1913, twenty-three Senators in favor, three opposing. September 18, 1913, Senator Wesley L. Jones, of Washington, demands immediate action. Present Status: In the Senate: Awaiting action. In the House: Before the Judiciary Committee.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=246,2672,857,917"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE PRESIDENT'S MESSAGE RESIDENT WILSON has not included o Suffrage as one of the subjects of his annual message to Congress. Nevertheless, the matter of votes for women will be a part of the legislative labors. It will also be a subject of political importance and interest. Tt is one of the real issues now before the coun-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=218,3660,917,395"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SUFFRAGIST",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1379,140,543,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "try. Congress is compelled to take account of all matters which interest the people. It is, moreover, a subject of pending legislation. The Senate Committee on Woman Suffrage has favorably reported the amendment to the Federal Constitution removing the disqualification of sex on the right of franchise guaranteed to all other citizens. This resolution has been strongly supported in the Senate and is almost sure to pass that body and be reported to the House. The House, which for twenty years has ignored the question of Woman Suffrage, must now face it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1198,268,910,582"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is fortunate for the country and for the cause of Woman Suffrage that the House is so organized that responsibility may easily be placed. The Democratic Party is completely in control. The House Democrats operate by caucus and what the caucus decrees eventuates in legislation. The President has added his declaration that the Democratic Party, as a party, assumes responsibility for legislation or failure to legislate. Consequently, the Woman Suffrage cause knocks at the door of the Democratic Party.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1215,853,905,529"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President has demonstrated that he is more than a “titular leader\" of his party. The party responds to his leadership. This leadership is made effective through the Democratic caucus with its most effectual organizer, Mr. Oscar W. Underwood, and its overwhelming majority in the House. What the House does either in the matter of creating a new committee to consider Woman Suffrage or disposing of the Suffrage resolution now before them, will be the action of the caucus and of the President. It will be party action.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1221,1384,908,573"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Inaction will be party inaction. Failure to give attention to this subject in the House will be failure of President Wilson to decree that the House shall give attention to this subject.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1229,1958,903,219"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President's mind is open. He has declared this frequently. That is all very well for the present. But his mind can not remain open indefinitely. Other minds are closing on this subject and the time has come for him to grapple with it and cease his policy of openmindedness, and to tell the country and his party what he thinks of this phase of the “new democracy,\" or, as he prefers to call it, “the new freedom.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1230,2177,906,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President intends to deal with trusts in a special message. He is not debarred from writing a special message on this subject, too. There are as many citizens interested in the subject of the woman's vote as in the rather trite and drawn-out matter of the trusts. The President expects to write a special message on the material development of Alaska. The fundamentals of democracy involved in woman's franchise is quite as worthy of a special message as the coal beds of Alaska.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1231,2620,909,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President is a busy man. The women of the country are no less busy in their work. The time has come when Congress and the Democratic Party must close their minds upon this subject. If the Democratic Party and the President are not opposed to Woman Suffrage, the present is the time to let the country know it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1231,3107,912,353"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The old Republican Party is planning to go along with the second party of the nation, the Progressive Party. Four political parties of the nation will then be on record in favor of Woman Suffrage, and thus the Democratic Party, if it now hesitates, will be the one party which is not in favor of giving votes to women. There are ten States in which women will help to choose electors to the next electoral college which chooses a President, and in those ten States the three and a half million women voters will be largely influenced by what the President and Congress do at this present session.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=1235,3463,910,580"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "December 6, 1913",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2706,126,359,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE FEDERAL AMEND- MENT, ITS PRESENT STATUS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2264,256,784,215"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "UTSIDE the ranks of active suffragists, O it is probable that few people are aware that a Federal amendment to give the women of America equal suffrage is actually under the consideration of Congress. Such, however, is the fact. It is the privilege of the Women's Congressional Union to report on the progress of the amendment from its inception to the present date.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2208,498,906,404"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Congressional Union has had the amendment in charge from the first and has made the work of securing its passage the chief object of existence. The amendment now before Congress reads as follows Sec. 1. “The right of citizens of the United States to vote shall not be denied or abridged by the United States or by any State on account of sex. Sec. 2. “The Congress shall have power by appropriate legislation to enforce the provisions of this article.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2215,902,906,502"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This was the first measure introduced in the present Congress, having been presented in the Senate by George E. Chamberlain of Oregon and in the House by Frank W. Mondell of Wyoming, on April 7th.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2221,1416,900,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Attention is called to the fact that the majority of the Senate Suffrage Committee are men from non-suffrage States, and one of them is from a most conservative Southern State. Yet, on May 14, 1913, the committee voted to report favorably the Chamberlain resolution, and when on June 13th, the report was submit ted to the Senate by Senator Ashurst, on behalf of the committee, it was without a single dissenting vote from any member.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2226,1641,901,439"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the Senate, a suffrage measure has five times before received a favorable majority report—in 1882, 1884, 1886, 1890, and 1892. In 1879, it received a favorable minority report. In the House it has only once before (1890) received a favorable majority vote. Favorable recommendation by the minority was, however, made in 1871, 1883, 1884, and 1886. This is the FIRST TIME that a suffrage measure has ever received a UNANIMOUS favorable report in Congress.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2233,2083,901,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Chamberlain resolution, now Senate Joint Resolution No. 1, was brought up for discussion on July 31st, when strong speeches in favor of the amendment were made by twenty-two Senators. Only three Senators spoke against the measure. On September 18th there was further discusson on the amendment, Senator Jones of Washington speaking at length, and calling for immediate action in regard to it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2236,2567,899,443"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the present moment the measure is awaiting its third reading in the Senate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2239,3009,902,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The joint resolution was introduced in the House of Representatives by Representative Mondell of Wyoming. It was referred, according to usage, to the Judiciary Committee, and is still before that body awaiting action. Efforts are being made to secure the creation in the House of a suffrage committee similar to that of the Senate. Bills to this effect have been introduced by Representatives Taylor of Colorado, Hayden of New Mexico, and Raker, of California. The Progressive party in the House has caucused in favor of a suffrage committee. The three bills have been referred to the Committee on Rules, before whom the hearing elsewhere reported was held last week",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2241,3099,901,662"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Suffrage resolution is therefore in committee stage in the House of Representatives, the proposed amendment being before the Judiciary Committee, and the bills to create a Suffrage Committee being before the Rules Committee.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4#xywh=2239,3764,906,269"
+  }
+ ]
+}

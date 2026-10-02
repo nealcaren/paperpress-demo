@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p10.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "218",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=258,191,93,50"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "which all power is derived directly from the people, must depend mainly upon their imtelgence, patriotism, and mdu try. 1 osll the attention, therefore, of the newly-enfranchined race to the importance of their striving in every honorable manner, to make themselves worthy of their mew privilege. To the race more favored beretofore by our laws, I would ssy, withhold no legal privilege of advancement to the mew citizen. The framers of our Constitation firmly believed that a republican form of govermment could not endure without intelligence and education generally diffused among the people. The Father of his Country in his farewell address, uses this language:Promote, then, as a matter of primary importance, institutions for the general diffusion of knowledge. In proportion as the structure of the government gives force to public opimion, it is essential that public opinion should be enlightened. In his first anmunl Message to Congress the same views were forcibly presented, and are again urged in his eighth Message.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=233,279,561,730"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I repeat, that the adoption of the Fifteenth Amendment to the Constitution completes the greatest civil change, and constitutes the most important event that has oocurred since the mation came into life, The change will be beneficial in proportion to the beed that is given to the urgent recommendations of Washington. If these recommendations were importsnt then. with a population of but a few millions, how much more important now, with a population of forty millions, and increasing in a rapid ratio!I would therefore call upon Congress to take all the mesns within their constitutional power to promote and encourage popular edu.- cation throughout the country, and upon the people everywhere to see to it that all who possess and exercise political rights shall have the opportunity to acquire the knowledge which will make their share in the government a blessing and not a danger. By such means only can the benefits contemplated by this amendment to the Constitution be secured.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=228,1013,560,699"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "U. S. GRAwT. Executive Mansion, March 39, 1870. HaAMGuTON FIsH, Secretary of State of the United States.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=233,1717,551,123"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RipICULOUs PRoPOSTTION.—The little Globe and Press of this city, than which no paper bas clearer vision towards Woman's Kights, wrongs nd responsiilies, or uen it to better pur pose, says Before Miss Kate Putnam, daughter of our publisher, entered the dissecting-room at Paris, the Profeswor told her that leave wes granted with the understanding thet sbe would wear men's clothes? Miss P. did not care to adopt such a disguise. She watohed her opportunity, waylaying the Professor on his way to the lecture.room, and argued ber case shrewdly. He told her that the case in which iadies had entored his rooms bad been in male attire, and be thought it indispensible. But with sdroitness and wit she pointed to be e igre, sravely asked him how she could cheat anybody into the belief of her masculine character ? the dinguise would only make her sex more conapiouous. The Protessor was plossed with her earmestness, yielded the point, and gave the coveted entrance without conditions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=230,1889,559,700"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Da ANNa MANRING, a well-known physician of the city of Norwich, Conn., graduste of the Neow York Medioal College, bas removed to New York. She sunceeds to the practice of the lnte",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=236,2637,557,156"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Rrrsintin A",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=878,188,452,122"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1o the Amerioan People, Greeting",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=822,346,389,31"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 Ax commissioned to procure the name and address of every person in the United States who takes a friendly mterest in W msn's Enfranchisement. In order to compile this roll of honor, I bereby request every such person, immedistely on readimg this announoem pt, without waiting long enongh to forge or to meglet it, to take pen and mk, write the mame and address legibly, and forward the same to me by mail, postage psad—s trifiimg ofst which you will not begrudge to a good cause. Anybody sending in one envelope all the names in a family, village. or sssociation, will render a helpful service. Three thousand Amencan mewspapers will oblige a brother editor by printing this card im their columns. The purpose of this registration is to know to whom to send important documents. Frends of the cause are urged to respond so mmultsp eously that their shall fly hither like a snowstorm. Sign at onoe. And the day will come when your children and children's children will be proud of the record.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=810,380,560,725"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Fraternally",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=834,1108,138,28"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ThEoDORE THLTON,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1030,1109,233,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Fraternally. TaEopoRs Tr.TON, Editor of Th Independent. Box 2787. New York City. Before tnis card had been three days before the public, the returns did begin \"to fiy like a smow-storm, in the direction desired. And are fiying stll. Let them keep flying. . ———————————— JURY WOMEAN. — Taz Larame (Wyoming) Sentinel thus reports on the first trisl of women in the jury-box",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=807,1109,562,384"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If we should nmegiect to ive some 13ea of the results of our trisl of the femye jury experiment, the outside world should say we were atrsid or sshamed of i. For our own part, we are inclined to admst thet t suconede beyond all our expectations, and what is more, beyond our descres. Having labored slmost sione and unsided to secure the passage of the iaw lsst winter—bsving used our bost endesvors to bave the ofoers bere carry the law into effect by arawing and summoning female jurors—and then baving exerted all our infiuenoe to in duce (be ladies bere to overcome their matural amaenee and consent to serve in that capacity, snd to se mowld public opinion a that the experiment might be mTly and umpartia lly tried—we maturally wisbed it to eo St we soarcely wished st to demonstrate s thoony that women were betier quslified tor these duties than meon Henoe, when Chiet Justior Howe wid. in gte years experience I never had as fair, candid. impertin and sbile a jury in Court, ss in this torm in Albany County,\" snd when Associate Justice Kingmen waid. for twents e y i e o with me, both on the bench and st the bar, how we are to present jury trisls trom dogemerating mto pertoct fare urieg, romne r Ay Co to point the remedy and demonstrste e cure for thi threstened evil,\" we confoss to baving been more than atisod with the result. Put it may be fely te the unanimous verdict of bench. bar and pube opiion that the female jurors of Atbany County 438 well ans T y , o to emsoives and to the setisfection of the publie",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=807,1499,559,822"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RMs. Va Oor—The Met e and bishops sre grestly exercised about the proper position in the ohurch of this exeeliont woman. Judging from the wonderfal suocess which everywhere atton ds her ministori it would seem that the Divine Spirst has no such difmonlty orn brobe of the Leoginte To have pased rontion f Wom S amendment to the Sute Constitntion Now t mut be ged t y pet ued by the people i 187 efore e of effoct",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=810,2364,560,430"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNIVERSARY oF TH2 NATIONAL WOMAN'S SUFFRAGE A880. CLATTON.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1397,282,549,138"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ta Associaton will hold its reguisr snne meeting m Coorze InerrrrT New York. on Tuesdsy the 10th of May, next begiuming at ton o' clock a. m.. snd contmung, probably, through Wedne dsy and Thursdsy. The warious Womsn Suffrage Associtions throughout ths country, and the O1 World, are invated to send delegntes to this Convention prepared to report the progress of our movement in thew respective looshties. And. in order that thus annosl meoting may be the expression of the whole people we furtheor sk every frmend of Womsn Suffrage to cousider himself or beshelt personafly invited to sttond and take part in its di scussions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1390,457,562,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "With the pobtion rights of women secured in the Territomes of Utah and Wyoming—with the agitstion of the question in the various State Leogisiatures. with the proposion to srike the word “male\" srom the state consutution of Vermont—with New York. New Engisnd and the great West well orgamined. we are confident that our Jeading polstionl parties will soon soe that their ows imterest and the haghest imterent of the country require them to recogmine our clsim.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1390,949,560,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Executive Committee recommend the triends of Women's Suffrage. everywhers, to concentrate their efiorts upon the work of curing s Sixteenth Amondment to the Pedorn Constitution that shall prohibst any state from disfranchising any of its citisens on socount of sex. Thergfore, we ask the dolegntes and friends to come to this May Auniverssry with practical suggotions to how this wor wh be done.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1389,1303,560,315"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The following are smong the apeskers airesdy secured for the ooomon Elsbeth Cady Stn ton. Rev. Otympis Brown. Ot E. H. Beywood and Jenmie Collins. Mass.. M. Adele Haziitt, Mich. Mrs. Framoes Minor and Phobe Coznens, Mo.. Hon. Bepry B. Stanton Judge Barlow, Cannestots Josephine 8. Grifing. Rev. Phobe A. Hanaford, Lizze M.Boynion, Mand D. Molson snd Spen B. Anthons The names of other distinguisbed wpeskers will be announced as fast a their amwr Communics tions snd controns for t meeting should be addrensed to the Corre ponmg Seoretery ELIZARETH CADY STANTON. Pres. CRARorT B. Waon. Cor Sec. 151 East 51t wret. Now Vork ExnrsriNe L. Rosn. Ch'n Ea Com",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1388,1623,560,597"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Womas WaAn— woman otes e fight.So men seupidly ay. but the Maine cortainly oupht to vote M Retey Rey nold, wao poon. p twe sonsin sw and one pr dne wt h war and were 31 op one lame aon ta betp het",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1388,2270,559,284"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As an opent p ing. t od Leswit, iano K. De. Dio Lewi in Boson May they pro i t sbundenly.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10#xywh=1389,2608,557,189"
+  }
+ ]
+}

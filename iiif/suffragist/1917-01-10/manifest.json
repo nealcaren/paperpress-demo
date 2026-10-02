@@ -1,0 +1,1640 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "The Suffragist, January 10, 1917"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "en": [
+     "January 10, 1917"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Volume"
+    ]
+   },
+   "value": {
+    "en": [
+     "5"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Number"
+    ]
+   },
+   "value": {
+    "en": [
+     "54"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Pages"
+    ]
+   },
+   "value": {
+    "en": [
+     "12"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "en": [
+     "Congressional Union for Woman Suffrage"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Source"
+    ]
+   },
+   "value": {
+    "en": [
+     "<a href=\"https://archive.org/details/per_the-suffragist_the-suffragist_1917-01-10_5_54\">https://archive.org/details/per_the-suffragist_the-suffragist_1917-01-10_5_54</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Citation"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist, vol. 5, no. 54, January 10, 1917"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "12 pages. Text by OCR (newspaper-ocr 0.10.0); it contains errors."
+  ]
+ },
+ "viewingDirection": "left-to-right",
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Suffragist, January 10, 1917"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Scans from the Internet Archive: <a href=\"https://archive.org/details/per_the-suffragist_the-suffragist_1917-01-10_5_54\">https://archive.org/details/per_the-suffragist_the-suffragist_1917-01-10_5_54</a>"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 1"
+    ]
+   },
+   "width": 3084,
+   "height": 4248,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/1/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3084,
+        "height": 4248,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0000.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p1.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p2",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 2"
+    ]
+   },
+   "width": 3237,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_02.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/2/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3237,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p2.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 3"
+    ]
+   },
+   "width": 3237,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_03.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/3/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3237,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0002.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p3.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 4"
+    ]
+   },
+   "width": 3243,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_04.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/4/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3243,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0003.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p4.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 5"
+    ]
+   },
+   "width": 3243,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_05.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/5/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3243,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0004.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p5.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 6"
+    ]
+   },
+   "width": 3246,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_06.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/6/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0005.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p6.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 7"
+    ]
+   },
+   "width": 3246,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_07.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/7/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0006.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p7.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 8"
+    ]
+   },
+   "width": 3246,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_08.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/8/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0007.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p8.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 9"
+    ]
+   },
+   "width": 3246,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_09.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/9/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_09.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0008.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p9.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 10"
+    ]
+   },
+   "width": 3249,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_10.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/10/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_10.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3249,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0009.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p10.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 11"
+    ]
+   },
+   "width": 3249,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_11.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/11/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_11.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3249,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0010.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p11.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 12"
+    ]
+   },
+   "width": 3246,
+   "height": 4296,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_12.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/1917-01-10/p/12/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/1917-01-10/page_12.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4296,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/per_the-suffragist_the-suffragist_1917-01-10_5_54%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2.zip%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_jp2%2Fper_the-suffragist_the-suffragist_1917-01-10_5_54_0011.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p12.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  }
+ ],
+ "navDate": "1917-01-10T00:00:00Z",
+ "seeAlso": [
+  {
+   "id": "https://archive.org/details/per_the-suffragist_the-suffragist_1917-01-10_5_54",
+   "type": "Text",
+   "format": "text/html",
+   "label": {
+    "en": [
+     "Source"
+    ]
+   }
+  }
+ ],
+ "rendering": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/full_text.txt",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Full text (OCR)"
+    ]
+   },
+   "format": "text/plain"
+  }
+ ],
+ "structures": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/contents",
+   "type": "Range",
+   "label": {
+    "en": [
+     "Contents"
+    ]
+   },
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p1a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Article about woman suffrage]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p1a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The New Year"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Unreadable text]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Unreadable article]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "English Suffragist to Aid Federal Amendment Work"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Woman Suffrage of First Importance"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Bill for Woman's Division in Government"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Unidentified fragment]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Notes of the Week"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "First Woman Given Privilege of Senate Floor"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a11",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Presidential Suffrage in Rhode Island"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a12",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Municipal Suffrage in Florida"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a13",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Wife “Merely Agent of Husband” in Massachusetts"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a14",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Woman Appointed as Assistant to State Official"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a15",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The International Suffrage Shop"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a16",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Women of Holland Fight Alone"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p3a17",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Unidentified fragment]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p4a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Review of the Year"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p5a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Resolutions from Women Voters Presented to Congress"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p5a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Roosevelt Declares in Favor of National Amendment"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p5a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Woman's Party Formed"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p5a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Suffrage in Platforms of Political Parties"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p6a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Woman's Party Convention at Chicago in June. Opening Meeting at Blackstone Theatre"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p6a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Another Attempt to Obtain Aid from the President"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p6a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Hughes Declares for the National Amendment"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p6a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Colorado Springs Conference"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p6a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Election Campaign"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p7a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "1916 Covering National Conventions of Political Parties (Scene Outside Prohibition Convention)"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p7a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "President Reminded of Suffrage on Opening of Congress"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p7a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Amendment Reported Out of Judiciary Committee"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p7a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The National Memorial Service"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p8a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Photographs of Woman's Party demonstrations]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p8a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Departments Increase in Size and Efficiency"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p9a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Woman's Party campaign photographs]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p9a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Membership"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p9a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "National Headquarters"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p9a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "“The Suffragist”"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p10a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Suffrage activities and Inez Milholland Memorial Service]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p10a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "One of the Achievements of the Year"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p10",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Gilson Gardner"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p11a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Comments of the Press"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p11a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Wilson Administration Friendly to Federal Amendment"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Gilson Gardner"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p11a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Anthony Amendment committee report of the proposed national woman suffrage amendment to the House"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/range/p11a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Suffrage at Washington"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/1917-01-10/page_01.jpg",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ]
+}

@@ -1,0 +1,689 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "66",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=441,179,67,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOTES FOR WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=524,268,425,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Lucy S. Weaver (To the tune of Dixie) California les in the solden West, Where men and women are most blest, Iin the land! In the land! In the land! In the land! And with Washington and Colorado, Wyoming, Utah and Idaho, All are free! All are free! All are free! All are free! Chorus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=455,353,587,488"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chorus But we're marching on to vict'ry, We are! We are! In North and South and East and West, We'll win our way to vict'ry, Wwe'll win! We'll win! We'll win our way to vict'ry, We'll win! We'll win! We'll win our way to vict'ry. From away up North clear down to Texas,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=463,780,565,424"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chorus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=696,1446,109,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "r We all proclaim from a sreat high steeple, Men and women both are “people\" of the land! Of the land! oOf the land! oOf the land! And we're going to fight with all our might, Till for all women we will win the right To a vote! To a vote! To a vote\" To a vote! Chorus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=455,1475,587,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chorus Some men want women on a “pedestal, But on he earth we have to dwell, Helping you! Helping you! Helping you! Helping you! So lend us a hand to win the vote, As we the burdens help to “tote,\" Help us win! Help us win! Help us win! Help us win! Chorus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=466,1870,568,393"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now as a “toast\" throughout the nation, For men and women of creation, Equal Rights! Equal Rights! Equal Rights! Equal Rights Such as the Almighty o'er us Meant as a protection for us, O'er the land! O'er the land! O'er the land! O'er the land! Chorus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=455,2281,587,370"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chorus Yes, we're marching, etc.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=565,2592,375,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AN ALLEGORY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=582,2720,326,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By G. W. Carrick",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=621,2798,266,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Angel of Justice sat watching the stream of people approach the bridge, Pons Politicus. Men and women walking together on the High Road of Life separated at the bridge, the men to cross and. continue on their way to the Town of Industry, the women to enter the Woods of Domesticity, through which ran a winding path leading to a ford in the river. Crossing on stepping-stones, then climbing the bank, they finally regained the road to town, and once more walked beside the men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=467,2882,569,523"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Why do the women walk so far out of their way? The bridge lies in front of them, yet they cross the river by the ancient ford.\"' The Angel of Justice addressed an Historian strolling by. “It is not the custom, and what is contrary to custom is wrons, you know.\" “But I see a bridge in the distance; did not the women as well as the men cross that?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=469,3409,567,446"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Pons Scholasticus, you mean. Yes, they have used it for half a century or more, ever since the right was gained for them by advanced thinkers, both men and women, after years and years of struggle against prejudice and fear.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=471,3858,571,258"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Yes. It was feared lest the pleasure and excitement in crossing the River of Knowledge would entice our women from the Woods of Domestichty, but you see yonder how meekly they go.” “I see, but do not understand. Why do they so meekly choose the longer way to town? So few linger in the beautiful seclusion of the forest, yet all go that way.\" “History explains this. In the beginning, the king and his nobles owned the bridge, the king by divine right, and the nobles by his royal permis-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=471,4156,567,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, MARCH 2, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1249,159,1180,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "f",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1485,34,50,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "sion. It was by flerce fighting, lasting for centuries, that the commoner sained his right to use it; and during these combats the women were sheltered in the wood, until srew up the custom for men to strussle in the open and for the women to bear, rear and succor in seclusion. And this is surely in accordance with the Divine plan, this division of labor between men and women, is it not?\" “If that is the Divine plan, why do so many women hurry through the wood to the Town of Industry, reaching there long after the men who keep to the straight road and bridge? Why do they have to go to town?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1036,252,580,659"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Historian never waited to answer; but an Economist, hearing the Angel's question, paused to explain. “The women are following their work,\" he said simply. “No longer is women's work performed in the wood; everything is done in the Town of Industry, and all who cannot afford the enforced idleness of the wood are driven by starvation to seek work in town.\" “Would not the women have a better chance of finding work if they were not delayed by going round by the ford?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1046,916,568,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Yes, but you know they usually take the jobs the men do not want. the poorest paid ones. By arriving late, of course, they are limited in their choice.\" “Then why do not they take the shortest and quickest way?\" “Those who need most to use the bridge are too busy to strive for the privilege—\" “Privilege?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1049,1479,565,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Their right, then. And the women confined in the narrow strip of woodland are not going to strugsle for what will add neither to their comfort nor to their pleasure. And surely the men, already overburdened by the care of themselves and the loiterers in the wood, are not going to urge the removal of any handicap on women who compete with them in town! Here comes Minerva, in cap and gown; ask her why she so longingly gazed upon the short road, yet made no effort to take it.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1049,1892,570,521"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Angel called to Minerva to stop, and asked, “What keeps you from trying to use Pons Politicus?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1049,2418,573,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Minerva smiled sadly. “I believe in the theory, but doubt the expediency of women crossings. Too many cross the bridge already. I believe in restriction, some educational or property qualification. I have studied much on the subject, and am not like my heedless little sister who is now joyously tripping into the wood, too modest to look toward Pons Politicus and too loyal to doubt the chivalry of her Knights, who she fancies are still fighting on this bridge for her and her interests. Nor do I fear the dirt and filth, for I know that they are to be found on the High Road of Life as well as on the Bridge. But, having studied bridge construction, I know that Pons Politicus could not stand the strain doubled.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1051,2530,570,749"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Cannot your bridge be repaired Why have one that serves but half the people? Are there no bridge-builders. that you should cherish rotten timber so tenderly?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1054,3287,562,185"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It is nmot the bridge I am considering, but the convenience of the men who could not cross because of congestion, or because of a total collapse of the structure. Would you have me, trained for centuries to consider every wish of the men, trained to selfsacrifice as naturally as the tree grows upward, suddenly demand my covenience at the peril of theirs? On, dear. look at these women! Let me run before they recognize me!\" And Minerva fled at the approach of a string of women advancing with locked arms.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1053,3478,568,558"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Let us cross the bridge!\" they called; and no sooner had the words been uttered than men and boys seemed to spring from the very sround to bar the way, to hoot and jeer, to throw stones, revile and curse. The women, strusslins, panting, screaming, pushed and were pushed until finally they were driven back. The Angel heard one say as they retired, “How easily we could cross but for the chivalry' of men!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1053,4041,571,453"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Minerva is willing to sacrifice her comfort and convenience for men; these women are willing to sacrifice everything, even their “ladyhood, which is dearer than life itself, to fight as men fought, so that they, their sis-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1053,4495,569,233"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ters and unborn generations can cross Pons Politicus as naturally as they now cross Pons Scholasticus! But what is this I hear?\" and, turnins, the Angel of Justice saw a Politician haranguing from the tail end of a cart. “We must protect our women!\" he shouted. “Think of the evil influences, the sordid contamination, the filth of the bridge! We must guard their charm, their modesty, their innocence, the sacredness of our homes, and, sreatest of all, the chivalry of our manhood!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1617,247,578,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As he withdrew, the Ansel called him and asked what objection he could have to the women using the direct approach to town.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1625,816,570,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We don't want any women around!\" he snarled. “Always walking from side to side of the bridge. How can we tell on which side they'll walk out? 1f we could make them walk on our side—but don't you believe it, they'll walk as they please. And some of them will be imitating the confounded Reformers, and peering over the rail and calling, Rotten, rotten, the bridge is rotten!\" No, no, we'll have no women, thank you!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1627,969,572,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Almost before he ceased speakins, a Philanthropist, excited and distressed, with a paper in her hand, rushed up to a man about to cross the bridge. “Take this—oh, please take this to the town! I have to go round by the ford, you know, and shall be too late. Please! No? Then you—\" and she turned to the next man, who said, courteously enough: “Madam, I have a paper of my own",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1631,1422,571,460"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Isn't there anyone here who will help to save the lives of young sgirls and children by carrying this warning to town? I cannot get there in time. Ah, me, where is my influence? Won't you take this? Won't you?\" Man after man refused; then, realizing the futility of further delay, she desperately started on the long journey through the woods across the ford. “Ah, me! Ah, me!\" sighed the Angel, rising. “I must seek my sister, the Angel of Patience.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1631,1908,570,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CONCERNING WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1690,2437,459,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Zona Gale is visiting Pasadena, Cal., and is much interested by her observations of women's civic work there.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1635,2516,568,151"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Florence Kelley is contributing to the Twentieth Century Magazine an important series of articles on “Standards of Labor.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1637,2702,567,154"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Sylvia Pankhurst is much interested in the Wisconsin campaign. During her stay in Milwaukee, she went about with Miss Martha C. Heide, addressing many trade unions, Miss Heide speaking in German whenever requested. Miss Pankhurst has nmow gone South, and lately addressed 2,000 people in Nashville, Tenn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1637,2888,564,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Catherine Waugh McCulloch's recent article in the Chicago Legal News, giving the laws of the different States relating to the guardianship of children, has been republished as a pamphlet, and may be ordered from the Illinois Equal Suffrage Association, 938 Fine Arts Buildins, Chicago. Price four cents a copy or 50 copies for $1.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1636,3262,567,374"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Stephen Radford, Jr., save an address on equal suffrage recently before the Twentieth Century Club of Oshkosh, one of the largest women's clubs in Wisconsin. The Daily Northwestern says, “She astonished and delighted her audience by the breadth and scope of her information, as well as by the unassuming manner of its presentation.\" Mrs. Hooper, the club's president, is an active worker for the ballot.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1637,3672,570,453"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Allura Collins Hollister writes of the Wisconsin campaign: “It is marvelous how our press publishes every little suffrage item these days. I recently saw three Milwaukee daily papers, and each had some suffrage item. It seems as if every week adds some desirable worker to the suffrage forces. Mrs. T. W. Youmans, one of the editors of the Waukesha Freeman, is a new and most efficient worker. Whatever she champions, she does with all her might, and woman suffrage is mo exception. Every week sees a fine array of suffrage items and",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=1638,4158,568,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "articles in her paper. Dr. Gwendolen Willis of Milwaukee-Downer College, who lately spoke on suffrage there, is the young daughter of Rev. Olympia Brown, and a wonderfully bright youns lady. I grow more hopeful of results each week.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2207,236,576,271"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rev. Antoinette L. B. Blackwell, D.D., the first woman to be ordained a minister, and now the sole survivor of the speakers at the First National Woman's Rights Convention, has salled with her youngest daughter for Panama and a month's trip in the West Indies. Mrs. Blackwell is in her $8th year, but in good health, and as fond of travel as a girl. At 78 she went to Palestine, unaccompanied by any member of her family, and brought back a bettle of water from the Jordan to baptize her grandsons.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2211,532,571,562"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. Cora Smith Eaton of Seattle has lately married Judson Kins, secretary of the National Referendum League. They first met, it is said, at a referendum dinner arranged by Dr. Powers at the request of Prof. Charles Zueblin for Sydney Webb and Beatrice Webb. Mr. King was down for a speech, but he got so interested in talking with Dr. Eaten at the foot of the stairs leading up to the banquetting room that he forgot all about it, and when his turn came he could not be found and his address had to be omitted. The couple will make their home in Seattle. We wish them much happinmess.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2217,1098,567,642"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Mabel Gillespie, secretary of the Woman's Trade Union League, 7 Warrenton street, Boston, will be slad to receive contributions for relief work among the Lawrence strikers. Prof. Emily Greene Balch of Wellesley College writes: “Any one willing to make the ordeal of these days of hardship less dreadful for hungry men and for mothers who must be fed if they are to feed their little babies, is earnestly urged to send help, much or little. One contributor sent ten cents, saying, It will buy two loaves of bread, anyway. I hope it was one of those loaves that was eaten while I was in the office by an applicant too far gsene with hunger to wait till outside the door to eat his dry, uncut loaf.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2219,1775,569,751"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN SUFFRAGE PARTY OF NEW YORK BUSY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2225,2563,560,80"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York sStatesmen Give Th Views on Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2223,2682,519,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The third and last of the Legislative Meetings in the Broadway Theatre was held on Feb. 23. Three Senators, Bayne, Stillwell, and Griffen, and three Assemblymen, Brooks, Colne, and Kennedy, had signified their willingness to talk for woman suffrage “if nothing prevented.\" Two of the six, Senator Bayne and Assemblyman Kennedy, actually came, but the good faith of the women still persists in thinking that the absence of the others was unavoidable. Senator James H. Duhamel was on hand, too; he is one on whom the New York women have learned to rely, as he has been most helpful and attentive always to all our representatives at Albany.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2219,2802,565,677"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Senator Bayne offered congratulations to the suffrage leaders for their political acumen and skill, and said that he had no doubt left that they understood their business. He deplored the ultra commercialism of politics, and the lack of devotion to public duty, and quoted his own remark after the last legislative hearing, as made to a friend: “The question is not, Shall we give votes to women? but, Can we possibly live without their help?\" He predicted that in two years one of the majority parties would make woman suffrage an issue in New York State.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2220,3480,565,596"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Kennedy spoke with earnestness and sincerity. He promised to sive all the help he could, and to try to have the Assembly Judiciary Committee discharged from further consideration of the suffrage bill if it failed to report.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2220,4080,566,259"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Senator Duhamel eulogized the West, where the initiative, the referendum, the recall, and woman suffrage may be found; “and the political party that goes back on these,\" he said, “is lost\"—a statement that won much applause. John S. Crosby ursed the women to perfect their organization, as the best way to win, speaking in his usual charming and sgraceful",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2222,4339,564,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "way. Miss Mills, of the New York State Association, save a fmme talk. An excellent collection was taken up, and many pledged to march in the parade of May 4. There was a large audience and plenty of enthusiasm. Mrs. Margaret Chanler Aldrich presided. S.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2792,236,570,304"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOW TO WIN KANSAS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2831,573,496,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "eading Women of the State Give Arguments at Brilliant Banquet The Kansas City Star says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2805,656,560,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“At the Hotel Grund in Kansas City, Kas.,, when the Wyandotte County Equal Suffrage Association gave a luncheon and reception to the officers of the State organization of suffragists, women speakers—the wives of the prominent men of Kansas—addressed more than two hundred women. And the two hundred heard the addresses with enthusiasm, for they intend to use the arguments heard in convincing the male veters of Kansas to give them the ballot. They mean to debate in public and to carry the arguments into the homes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2797,803,572,562"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. W. A. White First Speaker",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2815,1371,544,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Mrs. Willlam Allen White spoke first. ““Women will do jury service sladly,' she said. I believe every jury case where a woman or a child is involved should have women on the jury. If the men insist, we will serve on all cases and we will decide them fairly and justly, too; but I believe the men should call us for service only on cases of that kind. Let every woman make a study of court procedure, and the men will favor our becoming jurors when it is necessary.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2800,1402,571,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Military service? Every man opposed to women voting uses that argument. History will teach them that woman has done as much to win wars by staying at home looking after things, keeping the pot boiling, and fighting battles that would frighten almost any man, as the men who marched out with bands playing and flags flying. Roosevelt's Name Cheered",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2802,1929,569,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“That the wemen already are taking an interest in politics was shown when Mrs. Helen N. Ess of Kansas City mentioned the name of Theodore Roosevelt. The women cheered so that the speaker was forced to wait until the demonstration had subsided. Mrs. Ess brought in the name in a friendly criticism of Roosevelt's recent article on woman suffrage.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2802,2346,570,367"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. L. A. Thurston writes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2832,2760,410,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. L. A. Thurston writes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2832,2760,410,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Two hundred and twenty-five women were seated at the tables, bright, earnest, cultured women, representing much of the best in Kansas life. We were not lacking in representatives of official pesition, for there were the wife of the present Governor, Mrs. Stubbs, who, beneath a pleasins, placid exterior, which would at once disarm all suspicion of strongmindedmess, carries the wisdom of the serpent with the apparent harmlessness of the dove to win votes for the suffrage amendment; the wife of Chief Justice Johnston, herself the able leader of the State Association; Mrs. Strons, wife of the Chancellor of the State University, to whom the influence of the ballct on the home makes its strongest appeal; Mrs. St. John, wife of our well-known Ex-Governor, who has been a suffragist for these many years. I remember hearing her say, long ago, 'When I was a little girl, I was almost indignant that mammy did not go to vote as well as pappy, and could see no reason why she shouldn't. Happy is a woman of that stamp who has spent her married life with a husband who could not see the reason for it, either! There were the wives of men prominent in various walks of life, and women who have made good themselves, not only in the womanly sphere of home, as wife and mother, but in the professional and business world as well. I recall one attorney, one physician, one abstracter of titles, some writers of stories, and women to whom philanthropic work has become second nature; five State officers; Mrs. Johnston, Mrs. Stubbs, Miss Eacker, well known for her work along educational lines, having been a successful county superintendent of schools for years; Mrs. White, the well-known wife of the author of ‘A Certain Rich Man, who must count himself rich in her companionship; and myself. Others present were the president of Second District E. S. A.,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=2801,2805,569,1909"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tr. si bu le me tr. it Wi 1 SW wi ly- H on be I",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=3685,3400,38,654"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "un off ca Un sh ha m M th wi vo to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p2#xywh=3638,4305,85,462"
+  }
+ ]
+}

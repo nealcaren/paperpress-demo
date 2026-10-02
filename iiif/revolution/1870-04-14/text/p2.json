@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "226",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=318,113,91,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dow by the storm, will rise up again in the sunshine. Then it is one of the penslities which the beloved must pay for their love—they are no longer quite free. Whoever beheves in us, and trusts us, institutes by the behef and the trust, a right over us, in some sort. Henoeforward, we do not what we would, but whet we must.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=315,196,560,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For a good while not a word was spoken. Rachel had never in her life hed s confidant. but the long-suppressed yearnimg for sympsthy had become a passionate longing, and if sbe uttered one word, she felt tnat her heart must pour itself sll out. Love was the one grest need of her gentle, reliant pature, and shut out from its very sembiance so long—she was bungry, aimost stavms. Theress was silent, mmply because she could think of nothing to say, neither had she ever had a confidant, but she neoded none. Hers was a sweet, but not a spontaneous nature—there are some flowens that shut themselves up from the very light, and she was like them. She had none of that res dimens of speech that makes a companion so charming, and as for her inmost soul uttering itself to any other soul—that had mever come withio ber experience. So botween the grest need of the one., and the small need of the other, the silence remaied a good while unbroken ; but by and by as Bachel folt the tender paddlimg of a band upon her own, she oould no longer restrain her impulse, and began to speak of this and that at random. Theresa did httle more than listen. but she listened so sympatheteally that it was all that was required.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=318,453,562,852"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rachel told her in the first place all sbout coming to live with ber good unole 1s'rl, and then she talked a great deal in his praise, brnging out all the fine qualities which she feared Theresa might mever have seen or thought about, as indeed she bad mot. She said not a word of the good quslities of her aunt Lydis— doubtioss feelmg that ber goodness spoke for itsolf. She told all about Mrs. TPoplow and her boarding house in North Town—all about Mr. Toplow and his fine socomplishments. And all about Pitkim and his luckless star—not as idly gossiping, but sympsthetically and tenderly. As, howoever, these persons will speak for themsclves in the oourse of our story, her account of them need not be repesated here.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=317,1309,559,534"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An hour passed, in barm loss and various telk, light, and natural. as the singing of burds, and at the end of it, such relations ss it sometimes requires years to bring about bad been estabisned between them. Trustrul, harmoniots and on the part of one. at least, close on the borders of confidence. “When you come here again,\" ssid Rachel, you must briug your copy-book with you— will you, Tressy \" I don't know why ?\"asked Theress, but in her hesit she did know, and was pleased. “Boecause,\" answered Rachel. \"they say you have compositions in it, good enough to print in the newspapers. Isn't it truet Who says so\" O, everybody. Mr. Ludlow for one. “Theon you know our schoolmaster, do you\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=317,1847,559,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tressy folt Rachel's heart beat inst beneath her band, as she answered—1 used to know him, but of late years I have mot seen him muob, only as it bappened—and then she talked sout the copy-book agin. You mey see it some time,\" Theress rephed, \"though there is mothing in worth showing. Mr. Ludlow preiss me to plosse Doreas—that s all. But what's the matter 1",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=327,2419,552,286"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h Reoes hea we uttring r is in the smare. Nothing, nothing—then sfier thinking to berseif, abe as1d. What do you write sbost. Tossy ?Not sbout folks and things in this country. I suppose ? You must bave people of quality, aud fine houses, and grand parks to make books, mon't you I only try to write what I know sbout, s3id Theresa, and I find it bard emough to make others aee what I have seen myself a great many times. I don't know how real writers 3o.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=894,110,561,484"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Do you think.\" Rechel said, after s time. her hend nervous'y twitching. do you think anybody would care to resd a story sbout a common woman, like me, for instemoe? I am sure I should,\" replied Tressy. be cause I could understand it all. Thus encouraged, Rachel said, stroking the cheek of ber listener. \"I know some faots about a young woman (one that you never saw) and about a young man, that you never ssw either, thet I have sometimes thought would make a if they were written out—s very sad story.\" She besitated, and then sdded. may be when you come to write stories for the papers you could take this that I know to build one out of may be, though, it wouldn't be good enough.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=897,601,560,544"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Oyes it would!\"cned Tressy, eagerly. adding in a lower and sadder tone—\"1I don't suppose I shall ever write a story to print, but I want to bear it, for all that.\" And then more gaily, Come, my ears are open just as wide as my eyes!\"And teking Rechel's hand in hers she passed it across her eyes, that sbe berself might teol how wide open they were. Rachel sad (Hesven forgive ber) that she did mot know as she could remember all the story ; t had been a good while since she heard it—that it was mot much of a story—nothing, sbe was sure, when she oame to thnk of it, thet would ever do to be written tor the peper. Thereta was importunste, however—snd Rachel relsted in substance the following. Her precise words bave not st all times been retained:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=894,1148,561,570"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Once there was a poor girl, who had peither mother nor father, both had died when she was very young ; sbout ber father, she could remember perfotly, but of the motber who dies earher, very httle—such memories as she bad. however, were extremely viwd. For instanoe, in ber mind, she had alwsys s pioture of ber pale and ek, propped wp m bed with pillows. and with dim eyes stitobing the sieeve of shirt.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=894,1721,556,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Always, whenever she thought of it, she conld see how the red spots looked in her cheeks on that day, and the very way ber oap slipped from ber bead and bung over ber shoulder by the strings. She could remember bow ofton she hed picked up the timble which would mot stay on any more ; and bow bot the bands feit when she touched them. Sbe remembered. too, thmking that day, that mother wes gomg to get woll and with what a light hesrt she skipped away o pay wisit to the beee, tht d i cormer of the gerden. She could remember another day, too, hot, suffooeting dny. when the doors tood wide, and the bed in the miadle of the room, snd whon the weighbors went and cume—one or more being with them ail the time, till about sunset, whon they were all obliged to go away—or they were poo, berd working peopie-and must be bome at th o o the it oame about, that she herel w at the bedside slone ; her sister—she had one",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=897,2042,559,662"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "siter oo Genl oior h — goe out to milk the oow. The fece looked so white on the piilow, ans the bands lny 5o motioniens, the Hee g was no answer—she hed pever before spoken thet pame itont reoing oe—.Be wd directly in faltering tones1 thh. Tressy—I csn't go on with the story. unlem 1 te this part of tht te Theress enoouraged ber to tell the story in her own way, and she went on, sobbing sometimes between the wordsa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1472,197,562,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Well, then. 1 will ssy. I was thet listhe girh thet 1 was afrmd when I had called my mother nd she mad. mo amwer he we mling as she always did, only somehow the smule seemed to beve in it more pescs than 1 had there, and slipping close I towohed her foe. It was oold a 10e—se was den.\" When Rechel bad wid a few words concerning the funersl, and proceeded to tal of mat ters les sacred. the story was shifted to the third person again.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1474,686,563,358"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Sbe told bow these poor orphans the one being old enough to do the bouse-work, continned to live with their iather in s wretohed and impoverisbed way, snd bow be soon lost the formerly kept shve in him—bow be took to drinking and other bad habits—stayed sway from bome all day. snd all might sometimes and how the children lived in s state of porpetual anmety sud terror.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1473,1047,562,315"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One of the watches, many of which they —“has often to1d me about. The asy bed bee bitter oold, and the might was clest and bright as an ioscle. They bept the fire blaning. a lons as there was any wood to burn. but s few stcks could mot lest all might, mor but s short part of it—the flame flickered, snd fell and die—the winds blew down the chimney and arove the cold ssbes about the bearth—the ff branohes ttied on the wll oute a dead leaves, that whirled past the door, macs them fear some murderer wes coming. At lest they were sfrai to spenk alond and cowered over the dyimg fire or stood st the window prowsing their inoes agaimst the panme. and loo ing along the bloe mrnpe. where the frot ghistened in the moomgbt without ayng single word",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1473,1372,561,605"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The hours aragged by. ome after sncther twelve o clock ome—oe—wo—and the yon er of the twe sunk on the fio and foll sieep. her bare foet n the asheon. and bor oheks wet with tears.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1471,1983,564,154"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Father's coming\"was the ory thst wako hor—they hurd the sash. and looked out Nobody was br soen. but they could aistinedy hon the hoo of horse. striking hp stones of the trme— e woul e. bling moiehe was og e the bollow —ey w ore—hey would ru o p t—y could see the white oe he they. kpew e wll oming up hs long wi lg O o i nd rowing open the ge they the me o e o. then the othertherl fthes Ne amewe",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p2#xywh=1475,2140,558,566"
+  }
+ ]
+}

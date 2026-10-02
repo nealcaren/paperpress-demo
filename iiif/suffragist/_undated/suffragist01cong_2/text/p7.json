@@ -1,0 +1,557 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "December 6, 1913",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=156,172,361,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Constitutional Amendment, now before it; and be it further Resolved, That the meeting urges the Rules Committee of the House of Representatives to report favorably on the resolution creating a standing committee on Woman Suffrage in the House. The resolutions were enthusiastically carried by the whole meeting with but two dissenting votes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=115,297,697,491"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The case for Woman Suffrage was eloquently stated at this meeting by Miss Jane Addams, Miss Margaret Hinchey, laundry worker; Miss Rose Winslow, weaver; Miss Mary Anderson, member of the National Sock and Shoe Maker's Union, and the distinguished woman Senator, Mrs. Helen Ring Robinson.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=116,789,695,396"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This Sunday meeting was the first of a series of packed evening meetings. On Monday evening, Mrs. Grace Wilbur Trout, Mrs. Medill McCormick, Mrs. Sherman Booth, Mrs. Ella S. Stewart, and Mrs. Catherine Waugh McCulloch of Chicago, told of the battle for Suffrage in Illinois, and the steps by which victory was achieved. Dr. Anna Howard Shaw devoted an impassioned and powerful address to the subject of Federal work for Woman Suffrage. Miss Lucy Burns, vice-chairman of the Congressional Committee, stated clearly and briefly the purpose of the meeting as follows",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=121,1188,693,745"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The National Woman Suffrage Association is assembled in Washington to ask the Democratic party to enfranchise the women of America.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=126,1937,690,217"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Rarely in the history of the country has a party been more powerful than the Democratic party is today. It controls the executive offices, the Senate, and more than two-thirds of the members of the House of Representatives. It is in a position to give us effective and immediate help. “We ask the Democrats to take action now. Those who hold power are responsible to the country for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=127,2156,694,529"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ss",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=203,2809,550,138"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A CORDIAL INVITATION I1S EXTENDED TO THE DELEGATES AND VISITORS TO THIS CON- VENTION THIS Shopping Headquarters",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=162,2989,640,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Full and complete stocks in the following lines of merchandise facilitate shopping— Women's and Children's Outfittings of all kinds Full assortments of Yard Goods Books and Stationery Toys and Games Art Goods, Housefurnishings, Upholsteries, Trunks, Leather Goods, Jewelry, Toilet Goods, Umbrellas, Candies and many other lines. THE ONLY DEP ARTMENT STORE ON PENNSYLVANIA AVENUE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=154,3343,665,705"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SUFFRAGIST",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1288,161,553,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the use of it. They are responsible not only for what they do, but for what they do not do. Imaction establishes just as clear a record as does a policy of open hostility.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=854,210,709,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We have in our hands today not only the weapon of a just cause; we have the support of ten enfranchised States. More than 3,600,000 women have a vote in Presidential elections. Itis unthinkable that a nationalGovernment which represents women and which appeals periodically to the suffrage of women, should ignore the issue of their right to political freedom.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=856,520,700,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We can not wait until after the passage of scheduled administration reforms. These reforms, which affect women, should not be enacted without the consent of women. Congress is free to take action on our question in the present session. We ask the Administration to support the Woman Suffrage Amendment in Congress with its whole strength.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=857,1009,695,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Other propaganda meetings were held on Tuesday, Wednesday, and Thursday evenings. On Tuesday, the program was arranged by Mrs. Joseph Tilton Bowen, of Chicago. The subject of the evening was “The Position of Women Before the Law.\" The speakers on Wednesday evening were Mr. James Lees Laidlaw, president of the National Men's League for Woman Suffrage, Representative Victor Murdock, of Kansas; Representative Frank W. Mondell, of Wyoming; Mr. Gifford Pinchot; Representative William Kent, of California; Representative James W. Bryan, of Washington, Mr. Charles Edward Russell, and Judge John S. Crosby. On Thursday evening, Mrs. Carrie Chapman Catt spoke with Miss Harriet May Mills and Mrs. Thomas Hepburn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=862,1500,697,1005"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "During the course of the Convention, over $15,000 was raised by subscription for the work of the National Association. The Con- DEWEY HOTEL t4th and L Streets N. W. WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=854,2510,709,523"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SELECT FAMILY HOTEL OPENTHE YEAR ROUND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=854,3106,709,406"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SELECT FAMILY HOTEL OPENTHE YEAR ROUND We Make a Special rate for Suffragists. THE PALAIS ROYAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=854,3412,709,445"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffragist Clothing Headquarters G and 11th Sts. WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=854,3871,709,329"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "W. W. BROWN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1108,3067,229,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "vention voted also that each affiliated socicty pay into the National Treasury 10 cents on every member up to 5,000 members, and if this amount is less than 5 per cent of the total expenditures of the affiliated society for the past year, that the society make its contribution equal to 5 per cent of its expenditures. The National Association can thus count on adequate financial provision for the work of the coming vyear.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1598,286,701,580"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The plan to make the literature department of the National Association a stock company, incorporated at $50,000, was launched with very little difficulty. Eleven thousand dollars to float the project was offered on the floor of the Convention within a few minutes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1600,871,701,349"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The following officers were elected for the coming year: President, Dr. Anna Howard Shaw; First Vice- President, Miss Jane Addams, of Chicago; Second Vice-President, Mrs. Desha Breckenridge, of Kentucky; Third Vice-President, Miss Caroline Ruutz-Rees, of Connecticut; Recording Secretary, Mrs. Susan Walker Fitzgerald, of Massachusetts;, Corresponding Secretary, Mrs. Mary Ware Dennett, of New York; Treasurer, Mrs. Katherine Dexter McCormick, of Massachusetts; First Auditor, Mrs. Harriet Burton Laidlaw, of New York; Second Auditor, Mrs. Louise De- Koven Bowen, of Chicago.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1600,1225,705,792"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A delightful reception, in honor of the officers of the National Association, to delegates and visitors attending the Convention, was given by Senator and Mrs. La Follette, in their home at 3320 Avenue of the Presidents. Those in the receiving line were Senator and Mrs. La Follette, Mrs. Josephus Daniels, Mrs. Albert Sidney Burleson, Mrs. Franklin K. Lane, Mrs. David Franklin Houston, Mrs. Miles Poindexter, Mrs. Reed Smoot, Mrs. Victor Murdock, Mrs. W. L. La Follette, Mrs. J. W. Bryan, Mrs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1606,2023,703,663"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Locust and 13th Streets",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1728,2833,467,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Convenient to railroad stations, theaters and shops. Desirable suites and single rooms with bath. Booklet Mailed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1613,2972,695,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TheLaw Reporter Printing Company",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1611,3140,695,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PRINTERS, STATIONERS, and LEGAL BLANK MAKERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1722,3286,480,84"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "518 Fifth St. N. W., Washington, D. C. Wopxs: 1206-1208 Phones, Man",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1598,3401,725,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RENCH DYEING AND CLEANING Office 826 12th St. N. W., Washing ton, D.C. ACHILLE E. BURKLIN, Proprietor",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1659,3680,618,126"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Most Sanitary Lunch Room in Washington, D. C. —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1598,4017,725,183"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE LINCOLN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1776,2767,329,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PHILADELPHIA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1817,2898,283,40"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FrANK B. CrROWN, Manager",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1735,3211,456,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lerch's",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1882,3617,168,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW TREASURY LUNCH 14268 F Sweet Near Sugrage Headquarters CENTURY LUNCH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=1761,3879,426,118"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "31",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2948,150,53,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DELEGATES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2374,309,650,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Don't fail to look over our full assortment of Christmans GCards",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2368,442,651,195"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our new and exclusive designs should be seen before purchasing elsewhere",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2370,669,655,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Calendars Leather Novelties Christmas Gifts",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2489,806,402,183"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HAUSLER & CO. Fine Starionery and Engraving 741 FIFTEENTH STREET The Finest That Nature Produces THE FRUIT AND NUT SHOP Our delicious Gift Fruits possess both the Ouality and Loveliness that renders them Charming Tokens",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2340,1036,717,542"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MILLARDS\" DRESS SHOP for refined styles in Gowns and Blouses Sensible Prices Prevail 127 So. 13th St. - PHILADELPHIA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2349,1619,698,292"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bell Phone Locust-1534 S. SACKS Ladies' Tailor and Importer 1833 Spruce Street Philadelphia, Pa. Furrier Habit Making a Specialty Furs of the Better Grade— THEO. F. SIEFERT 1426 Walnut Street Philadelphia, Pa.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2349,1945,703,545"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOTEL DONALD",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2511,2538,382,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "13th and K Sts. N. W. (Franklin Square) Washington, D. C. Exclusive Family Hotel—American Plan Rooms Single or en suite. Rates, $2.50 per day and up. Politeness Cleanliness ROYAL LUNCH C. Georgeou, Prop. 1416 New York Avenue Northwest Evans Building, WASHINGTON, D. C. MEYER'S MILITARY SHOP",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2340,2630,717,596"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1231 Pa. Ave. N. W. WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2525,3254,369,108"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MANUFACTURERS OF",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2533,3416,338,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MANUFACTURERS OF",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2533,3416,338,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MANUFACTURERS OF",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2533,3416,338,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FLAGS BADGES BANNERS Low Prices : Quick delivery",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7#xywh=2340,3514,717,488"
+  }
+ ]
+}

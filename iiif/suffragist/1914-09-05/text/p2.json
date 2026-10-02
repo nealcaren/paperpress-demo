@@ -1,0 +1,315 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1510 H Street N. W. Fih Aveue nd 46th Sreet J Gini n WRAPS COATS BLOUSES NOVELTIES MILINERY GOWNS FURS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=430,3778,2816,336"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=455,193,38,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o SHPTEMBER 5, 1914.No. 36 Weekly Organ of the Congressional 0 for Woman Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=423,275,866,363"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EDITORIAL AND BUSINESS OFFICE: 1420 F STREET N. W., WASHINGTON, D. C. SUBSCRIPTION PRICE: Checks, drafts and postoffice orders should be made payable to The Treasurer of the Congressional Union",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=425,649,871,347"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EDITORIAL AND BUSINESS OFFICE: 1420 F STREET N. W., WASHINGTON, D. C. SUBSCRIPTION PRICE: Checks, drafts and postoffice orders should be made payable to The Treasurer of the Congressional Union Columbian Printing Co., Inc., Washington Entered as second-class matter, Nov. 14, 19183, at the Post- Office at Washington, D. C., under the act of March 8, 1879",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=425,649,873,540"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Notes of the Week",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=557,1297,615,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rules Committee Dodges Action on",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=476,1449,774,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Friday, August 28th, the Rules Committee met for the first time since June 10th. They reported favorably a rule for the consideration of the war risk insurance bill and for a bill extending self-government to the Filipinos. Action on suffrage was avoided by a motion to adjourn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=434,1628,862,307"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Petitions to Congress",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=637,2011,466,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Petitions continue to come in to Congress praying for speedy action on the National Suffrage amendment. Representative Kennedy of Rhode Island, on August 26th, presented the “petition of Alva E. Belmont, of Newport, R. I., favoring the submitting of the amendment for woman suffrage at this session of Congress;\" Representative O'Shaunessy of Rhode Island on August 29th presented the “petition of Mrs. O. H. P. Belmont and others of Newport, R. I., favoring woman suffrage;\" Representative Lonergan of Connecticut, on August 31, presented the “petition of certain citizens of Brandford. in favor of consideration of the woman suffrage amendment at the present session of Congress.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=431,2116,865,755"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Again “Taxation without Representation",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=439,2950,859,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "\"THE Government is now experiencing a reduction of its revenue to the extent of two million dollars a week. To remedy this the President and his advisers have concluded to ask Congress for legislation for the raising of special war taxes. This is Federal action affecting women, for women will have to pay their share of these taxes. When women asked to be enfranchised by Federal enactment, the President referred them to the authority of the State, and yet President Wilson and his advisers do not hesitate to employ Federal action to increase the financial burden of women. Thus women are again reminded of the inconsistent attitude of the present administration.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=443,3054,859,687"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Anti-Narcotic",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1666,293,304,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE Senate has had before it the Anti-Narcotic Bill, which was passed by the House and sent to the Senate over a year ago. This bill is of great interest to all women as it deals with the question of regulating the amount of opiates used in medicines, beverages and soothing syrups. Senator Lane said in part, in speaking on this bill in the Senate",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1383,421,864,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Mr. President, I wish to call attention without any hope of accomplishing any change in this bill, to one of its provisions which I know is a bad provision. I wish to say that there should be some restriction placed upon the manufacture and sale of such nostrums. I am informed that if each portion of this bill to which I have referred is not allowed to stay, the bill will be defeated; that the interests who sell these articles containing these pain killers, consisting of not to exceed two grains of opium to the ounce, are so strong and their influence is so great upon the executive officers of this government who have this matter in hand; upon this legislative body and the legislative body at the other end of the Capitol, that if I fight it and cause the elimination of that section the bill will fail and the traffic in opium and cocaine will go on.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1388,842,866,992"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women and Medicine",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1587,1959,471,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A significant sign of the times is the announcement made this week by the University of Pennsylvania that women will be henceforth admitted to its medical school. It is stated that it is probable that the dental school will also be opened to women. Heretofore women have been admitted only to the graduate and law schools of the University, with the exception of certain teachers' courses and certain undergraduate work that were also open to them.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1390,2090,867,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Indian Council Votes Favoring Woman Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1487,2749,678,141"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HIPPEWA Indians of the Bad River tribe Tuesday voted in favor of woman suffrage. The primary object of the council was to elect a committee of five to assist the Secretary of the Interior in preparing a roll of the unallotted Indians on the reservation, there being 500 or 600 in this class who still are entitled to their share of the tribal wealth.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1405,2958,862,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“No Indian should oppose the right of our women to vote,\" said William Obern, one of the Indians. “The hardest part of the home falls on them. They own property, too, and know how to take care of it. They are more likely to vote for the real welfare of our people than the men.\" ; ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=1408,3380,863,359"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "English Women in Industry",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2470,290,606,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The striking increase in the number of womer in the various industries as shown by the newl completed census in England, has so arouse the authorities of that country that the Hom Secretary has felt it necessary to issue a specia message on that subject. The Home Secretar, regards it as a menace that women should eve displace men in industry and calls attention t the fact that during the war women will mor and more take the place of men. Mr. McKenn asks the question, “What will happen when the men return from the war and find the position filled by the women?\" Just what the answer i the Home Secretary does not seem to know. I has indeed taken a war to bring to Mr. Mc Kenna's attention several obvious facts in regar to women. Fact No. 1 is, that women are i industry. Fact No. 2 is that they are in competi tion with the labor of men. Fact No. 3 is tha when men are drafted for fighting purposes, wo men are necessary to industries. Fact No. 4 which puzzles the Home Secretary more thar anything else, is that the working women an the returning men will become more intensel competitors for existence in the economic wag struggle and in this struggle the weaker is th one to survive. This is due to the fact that un der the law of wages, wages always tend to th lowest point at which workers will consent t exist. If woman consents to exist at a lowe wage than man, the woman will hold the place The man, in that case, seems to be a problem t the astute mind of the Home Secretary. Per haps Mr. McKenna will now see that both me and women are necessary in the industries an that both men and women need the protectio of the law and both should have a voice i making it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2351,405,852,1728"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "r. n th a th m b th",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=3221,1770,37,466"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman's Social and Poliiical Union Issues a Manifesto of Peace",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2396,2205,804,137"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OLLOWING on the announcement b; Mr. McKenna in the House of Common of the unconditional release of all suffrag prisoners, the Women's Social and Politica Union have issued the following manifesto to th public",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2359,2386,853,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We are convinced that under the joint rule of enfranchised women and men the nations o the world will, owing to the women's influenc and authority, find a way of reconciling the claims of peace and honor and of regulating in ternational relations without bloodshed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2362,2706,859,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The Women's Social and Political Union nev ertheless believe also that matters having come to the present pass, it was inevitable that Grea Britain should take part in the war, and with that patriotism which bas nerved women to figh for the rights and duties of citizenship on behal of the national good, they ardently desire tha their country shall be victorious. This because they hold that the existence of all small nation alities is at stake, and that the status of Franc and Great Britain is involved.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2364,2989,861,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Therefore, in view of the European war, the W. S. P. U. have decided to suspend hostilitieand activities at once, now that their womer political prisoners are released, and every mem ber of the union will loyally abide by this de cision.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p2#xywh=2368,3476,856,262"
+  }
+ ]
+}

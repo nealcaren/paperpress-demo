@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "formerly lived at Hydersbad, in Scinde, snd had been sactive in promoting the educstion of women, wisiting the prisons, and establishing Theistic worship in that place. Miss Carpenter attended the Brahmo Somsj st Ratnsgirl. The congregation wes small. but serious, and Mr. Maduk conducted the service in s most devotional manner, often quoting the teachings of Christ. “In Bombay,\" Miss Carpenter says, “the Theistic worship of the Brabmo Somsj continues to be held at Dr. Abnaram's. This gentleman deserves every mark of sympathy that can be shown to him. He has lately been excommunicated for sympathizing with a widow re-marringe in Bombay, but be has not lost any of his moral influence in consequence. Thedore Parker's writings are much read among the members af the Brahmo Somsj. The last week of 1869 was spent by Miss Carpenter in Abmedebad, in Guzerat, where she was rejoiced to find that Miss Chamberlaim had been working most earnestly and successfully at the girl's school established during Miss C.'s former visit. Some of the young native women are being trained for teachers under the care of Miss Chamberlain with the best results, present and prospective.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=181,185,561,868"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Carpenter concludes her lettor with the following interesting and suggestive snecd ote On my remarking one day that a Mahometan Judge of the Small Causes Court, at Surst seemed more courageous than the Himdoos, and that I supposed it was on account of bis race. a young native barrister exclaimed, No, it is not on account of his beimg a Mahometan that he is more courageous, but because he has become a Christian. I afterwards asked him the meaning of this. He said that the moral standard of Christianity and the sense of duty thus enforced are so much higher than those of Mahometanism or Hindooism, that the professor of such sa religion must be more courageous. Yet he cannot embrace Christian ity, and multitudes feel the seme in Indis because they cannot believe in revesled religion, or in miracles.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=175,1064,565,607"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE EDUCATION OF WOMEN I TTALY. The ladies of the Internstional Association heve petitioned the Chamber of Deputies at Florence in favor of establishing such schools and colleges for women as may be suitsble to the requirements of the age. THE LAST SHALL. BE FIRST.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=173,1689,564,242"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "While the Education League is discussing the merits of Mr. Forster's system of Nstional Edocation in this country, and while denominstionsl\" diffculties are distracting the minds of educationsts in Protestant England, the towns of Bologna, Falti, and Cesens, in Itsly, have abolished catechistic religions tuition in all public schools. The resolutions of the Communes declare that the rights and duties of ocitizens shall be taught instead of the mysterious catechism. UNITED EDVCATION BEST. mentioned m a former letter that the Sehool of Arts in Edimburgh has beon opened to women. This is the first wosmion under the mew arrangement, and above sixty female students have already been enrolled.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=173,1941,565,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A memorisl has just been prosented to the rte of the mtt ion urig thom, in mek ing wome projeoted anges, to give the Nohool of Arts a prominent mite, and to allow suffoient means for its furthor development. As it mow working women's s well as working man's college, it is probable that more sxtended",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=172,2497,568,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h e ocom odstion will be nmeeded in future. In the course of a few years, it is move then likely that the male and female students will astend in sbout equal numbors, as is the onse in several of the working peopie's colleges in London and elsewhere. The memorial was signed by sbout seventy femsle students. There was a similar memorial from the forme and present male students of the School of Arts. Thus to enlarge existng schools and colleges 50 as to admit of thew receiving students from the bitherto excluded balf of the ppulation, is a much superior pisn to that of founding special schools and colleges for girls and women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=761,103,561,573"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There are three main advantages to be gnined by umted education 1. It is better morally and intellectuslly for the boys and men 2.1It is better inteliectually sud morslly for the gaurls and women 3. It is more economical. We learn that seversl female scholarships are likely to be founded st Cambndge. I have aiready mentioned thet under the Endowed Schools bill of last session \"provision is to be made, as far as conveniently may be, for extending to girls the benefit of endowments.\" A society bas been formed in London to md in carrying out the directions of this clause. Miss E. Borham Carter is the Hon. Secretary of the Association.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=759,680,562,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lord Shaftsbury, the Premdent of the Femsle Medical Society in London, has promised to preside at the mext meeting of the Victoris Debating Society. The paper and dascussion will be on \"Medicine as a Profession for Women.\" LADIES AMUSEENT. This is the title of an article in one of our serals from the pen of Miss Cobbe, in which the following interesting passage oocurs",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=760,1250,564,309"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The philosophy of relaxstion, as everybody knows, i not the mere stopping of one ting, 1 doimg. nearly as may be, the opposite thing The miller's borse, which, baving to go round all the weel from right to lett st bis mill, went round of bis own secore on Sundays in bis peddoch from len to right, hit on pre cinely the true principie of all relsxstion. Accoraimgiy. therefore, as the physicst inferiority of women will siways make the manusl lsbor walusioss comparstvely to that of man, while their mentsl powers permit of much nesrer competition, we must expect thet ss the isbor market gradusily opens to them more trely. will be almost wholly among sedentary employments they will and thetr tashs. Amon qdoub ess. such s work will be chiefly of an imte sort—the organistion of charitis, marcsntile socounts. the profession of medicine, arts and literature. Ancord ingly, the compiementary solor of suob busy lives will be made up by smusements ss much as possible pot of an imtellectual or sodentary ind. Further. the inne tive prererence which will thus be t for ou-0r relaxation and muscular re. will be tonally strengthened by the over-growing sense of the mecesity of mproving the besith and vigor of wom from its present misersble svorage. The condon of ieongpatot ot o recogid o o . make them. it us say. hoperl convlt, y o w cine excending evon what Enghsh country hae ever known. snd quite revoluionining the ves of Fronch women, Halisna, Germans. and Americans",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=758,1565,568,876"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Among woh hesith e , thet gardon ing wi hve probly the p is at oe Saxons beve thorougbly proved our power to e, an enereine whih brings overs muncis into play i po 3n y e oy p e te of gue. The tr men and Sowsrs is se srong, o tew won of ny",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=760,2450,565,268"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "247",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1794,110,89,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "atory wor ll e aone y w, curo i o wy pt om. m Many bundrede of Engiin 1n6 wor from coi ihetr Gays in their own gstens. ond. heing few own e , yy ow w $010 more than thy te omoT of my i under e ruie of Booto wot. Bot wom of the umier cie tht to gam ber bres by Soimg precissly what thee s ao from choioe though boy many would reoe quit Greary coo oome woroos t the same, Hesven sione can tsl",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1338,193,562,426"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As o substituts $o7 gerdening. f would anem as i the more delicste kinds of carpentery. wons rimg. turning with s isthe snoult come by ane by te e range of women's smusments. The proowciion of egant and useul rticies i wood ad ory. delightiul (and wmost sconomicsl foility of repsiring small bousenois aater, an g p ornaments without the everissting referenos to a. men, would sfiord enjoyment to numbers of oie Toim ote e wardrobe pogs, making s picture me or prety Do of chess-mon. an resoitly oewing on the o1d mower's arm-chaw. in Beu of Sacimg t beada, and silks, and cottons for wereoms mever to be used, and ant macassars which become the Purdes o existonce. Osthorine the Grest, the only womes whe ever recerved the tae. an wo mig beve been oulint the Grest Simner.\" kept ber Sugers often out of mis ohief for some Bours by turming wory bosee ne better women migt p rater than i mmy of hoe o wuguet the queory.. Is t ponsinie e toyp ken into their pay that grest iwetor cosrtnd or aways ondius someting for 30 ans t Ridimg. arvimg. wwmming. rry. roet, aown to pumble and juvenie, but with oog piring, t o i the cin which it is to be hoped will yess betom more populsr, while there will be a proportionste dechime of mabion in bemigne, soroticn, potiom ana a tht w o . o simce the only mcy Gipig ot sion thet the periormenoe iwork\" in suy sense of the word.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1341,635,561,926"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Of ooure, ere w w of room for wimier sedentery wuets Pt toney f t ig (or thero o purely play o or only prosuoue of o om p n3o5 har- or (o ri i p W mec t , orontic A wl iit i am ber with prtty r Will mc change a we e or p out of wom p than 1 t pree . ct preii o ri offre trt lves o Dim. and ann A tor Trevelind o y aying D",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1344,1563,561,587"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1.t wh a o with c p o Aro During the past weok umber of p on t wulpet have pre mentBristo sent one wt ov",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1345,2156,559,434"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Very buly yours,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1374,2565,201,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ain p unde themaeives they justary t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p7#xywh=1357,2652,556,62"
+  }
+ ]
+}

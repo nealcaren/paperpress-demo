@@ -1,0 +1,205 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p9.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "miserable hovels, with littie or mothing to cbeer their desolation or strengthen thew exhausted frames. Since her return to Philadelphia, Mrs. Townsend bas given a lecture there to \"s crowded house in Mercantile Library Hall\" in which, sccording to report of the Post of that city, she said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=186,205,562,255"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Four months azo I found these people in this condition. 1I visited the President and to1d him of thew sof foringe, and eom0 not ppropri e tor the colored poor?\"He repied that sn appropriation could be made for the poor of the district, but not for the colored poor; and be assured me tnst be wonld do all in his power for them; that be would give bis voice and infiuence, and I was satisfiod that was all that he could do. After visiting the members of Congress, we eventuslly sucoeeded in getting an sppropristion of $30,000 for the poor of the district, and will it be believed that only $500 of this amount went to the reltef of these poor wretohes. The money was desposi tod with the Secretary of Waz, and a cer atn class of men, 1 learn, received the balance.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=188,467,562,396"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Even when the five hundred dollars wers spent, it was well nigh useless, as the materials bought it, suob as meal, mest, otc., were simost with wortbless. The condition of these pecple is beyond desoription. Most of them are oid and sick; they bave no shelter, no food —fuel; and unless something is quickly done, desthe from starvation will quickly foliow. Indeed, I receved a letter this day, containing an account of ton desths, mostly from insuffcient food and clothing. And the most deplorable thing sbout aft tois ts that no one there seems to have notioed it. Every one is bent on his own business, and takes no notice of what is gotug on sround him. I talked to Senstors sbout it. They replied they mever noticed these people, and, what is more, they answered tnat they came to Washington to 1ook aftor thetr own business, and not to take care of Washington niggers or any other niggers.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=188,867,565,455"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "My testimony as respects the oolored people at the south was coolly rejected by republican politicians because it detighted the democrats.\" Even Womsn's Rigbts Republicans, women, too, as well as men, endeavored thws to invalidate my testimony on so foolish and unworthy s ground. But such republican women will do well to remember that the ballot alone will not be broad enough to clothe them when they get it, nor substantial enough to feed them. As man cannot live by bread alone, so meither can woman by the ballot. Wendell Phillipe seems to be slmost the only Republican who bas any idea that the ballot will not bring millennial blessedness to the emancipsted slaves. and he is reprosched, veviled, ndiculed, everywhere, for his contiued zeal in their behalf. If Senator Sumner and the rest of them there in Washington cared mo more for these poor people before the Fifteenth Amendment wes ratified than Mrs. Townsend' shows, what will they do for them now?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=191,1328,564,700"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rachel Townsend spesks for Washington onty. 1 speak now, and spoke last sutumn, for the country. Let the country beware how it regards our testimony. . P.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=193,2031,564,125"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Just AwARD.—A writer from Rookport, Mass., says Rev. G. H. Vibbert, who was sbut out of bis church by one of the trustees on account of bis proolwitien in favor of Woman Suffrage, was endored t the parih meeting by merly unanimous vote, and his saiary raised $300 He adds, a deep interest is folt here in the woman movement, and st the annusi town meot g toket was presented with a complete list of iadies' mames as candidates for the town offees.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=196,2203,564,348"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tas Congregstional oburch in Thomaston. Muine, has dooided that evory member, male and fomsle, in good standing, present at any business meeting, shall be entitied to vote.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=197,2590,565,128"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hr Reintin WONING WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=809,115,450,119"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Faon whence came the Gertrudes of Wyoming? Since they bave been made voters and jurors and justces, some of the eatern papers have talked badly sbout them, representing them as \"no better than they should be;\" perhsps mot quite so good. The esrhiest Virgimia women, history or spocryphs says, were bought, many of them in England, in the very worst markets of Engiand, too. And worse yet, were paid for in tobacco And of such was the chivalry of Virginis. It is even denmied now, that a single drop of Pochabontal blood flows m the veins of one of the first famities, or second even, in the \"Old Dominion. But where could the women of Wyoming bave been born and bred\" For, while many papers hsve procisimed them as the meanest of their sen since they have been made voters, and just the class or type which. they further say. would vote in New York. while all decent women would stay at home, their own journals tell quite s different story sbout them. The Larsmie Senfinel reports them as below and Larsmis is the very place, it should be remembered. where the court was held into which women were first introduoed as jurors",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=767,270,565,824"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And first, there are very few piaces which ere blesed with such a cless of women ss Leramie City. 1In proot of this aeertion we will call stton on to a tw rei f their lebors bere. We bave the fimest rooo hoe i the territory, and the ladies built i. We bave the most beautiful church edifice in the territory, and the ladsen :0 good share towards bunaimg, and the whole of the furnishing of i. We hsve another good and substan tial stone church, pretty well advanord in procese of construction to which they sranted and still are grantng materisl aid. We have an excollent oburch organ. the common property of the aifrent denominstions bere. and the 1adies bought it. The whole burden, lsbor and expense of the care of the poor and sick in thie oity. has been cheerfully undertaken snd fastnfully peformed by he 1. Tey ae n e mo thusiastic supporters of all those aocial and sraterns associstions calculsted to build and foster posce and good will among men. Our seversi Sabbath soboois bere, owe thetr very origin and exttence to he or and exertions of the ladies of Laram ie City",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=773,1104,565,547"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In paymg tis just tribute to the women of Lersmie, we do not aernct from the berality of the men, who bave always libersily responded when called upon, but who, busied with their own ocares and labors, have sladly turned these public smprovements over to the ladien, and most fasthrully bave they dincharged th ir trust. Second, there s mot, o ar a we kmow. ing le wo man in this city, who is an advocate of, or convert to, the docirine populsrly kpown ss Womsn's Rights We know that mot one of those who erved juror t our late torm of court belong to that class.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=776,1654,563,318"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And tiraly, thee indi a ot t po and only socepted it with 4ifdonce and besitation, with doubts and misgivings. Very tew. i sny of thom, bad ever et a foot in courtroom, and they kne o thins whatever of the machinery of courts, and e ntriote compoted iy o ustioe i aminre. And they w kmowing in its aincarge they would be u Glosest crutiny, and the uricte i of proprit with the imowiedge thet notwith standimg thei irooe ey wo ions oharity than ordinary male jurien",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=778,1973,562,316"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Eouan Pay ros Eovs Woss.—Somebody to1d the Wyoming Trune tht the girts tht the typetig o T Ro ol paid two-thirds the amount which men receive on other wekly papers. And the T why it 4.7Several mes it bas been told thet Tws RavoLOon is printed on contrt, and weither editor or propritor bas saything to do shout it, except to pay the contrector who, by the way, 3oe ot eploy e tprosent, ut whg be p peid men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=778,2333,563,386"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o1",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=1799,120,84,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lis Luans Enosrron.—Somebow., e brooms 4o not always sweep ciean. Eviseny Mins Edgarion bos poused the wrong e of The Coming Womsn.\" Her lcture t Cooper Institute last Fridsy evening was not o popiar. o wel aom , o e would have been bad it advoosted, instend of opposing the Sufrage guestion. And would have been far wiser. quetion of poliey. pot to have procismed berself the open opponent of that now world-wide reform. as Ms Edgerton did, or some of ber over-elous frens for ber. That sbe is sbie and besutsl is doubtie true. That ber leoture will do good to the very osse she oppo. i. he m . i r, and will probably samit. Her pot very generous por yet graceful girds at some of her seniors on the plstiorm who wod down, with bicody seet sometimes, the thorns that opoe beset the path way of woman up to t were better omitted. She would do well to rememb, or to learn that every argument sbe wses or can um agwinst Woman Sofrage used with grester fore agaimst woman's lecturing st all not thirty yeors ago. And one other thing Miss Edgarton bardly meed be told that far older (perbape mot abler) women, snd men as well, have tried then band against woman's right of suffrage, but surely in no osse with any bonorsble or oreditsble success to themselves. And for the same Tenon s alway m o1d ttempt to defend outh eru slvery agninst the attacks of the abolitonists, it is the wrong sde—the side of mjustioe —and so does not, cwmnot. possibly admit o success . 9.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=1351,207,559,1103"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE FIFIEENTH AMENDNENT.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=1424,1354,427,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "7 is t last a part of the fundsmentsl lsw and the colored mate citimen is the equal of the white. In conmection with the prociamstion of the State Depertment. the Presdent iswned the fol lowing Message. which refiects more oredit on both the besrt and bead of him than any paper he has ever before put forth. 1t will be observed that he dwells much and ecarpestly on the importance of Eduostion eennl the boon of the ballot any resl bemet. The women of the country bave st lenst the comiort well as con o tht whe they om to the Franchise, no such exbortatson to them will be periiment or proper uniess the mate popolation shall be at that time elwated to tr higber renge than it bolds at prosent. But to our Message To the Senate and House of Representative",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=1359,1424,557,581"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is wnusnal to motry the two Houses of Con grew by message of the promulgaton. by proclamstion of the Secretsry of State. of the re fiostion of a Constitutionsl Amondment In view, however, of the wast impormoe of e Fifteenth Amendment of the Conston, th day declared s part of that reored 1 deem departure from the nu co tifiable. A mossure which makes a one on milons of people voters, whe were bore aeclared by the highest trpunal i the citimons of the Unites Neston. mor elgible to of the Decisrtion o In p wes fixed and universsl—in the civine por om of te morsls a well ns in polsostbi me had me right w we reapect, ino pora o from the foundeon of ou free govrment the present time. Insututons ihe o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9#xywh=1360,2012,556,701"
+  }
+ ]
+}

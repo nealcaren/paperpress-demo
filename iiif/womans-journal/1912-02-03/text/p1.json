@@ -1,0 +1,557 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=353,352,2885,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Vol. XLIll No. 5",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=378,708,432,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LABOR MEN WILL HELP VOTES FOR WOMEN Oregon State Federation Adopts Unanimous Resolution to Vote and Work for Equal Suffrage At the meeting of the Oregon State Federation of Labor at The Dalles, the following resolutions were presented by Attorney W. M. Davis of Portland, and were passed unanimously:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=338,798,573,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Whereas, the question of equal suffrage will be placed upon the ballot at the next election, in November; “Whereas, it appears from the initiative petition which has already been filed that it does not restrict the ballot in any manner, but gives women equal rights of voting with men; and, “Whereas, women are naturally less selfish and more sympathetic than men; and, “Whereas, there does not appear to be any reason why wemen should not have equal rights with men in voting; be it therefore,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=336,1277,573,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Resolved, That the State Federation of Labor of Oregon, here assembled, recommend and indorse the initiative petition which has been heretofore filed with the Secretary of State, giving women the right of suffrage in the State of Oregon; and be it further",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=339,1880,573,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Resolved, That this body recommend to every subordinate body in the State of Oregon that equal suffrage be indorsed in the State of Oregon, ana that every voter in the State of Oregon, members of this body or any subordinate body, use their utmost efforts and vote for said initiative ballot at the next election to be held in November.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=341,2180,572,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of e is n Ss d y a y to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,2342,37,576"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MISS MARY JOHNSTON DRAWS CONTRASTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=347,2593,564,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She Tells Virginia Legislators that Anti-Suffragists Want Women to Travel in Ox-Carts while Men Go By Airship",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=345,2728,567,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mny w., y of at he do rip- he",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,2895,51,559"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Some striking illustrations were used by Miss Mary Johnston in her address the other day before the Committee on Privileges and Elections of the Virginia Legislature. Virginia women are seeking the admission of girls to the State University, and a constitutional amendment granting women the ballot. After referring to the many. changes of modern days, Miss Johnson continued:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=342,2917,567,448"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“But in the midst of all this change of status, so general, so recognized, so welcomed, there appears to exist, in a number of minds, a stony objection to any change in the status of woman. She, alone of all organisms, is not to be affected by any changes of environment. She alone is to stand, like Lot's wife, unadapted and unadaptable. She alone is to preserve the equilibrium of the Dark Ages in the midst of the electric light of the twentieth century. She is to travel by ox-cart, while you, gentlemen, take the airship. She alone is not to follow her inner voice, which says, 'Grow.' sShe is to follow your voice, which says, ‘Do not grow. We will do the srowing for both.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=341,3366,570,672"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "it. to s nt rn ce. ect",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,3436,51,361"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "rly ur ng er ou am ate",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,3796,53,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women Who Must Earn Their Living “There are 40,000 women operatives in Virginia. There are 12,000 women and girl industrial workers in Richmond alone. There are 900 trained nurses in Virginia. There is a great host of women stenographers in Virginia. There are thousands and thousands of women teachers in Virginia. There are in Virginia women manufacturers. There are in Virginia women farmers. Thousands and thousands of Virginia women are self-supporting. and supporters of others. Run over these lists of factory operatives, shop women, office women, teachers, nurses, writers, journalists and you will find every prominent surname in this State of the last 250",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=341,4041,569,700"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "kewe ind en",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,4155,58,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "irls We ess.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=0,4438,70,133"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Official Organ of the National American Woman Suffrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=832,570,1904,68"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SATURDAY, FEBRUARY 3, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1384,704,811,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SATURDAY, FEBRUARY 3, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1384,704,811,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y 4 t ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=998,772,1652,2101"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The Suffragette Arousing Her Sisters\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1485,2908,592,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "4,000 WOMAN VOTERS TURN OUT IN DETROIT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=930,3032,555,91"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cast Ballots at Tax-Payers' Election on Street Railway",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=926,3167,564,84"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Abcut 4,000 women tax-payers of Detroit are said to have voted at the recent election on granting a concession to the street railway company. The men's vote was very light. The concession was defeated.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=928,3302,567,227"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "years. Virginia women are in the economic world to stay. Virginia girls are graduating two to one boy in the high schools. Virginia women are swelling the college rolls—of other States. Virginia women are large property-holders; Virginia women are large tax-payers. Defying Sense and Statistics",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=926,3587,568,353"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“And yet, in the face of statistics, common sense and a woman who is not an idiot, some gentleman from Far-away will stand under electric lights in the halls of a legislative assembly which this year sees introduced tax-reform, prison reform, childlabor reform, hours-of-work reform, initiative, referendum and recall, and segregation of the feeble minded—the gentleman will rub his hands, smile and say, 'My dear ladies, if you'd just consent to stay where your greatgrandmothers were!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=927,3942,569,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“When you, gentlemen, come to committee properly bepowdered, pig-tailed and snuff-boxed, when you again discuss embargo and whether or no we shall purchase Louisiana, then will we, too, return to where our great-grandmothers were.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=924,4475,571,261"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SWEDISH-AMERICANS PROUD AND ELATED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1516,3027,565,98"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "They Rejoice Over the News About Votes for Women in Sweden",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1522,3173,560,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Great interest is felt by intelligent Swedish-Americans, all over the country, in the announcement by King Gustavus at the opening of Parliament that the Government will bring in a bill to grant full suffrage to women. There is a very general expression of satisfaction that Sweden is to take the lead in this matter. The Worcester (Mass.) Telegram interviewed prominent Swedish-speaking people of that city upon the subject, and their views are typical of those expressed by Swedish-Americans in many other places. The Telegram says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1515,3307,565,595"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Almost everyone who had any opinion to give and who was acquainted with the political conditions of Sweden, was highly elated. A Great Moral Victory “Mrs. Amanda L. Peterson, a leader among Swedish-speaking people of Worcester, gave an exclamation of delight when she learned the encouraging attitude of the Riksdag.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1518,3905,564,391"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It means a great moral victory for Sweden, she said. It is pleasing to note that the women of Sweden virtually have received their enfranchisement before America and Ensland. It shows that Sweden has the greatest respect for and reliance upon its women, and it will have a great effect on the country. \"The women can be relied on to (Concluded on Page 35)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1516,4298,568,438"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Concluded on Page 35)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=1614,4700,375,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Courtesy The Progressive Woman",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2089,2943,499,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMEN OF OAKLAND STUDY THEIR TAXES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2115,3023,547,89"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "California Women Are Said to Be Showing Their Bargain-Counter instincts, to the Advantage of Municipal Economy",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2103,3151,564,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sranting of equal suffrage in California has been followed by a greatly increased popular interest in government. The Alameda County Tax-Payers' Association has been studying the assessment of the taxes, and has found many things not as they should be. Assessments, it is said, are often grossly unequal, and faith has not been kept with a suburb which consented to be annexed on a promise that its assessments should not be raised for five years. A meeting of the tax-payers, men and women, was lately held at the Chamber of Commerce to consider evils and remedies, and representatives of the varicus improvement clubs have organized and decided to meet weekly. The Oakland Enquirer says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2101,3365,572,744"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Never before in the history of Alameda County have the people been so keenly interested in public affairs. It has been notorious for a generation that people paid their taxes like machines and seemed to care little or nothing as to what was done with them. “Evidently a change has come over the public mind, and undoubtedly this is partially the result of adding fifty or sixty thousand women to the electorate of Alameda County, for this addition of voters, a large proportion of whom are tax-payers, do not see",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2101,4111,574,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Concluded on Page 35)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2209,4701,355,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Concluded on Page 35)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2209,4701,355,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A GREAT WELCOME TO JANE ADDAMS Madison Turns Out to Hear Her Speak for Suffrage Miss Addams had a sreat reception in Madison, where she spoke last week in behalf of votes for women. The men of the city had invited her to be heard in the assembly hall of the capitol. A press report says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2676,792,582,439"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The hour set was 8 o'clock. At7 every seat, from the front row to the gilded balcony, was filled. At 7.30 middle-aged men, girl students, and young men scrambled up the three flights of stairs. They did not bother with the over-taxed elevators. By . o'clock students stood three deep along the balcony. Girls and boys sat on the balcony rail. All indications of aisles on the lower floor were lost to sight. Women sat on the floor around the stage.\" Four Classes Need the Vote",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2679,1232,577,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I should like,\" she began, “to point out the four classes of women who I think ought particularly to concern themselves to get the ballot. “First, there are the women interested in science. We are apt to think of scientists as the last pecple to be drawn into anything savoring of emotionalism. But if they would put over' their impersonal, scientific find ings, they will have to have definite political power. We have in the city hall of Chicago a laboratory to see whether milk is fit for little children.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2680,1767,574,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The second gsreup of women who need the ballot are those interested in economics. The sirl who has studied the immigrant sees in every shipload possibili for beauty and for great things. She knows that thy can only be effectually cared for and benefited collectively. When yeu come to collective action, you come to governmental action. The first people who tried to help the immigrants were a group of women who saw the atrocities practiced on the immigrant girls. The Sweatshop Needs it",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2681,2291,575,568"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The third group of women who need the ballot are those interested in industrial work. The whole sweatshop system is a situation to regulate politically. Domestic Women Need it “The fourth group is the one made up of domestic women. The woman used to be able to take care of her children by individual effort. When she made her bread at home and milked her own cows, she did not need the ballot to insure pure food. Now these are governmental matters.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2683,2869,574,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEED NOT TELL AGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2719,3473,472,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "leither Men Nor Women Required to Do So Under New California Law— Men Said to Object to Tell Because it Hinders Their Getting Employment",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2708,3555,549,192"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A prominent San Francisco woman says in a private letter to Miss Eva Channing of Boston: “You would be surprised to know how calmly California accepts woman suffrage. If we did not know that it was a new thins, 1 should think that it had existed forever, so calm and serene is the prevailing social atmosphere.... It has been decided in the Legislature that it is not necessary for women, or for men, to state their ages upon resistration. This may seem at first sight like pandering to the vanity of women, but they say that this is not the reason. It seems that many of the large corporations have refused to take into their employ men who are over a given age, and the men find it to their advantage not to tell their ages at the polls.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2693,3772,567,789"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The. next International Woman Suffrage Congress will be held in Hun-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p1#xywh=2695,4616,563,125"
+  }
+ ]
+}

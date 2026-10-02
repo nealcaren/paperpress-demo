@@ -1,0 +1,216 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p13.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WORKING WOMAN.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=179,182,385,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz WomAw Laoruazn.—From present indications, we should say that the pext ton yesrs threaten a visitation terrible as that of the seventeen years loousts, and likely to be of nruch longer dursation, in the shape of swarme of women lecturers. Women who cannot write a respectable newspaper article, think they can win fame and fortune upon the platform, just ss the degenerste seions of noble English famines, who were nmot considered good for anything else, foand a resource in the church.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=98,247,559,348"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lecturing is gradually acquiring the dignity of a profession in this country, and those women who posssess the natursl and scquired qualifications, will find in it a field of bonorable and useful activity; but successfal oratory requires a combination of rare qualificstions, which few men or women possess, and, though individuals of either sex may be galvamzed into a certain brief and ephemeral notoriety. yet it requires the possession and exercise of extraordinary faculties to render such success permanent.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=98,598,559,383"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The latest aspirant for orstorical honors is Miss Lilhan C. Edgarton, whose romantic appellation would seem to belong to some school girl of the blonde type, but who is really a mature young woman, of large, firm figure, prepossessing, somewhat English face, and chesnut brown baw, which she wears in curls over a fashionsble chignon.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=92,984,563,253"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Edgarton bas been spoken of as the first prominent woman opponent of Woman Suffrage; and the extravegant and fulsome praise bestowed upon her in certain quarters, seemed to intimate a dosire to foree her into that position. Her own declaration of principles, ss contained in her lecture, delivered recently at Cooper Institute, does mot justify this assumption at all. Her ground was precisely that of Mrs. Croly iu her Woman's Parliament tupon which, indeed, her whole ides was based), viz., that education for business and public life should come before Suffrage, and that this education, this aptitude, should be secured by associations of women among themselves, corresponding to the woman “councils,\" which the Parhament leaders recommend—that women form in every city, town, and village, for the purpose of correcting public evils, suggesting practical remedies, and securing working organizations among women, which could send their delegates to perhament, and by their unity aoquire a morl power and strongt whioh would compe conpmideration and attention to their demands.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=95,1242,560,757"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Edgarton embodies this ides of femsle orgenization in her lecture, and recommends it strongly, but in the very next bresth disavows it utterly, and declsfes that the only sttraction among women is the attraction of repuision, and goes on with a lame and very sntiquated piooe of clap-trap, to the effect that all women are hard on their own sex, draw their skuts away ftiom contact, ete., ete. This mngoler inconsistoncy gives to ber lecture a curousty patchy and piece-work effeot. 1t sppears to be the work of other minds then her own. or st any rets, to embody crudely the thoughts of totally distinct classes of persons.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=89,2003,562,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Porbaps the veitoration of the false and worn out stuff sbout women's fatsuy and crusity towards wach other was simply intended as clever Ltde uick to \"bring down the house, as it mever fails to do, in an sudience where mon are present; but it is a sort of jugaiery that dingnsts sensible women, and was exoeedingly out of taste from a woman who takes the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=88,2447,559,253"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "modern stand-point in regard to ber own se3, and owes all the possibilities of ber future to what they have achieved in the past. How men can continue to ropest the falsehood of women's injustioe to women, in face of the every-day facts they know to the ocontrary. is only to be explained upon the presumption that it suits them to take that view of the questicn; but, for a woman to repert the slander. is treachery to ber sex. as well as disregard of truth.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=673,96,565,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Who but women founded the Homes for the Friendless, theInstitutes for Fallen Women Who but such women as Mrs. Richmond, who hes dead, unhonored, and unsung, bave devoted fortune, strength, life, to the unthankful and ill-requited task of reening the wctms of men's lust trom the abyss of degradation mto which they bave fallen? And why is the task of such women unthankful and ill-requited? Because, in their poverty, they cannot offer the preminum to wirtue that man offers to wioe. 1s the woman who slanders ber whole sex, before hundreds, any better than she who whispers the poisoned venom in the ear of one?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=677,541,561,447"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Edgarton lacks one essential qualification for her work, and thst 1 purpose and earnestness in the prosecution of it. It is in this respect particularly that Annpa Dickinson, in her inspired utterances, towers so immessursbly above ber. Miss Anna E. Dickinson is a prophet, wailing. warning, beseeching. .or s mother threatening and entreating, her beart, her soul, in her magnetic eyes, im ber vibrating voice— Miss Edgarton is a carefully-trained elocutionist, with a fine voice, a good manuer, when it aoquires more freedom, and ideas which she soeems to have appropristed from s variety of sources, and put together in a somewhat incongruous way ; but she gives evidence of sbility. which only requires experience and a high objeot to render ber a glorious sequisition to the ranks of enfranchised and indep ndent working women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=675,992,563,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LIGH1 FROM 1HE EAST\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=755,1601,395,84"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Awono all our western exchanges, there is mot one conducted in better temper and spirit than The Present Age of Kslamazoo, Michigan. The Spirttualists are almost to a man, and a woman, in favor of Women Suffrage. Ther conventions declare for it and their public Jeoturers and journals almost, if not wholly, advocate it; not cantingly and patronizingly, but m good solid, sober earnest, as genuime and mtelligent belevers in the primciple, in the absolute right and justice of the doctrine ; in praotice, as wellas in preaching or proclamation. And so the tollowing remarks of 78 Present Age on the pending sttempts to barmonine the difforences that have arinen in the minds of some of the workers in the Cause of Woman (omitting most of the personsi silusions) sre portinont and proper, and deserving of the same kindly, friendly consideration with which they are presented",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=671,1694,562,601"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We received calls for comven ions a ae r American Womsn's Suffrage Association, and sise rom he Nton Wom sufrage Ansoci ion. som p what we cught to say upon the subseot all the Ume hoping thet some way would open to entrite the trienos of this important rerormtory a proureive mosere rom the tor t re oived by thse cim f tw ede t y t o oyo to be breaking in the Bast We 84 e folon ing weh, whseh wit te appe ht , w in Tas Revos owon of March $eth, give ws bope t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=667,2303,561,398"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "237",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1708,100,86,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wof p om. $ or poti sy. We smorly hop t o par y tis ind 0vine in te pirst in whicn i ; ton t4, t oi of ap y wi with tegrt oy of or . caue, giving we 0 much promise of good is the aet futnreIt is mot onr purpon t ie , or to the origin or probable enime of this ouble. Ws judse from what we sew in Cleveinnt of the touin ma0 y Antonywt we o exnibited in Boston towrs Mr Son t Gontly unfriendly words and spirt at the Stets Comvee tion Michigen, rem me o t cion and tho who participeted t org New York, that the awis ao mot ri ove mere prronal preudice, and possibly apon o per ————————————————",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1257,187,560,506"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AwornEn Invrne BA.—Its Piols delphis. The Post of that city gives sad account of the management cof the Academy of Music there. It seetos that apphestion was made recently by responsible gentiemen who wisbed to rent the building for s lecture toe delivored by Senator Revels of Miseissipps. Surely, the Post says. a Senator of the United States might be allowed to speak in our Acsdemy of Musiec. Bout Ms Revels is s colored man, snd this respectable Board has the megropboma. It hes the worst kind. It hes repestedly refused Frederick Dougless the privilege of iecturing in the Academy, though he has slone more brains than almost any six members of the Board together. So, when the spplicstion was made in beba of Senator Revels, the Bord shusdered it met and profoundly d-liberated; it fnslly came to the conclusion that to aflow Senator Revels to lecture in the Aosdemy of Music would be “mexpedient,\" and without giving further reason refused to sllow him to speak",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1262,708,556,727"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VIRGINLA VOICES. —— A womas sends to the Edstor of the Richmond News the tollowing Edtors of the Eroening News 1 am mclined to think. om Betie article 1 the Frenng News of yestorany. thet you sre shout to procism your Woms Sufruge. an desiring to further your procismstion and beve yoo wpeeduly apouse or moie ce. 1 of Mrs. Et Ony tto. for you r erstion. The borribl. ruths it containe murt ronse vour beroim to t o the man. and to ametiorste the condion of milon whe ory, “justice justice' ye ilsw masors y4 tyrsnes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1257,1439,562,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "T t in Wyoming Territory, i the onls apecimen of Wo man's Higo woman. tor more t lov women M i O o, chpmpion , in a tew short wes. 1 ope you d t of hearers may be priviieged to ge wpor be. w ton or p toring og An APvoceTs or Womar's romT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1254,1914,561,261"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An APvoc or Woma' To which the editors of the News thus pal lantly respone plscod t our po pep ports to be nAdares to the Legiture of New York aopted by the St Wome Conventaon. etd a Ay. Fry, 185. phepared by Mrs. E Coy well-known advocete o er . o to sit in the jury-bon. to vote m the peopie snd in sl. ole pren y law. nd to ao on in pu We may premise by s reponaent p ouie of m",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p13#xywh=1248,2150,563,546"
+  }
+ ]
+}

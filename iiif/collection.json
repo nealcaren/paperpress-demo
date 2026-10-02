@@ -1,0 +1,51 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/collection.json",
+ "type": "Collection",
+ "label": {
+  "en": [
+   "Suffrage Press"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/collection.json",
+   "type": "Collection",
+   "label": {
+    "en": [
+     "The Revolution"
+    ]
+   }
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/collection.json",
+   "type": "Collection",
+   "label": {
+    "en": [
+     "The Woman's Journal"
+    ]
+   }
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/collection.json",
+   "type": "Collection",
+   "label": {
+    "en": [
+     "The Suffragist"
+    ]
+   }
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Suffrage Press"
+    ]
+   },
+   "format": "text/html"
+  }
+ ]
+}

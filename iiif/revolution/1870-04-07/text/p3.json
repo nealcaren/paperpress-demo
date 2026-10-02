@@ -1,0 +1,260 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p3.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mt. as To nd as her nir, life ind",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=9,179,50,343"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "main room by mesns of curtsins hung against the rafters and descending to the floor. A pasch work counterpane, very curiously devised snd quilted, eovered the bed ; the pillow-slips were fringed with home-made isce, and the great oaken chest, wherein she kept the little finery of hergirlhood, and perhaps some trifling souvenir that mo eyes but her own ever saw, was covered with disper cloth of ber own wesving. white as snow, and upon this lay her Bible and Hymn Book, together with two or three religious books. evidently much read. There, too, was a pot of geraniums fresh and bright, a willow workbasket, a pin-cushion, and some few such toilet articles as are not ususlly to be found in garrets a rug ingeniously contrived and as thick and green as wood-moss covered the floor st the bed side, and elsewhere the boards were sooured white as could be.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=300,238,572,603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "est illy ing the ouhtasmd out he ert no he ael",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=10,529,56,539"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As Theresa placed Charley in the trundle-bed she wondered why it was there : not for Sally surely. Who then ? All was so sweet and sooth ing within that little chamber that for a time she felt quite safe as she sat on the bed-side holding Charley's hend in hers and listening to the plashing of the rain on the low roof, but he was all the while on the alert. If the wind so much as shook the sash he would bob hs head up from the bed clothes, pull aside the curtain, and peering into the dim corners of the garret whisper his conviction that something was there, and that he could see its glitterimg eyes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=304,850,567,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ais ds to im for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=16,1074,38,192"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It was mot long before the noise which Theresa had previously beard was repeated, and almost immediately followed by a ory which seemed more like that of some dumb cresture in psin than the voice of a buman being. She had been timid and trembling 6ll now, but all at once found hersolf, if mot collected, t least merved up to the occasion, and taking the candle in her hand proceeded toward the corner of the room whence the cry had seemed to issue, while Charley, emboldened by her example, and perhaps a little ashamed, bounced out of bed and followed resolutely enough. O, chi'dren, children \" cries Rachel, hurriedly entering the room, \"come away ! come away! there's mothing there nothing at all\" “Yes there is, and I mean to know what it is,\" answered Charley, still advancing.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=304,1268,569,578"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“What shall I do? what will the Judge say?\" cried Rachel, in real distress, and dropping helpless midway of the room. How conid 1 have been so thoughtiess as to bring you here but I 'was taken up with quite other things. Lord help us all\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=305,1851,566,189"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Charley, stimulated by these despairing utterances, seized the candle and rushed on, clam. bering over wool sacks and pushing asde barrels, wheols. recls, and whatever olse impeded bis progress. O, Trey,\" be cnes, baving reachod the mystemous corner, “d nt1 tell you no— T've found it, come and see!\" and as he spoke he passed the candle before the bars of a cage. not unlike the cages in which wild animals are commonly oarried sbouy the country for exbibi tion, thus vevealing a human being, stunted. i-haped, and with eyes dilated like those of hunted beast Whstever it i.\" cries Charley, sll passing the candle along the bars. it looks a good deal like Uncle Is'r1\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=305,2044,563,514"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The poor wreature which wes squatting in the straw on hands and feet when first approached, mow 1tod tett ap and prociaimed tolt wo man. The sight of strangers seemed to onrage bor. and she at once fell to beating ber forehead",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=304,2561,562,190"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "against the bars of her oage. snd to clutobing at them with ber long, bony fingers. While Rachel was yet futtering in avin e deavor to get ber chickens back benesth ber wings, Sally. who had overbesrd the unnsus disturbanoe, rushed m with a full explanstion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=891,146,558,287"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She's my sister,\" she eries. \"older 'n Is'r, and ber name's Jane Ripley, snd sbe's been that cage years and years, and I'm glad you've got a chanoe to see her with your own eyes. canse I was'nt lowed to penk of ber out house. She was bright 's I am, mother says. till she got frighte med into a fit, and that she never was like herself afterwards, and st last she went crazy outright, and all on account of the w'venty of— Sally! Sally!\" interposed Rechel. On account of the s'verity of a man you don't know, and pever seen \"says Sally, winking one eye. \"But come long. Tressy, sh frd of everybody but Rachel and mother, come long!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=890,440,560,515"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "S0 here was the secret all out, the mystery all explained, and Theress understood the meaning of looks and sighs, and balf suppressed exclamstions that bad been always so strange to her.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=893,958,559,152"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(To be confinued.) ————— AS YOU LIKE 11. TaE common propensity of the goverped is to inveigh against administrstion. In this way, and for mo other reason, 1 approach and ask admission to the over-crowded columns of Ths REvOLUTION.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=893,1109,559,290"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Some thirteen years ago, Eliza Farnhsm. one of the early friendsof working, struggling women, and whose labors seem to have passed from memory, though that most thoughtful lifework, \"Womsn and ber Ers,\" will supply idess for many followers, obtaining credit for the same as original, said to me, prophetioally, “The proposed enfranchisement and elevation of our sex is an ides that will never be suffered to retrograde, but will progress to s glomouns end.\" Now, light on any subject ss only to be evoked by discussion, and this is all we ask; let us resson calmly togetber, men and women; if you can conv.nee us of error, do so if the cause ooks different from our stand-point, consider it pabently and decade justiy but a ot wive u fippant jests. i-dinguied errility, or ing flsttery for reason and common sense.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=892,1408,561,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Man has bid the substructure of climation. but wll his work i material and inteliectual there are other elements required to round our lives, characters, and institutions to a perfect whole nemely, spiritual and moral clevntion these, women were ordained to suppiy. those of our wes made by God, mot by soctety. 1 men, and one of the most pressing reasons for the electve franchise, in my esumation, is the surety that it will improve us all.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=890,2016,560,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A wouisn receives impressions from ohiects and id wholly oret and, if encouraged. to anslyre n pre they are permested by warmth and purity. A man, for instance, secing a new invention, at once reverts to its money value. or perbape some alterations by which 1t might be improved and made beneficial to himeel, while woman pereeiven ome good to ere t the um r oom its sdoption. The march of intelloct is now elting men wio , sex alone is considered suffcient caune of wer-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=884,2334,562,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "211",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1930,153,80,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "vility. and the imtrouction of femsie i poblic hfe and a wider range is Gepreotod presence, or the want of t. constituted the . feremoe between virtne ond wes in Califorme n.d ot me o There w expressed then as to ber infiuone beg bene cisl and purifying. tis only in poltios thet such issue seems doubtful. or anywhere that it is pousible for ber to enrn more than bere pit tance by labor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1471,237,555,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wives and mothers, loving and devoted are stigmstized as termagants and shrewn. beosuse they demre to see Americsn fathers and busbands as just to matve born women as they are generous to shens. If it is but a trifie, this franchise, give it to us out of courtesy of vital impormoe, a we beneve, Jot us learn our mistake. At sny rte, the time for tomporiing has gone by this event camnot be set back it is the plow growth of years of thought. of oim. sober women, not earried sway through enthn masmengendered by brhant speeches from the plstform, as many declare. but the fruit of experience long pondered in quist hearts.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1472,586,558,439"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In these days when we take pothing on trost not even theologiosl dogmes, but everything i scrutimined with unfimchimg severity. it omot be boped that the oid tra datsons by which women were controlled mto silenoe, imduend by thrests of socinl otr ci i te q of i mooted, will avall how, nor osn they be swed into submismon by the authority of Peul declaring \"Wives should submit to ther busbanin. for we honor our predecessors for refusing to submit to kingly rule, quite as stmotly omioined. while men of the present day quietly ignore the mjunction of the same mspired writer, as be msints on lsbor asa meceity and the pl direction to owe no man anything\" oed by churcbes built on speculstion snd emsnopsted from debt by begging, religons shows, or orthodon gambling.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1474,1034,558,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is alleged, and truly. tha Chostinnity bes done much for the gemtier on. md e t undenisble, but the best. the steadient. the most self-sacrificing of the enrly comverts were women—iast at the crom frtt the g they wmever were tompted with handing the money even then And it was the robut ecaples and followers whe were bemetd y e mirsculons arangnt o fisbon. by the loves the still seek asduonily And fhey only were ured by visions of bomor or gen, et a pl and on the right and loft band wae. so thet the devotion was mot entels wabout bope of rewsrd",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1473,1604,558,444"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Havimg shlowed u capet in your oolamps. bherty of specoh w t need form opimions on matt onee on macred sbowe om rosch, and voting wonl mever from ber ewor Rows Bonbe hed h ee p would sti hewe pa p Nagh e p thet wo w we hope the trivolon. wh e eer much on y wuet. e he ol whioh t wl botter, fiounoes and portne, ad the aty",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1467,2052,560,469"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There will be an eodue ow W in te prime m petone P ous of kmowing he an of p t. of womenhood.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3#xywh=1462,2525,559,218"
+  }
+ ]
+}

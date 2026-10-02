@@ -1,0 +1,271 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p15.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LITERARY.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=419,195,160,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SocTT AND SoLTUDE. Twelve Chaptors. Ra wWaldo Emerson. Boston",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=224,267,551,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This book is simply other volume of Emerson's Eesays ; and Society and Solude no more designate or desoribe it than would Works and Days; or Labor and Ospital ; or Words and Deeds. There are in the book twelve gemuine Emersonisn Eesays (and what could any Emersonian ask more ?) namely Society and So1 tude; Civilization; Art: Eloquence Domestic Life warming Works snd Days: Books; Ciubs; Courage. Sucoess ; O1d Age. No subject is exhausted, but (begging Mr. Froude's pardon, Mr. Emerson's severeet, pos sibly, fustest critic. mors is said, and better sais on eacn, than has evor boeo ssid betove in the same space and time. A Lyceum Lecture of a single houz, and Mr. Emerson rarely excoods that time, does not aamt of eboration like Bisckstone's Commentaries on Law, or Taylor's or Tillotson's on Divinity ; but whoever is the tue literary chemist can and will disti in that time the esence of all that cen or meod be done for the thinmg portion of man and woman kind. And for thet class slone Mr. Emerson really works. And sll such only need be to1d that Mr. Emerson has given to the world another book, and they will at once govern themselves accovdingly.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=219,321,560,609"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "APPLETON'S JOUnNAL for April 18 has a sketoh (with portrait of Protessor Charles Robert Darwin, the em nent nsturalist, whose romar kable works on tne Origin of fpecien\" have passed through several English and nine foreta editions, imcluding Dutch, French. German, Russian, and Itafian. There is also a beautiful, aouble-page, tinted picturs of a southern garden, with aescription, and much more that is bosutirul, usernl and eutertaining. EvERY SATURDAY. The April 16 number has s full length portrait of Sir Roderick Murchison, the distinguished geologist, with 4 brief sketoh of his bife, ane four or five other besutiful and valusble pictures bewides. Every Sarwrday has risen by rapid degrees to rauk among the best works of its kind tn the world. Boston : Fields, Osgood & Co. $4 s year; 10 conts single pumber.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=218,957,561,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HARPER's BAZAR 1at wook war even more elsborste than usl in uston. Spring styles bsing ome thing to do with it probably. The resding matter, too, was unususlly good. Spittoon\" is disagrecsble, but its necessity justifies every word, would be ample apology for a thousand such articies, would they do suy 800d to such a manbood as ours has become. HART Ap HOME, ast work, was foll of architeeture, agriculture, horticulture and endiess misconany, origimal and selected. New York: 37 Park Row. $4 year.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=217,1453,562,321"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "financial Department. Under this head, correspondents are responsible fo their own sentiments, and not Tus RRvoLTION.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=223,1807,552,142"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SPECIE AS A CIVILIZER.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=331,1985,337,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SPECIE AS A CIVILIZER.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=331,1985,337,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As mankind began to emerge from barbarm, one of the first idens was a medium to represent an exchange of wants. Shells and trinkots were probably the frst currency known, then furs and other usefut articlos. Finally metsis bocame the most durable and conve miont, and when govermet eame org they wore coimed and represented fixed value. Kings and despots, anxious to bave their name and tame rendered more enduring than their deeds, caused their images to be engraved and stamped upon the cois, thus giving to them pationslity.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=215,2049,561,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Coined motals bave gained the confidence of mankind, not by their imtrinsie walue (for gold reslly los useful than wron), but beosuse they are upposed to have a fixed and trreducible value. Thi, bowever, is a supposition only, for starying man would, if be had it, give a ton of gold. coined or unooined, for an ounoe of food, if he could get it for no less. Henoe the purchas-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=216,2467,558,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "e ooim umimies articie of peare soaros, and the real valne it posseses represents only the swest and agony of tol and care thet extracted the metals from the rocks. Again, the valne of the precious metals varies with the not.ons of people. Spanish dolinr will purchase m most of the oriental countnes twice as much as Amoemioen o: Europesn silver of equal value. The former powsers their confidence, benoce showing that confidence 1s the measurer of thew value Whatever, therefore, will create confidence is really of value, and answers the same purpose as ooin",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=798,105,561,512"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As mankind beoome more civilized, they gan a bigher point of view upon these questions, and they soon find that while spocie apswers a barbarous people a good purpose, that it totally fails to smawer the higher wants of enlightened nations. Bankers and misers may perhape declam against this, but if so, we can eanily de monstrate its truth.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=797,626,562,250"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The money transactions of our country probably average s billion of dollars dsily. This in gold would weigh near 2.000 tons, in miver bout 32,000 tons. which multipled by 300, would make a weight of nearly 600,000 tons of gold or ton million tons of silver mecessary to do our whole business for a single year. If we were obliged to handie, examinse, count, weigh. and trausport this amount the length and broadth of our grest land. trade and commerce would speedily come almost to an end. We would execrate such a barbarous currency. Europe and Asia may manage it. perbaps the same as they do travellers, stop them every bundred miles to examine their passports and baggage Our couotry will not permit any such ologe upon its enterprise and prosperity. We therefore prefer a more civilized currency.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=796,888,566,573"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Singular as it may seem, it is mevertheless true, that the character of a people is controlled by its money more than by any other element. Specie seems to imfiltrate through and saturste its possessor with its imert, immovable and lifeless charaoter. Scaroely s man can be found who can resist the stupifying influence it eaorts. Let even an enterprising business man reccive gold or silver and his impulse is to bide it. Like the sorvant im the parsble, be buries his talont. Old stockings, pots, chimueys, strong boxes, or some secret place invarisbly become its recepticle. Thus it orushes and stfies entorprise. and, lke the lamp under s bushel, is of httle use to any one. Its effect is invamsbly to make misers and to shrink greatness into httieness.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=796,1471,565,541"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The indivdual gives character to the mstion. The Emperor of Moroooo is 3dto have three bundred millions bosrded up which was robbed of the christians, enturien sine. Chins four bundred yosrs sinoe forbad the exportstion of coin and has studied every art to gravitate the world's silver to itsolf. She bes probably three-fourths of it now. Yeot bow much bet ter are Chims and More to-day tha thoug they had mot a cent?it has really proved to them s financial Upaa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=796,2015,560,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Vory different bas it been with us. The twelve hunared millions we bave dus from o mine are all gone—ipent as soon as earned. nd although Europe snd Ams may chuckie in heving outwitted the Yankees of thesr hard arned cotn. who, we might ask, have beon reslly the gniners neither Europe mor Asis oan show any avaninge from o with t, whle we o ot of vast cition, plondd farms. fits of omer, et works of riro d where w wil dorness only twenty or tharty years sinee.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=794,2366,560,350"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "255",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1830,114,89,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The grest fact is pinsn to a, tot wh p flows castwrd.enterprie fow r showing their sntipodsl nateres. This amonstrton ought to oovine e ht p 1 mot esetial to our e. properity o greatnes. and that its tendency is to degrade ratber than elevate mrankond. GEo. E. Smrra.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1379,199,557,249"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "REENBACKS VA. BAXE AOTE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1451,490,428,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tas Cincmnat: Gastt saws the Chinage Tribune bas made the remarsble monetary disoovery thet. sithough groenbacks are at doount, bank notes are at par. And it grve the reason why. it says the walue of the greenback note depends wholly upor confidenoe, snd this confidrnoe 1 mearured by the premmm on gol3. Therefore gold bemg 111. the greonbeck dolisr is worth but 90 cents. But on the other band the Nations! Bank note is tully w cured by a deppsit of bonds, snd by s oerin amount of assets on hand. By which it comes sbout, it ssys, that the bank note 1s t per while the greenback is at s discount of 10 per cent.\" And this is proved again by another process, for it says. \"while peitber the bank nor the government can legally redeem one of its own promses by tendering snother promis of the same kind, the bank oan legatly redeem its promises by tendering thet which the govermment bas declared to be a logal tonder Hene, paradonional a the foct may soem. the National Bank motes are at par while to groenback is 10 per cent. discount.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1386,558,555,761"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And thus it comes to pass thet the bank pote aoler is st par. while the greoenback daol at., in which alone it is redeemable, is worth but 90 cents. This comes from beving s finsposl turn of mind. Mere bankers would pever have dss covered thet they gum ten per cent. by redoming their motes with greenbecks but the gonine which dives to the bottom principles of money. makes it pisin. The conclusion thet we should sbolish the greenbeck motes, winob are deprecisted, and wubsttute bank motes whoh e at per.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1385,1329,555,380"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The quality of bemg at per was suppowed to be to well at par. As the bank mote e t p in greenbah. d the r p bank notes, it would mever have beon kpown that there was ton per o f market watne if the Choage Trne bed o dGiooverd . But w. fer al. the re of ten per cent. 1s whollty metphysiol. we doubt if it oan be made a bass for praco monetary system.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1383,1717,555,320"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Fos Mors Paronm. FanoRL a Ta U “PERRY NOTH ANP FERCRLE OTION The only ot o Face. Propared only by Dr R.C PERKY. pon ot. New York. Bo by Drugsits evrr",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1379,2079,559,164"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LA o MA et Cy n OPI T Ma PARASOL A a RIO MA TANC 00 MA BOUSEREING soos. BooR oR Ma Apopi pr A Por a o M MARY DINON JONEN. M. D.. BYRAON TRR, ROORL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p15#xywh=1374,2257,563,462"
+  }
+ ]
+}

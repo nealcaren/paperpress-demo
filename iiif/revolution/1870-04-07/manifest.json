@@ -1,0 +1,2216 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "The Revolution, April 7, 1870"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Revolution"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Date"
+    ]
+   },
+   "value": {
+    "en": [
+     "April 7, 1870"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Pages"
+    ]
+   },
+   "value": {
+    "en": [
+     "16"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Source"
+    ]
+   },
+   "value": {
+    "en": [
+     "<a href=\"https://archive.org/details/revolution-1870-04-07\">https://archive.org/details/revolution-1870-04-07</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Rights"
+    ]
+   },
+   "value": {
+    "en": [
+     "http://creativecommons.org/publicdomain/mark/1.0/"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Citation"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Revolution, April 7, 1870"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "16 pages. Text by OCR (newspaper-ocr 0.10.0); it contains errors."
+  ]
+ },
+ "viewingDirection": "left-to-right",
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Revolution, April 7, 1870"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Scans from the Internet Archive: <a href=\"https://archive.org/details/revolution-1870-04-07\">https://archive.org/details/revolution-1870-04-07</a>"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 209"
+    ]
+   },
+   "width": 2179,
+   "height": 3023,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/1/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2179,
+        "height": 3023,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0000.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p1.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 210"
+    ]
+   },
+   "width": 2143,
+   "height": 2998,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_02.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/2/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2143,
+        "height": 2998,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0001.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p2.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 211"
+    ]
+   },
+   "width": 2154,
+   "height": 3006,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_03.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/3/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2154,
+        "height": 3006,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0002.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p3.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 212"
+    ]
+   },
+   "width": 2183,
+   "height": 3027,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_04.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/4/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2183,
+        "height": 3027,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0003.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p4.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 213"
+    ]
+   },
+   "width": 2143,
+   "height": 2998,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_05.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/5/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2143,
+        "height": 2998,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0004.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p5.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 214"
+    ]
+   },
+   "width": 2143,
+   "height": 2998,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_06.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/6/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2143,
+        "height": 2998,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0005.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p6.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 215"
+    ]
+   },
+   "width": 2134,
+   "height": 2993,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_07.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/7/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2134,
+        "height": 2993,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0006.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p7.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 216"
+    ]
+   },
+   "width": 2162,
+   "height": 3011,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_08.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/8/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2162,
+        "height": 3011,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0007.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p8.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 217"
+    ]
+   },
+   "width": 2169,
+   "height": 3018,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_09.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/9/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_09.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2169,
+        "height": 3018,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0008.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p9.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 218"
+    ]
+   },
+   "width": 2160,
+   "height": 3010,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_10.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/10/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_10.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2160,
+        "height": 3010,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0009.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p10.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 219"
+    ]
+   },
+   "width": 2136,
+   "height": 2993,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_11.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/11/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_11.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2136,
+        "height": 2993,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0010.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p11.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 220"
+    ]
+   },
+   "width": 2154,
+   "height": 3006,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_12.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/12/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_12.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2154,
+        "height": 3006,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0011.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p12.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 221"
+    ]
+   },
+   "width": 2169,
+   "height": 3018,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_13.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/13/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_13.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2169,
+        "height": 3018,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0012.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p13.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 222"
+    ]
+   },
+   "width": 2162,
+   "height": 3011,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_14.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/14/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_14.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2162,
+        "height": 3011,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0013.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p14.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 223"
+    ]
+   },
+   "width": 2156,
+   "height": 3008,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_15.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/15/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_15.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2156,
+        "height": 3008,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0014.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p15.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 224"
+    ]
+   },
+   "width": 2136,
+   "height": 2993,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_16.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/1870-04-07/p/16/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/revolution/1870-04-07/page_16.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 2136,
+        "height": 2993,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/revolution-1870-04-07%2F1870-04-07_jp2.zip%2F1870-04-07_jp2%2F1870-04-07_0015.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p16.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  }
+ ],
+ "navDate": "1870-04-07T00:00:00Z",
+ "rights": "http://creativecommons.org/publicdomain/mark/1.0/",
+ "seeAlso": [
+  {
+   "id": "https://archive.org/details/revolution-1870-04-07",
+   "type": "Text",
+   "format": "text/html",
+   "label": {
+    "en": [
+     "Source"
+    ]
+   }
+  }
+ ],
+ "rendering": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/full_text.txt",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Full text (OCR)"
+    ]
+   },
+   "format": "text/plain"
+  }
+ ],
+ "structures": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/contents",
+   "type": "Range",
+   "label": {
+    "en": [
+     "Contents"
+    ]
+   },
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p1a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE WINDOW JUST OVER THE STREET"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p1a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Born Thrall"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Alice Cary"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p3a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "AS YOU LIKE IT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p4a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE NEW TESTAMENT WOMAN."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p4a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMAN AS A POWER."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "GALLERY RESERVED FOR WOMEN."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Editorial on woman suffrage]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "OLIVE LOGAN IN WASHINGTON"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NEW YORK STATE SUFFRAGE ASSOCIATION LECTURES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Straws]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p5a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MISS ANTHONY AT DECATUR, IL."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p6a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "BUFFALO AND ERIE COUNTY."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p6a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Letter about the Monthly Journal]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p6a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Meeting in Edinburgh]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p7a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Biography of Madame de la Fayette]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p8a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Editorial correspondence from Wabash, Indiana]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p8a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Editorial correspondence from Peoria, Illinois]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p8a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CONDITION OF THE FREEDMEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE REVOLUTION AMONG WOMEN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "JUST AWARD."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Congregational church voting decision]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "EQUAL PAY FOR EQUAL WORK."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Miss Laura Edgerton."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p9a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE FIFTEENTH AMENDMENT."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p9",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "RIDICULOUS PROPOSITION."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Dr. Anna Manning moves to New York]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "To the American People, Greeting"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Theodore Tilton"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "JURY WOMEN."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MRS. VAN COTT."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "ANNIVERSARY OF THE NATIONAL WOMAN'S SUFFRAGE ASSOCIATION."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p10a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMAN WAR."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p10",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "OUR LECTURERS AT THE WEST.—"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CALIFORNIA.—"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WHERE IS JUNO?"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "AMUSINGLY INCONSISTENT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Esther Morris, the first woman justice of the peace]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE RIGHT SPIRIT.—"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Miss Alcott sails for Europe]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "COMMENCEMENT OF THE WOMEN'S MEDICAL COLLEGE."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a11",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CONSENT OF THE GOVERNED.—"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a12",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE PACIFIC CONFERENCE.—"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p11a13",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMEN DRUGGISTS."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p11",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p12a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MEETING OF NEW YORK CITY AND COUNTY SUFFRAGE ASSOCIATION."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p12a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "WOMAN SUFFRAGE—ST. LOUIS."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p12a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Letter to the editor]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p12a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE WORKING WOMAN"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Why Women Want a Vote"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "A Woman Against Suffrage"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "American Women Artists"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Miss Marwedel's Horticultural School for Women"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "The Boston Horticultural School"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Well Done"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Suffrage association notice]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Broome County Convention"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a11",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Mrs. Stanton's Lectures"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a12",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Mrs. Stanton at the West"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a13",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Correspondence"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p13a14",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Hints and Home"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p14a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Omission."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p14a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Biographical sketches]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p14a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "LITERARY"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p14a9",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Financial Department"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p14a10",
+     "type": "Range",
+     "label": {
+      "en": [
+       "COIN AS A BASIS FOR SECURITIES."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p14",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/range/p15a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Subscription, advertising, and agents' information]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15",
+       "type": "Canvas"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_01.jpg",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ]
+}

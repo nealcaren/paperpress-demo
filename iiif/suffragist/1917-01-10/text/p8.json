@@ -1,0 +1,128 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p8.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WiS0on t . 1 N Al f TCFHIONAL NATIO AGE 11 Holding banner outside Democratic rally in Illinois. I2) Woman's Party demonstration outside President Wilson's meeting in Chicago. [3) Clearing away the wreckage after Democratic mob attacked Woman's Party demonstration.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=243,488,2742,1667"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Departments Increase in Size and Efficiency Naddition to the series of dramatie events I which kept the federal amendment steadily before the Democratic leaders and Congress, and which made them realize the growing strength and determination of the demand for the amendment, there continued the steady work of the various departments which were, in a sense, the back-bome of the activities of the year.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=337,2294,824,597"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Finance Treasurer's Department has been one of the busiest at the National Headquarters.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=351,2943,813,182"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The volume of its work has so increased as to make necessary the addition of another worker in this department. The money raised by the Union during 1916 was nearly equal to the amount collected during the three previous years. In the three years, 1913, 1914, and 1915, $116,329.00 passed through the Treasurer's Office. During 1916 $111,423.00 was collected. This was more than twice the amount collected during the previous year, more than three times the amount collected during 1914, and more than four times the amount received during 1913, the first year of the work at Washington. Contributions from individual donors to the Union's funds during the year ranged from ten cents to $26,000.00; approximately a thousand different individuals contrib-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=340,3133,822,829"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "uted, and, unlike the early years of the federal amendment work, when it was maintained almost entirely by the District of Columbia, the treasury drew from all parts of the country. The Treasurer's report is a convincing proof of the phenominal growth of interest throughout the country in the federal amendment campaign.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=1205,2290,823,359"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Legislative URING the year the Legislative Committee, D under the chairmanship of Miss Anne Martin of Nevada, was divided into two Committees, the Legislative and the Lobby Committee. Miss Maud Younger of California, one of the brilliant workers under Miss Martin, is the Chairmen of the latter Committee, assisted by a group of western voters who have proved most effective lobbyists for the federal amendment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=1203,2724,826,550"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Legislative Committee has spent a crowded year in active work that has reached every state in the Union, and kept in touch with federal amendment workers in all parts of the country. One of the powerful factors in bringing pressure to bear on public men has been the “letter lobbies\" through which concerted appeals on behalf of the suffrage amendment reached many public men during the year.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=1205,3279,824,464"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Throughout the country deputations were sent to members of Congress and political leaders, composed of their constituents, urging their support of the national amendment. A deputation",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=1204,3751,825,206"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of distinguished New York women, led by Mrs Harriott Stanton Blatch, interviewed Secretary of the Navy Josephus Daniels early in January, urging him to use his influence as a cabinet member in support of the amendment. This was followed by similar deputations through the year. The President and Members of the Cabinet and of Congress, wherever they went over the country, were reminded of the widespread desire that the federal amendment be passed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=2068,2287,831,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Legislative files and card catalogues at the national headquarters, which minutely follow the changing opinions of Congressmen and public men in regard to suffrage, and give the individual background of each man, have furnished the information necessary as a guide to the lobbyists at Congress and the legislative workers who are backing up the congressional effort in their Congressman's district.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=2071,2861,822,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Organization RANCHES of the Congressional Union B were organized during 1916 in Massachusetts, Texas, Arkansas, Tennessee, Illinois, Wisconsin, Kansas, New Mexico, Arizona, Wyoming, Montana, Washington, North Dakota, Missouri, Indiana, and Iowa, making in all thirtysix states in which the Union is now organized, with state chairmen and state committees in charge of each state. The organization of congressional districts, counties and the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p8#xywh=2072,3369,823,588"
+  }
+ ]
+}

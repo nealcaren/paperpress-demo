@@ -1,0 +1,700 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=390,287,2906,275"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. XLIll NO. 7",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=382,698,432,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WILSON ON SUFFRAGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=415,794,501,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WILSON ON SUFFRAGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=415,794,501,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of on al of ay up ed 's ve all ild nt leof he ve",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,849,48,662"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Candidate for President Says He Has Not Made Up His Mind Yet",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=379,885,570,77"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Edith M. Whitmore, chairman in Richmond borough of the Woman Suffrage Party of New York, wrote recently to Gov. Woodrow Wilson of New Jersey, asking his views on suffrage. This is the Governor's reply:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=371,1010,576,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "My Dear Madam: Allow me to acknowledge with real appreciation your letter of January 31, in which you put me a very difficult question. I can only say that my own mind is in the midst of the debate which it involves. I do not feel that I am ready to utter any confident judgment as yet about it. I am honestly trying to work my way toward a just conclusion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=369,1277,572,377"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in ill. ey ey esof of ere is",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,1488,48,370"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cordially and sincerely yours, Woodrow Wilson.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=386,1657,511,72"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Gov. Wilson may be perfectly honest in what he writes, but his enemies will surely charge him with attempting to “straddle.\" It would have paid him as a presidential candidate to study the question and make up his mind, one way or the other; for everybody likes pluck, and despises what looks like dodging.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=364,1770,575,337"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "at arhe ay ly lisay n's",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,1872,53,345"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taft, Roosevelt and Wilson are all “betwixt and between\" on this question. LaFollette alone nas a clear opinion about votes for women; and he is not a bit afraid to declare it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=363,2108,572,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "libion ery uld thend re-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,2216,58,307"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LINCOLN DAY KEPT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=423,2335,453,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Michigan Suffragists Make It Starting Point of Vigorous Campaign for Votes for Women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=364,2409,571,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "aus ses, orOthe ent ases ies. tter, ited an and ituto tors tion hey the d or",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1,2525,71,720"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The beginning of a strenuous year's campaign to prepare a telling appeal to the State Legislature to submit a suffrage amendment to the constit tion to popular vote, has been put on foot by the suffragists of Detroit. All efforts were directed towards making Lincoln's birthday a sreat influence for the cause, and mass meetings were arranged in different parts of the city, with a big mass meeting in the of Our Father in the evening.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=358,2559,575,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Club women, women in stores and factories, church workers and the general public were all appealed to through thousands of dodgers stating the stand Lincoln took on the subject. Pointing out that Louisa M. Alcott was a suffragist, arrangements were made with the Garrick theatre to distribute dodgers at the Saturday er formance of “Little Women.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=355,3013,574,371"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "took hat bad nmow ings, strire-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,3247,78,300"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Among the speakers of the day were Warren S. Blauvelt, secretary of the Michigan League of Suffrage Societies; Mrs. Huntly Russell, vice-president of the State Association; Miss Clara E. Dyer, chairman of the Detroit League; James Schermerhorn, Representative Flowers and Rev. Lee S. McCollester.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=354,3386,567,301"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "othinto ring rs in estgress that",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,3552,83,307"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "COLORADO WOMEN CELEBRATE FEB. 15 They Commemorate Susan B. Anthony's Birthday with Three Governors of Suffrage States as Guests of Honor",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=355,3721,565,265"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y24, ages and there n the om-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,3864,86,253"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "According to their annual custom the Colorado Equal Suffrage Associa tion celebrated Miss Anthony's birthday by a banquet on Feb. 15, in Den ver, at the Savoy hotel.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=351,4014,562,186"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "and now beone- 0 do Chil-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2,4120,88,274"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Harriet G. R. Wright presided. and Mrs. Dewey C. Bailey was toast mistress. The honor guests were Governor and Mrs. James Hawley of Idaho former Governor and Mrs. Ben B. Brooks of Wyomins, Governor and Mrs. Shafroth of Colorado and Mayor and Mrs. Robert W. Speer of Denver.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=350,4202,563,335"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "girls We dress.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=0,4438,96,163"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As The Woman's Journal goes to press, the Suffrage Fair in New York City is in full swins. Next week we hope to report it a great success, with large profits.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=347,4574,569,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Official Organ of the National American Woman Suffrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=869,570,1907,69"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BOSTON, SATURDAY, FEBRUARY 17, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1384,701,958,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CELEBRATING LINCOLN'S BIRTHDAY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1022,796,1619,95"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o O ? O o 3 o J or ad SSharing the ec viteges of t h 3 da S S S ordens no means” excludtn 7 imins— m Lincoln t ) o o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1020,929,1552,1902"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Spirit of Lincoln: it's all very well to honor my memory, gentiemen, but what are YOU going to do about the great cause 1 championed?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=957,2857,1722,82"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Spirit of Lincoln: it's all very well to honor my memory, gentiemen, but what are YOU going to do about the great cause 1 championed?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=957,2857,1722,82"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PURE FOOD AND EQUAL SUFFRAGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=948,3007,568,89"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Many Novel Features at Philadelphia Food Exhibit—Opening Address by Mrs. Blankenburg—Suffrage Booth Draws Greatest Interest of the Fair Interest in pure food and interest in suffrage were blended in Philadelphia last week, where the pure food exhibition opened with suffrage speeches sandwiched in between snatches of sample foods, and women prominent in the suffrage movement vied with pretty demonstrators in handing out suffrage leaflets to match the distribution of advertisements.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=940,3127,573,546"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The show was formally opened by Director Porter, who referred to the woman's part in the selection of food and to the average man's ignorance of the topic,\" says the Philadeiphia North American, “and by Mrs. Rudolph Blankenburs, who explained the fitness of exponents of suffrage appearing at such an exhibition, by declaring that as long as politics enter the home via avenues of the food supply, the woman who centrols the home should have some say in politics.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=935,3677,573,484"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Everything was marked with the suffrage brand. Merchants stuck suffrage flags over their booths, adopted suffrage slogans, got out suffrage ads, and even decorated themselves with the yellow streamers of the fair advocates of the ballot. A portly cook plastered a yellow sash over his white coat, and then handed out samples of suftrage coffee. A firm which sells relishes printed a suffrage blotter depicting a dilapidated specimen of a man, and a woman scornfully to him sayins, “If he can vote why (Continued on Page 51)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=934,4164,572,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GRANGERS ARE AGAIN FOR EQUAL RIGHTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1537,3005,556,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York and Michigan Farmers Stand by Women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1533,3132,562,76"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The New York State Grange has again put itself on record for suffrage, at its meeting last week in Auburn. Secretary Giles said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1530,3259,569,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We believe the one thing that has tended not only to the growth and influence of the Grange but to its high position in the affairs of the State is its recognition of the full equality of women. Their counsel and their advice have made a stronger organization of the Grange, and we believe that the Grange should emphasize this feature more and more; and, recognizing their value to the organization, we can easily see what their value would be to the State and nation if they were taken into full citizenship.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1526,3410,573,518"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Executive Committee of the Michigan State Grange at its recent meeting in Jackson adopted the following, introduced by Speaker Herbert F. Baker of the Legislature: “Resolved, That it is the sense of this executive committee that the Grange legislative committee shall cooperate with Equal Suffrage Associations and by other practical means endeavor to secure the submission by the next Legislature of an amendment to the State constitution providing for equal suffrage.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1522,3933,574,521"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One may see, even if he is not a very observant person, that the masculine mind in Oregon has become wonderfully receptive to the equal-suffrage idea since the revolution and the revelation in the State of California— Portland (Ore.) Telegram.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=1521,4498,571,261"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "KANSAS LABOR MEN AND CLUB WOMEN UNITE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2121,3005,558,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "qual Suffrage Amendment Is Endorsed by Numerous influential Bodies",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2130,3145,555,116"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Lucy B. Johnston, president of he Kansas E. S. A., writes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2128,3303,557,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We are receiving endorsements from many of our State organizations, the latest being from the State Federation of Labor, which recently met in Topeka. We are hoping to secure the cooperation of every organization of women in Kansas. The State Federation of Women's Clubs, comprising about 7,000 women, has endorsed us in each of the eight Congressional District Federations. The W. C. T. U., 10,000 strong, have pledged, through their president, loyal cooperation, and the local unions are shoulder to shoulder with our central organizations in the counties, and are most valuable helpers in the precinct work.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2116,3379,570,636"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A MILLION WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2175,4055,419,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Somewhere near 1,000,000 women will vote for Presidential electors this year. These women are in Washinston, Idaho, Wyoming, Utah, Colorado and California. They will cast considerably more than the total vote for Andrew Jackson in 1824. The sreatly increased number of women enjoyins the suffrage adds another interesting feature to a Presidential contest teeming with unusual characteristics.— New York Press.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2111,4135,573,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Milwaukee women celebrated Lincoln's birthday appropriately with a suffrage lecture by Beatrice Forbes Robertson.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2111,4615,571,145"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TWENTY TO ONE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2815,806,379,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TWENTY TO ONE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2815,806,379,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman Suffrage is Favorably Reported in Ohio Constitutional Convention by Overwhelming Majority— Women Are Jubllant",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2724,898,560,148"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Committee on Woman Suffrage of the Ohio Constitutional Convention has reported in favor of woman suffrage, by a vote of twenty to one. The good news is announced in a telegram received just as The Woman's Journal is going to press, from Mrs. Harriet Taylor Upton and Miss Elizabeth J. Hauser. Their dispatch closes with the words, “The women owe everlasting gratitude to Chairman Kilpatrick and the Committee.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2708,1120,574,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The hearing on woman suffrage at Columbus last week was the most successful hearing thus far held during the Ohio Constitutional Convention, and the only one attended by every member of a committee. Not only were the 21 men of the Committee on Woman Suffrage all in their seats, but the Constitutional Convention adjourned in the afternoon and many of its members crowded in to the hearing and stood for hours, every seat being full.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2704,1597,575,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women came from different parts of the State, women of all ages and occupations. “Gray-haired grandmothers, pink-cheeked maidens, dignified, scholarly club women, working sgirls, college professors, shep workers, farm managers and stenographers all gathered,' says the Cleveland Plain Dealer. A large delegation of youns women representing the Woman Suffrage Party came down from Cleveland. Mrs. Harriet Taylor Upton introduced the speakers. Among them were Miss Edith Peck of Cincinnati, Mrs. Anna Anthony Bacon and Mrs. Arnold Green of Cleveland, Mrs. Ross Reed of Akron, Miss Sackett of Lorain, Mrs. Emma S. Olds of Elyria, Miss Jeannette Eaton of Columbus, and Professor Emma Perkins, dean of the Women's College at Cleveland. Mrs. Pauline Steinem of Toledo pointed out that women, because they are not electors, are debarred under the present constitution of Ohio from being trustees of institutions for women and girls.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2705,2087,568,1004"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“In the great State of Ohio we are unable to have a woman member on a board of management of a girls' home, where any good woman could be of vast benefit to the State and of untold good to the unfortunate inmates,\" said Mrs. Steinen. “If women vote there will be fewer wars, fewer strikes, more justice and greater happiness.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2706,3097,569,370"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Rural women are just as deeply interested in the problems of the community as men and just as anxious to help in their solution,\" said Mrs. Lucy Beach, who has managed a big farm mear London, O., for a score of years. “Suffrage would mean a real partnership in financial matters, make women the best savings bank ever devised, and train the woman for business duties that any day may fall on her shoulders.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2706,3472,565,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A few days later the Antis were given a hearing, and at its close the Committee voted twenty to one in favor of granting the petition of the Ohio W. S. A. that a suffrage amendment be submitted to the voters. An Ohio woman writes: “Of course the New York Antis had sent their literature, but our friends laugh at it. Elizabeth Hauser has done splendid work, and we are good friends with everybody.\" A presidential suffrage bill has been introduced in the Rhode Island Lesgislature.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2701,3917,568,589"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This week Suffrage Clubs all over the country have been keeping Miss Anthony's birthday. How happy she must be if she can look back and see the great advance the cause has made during the past year!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=2699,4532,565,226"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "—",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p1#xywh=3433,493,290,4528"
+  }
+ ]
+}

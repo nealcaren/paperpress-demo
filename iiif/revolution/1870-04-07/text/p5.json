@@ -1,0 +1,227 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p5.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "grens's vestibule fails mot to tell of ber power, wielded with woman's tact and woman's abulity, It was well sutbenticated in Lincoln's bour that it was Mrs. Lincoln who governed bebmd the chamber-soreen of the White House. Who now reigns in the bine-room? Who now wants palatial magnificenoe in an Americsn country's President's residence The power of woman is working out the great problem of woman—to carry it on to geometrical gradations—to the solution of a power never of failure, but of conquest. Better use the former power openly than covertly; to recerve the enviable name of possonsing capsbility of right, than be dishonored by its demisl. Womsn bas no intention of grasping power, for it is her birth-imheritance by the will of God; she is merely contending the slave question; shall s man only reign to supplant her on her own soil, and drive her away from her own innate natural power?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=215,197,564,634"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The burden of our sons Must be only ope, Ever to cortend against the wrons. P. L. GALLERY RESERVED FOR WOMEN. 1 AM not an advocate, nor even a convert, to the theory of \"Womean Suffrage\" but am to woman's sufferings. But good, eternal, must come from every docwine that is mobly, purely, earnestly advocated by noble, pure and earnest women. It is as true mow as in the time of Tertullian, that The frst truth, which it is nmocessary to beleve, 1 that we must believe nothing lightly",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=214,839,564,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And with that mtchless guide, you have sbown where women can gain real homes, real strength, resl hopes, tor every work. The wedge is driven—the opening is made, and “Rest\" found for the weary, waiting, toiling. tender, perbaps bopeless woman. For Rest is mot quitting The busy career Rest is the itt Of soi to its sphere. And, notwitbstanding the taunts of thought- 1os men, and silly women, you will prove, in noble lives and bappy bomes, that \"Tis loving and servius The bighest and best Tis onward, unswervins, And that is true rest.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=216,1326,561,513"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Grandly, besutitully the Capito stands out oraving and winning admirstion from every passer. The grass seemn always green. The sunlight sruggles for a spot to he under the great bremching trees. It bathes them in its warm. golden light. It whispers of light and comfort And it liew in great, wregular patobes everywhere The great buge stone steps give you welcome. ond tid you enter. You climb snd toll up You are s woman—perhaps are weskening, i not detorming the children that you are bewring and will bear for the mation. What matter that, you must l climb bgheThere in bo place on the floor\"for you The gallery i good enough for women. Men smile at the iden. Long lounges are placed nenr the wall, but then long. leay men fill them. England bad ber denfor women—and Amerios bas her gal lery\"\"You osn see there.\" Yes, but then the day bas pesaed when women are setisfied with sering. They mut he and know. They are workimg while men are lounging. The hurry, the contimonl talk, and the everlasting walking of the maton's Representatives make all but weeing impossible, save at s short dis tangoe.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=222,1839,560,830"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now, the question 1 wish to ash is this, Why",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=253,2672,529,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h nnmm Let men rage and foam. This is not s question of s “Woman's Rights Woman,\" but s question of bumanity. ?.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=794,108,565,215"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OLIVE LOGAN IN WASHINGTON",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=852,363,444,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz followmg are only extracts of s letter omitting the socount of the lecture, which hae already been given at much length in the REvo- Lution. The subject was Gurls, Woman Soffrage. Congressman Rogers, Wyonsing Jury. DEA3 REVOLUTION Last night was s proud one for the \"Girls. and 1or Miss Logen. Sbe gave vs s pien d lecture on the sbove topics Lincole Hall, our lerge, fine assombly hatl, wae orowed to overioing wi o most intelligen and euthiat people, among whom were many Congressmen and other off cials.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=795,428,559,322"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mise Logan paid high n Geerv r t o moble women, Mrs Stanton. Miss Anthony. Mi Dic imson and otbers f. their brave and earnest advooacy of the rights of thetr ex an m a t gallan Rogers, the Arkanss meomber who so hameruy siandered the women in the departmenta, sbe thought if be got Susan about his ears be would think his Arken es climste frigid compared to the tempersture be wouls find sbout bim from ber soorching: in fact. Miss Logen hersell, in ber witty. sarcastic way, aimost rosstod e fellow alive. She boped be was in the sndienoe. for his own good, that he might learn and improve bis manners She made happy reierence to the women juries in Wyoming, and its omen.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=794,758,560,368"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Logan was bonored by the largest and most rospectable sudience that has yet assembled st any of the course of popular and well sttended lectures during the season, and was very frequently interrupted with raptur ous and connued appisuse, and with that sympsthetic approval which showsd larger amount of aquiescemoe in her principles and clsims than mere entertmnments, or than is generally expected in this conservative comme nity. She gave much timely nd judis e young ladies who would sttatn useful and noble distine tion, and be the worthy dsugnters of this glorious age and country., Sbe spoke over an bour, without note or aesh from an ope pst or po o ning s litule late, by saying that she had to wast tor the gentiemen committee on the stage to f3 their back bair,\" which brougnt down the bouse with s prolonged ror. pa Another correspondent writes :",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=797,1137,562,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ouve Logan's lecture lant evening was a grand ooon She sermed to take everybody by surprise. She rererred in most glowing terms to Mrs Stanton and Mise Anthony. and siso Anms Dickinson, and as Anne comes bere on the Sth of April. we have also anotber grest trest in reserve. o.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=800,1626,559,161"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK STATh SUFFRAGE ASSOCLA- TION LECTURES TRAw Tan second lecture of the State Womsan Suffrage coure was ivon in Sy , Marh 18 by Ofve Logen. tos large sd fashionsble andience.In the absence of the Presmdent, Mrs Gage introduced the speaker. The well-known Girlsneed no report. but its pecuniary rewuits to the Associstion lead me agan to urge the formation of lecture courses by sll Suffrage Associations over the country. In no other way can an Association as effotually help itself or press forward the retorm.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=803,1826,557,486"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Amde from the money a successtul lecture brings into the troswury. the Associstion, under whose suspices it is given. brought directly before people's oyes. compelling them to ink wpon ohetLet evry Wome Suffrage Ansocition over the oountry. thon. t omoe poret t ge re met witeNot only t, ut i the course be done by womeon 1t will tesch them what they so much med— e business babits—two things to which women have pevg been traimed. No adage more trus",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=803,2322,560,378"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "213",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1839,107,90,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "than thet straws show which wey the wind blows\" STaw. No. 1.—A few days agos liel wit was tried in Syrscuse in which s married woman was the alleged sianderer, but in sooorscouple one, and h e e hnd.the band was sued. Be was proven guilty snd finet justly, t90, if we are governed in our views by that lsw which so far robs s married womsn of her personality as to teke from ber all control over the joint earnings of the marstel firm—over her own wiges—uniess she enters into some business outmde of her legitimste family cares.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1376,192,558,490"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The amount of fine imposed bas esoaped my mind, but the fact I wish to bring forward a. thet 1t was very matorially lessened by the ples of the detendant's lswyer, to the effect thet in the good days mear at hand one person would not be punisbed for the crimes of snother person. The jury couid pot fal to see that if the wife broke the lsw. the wife, and mot the busband. ought to sufter the penalty. Let us bope they also sew with equal clesrness that if wives are to be beld as pecunisrily amensbie to the law they must be given equs! control with the husband over the earnings of the maritsl firm.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1374,691,556,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Stasw, No. 2.—At the Chenango County Temperance Convention, beld the first of Janusry. a vote favoring Woman Suffage was taken with but one dissenting voice. At the mesting s year ago. the same motion received but four afirmetive votes, and was met by speeches of mdioule snd opposition. After the present year's vote the Vio-Presdent of the County Women Suff age Assoniation was cagerly spprosched. many inguries made for Tax REvoLmon, and she was chosen to prepare an essay to be resd st the pext county iodge. n",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1377,1136,558,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MISS ANTHONT AT DECATUR, IL. Miss Susas B. Axrony lectured to a lerge and select andience at Powers's Hall, in Deostur. on Tuesdsy evening. March 234. She was mtroduoed to the sudsenoe by Rev. Mr Burns of the Universs list Cburoh, who stated that ahe had visited the city by iito of tiemen, who proposed. sfter paying the lecturer one half the gross procepdn. to devote the remainder to the Ladwes Library Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1381,1586,555,349"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She lectured nesrly two bours uponWork. Wages and the Ballot.\" Her arguments wore powerful and convinomg. sns hor saronm cutting and efoe. ind y te i mg of those whose corms hed been roa upo The Editors of the city evidently mot f th they bed taen a dose of ooting rThe gave Miss Anthony sredit for wastng mo ime in saying pretty things. or lenguge onle inted to plosse. ber remr wore ion to be lie quinime, bitter to t t, t go for the disnane.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1382,1937,555,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Near the loe othe A was sieoping in the hands of Senstor Trmbl. Chairman of the Judiry Committ of he Senste, and olind upon fhe udine for upon a reiton img T pt tht t t. The te i ive wa p w i the g bre ma Dootn s p W Suftrage. and i Miss Anthonys leturs do e",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p5#xywh=1381,2352,554,352"
+  }
+ ]
+}

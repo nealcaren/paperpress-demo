@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p10.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o o Wo .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=684,2369,2048,1488"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "10",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=432,372,63,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President's Position",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=563,476,546,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RESIDENT WILSON administered a thinly p veiled rebuke to the Congressional Union for opposirg him in the late election. Broad-minded, generous, and Lincoln-like, as usual.—Chicago Tribune, December 12. Vigor of Suffragists",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=422,577,842,428"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "T is no particular joke to stand guard for I eight hours in a climate which is registering six degrees below freezing. I once saw at a performance of “Every Man\" one of the monks who is supposed to stand throughout the production fall from the mere exhaustion of standing. The women on guard at the White House have exhibited no such physical insufficiency. They were standing straight and firm when night closed over the White House and ended their vigil.—Mary Brush Williams in New York Tribune, December 14.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=426,1049,824,619"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Danger Ahead",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=422,1668,842,152"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OT Bricks Provided for Suffragist Pickets,\" H announces a headline. Although these bricks are provided to keep the feet of the pickets warm it would be well to remember that in the past suffragists have found other uses for bricks.— ashington Herald, December 14. rr",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=422,1863,842,562"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Picketing Well Organized all movements which the Congressional Union takes up, this one is being organized on a grand scale.—W ashington Times, January 11.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1291,469,821,273"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wilson and Suffrage M WILSON in the same breath asserts his sympathy with the cause presented by these",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1298,773,818,174"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "women, and expresses the belief that “it is only through the instrumentality of parties that things can be accomplished\" in this country. Then of what value, to him as a sincere man, or the party of which he is the leader, or the country whose course must be colored by his convictions and his policies, is his sympathy, if he abandons his convictions and beliefs through the tricky expedient of failure to place them emphatically before his party?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1294,953,820,434"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There was no concerted party action in favorof enactment of the Adamson law, or of any of the railroad legislation program outlined by him many months ago and still insisted upon; yet he took the reins and pushed action. There was certainly no Democratic party demand for child labor legislation which, moreover, went flatly against the Democratic party's ancient profession of faith in States rights; yet here Mr. Wilson took the reins and secured action. If Mr. Wilson consistently applied similar tactics in the case of the woman suffrage amendment he could demand and secure impressive action, possibly victory.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1291,1390,826,562"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We are driven to the conclusion either that he is mot sincere in his profession of devotion to the cause of equal suffrage, or that if sincere his conviction is blocked by small and unworthy political considerations.—Boston Record, Jan. 10.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1292,1956,820,217"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Straight and Narrow Path",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=1291,3908,826,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There Are Pickets by the Fence By Anon Y. Mous",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2216,465,700,130"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1ST! The house—it is surrounded, H Goodness gracious—how we're hounded Great democracy's unfounded This is awful; what suspense Look! What's that? A banner waving? Like a loon they'll have me raving, O, such naughty misbehaving— There are pickets by the fence",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2154,627,785,368"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pickets IN the fence, that's decent; But the impudence malfeasant Of this innovation recent; It's effrontery is immense. Are these ladies anger baiting? Chivalry they'll turn to hating, Or—is't merely “watchful waiting\" By those pickets—by the fence?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2155,1050,681,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Silent, sad, sweet suffrage sisters, Standing till thy feet are blisters Trying to brow-beat us misters; Obstinacy most intense I'll protest in angry passion Gainst this latest London fashion, Write a note without compassion, Chase thee far from my front fence",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2153,1447,780,363"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Washington Herald, January 14.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2373,1806,565,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Agitation in Washington",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2296,1930,546,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HERE is once again a tremendous agitation in Washington over the suffrage cause.— New York Tribune, December.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2160,2021,823,151"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cleveland Plain-Dealer, January 18",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p10#xywh=2123,3859,860,418"
+  }
+ ]
+}

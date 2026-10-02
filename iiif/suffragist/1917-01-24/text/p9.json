@@ -1,0 +1,172 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p9.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "es o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=704,2364,1705,1437"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cleveland, Ohio, Leader, January I2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1815,3798,611,479"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffrage Tactics",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=502,662,369,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EN wouldn't do a thing like that.\" M This is the comment of your typical politician about the woman suffragists silent sentinel plans for their White House patrol. The sentiment hints at some deep philosophy about the woman suffrage movement. The women have done many things that men would not have done—that men would have not thought of.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=273,756,833,528"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Won't some psychologist give the woman suffragists credit for one thing—that they have furnished an exhibit for the laboratory clinicians of human nature to study? Mere male students have been speculating for centuries about how the mind of woman works; the women have supplied a sort of suffrage test tube in which they have given all the experiments any scientist ought to need, to show how their minds operate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=273,1293,830,508"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Maybe mere man stands aghast at their ways because they are so different. He has to admit, if he be candid, that in this suffrage campaign they have got results. They have worked a political revolution in this country in a way no other revolution was ever waged before. There may be annoyance about these ubiquitous banners that drop forth on the most solemn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=270,1812,831,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Comments of the Press",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1044,468,1038,108"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "state occasions, about these piping inquiries in the midst of dignified ceremonies, about these symbolic figures, six from the suffrage states, six from the “enslaved\" ones, marching silently to and fro in front of the Executive Mansion, where things are supposed to proceed regularly and in order. Still, there is no bloodshed, and the thing is all open and above board, painfully so to some politicians, and women may yet prove that their political way is just as good or better a way than the old.—H ashington, D. C., Times, January 10.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1140,665,832,616"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "L When the President promised the suffrage convention last August that he intended to fight for them, some of them were so unemotional as to wonder just what he meant. The pause from September to January seemed rather long to some. But a great offensive takes a long time to prepare. The other day the first blow was struck.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1138,1504,836,559"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The President asked the suffrage pickets to come in and warm their feet.—Alice Duer Miller, in the New York Sunday Tribune.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1146,2067,824,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Terrible Thunder of War THE first gun has been fired.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1153,1355,739,140"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Cut Direct",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=1414,3858,288,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CERTAINLY have had an ordeal to-day.\" I The President of these United States made the remark at his luncheon table. It was on the day when the delegation of suffragists waited on him to present to him the Inez Milholland Boissevain resolutions. He said that they ran in an unexpected question on him, when he was expected only to listen— not to reply. There was a guest present at the luncheon, and this guest met a mere reporter, to whom he happened to pass on the President's words.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=2010,747,832,616"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The question now arises whether, if he regarded the first encounter as an ordeal, how has he felt about to-day? The sequence of events up to 11:30 this morning was as follows Twelve bright-faced suffragists, with their lovely purple and yellow banners, arrayed themselves in lines of three on either side of the main entrance of the White House. One of their banners said: “Mr. President, how long do you mean to keep us waiting?\" You know the story. They became provoked at the meeting of the day before which to President Wilson was an ordeal, and the Congressional Union decided to keep silent sentinels outside his gates, always standing there in the gold —Mary Brush Williams in New York Tribune, January 11.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=2012,1374,828,843"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An Ordeal",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p9#xywh=2306,662,249,59"
+  }
+ ]
+}

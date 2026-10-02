@@ -1,0 +1,183 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p13.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ever, still luxuristing in the ides that it is quite as matural for women to maintain that \"besntirul allegiance\" to the governing power displayed in man. as it is for them to exorcise it, individually, as the head of the family, and colectively as law-maker and executive. They forget that all history bas substantinted the fact that man loves power in every form. and is ever ready to abuse it as monopobist, sivebolder, despot, unless restricted by wise and righteons laws. These are the men who thooght slaves exhibited a peculiar fitness for their situstion a such. If so, there seem to be noble elements in their character also which proved them equsl to the responsibilities of freedom. Before the day of emancipation came, many were the forebodings of “consequences dire,\" in the sudden sransition from bondage to liberty. Surely, if the ignorant slave has been equal to such a test. and can be trusted with the inalienable right of citizenship, it only remains for educated woman to prove, that m her hands the ballot may be used conscientiously and justly.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=109,176,560,733"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Possibly the same class of men scent danger in the effect of too much conscience in political affair. We often hear the motbers of Americs exhorted to bring up their sops to a realizmg sense of their duties and responsibilities as citizens, not only that, but fit them for those grand possibilities of Senstor, even President At the tomb of Washington's mother, President Jaokoon said, in clowing his address “Shall there be more men like Washimgton? Shall our land be peopled with such, or shall there be even enough to rule in the halls of legislation, so that we may become a land blessed with almost millennial bappiness? Will the mothers of the land answer?\"Is not the teacher supposed to understand that which is taught ? Snch duties as these must prepare a woman's mind for the expression of her sentiments on vital questions, which may as intimately concern herself as her husband, son, or brother. The peculiar talent of men for mary of their avocations may be readily acquired; eonstant practice makes it what it is. And those excellencies, often looked upon as natursl endowments, will, if examined, be found to result from practice and close application, something which women generally know very httle of from experience, but which would inevitably make them not only happier, but more nseful members of socioty.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=99,917,569,958"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "All are by mature free and equal. Tis their consent slone gives just dominion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=167,1886,444,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Coox Covwty, Ia..—A Cook County organizstion for Wom an Suffrage was formed last week m Chicago with the followimg board of offoers President—Mrs. Fernando Jones VicePresidents— Mrs. Robert Collyer, Mrs. Richard Somers (Evanston, Rev. C. D Holmer Corresponding Neoretary—Mrs. C . Waits. Recording Reeretary—Mra. S. B. Pieree Treasurer—Mrs J. W. Loomis. Executive Committer Mrs. Rebeors Mott, Mrs. B. W Fuller, Mrs. Dr. C. D. Leysnway, Fernsndo Jones, Miss Thayer (Lake View, Res 3. M. Reid, Mrs Jne Jones, Mr. Wm. Cober, Dr C Blste The constitution was unanimously secepted and sdopted; also these resolutions esopd, .That nir bo o y land. the most imporiant question now before the Amerioen poopie is the tlisment of Univereal ur frage for women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=104,2012,561,583"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2That as women are subject t the same oonstitn on an , rt me i o . w menta prinsiples of republicsn government, demand",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=103,2598,558,105"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "t wome e vi nmet h 3. That we are in ivor of on amenoment to the o suton of the Doid Siten, proviing e ton sal ever be made on aot of e i e e cine o te iootive —— A GOOD MOVEKENT. ThAT is what the San Pranciseo Pionesr calls the present efforts to unite the two Natons Woman's Suffrage Associations. And it goes on to say. what multitudes of others are saxing in substance, such good words as these",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=686,86,562,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We foel confident thet this movement will awnken n the minds of our resders. as 1t 30 1 that of our own. emotions of hope and yoy. Biessed. id the boty Nasarene, “are the peaoce makers Words stly spoken,\" excisimed the Pralmist. are like apples of gold in pictures of silverThe cause now presen the sorrowful spectscie of a divided boouse, two nations Woman Suffrage societies. These bave principles and measures in common. There is no pecessity for this unfortunate state of affairs. It should be discouraged. If persisted in it should recetve, as it justly merita, the earuest concemnation of those friendly to woman's political enfranchisement It is possible that this effort for recomciistion will not be orowned with success. It is possible that the lesders of the mew organinstion and the pillars of the oid one may defantly resist these friendly overtures and insist on the work of disintegrstion. If such shall be the case that party or society which shall either in form or in spirit spurs this appral. will be shorn of its mors strongth, 1t cpcity for dot o0d, and ite ability tor mischief will mecessarily grow amall by degrees and besutifully less.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=690,612,562,583"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nox o0op ror WowaAN 70 32 ALONE.—The Mystic (Mass.) Press, a brave and brght little journal published vy “Hovey Brother's\" in Chelses, in anpouncing and commending a Woman Suffrage meeting and probsble society there, counsels thus We beg to suggest to the ladios who have the arrenge ments in charge, that it be s woman's affair sltogetber Lot them bave s lady to preside, s isdy for the orps mental offce of secretary, and let their committe, if they have any, be composed mainly or wholly of thowe whose interests the oeots of the movement most directly affect. We belicve that the ladies are as capsble of con ducting s public mesting ae their brothers, and t bocause we wish to ee othr convined the ft t we want them to do $t. We are confident that whatever change in present lsws, won.on ohobse to demand, wil be made, but that wo long as they rely upon the oforts of men, their success will be temporary and nommsl The woman question, ike every other, shall siways hve a fair besring in these columns.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=688,1244,563,599"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "From the beginning it was seen by the Creetor that it was mot good for man to be alone, and so he hastoned to govern himse lf accordingly. And ever since it has been growing more and more apparent that woman slone, is slike bad economy. The Nationsl Woman, Suftrage Association last year elected only women to office and it soon went abroad almost universally, that only women were all wed to belong to the organisation and immense, mischiet was the result, as might have beon expocted. That the women are as oapable of conduoting s meeting, or 5. movement, as their brotherh. is troe onough. but both sexes. acting harmoniously together, would do it better than either alone",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=686,1849,563,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WonEn Dow's WaANT 7o VorETwo Medist Conferemors sat iast week in this oity. It was observable that ome question only of those that arose excited the mterot of woman. On the days po wh anee was large. It was that of sdmitting lsy mombers to the Genersl Conforence. Women, together wits the male lsity, voted pumerouly on this point last summer mthew wrions churches. As woters, theit interest in the wub-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=685,2381,561,325"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "253",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1716,90,87,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "joot was grest nd on this oooesion they fo ed in crowds to learn what the reuit of cleriosl voting would be. This sffords sn ower to o who t o wo take the trouble to vote if polstionl sufiage bestowed upon them. Eesponsibilsty meburally",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1265,176,560,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz “Sons asp DsvontEn Peorn— Propbecy is tast fulfilting. Mrs. Ven Cou taking the Methodist mrmisterial work out of the bands of the male minmisters by ber wonderful suocess until the men don't know what to do with ber any more than men doctors d with women in the Eme of Henry the VIl. (was it not?) when they were suppianting men doctors by thew superior skill in the besbng art. And now the papers are introducing oother womsn Methodist mimister, s Mrs. Clerh. who has of iste been preasching in Connectent ike one anointed from on high. It i sid whe o resting afer ip campsaign of revival moetings st Thompsouville. Winasor Locks and West Suffield, Ot., and though s women of seventy-sux yesra, appesrs as fresh asa rose. She, until recently, called her publie mimistretGons talking.\" rather than preaching, but of iste she has oocupied the pulpst and dooursed from a text. Her busband ded years ago. One of their dsughters, s Mrs. Everest of Philedelphis, 1s s painter of mote there. and s member of an Epincopal cbotr and the iste A. N. Clark, the well-known editor of the Bartiors Courant, was her son.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1269,444,559,827"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MoRs Iron OF WonA SUFTRAE. —Oecasionally the World adducoes powertul srgements for Woman Suffrage. For instance. it was always claimed by the triends of this move ment that the iufluence of womsn on polition would be for good and that it would be impossible for utterly corrupt men to bold offoe when women could vote—and in the Worid, Aprs 11, under the boad of Anfd Virtue, 1 find a semi-humorous sistoment of how the women of Wyoming have had the Secretary of State removed by means of s petition socumng him of drunkenness and licon onsnens. ad re preparing an sttack upon the mersbal for - lar reason, followed by this comment",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1269,1323,561,477"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in p oming, it res into quesion whether. i mle frge become genersl, we will mot heve pew amene montto o o, t Puncy Congrenof many women. with power to nfore by approprite legislation the proviions ot Fancy it, indeed? The picture seoms to be an attractive one. If it ever should oome te pass thet moralsty should be requisite for the franohise and above all for offioe-bol dimg. we est ideal of s truly model Repubbe L. D. BrAas.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1267,1807,562,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Coupwarea, Mion. Our esteemed pondent of that piacs, Mrs. Gotobell, write thet Mrs. Haslit of Hilindale gve an dar thore iast wek on Womsn Sufrge, the being.To wote, or wot two, bolding be large audnoe in the clonete hour and s halt\" Mrs. Getobotl addsMr Hanitt a q woman. nd Michign y we e pron ber s its gt y Mrs. anlitt e e w . the most sttrective of the dsw.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p13#xywh=1265,2258,561,444"
+  }
+ ]
+}

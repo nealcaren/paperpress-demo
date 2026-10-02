@@ -1,0 +1,524 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=430,320,2883,222"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. XLIll NO. 6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=422,674,439,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. XLIll NO. 6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=422,674,439,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "KENTUCKY WOMEN WILL WIN THE SCHOOL VOTE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=424,774,555,83"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Big Majority for it in the House The bill giving school suffrage to women has passed the Lower House of the Kentucky Legislature by an overwhelming majority.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=406,897,575,232"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MME. CURIE CLEARED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=439,1164,500,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Aspersions upon Her Character Definitely Disproved",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=408,1242,568,73"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Most American readers got the impression from the press despatches that the outcome of a recent trial in paris established (by implication) a charge of a serious nature against Mme. Curie. All our readers will be glad to learn that this was not true. Mrs. Hertha Ayrton, a distinguished scientist and a woman very highly respected in England, writes to the London Standard:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=402,1353,576,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“In the report given in your valuable paper of the suffrage debate on Saturday last between Mrs. Sproson and Mrs. Stewart, occurs the following passage: “She (Mrs. Stewart) doubted the educative power of the vote, or its alleged beneficial effect on the standard of morals. A reference to Mme. Curie caused cries of “Shame!\" to be raised. May I explain that the cries were directed, not against Mme. Curie, as some might think, but against the woman who dared to repeat a lie that has long been disproved? If any of your readers are curious, they will find in Le Temps for Nov. 5, 1911, a complete disproot ofthe accusation made against Mme. Curie— disproof that was the result of a careful imvestige tion made by that journal and of evidence given by some of the most dis tinguished men of science in France",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=399,1768,574,869"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The scientific woman is peculiarly open to misunderstanding and misrepresentation from the very nature of her work. She must frequently conduct experiments alone in a room with only one other person, who has usually to be a man, because at present so few women are fitted for the post. But to the investigator the collaborator is neither man nor woman, but simply a mind, engaged with her mind, in tracking down an idea—in solving a problem. She cannot be bothered to consider the sex of her colleague, nor, indeed, would it ever enter into her head to do so.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=395,2637,572,602"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“A great woman like Madame Curie will always be a mark for the envy and spite of small minds, but, to one who has seen her in her own home, the devoted and adoring mother of her two daughters, no such accurate evidence of her innocence as was forthcoming is necessary to prove that she is as pure and noble as she is great.\" TWENTIETH CENTURY HOME NEEDS MOTHERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=393,3242,568,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A New Conception of Home iIs Required to Meet New Conditions— Women's Oversight Needed for Work Rooms and Streets At the Child Welfare Conference at Northampton, Mass., on Feb. 2, Dr. Helen C. Putnam of Providence said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=388,3732,570,303"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The reason for homes not developing the kind of citizens we need is that fathers and mothers confuse the house for eating, sleeping and some other domestic matters with the idea of home. They have been srowing so long into this shortsightedness that the word itself has acquired new definitions. Webster gives as obsolete the original meaning of the word home—village, estate (on which villages would be), and gives, as the first synonym of today, tenement. We no longer conceive home as the place for the life work, for education, for entertainment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=383,4060,573,603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Continued on Page 46)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=481,4676,375,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Official Organ of the National American Woman Suffrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=915,553,1896,68"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "F. MEN WISH T0 THEIR VIEWS REPRESENTED IN LEGISLATION, LET THEM COAX AND ARGUE AND USE THENFLENCE A PERA ey ceve e . e 0PE he w w",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1052,732,1618,2062"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Vould Man Consider Himself Fully Emancipated Under These Conditions?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1265,2852,1178,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NATIONAL CHILD LABOR CONFERENCE MEETS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=986,2957,557,82"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "t Almost Resolved itself into a Suffrage Convention",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=995,3082,551,76"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The recent National Child Labor Conference held in Louisville, Ky. Jan. 25-28, was so surcharged with suffrage sentiment that we thought ourselves back in the Suffrage Convention. Mrs. Kelley, Jean Gordon, Mrs. Millie R. Trumbull, Mr, Owen Lovejoy were prominent figures in the Conference, and let no opportunity slip to point out the help women would give towards regulating the labor of children if they were allowed to vote. A delegate from Colorado declared that Colorado had ne child-labor problem, that the men and women of the State had legislated child labor out of existence. Indeed, it seemed to be the sense of the Conference that “votes for women\" is one of the most direct and important steps leading towards the ultimate end of the Child Labor Committee—the abolition of child labor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=977,3210,565,863"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sympathy voiced with these suffrage sentiments whenever they were expressed is but one of the many signs that Louisville is awake to the importance of the suffrage issue. The Suffrage Association itself has more than doubled its membership sinee the National Suffrage Convention in October, and has reorganized along district lines, with plans for more active work. It has sent speakers on suffrage to fourteen different clubs in the last three months, in addition to conducting a regular series of meetings of the association to discuss politieal problems. The interest",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=968,4074,572,593"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Continued on Page 16)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1052,4680,382,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Continued on Page 16)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1044,4680,403,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SATURDAY, FEBRUARY 10, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1546,685,728,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE POSITION REVERSEI",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1567,2806,549,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CANDIDATES' VIEWS. ON SUFFRAGE A FACTOR They Are the Object of Keen interest in lowa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1572,2963,560,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A friend in Des Moines says in a private letter: “I wish I could write you of the situation in Iowa, and especially in Des Moines. It is keenly interesting. The fact that Mr. Cummins has entered the race for Presidential nomination adds to it. He has never placed himself on record for equal suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1566,3202,570,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Woodrow Wilson's manager here— in a progressive Republican State— came out unequivocally for his candidate for suffrage. If Mr. Cummins is holding the Progressives in Iowa for Mr. La Follette, how can he and his managers suppose they are going to do it without the equal suffrage plank? “Lieutenant-Governor Clarke is out for Governor. So is Professor Holden, of Ames College (Agricultural). Mr. Holden does not hesitate a moment. He talks to the farmers' wives for votes. Mr. Clarke, while courteous and entirely fair as chairman of the Senate last session, is firmly opposed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1563,3542,567,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It certainly is a nice game. I do not look to see either Mr. Clarke or Senator Cummins come out for suffrage. Ingrained prejudice and the natural, refined, protective attitude toward women and other dependents, however unreasonable, are hard to uproot.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1557,4139,570,300"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The bill. to establisn a Children's Bureau has passed the U. S. Senate. The Ohio Supreme Court has upheld the constitutionality of the law limiting women's hours of labor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=1550,4480,571,291"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GAGGED AND BOUND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2211,2966,449,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "oston Teachers Are Forbidden to Try to Secure “Any Legislation in Their Own interest\" Except Through the School Board—A Blanket Injunction Which Will Prevent Their Petitioning the Legislature, Testifying at Legislative Hearings, Writing to the Papers or Belonging to the School Voters' League",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2170,3048,550,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Boston School Board at its first meeting for the season passed the following order:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2152,3436,570,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Employees shall not make political speeches, solicit or make contributions for political objects, belong to any club or association having political purposes, nor take active part in political management or political campaigns. They shall not during school hours or on school premises engage in political discussion or political activity of any sort. They shall not directly or indirectly attempt to mfluence any legislation in their own interest as employees, except by petitions addressed to the board. They shall not engage in political activity of any other type. Nothing herein contained shall be construed as denying to employees the right to sign nomination papers, to vote as they please, or to express privately outside of school premises their political opinions.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2145,3550,570,778"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The School Board, of course, has a right to say what teachers may do upon school premises, but it has no moral right, and we doubt its having any legal right, to forbid them from petitioning the Legislatare for more pay, or from trying to enlighten the public as to any grievances that they may have. The teachers of New York (Continued on Page 46)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2141,4331,572,387"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FIVE CENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2991,697,289,51"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMEN VOTERS BEAT STANDARD OIL They Defeat the Octopus in a Local Election in New Jersey",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2754,791,572,191"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One hundred women of Linden Township “put a crimp in the Standard Oil octopus” recently, when they went to the polls from miles around in stage coaches and defeated the proposition to purchase a site offered for school purposes by the Standard Oil Company. The press despatches say:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2746,1019,575,341"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The site is located between Edgar road and the Pennsylvania Railroad, and is valued at $4,000. The Standard Oil Company offered to exchange it to the township for the old Woodbridge avenue site of the Linden School, which was burned down some weeks ago. The vote against the Standard oOil site proposition was 107 to 19. Most of those voting 'No' were women. “The Standard wanted the other site for the purpose of extending its big plant.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2741,1362,578,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“There was hardly a farmer's wife or daughter in the township who did not turn out. The two local stagecoaches were busy from morning till night, and were said to have been paid for by some of the wealthy women of the place. “The women and men who won the victory celebrated the occasion with a dance in the evening at Goger's Hall.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2739,1852,574,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“IF I WERE A WOMAN\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2771,2303,484,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "udge Lindsey Gives a Spicy Account of What He Would Do If He Were a Modern Woman—Says Politics Is Not a Dirty Game When Played As it Should Be, and Urges Women to Take a Hand",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2760,2377,549,229"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A stimulating and inspiring article by Judge Lindsay in The Housekeeper for February is entitled “If I Were a Woman.\" It is enough to set every honest and plucky, woman wishing to go to the polls. After the sickly sentimentalities on the woman question that have been printed so plentifully of late, it comes like a breeze of wholesome fresh air. Judge Lindsey says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2735,2632,574,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If I were a woman in 1912 1 would give my first and best effort to this thought, that politics is nothing more mor less than public housekeeping— the mere expression of the common will in matters that pertain to -the common good. Politics is mot a “dirty game\" in itself, but has been made so by public enemies, thieves, and traitors, and, to protect themselves in their pillage and corruption, they point warning and imploring fingers at their own grime when honest folk approach.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2740,3091,569,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If pitch were spilled on a parlor floor, would you quit the house? If the cook got drunk, dishonest, or inefficient, would you refuse to interfere on the ground that housekeeping was a “dirty game\"?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2743,3619,564,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 would ask myself the question, “What, When, and Why is a Home?\" The “old home\" was a close corporation. The women in it viewed the world as through a glass. They sewed, cooked, brought children into the world, and reared them in love, honor, and dear indulgence. The boys went forth and the girls stayed until such good time as they went into homes of their own. Marriage was about the only means of livelihood for a woman, and, failing that, she sank into the role of a dependent. Who doesn't remember the “old maid\" aunts—God knows with what store of passion and romance locked in their beshawled breasts!—who “helped raise\" the children, and played such important, if subdued, part in the domestic economy? Sweet, patient, long suffering, they crumpled at last like rose",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2732,3845,566,825"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Continued on Page 46)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p1#xywh=2815,4679,408,35"
+  }
+ ]
+}

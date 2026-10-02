@@ -1,0 +1,139 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2]1 Covering National Conventions of Political Parties (Scene Outside Prohibiton Convention)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=899,1061,1265,109"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "a 3",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=252,1215,1985,731"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "chairman and through her to all the women of the state. The campaign was brought to a close the night before election by an appeal from the women of the east transmitted by telephone to the chairmen in each of the suffrage states. From a great mass meeting in Chicago there was sent this last appeal which Inez Miholland had started out to carry through the West and had been compelled to hand into other hands at Los Angeles, where she laid down the work. Thus on the eve of election, women of all the suffrage states were linked together listening each of them through their state chairman, to the call of the women of the east to cast their votes in the interest of political freedom for all American women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=342,2087,832,959"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "With a campaign fund that was trifling in comparison with the great sums spent to counteract their efforts, the Woman's Party succeeded in making the national enfranchisement of women one of the dominant issues' in the campaign throughout suffrage territory. The opposition of the Democratic party was so bitter that it amounted to a tribute. It served to demonstrate that suffrage was at last a political issue. National Democratic campaigners in the west have been the first to acknowledge the result of the campaign and are asking for action by their party before the Woman's Party has time to gather further strength for another campaign.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=352,3060,837,844"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "President Reminded of Suffrage on Opening of Congress reconvening of Congress in December found suffragists determined that their",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=1225,2086,813,255"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "measure should no longer be brushed aside. On the day on which the President delivered his opening address, he was reminded of the unsolved question which his own campaigners had promised action on—federal suffrage. A distinguished group of members of the Woman's Party and the Congressional Union unfurled a banner before the eyes of the President and an astonished Congress. “Mr. President, what will you do for suffrage ?\" was the question on the banner that was flashed from one end of the country to the other the next day when a nation read the President's message. The fact that suffragists had reiterated the old question on the opening of Congress brought squarely into the public mind once more that the promises of Democratic campaigners in the west in regard to suffrage could not be dodged by this Congress without loss of credit to the party.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=1219,2353,826,1033"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Amendment Reported Out of Judiciary Committee INGULARLY enough, the release of the suf- S frage bill from its repose in the Judiciary Committee of the House occurred little more than a week after the unfurling of the historic suffrage banner. The suffrage bill, which the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=1227,3457,825,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "7",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=2849,363,51,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "[3] The Colorado Springs Convention of Woman's Party, in August at which the Election Policy was Adopted",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=2281,1320,298,466"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "committee had refused during an entire year to report was voted out on December 14, the very first day of meeting since the presidential campaign when the women voters of the west cast so heavy a protest vote for the Woman's Party. For twelve months the Congressional Union lobby had waited in vain outside the Judiciary Committee door each Tuesday and Thursday when the Committee met. It seemed as if the Democratic party was no longer willing to bear the brunt of the displeasure of women for blocking the suffrage amendment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=2082,2085,828,671"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The National Memorial Service T HE final event of 1916, which fell as a benediction upon the year's work was the great",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=2102,2805,810,196"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". diction upon the year s work was the great memorial at Washington for Inez Milholland Boissevain, young leader who had given her life for the political freedom of women. It was the ination of a series of memorials held in different parts of the country by the members of the Woman's Party and the Congressional Union who had been Inez Milholland's comrades in her last campaign. This beautiful tribute, held within the national Capitol on Christmas day, attended by national figures, including many members of Congress, took on additional significance from the fact that these services were made possible through the cordial cooperation of the Speaker of the House and other members of Congress.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p7#xywh=2093,2970,830,933"
+  }
+ ]
+}

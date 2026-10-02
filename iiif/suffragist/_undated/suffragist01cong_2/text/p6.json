@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ": A 3 f ay. f",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=256,302,2777,1902"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A TYPICAL THRONG AT A NIGHT MEETING OF THE NATIONAL CONVENTION. DR. SHAW DELIVERING HER CRITICISM OF THE PRESIDENT'S MESSAGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=537,2219,2244,105"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Convention at Washington",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=298,3660,1302,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "30",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=220,156,53,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "arrested by Federal, and not State, authorities, after having attempted to vote under the provisions of the Fourteenth Amendment. The contention that a Woman Suffrage amendment should not come before the United States Congress was agaim discussed toward the close of the hearing by Mrs. Carrie Chapman Catt. Mrs. Catt said",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=207,2432,703,494"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We are going to stand by our rights to get the vote by Federal amendment. It is as easy a problem as it was to give enfranchisement to the negro, and while there are gentlemen from the South who do not think this was done in a conservative way, nevertheless it has stood the test of some forty years and is stil a part of our Constitution.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=215,2926,700,437"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Ida Husted Harper and Representative Raker of California alsospoke. Mrs. Mary Beard pointed out the urgent need of the Democratic Party to espouse, for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=221,3368,701,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "N ENTHUSIASTIC meeting at the Columbia Theater on Sunday, November 30th, opened the Forty-fifth Convention of the National Woman Suffrage Association. The note of the Conven-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=221,3766,709,271"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SUFFRAGIST",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=1364,147,551,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "its own sake, the cause of Woman Suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=958,2419,700,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the course of the hearing Mr. Henry asked Dr. Shaw if the National Association would be satisfied if the Committee on the Election of President, Vice-President, and Representatives in Congress were given jurisdiction over the question of Woman Suffrage also. Dr. Shaw, after consultation with the National Board, said emphatically “No.\" The Committee on the Election of President, Vice-president, and Representatives in Congress, Dr. Shaw stated, would also be a very busy one in the coming session, since the question of presidential primaries urged by President Wilson in his message to Congress would come in due course to this committee. Suffragists would gair no jot of advantage by the trans ference of their question from one busy committee to another.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=963,2517,705,1014"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The speakers at the antisul- ———— on at Washington tion was struck by the series of resolutions put at the close of the meeting by the Democratic State Senator from Colorado, Mrs. Helen Ring Robinson",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=958,3531,722,446"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Resolved, That this opening meet-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=958,3975,722,169"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "fragists' hearing on Thursday and Friday included Mrs. Arthur Dodge, Mrs. E. H. Talbot, of Ohio; Miss Alice Hill Chittenden, of New York; Mrs. Robert Garrett, of Maryland; Mrs. A. J. George, of Massachusetts Miss Emily Bissell, of Delaware Miss Minnie Bronson, of Towa Miss Lucy J. Price, of Ohio, and Miss Ella L. Dorsey and Miss Elle Breant, of Washington.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=1711,2408,699,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Alice Edith Abell, president of the Wage Earners' AntiSuffrage Association of New York City, said",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=1723,2898,691,131"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“If the ballot would benefit any women, those most to benefit would be the working women, and they are the ones who do not want the ballot. They know that they would lose more than they would gain. Whenever women become equal with men before the law, which they would be if allowed to vote, they will lose all protective legislation which has been granted them because they are not equal legally",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=1722,3030,697,530"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing of the Forty-fifth Convention of the National Woman Suffrage Association, assembled in the Columbia Theater on November 30, 1913, Dr. Anna Howard Shaw, President, in the chair, calls upon the President of the United States in his forthcoming message to Congress to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=1728,3644,696,364"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "December 6, 1913",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=2710,140,357,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The wage-earning woman already has more of the responsibilities of man's life than she wants. She has found herself unequal in many ways to discharge the masculine responsibilities which her industrial independence has brought her. She has all and more than she can satisfactorily attend to, and she objects to having more thrust upon her.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=2460,2401,689,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the rebuttal the following day Miss Alice Stone Blackwell, Mrs. Catherine Waugh McCullough, Mrs. Ida Husted Harper, Mrs. William Kent, Mrs. John Rogers, Jr., Mrs. Thomas Hepburn, Representative T. W. Mondell, Mrs. Solon Jacobs, Mrs. Baldridge, Mrs. Oscar Huntley, Mrs. French of Tennessee, Mrs. Wester of Tennessee, Miss Helen Todd, of California, and others spoke. The rebuttal was extremely pointed and witty. The committee will announce its decision later.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=2466,2890,694,659"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "adopt the Woman Suffrage Constitutional Amendment as an Administration measure and urge Congress to take immediate and favorable action upon it; and Resolved, That the meeting calls upon the United States Senate to act favorably on the Woman Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6#xywh=2460,3549,712,595"
+  }
+ ]
+}

@@ -1,0 +1,205 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "held in the Athensum, Bristol, in support of the bill to Remove the Electoral Disabilities of Women. Mr. F. W. H. Myers, of Trimty College. Cambridge, Prof. . W. Newman, Prof. Sheldon Amos and others were among the speskers. On February 686h a largely sttended public meeting was held at Crowe, to consider and support Mr. Jacob Bright's bill for the purpose of extending the parhamentary franchise to Women houscholders. Rev. S. A. Steinthal and Miss Becker addressed the meeting. On February 8th Miss Taylour dellvered a lecture to a mumerously attended meeting at Newcastie-upon-Tyne. F.bruary 90h Miss Taylour addressed a meeting at South Shields. Petitions are being signed at these places.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=208,240,565,556"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "February 17th. The Rev. A. F. Macdonald de. livered a lecture at Lincoln, which was well st tended.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=207,799,559,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "February 25th. The Rev. A. F. Macdonald lec ured at Leicester. THESHEL. This is the title of a weekly paper which has just appeared under the editorship of the Rev. Dr. Hooppell. It is the journal of the Anfi- Contagious Diseases Act Association. As I have before alluded to this subject on more than one oocasion the opening paragraph of the address will explain to your readers the object of this publication:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=207,1086,559,368"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Within the past few yoars a most sudscious sttempt at secret legistation, of a character most repugnant to the habits, feelings, and convictions of the British people, has boon made. Unknown to an overwhelming majori ty of the mation, unknown, there is reason to believe, to a great majority of the Members of Parliament themselves, bills have been brought into Parliament upon the closing days of sessions, and hurried rapidly through each House, as though they were Habeas Corpus Suspension Acts, which mdeed they have virtually been, and passed into law with scarcely a single word of debste. These Acts of Parliament deprive all women resident in the distriots to which they apply of all the safeguards of personsl liberty and unblemished character ; they subject those submitted to their operstion to indecent outrage or cruel imprisonmont; they lend the rotee tion of the law to sin, siming exclustvely and protessedly at rondering safe induigence in vicious plessures an they tax the virtuous and hardworking for this immors purpose.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=206,1463,559,530"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now that the attention of the country has been drawn to these acts, and that an organized resistance to this encronchment on our liberties bas beon imtiated, a chronicle of the progress of the movement is needed. Such a chronicle the Shield will be. The editor concludes his address thus And. while doing this. we shall wot omit to potice, from time to time. the labors of thowe who sre striving. by wiser methods, to diminisn in and to mitigete it ponaltien. Nor shall we forget tht thore are in other lands, long blighted by the terrible curse with which we are now threstoned. thone whe are striving to purge thetr country, and to asliver their countrywomen from thralaom beyond desoription, and to them onr earnest ympathiee will be oxtomand. Neod we 34. in conoi o t ry ton of women, in our own or i other lands, will beve ou ivoet y mp hy, , whenever practisie, o sarmest advorey",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=205,2003,562,577"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PROGRESS OF THE AGITATION Mrn. Geo. Butler, Hon. Seeretary of the Lediss Nationsl Association, informs os that she is mow in correspondence with two hundred and sixty-eight towns in the United Kingdom on",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=207,2597,560,161"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "this question. A London Committes has been formed. Branch Committees st Bristol, Birmingbam, Manchester, Leeds, Nottingham, Edinburgh snd Doblin, are in action. I send you some of the addresses that have been irsued by these commrittees. The number of names sttached to the peti ions from seversl princips places will give you some ides of the work done",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=793,149,561,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Aberdeen sent signatures from .900 women. Aberdeen sent signatures from 6.000 men Bradford sent signstures from 6,000 women. Bristol sent signstures from 9,000 men and women. Cambridge sent signstures from 2.000 men and women. Cork sent signatures from 1,008 men and women. Kendal sent signstures from 2, 480 men and women. Leeds sent signatures from 7,120 men and women. Liverpool sent signatores from 4.654 men and women. York sent signatures from 4,051 men and women. -",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=789,537,559,547"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Above siaty petitions have already been presented, representing from 70,000 to 80,000 persons. On Monday evening last eighteen petitions were presented to Parliament on questions relating to women : eight for the repesl of the Contagious Diseases Acts ; six in favor of Woman Suffrage, and four in support of the Married Women's Property bill. PUBLIC MERTING OF LADIES IN MANCHESTER.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=789,1093,563,297"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The ladies of Manchester snd surrounding towns have just beld a meeting in the Town Hall, on the subject of the unjust legislation perpetrated by the Contagious Diseases (Women) acts. Mrs. Hume-Rothery, daugbter of the late Josepp Hume, M. P.. presided, and opened the meeting with an sble and eloquent address, in which she said that the present was a crisis in the history of ous country which has bad no parallel since the Cromweltian ers. The Habeas Crpus Act has been suspended, so far a uuprotected women sre concerned, over large districts in England and Ireland, and we are threatened with a like injustice over the whole country. She regarded this as a crisis also in the moral life of our country. The sin and misery which we bave bitherto been too redy to ignore are mow brought to light. snd ber hope was that this agitation should not cease until women had done what they could, not merely to repeal these disgraceful laws. but to rescue their fallen sisters from degradation, and to seek and to save those that are not yet lost. She referred to the opening of employments tor women and otber needful reforms.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=788,1403,563,795"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Geo. Butiet then adreed the meeting Hor lecture was intensely and painfully inter esting; impregnable in facts and arguments. thrilling in flustration. and solemn in appest Details of the working of the act were given, and the evidene rom oertion of ai persons at home snd abrosd which was sdduce proved that the consequences of wuch logisaio were most disastrous to morality and totalty ineffectusl in cheoking diease The mowded meeting was hold in solomn stillness snd we while Mrs. Butler was apesking Resolutions condomnatory of the Contagion Disasos Acts, and deoiding on aetion opposition to thew were mowed and soconded by other-ledies, snd potitions to both Houss of Parlisment for the repost of the acts were",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=786,2207,561,548"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "215",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1831,160,87,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "igned by the President on bebal of e t ing.A Mancheter Ditriot Branch Commit of the Ladies National Ansocistion wes formed to carry on the work im this locality. THE PROPERTY OF MARRTED WOMEN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1375,245,563,169"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In s few days Mr. Russenl Gurney's bll To amend the iw wth repet to te Property o Married Women,\" is to be red a o the House of Commons. Thi l was pansed by a large majority last session in the Lower House, but the Lords postponed the compleon of the measureit hes. therefore, to o throug all its stages again this year. Its suooens bes been imperilied by a soond bll. itrod y Mr. Raikes, which is of s very questionsble charraster. The Marmed Women's Property Committoe has ciroulnted cevely mong . and others an exoellent article entitled. The Forfeitare of Property by Merried Women, by Arthur Hobhomse, Q. C., reprinted from the Fortightly Reiew, in explamation of the prinples of these two bills. From twenty to tharty petitions, bearing from two to three thoussnd signatures, have been presented to Parament m support of Mr. Russell Gurney's bill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1372,422,562,633"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE VICTORA DERATING SOCHET. At the lsst meeting of this society beld in Conduit, W. London, the Barl of Shaftesbury presided. and Dr. Drysoale read s paper on “Medicine as a Profession for Women.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1372,1072,561,160"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. Drywdsle, in opening hi suoct com gument arw om te prowm o o for any protession, snd beving rend lst of omt women to prove thet there wae no wamt of. inteirt power among them, be prooeeded to aes with the more mmedinte ueot of hi 0ar He lamon tt poblic schools phyiony we mot ut t t yo people of both ses. o tt incompiete so long ae 5t wes omittod In medicine ere was, be pointed out, s department for which women were epecislly ted—mamely., nmowitery. The firet Engtsh 1ady whe took a degree in mediine wae Wie Bischwell, in 3948, but he ad to Ar t she oould do so d in Engiend Mis Garrett t upon the practice of medicine in 1966. The locrer, closing his cbservsons. reterres the opposion which the protoor o me ry piaoed in the way of indies otiming dgr. preosend the bope thet public feeiing wouls soon bring about a change.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1371,1241,562,522"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Faithfull. Miss Garrett Dr Billing, Mr. Levy. Dr. Eamunds and Dr. Chapmen spoke in sucoession, and declared themselves to be favor of the s mission of Women to the Mod oal Profesmon. Mrs. Borsoe S. 3obn rco mended Female Meodion Studonts to be w with mo ball measures. but to windy the vory highest branohes of the profossion The debste was sdjourned and Mrs. R. Jobnston moved vote of thanks to the Chairman which cloed the proceedings. 1 remain very truly yours REnmoos Moon",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1374,1765,560,378"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Amnoas have good r t of de ls Fayotte, and one of t p sentatives doos homor to the one of MAny MAGA FA. Coubto o. wo maiden mame wes a ln Veigne. we born i 1632, and received an e L was tought her by Mepag? d Ft Rapi and in fhre monfhe e er knowiedge of st.1n 1655 she mer Count de ls Fagett. She wa hbit o with many. mon of ttont. sndwa mooh boloved. After wring muc o whe aed 1998.She e T Princess of Cio . and o mances which soninne to e Memr C 1689. ito g lore.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p7#xywh=1370,2185,562,565"
+  }
+ ]
+}

@@ -1,0 +1,227 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p15.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NEW TOURK COUNTY WOMANS SUFFRAGE ASSOCLATION.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=282,194,547,68"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tas informal meeting of this Association wes hold on Friday lest at Mrs. Halleok's. Among the porsons present were seversl strangers inoluding a professor and students of Vasssr College. Mrs. Dr. Codrys, of Michigan, resd sn address apon \"The incentives to larger culture the possession of the elective franchise would give to woman.\" This lsdy has one of the sweotest and best modulated voices I have ever heard. Previous to resding ber address, the dootor informed us thet she had never before sttended s Women's Suffrage meeting, snd had never heard a lecture upon the subject, but she had always been in favor of educating the sexes alike; and when she decided to study medicine had sought such colleges as admitted both male and femsle otudents. She had been at two colleges with male students, and oould testify to the pleasing fact that she had pever seen in either college any disrespect shown to lady stadents by the gentlemen. This was lorgely owing she thought to the judicions management of the professors of each college.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=274,290,562,727"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The president read an srticle from the pen of Mr. Ware, in which he accuses women of uncharitablecess, selfishness, idleness, rapidity, a vain desire to be admired, in fact, being as s class wholly deficient in all the qualities bitherto Gpposed to constitute the essential basis of female character. This article called out an able, carnest defence of women from Mrs. Leggett, and very many excellent and pertinent remarks from nesrly all the persons present. The transaction of important private business occupied the remainder of the afternoon. and at five o'olock the meeting adjourned to meet at the same place on Friday of this week.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=277,1020,563,447"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNA DIUKINSON AT HOME.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=359,1511,403,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNA DICKINSON's hearers last evening, April 7th, well-mgh endangered the sarchitectural strength of our Grand Academy. Seven yesrs ago I heard herton the same platform ; ber frien ds then filled the house, they have been sugmenting notwitbstemding her varied topios, ever simee. Lost night the culmimary throng packed the immense space, anditorium, stage and orchestra. loaving the speaker but threg feet squnre for oratorical gesture, and compelling the musicians to retire. Promiums were offered on tokets and a host of folks remained at home to awsit hor nmext appearsnoe. She plowed to the core of her subject, throwing corrupt soll at everybody's door, then, with the harrow of justice and expediency she levelted the mational inequolition. With tears whe pieaded with the mon and women of our lend to sow clean seed that the barvest may bear God's best fruit. Altogother she was logiont and beartarnest, and for one I feel bappier, with renewed strength. for having heard her. Y ours, . h.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=279,1578,561,700"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Phisdelpbia, April Sth. Miss Dickinson gave the same lecture in Stemway Hall in this oity on Tuesdny evening of last week, and every word of the above commendntion would apply perfectly bere. So many claims on our columns to-day prevent the more extended notsoe we had prepared to give and which was most ricbly esrned.—Ad. Rew.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=281,2282,557,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mus. Srawro 1 Cm0a0.—On the Sunday before tast, Mrs. Stanton ooeupied the pulpit of v. Robert Cotyer. The spacions churoh ws orowded in every port, and it wes estimetod",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=281,2579,558,130"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3s Beraintian.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=902,107,452,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hetr own sentimntn, and not T REvOLTIO SPECIE NOT A NRCESSITY.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=861,299,552,199"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tas theorists and writers upon fimance all take fo rat tht the xpe p o the world should be conclusive upon this question, and with these promises base thewr conclusons secordmgly. This is specious, but when we look into it s moment we will st once disoover its utter fallacy. A ocentury since, our forefathers disoovered that the politieal theores of the Old World were fallacies. They boldly repudiated them snd innugursted a mew ers m opposition to the dvine right of kings and other specious beresies that mankind had been so long taught as true that mo one questioned them. It is now bigh time that their finsncial dogmas were trampled under foot and shown to be no better than their other idols.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=857,531,561,544"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our gigantic rebellion (compared to whose colossal proportions all other revolutions sink into pigmy quarrels) bas taugbt us some lessons, which, if we wisely heed, will prove s lasting benefit and perbaps more than pay the whole cost of treasure destroyed. Let us consider some of them a moment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=858,1079,562,220"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the first year of the contest. when we were just getmg good relde to rpple wi the monster, specie and its allies dropped from under us. The grest Amencen Union would have soon been a thing of the past, and the stil greater cause of Humsn Liberty, of man's ospacicy for self-government would have been total failure had there been no more stsble toundation than this fiokle and dangerous clement. The despots of Europe, anxiously ho, ing and praymg for the destruotion of our politios inst tutions, which would have been a repewed lesse perhaps for thousands of yoars of thewr prerog atives, felt confident their hopes were to be speedily reslimed when they sew us compelied to suspend specie payments, practically sewing up our pockets in so ort me They expected us soom to stagger md fall as our bresth had so soon given out.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=859,1303,560,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The results showed that men were mever more mistoen. We possessed the me o weslth they mewer areamed of. Sinking hipe and burning bouses wopld have bormfied grave finamoters a the best possible basis for securties. But hed Secretary Chase been governed by the rulon 5 the toe mtn o iy. o et wo e o e as worthless as the sinking ships and burning houses. Never was the finsncil blunder of making the terrible 1owse of the ooury (t lows than two or three millions dsily or by s44ing that of the south to it. wesrly doubling these figuren) the foundation of 1ts wenlth, ronter wuooe.T ot only orrid the contest triumphantty, buy being man tained, has simee osused our country to prosper wth unexsmpied rapidity, oipping ery thing in even our own previously gioion reer",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=858,1906,560,635"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now it is a fect, giaring as the moon-day son. that this has all been secomplished without the aid of peie. o t t of tin oleci. Amy othr pple w totlly fatled in orushing woh reeion, o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=857,2544,559,161"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y y me wo it o mpoverisbed a to re yr of t rooover from its exbon. We. on the ontrary, osme out mch and heve oomtinmed to prosper—in fact conquering sud going on to oonquer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1433,193,557,197"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "These sstounding facts should pot be forsotton. We sbousd be foolsh to igmore th and go on the back track merely to 4o bomage again to the 30l of the O Word, fon oerwminly no otber reason has been shown why we should do s0. No demonstration oan be more comciusive than tht specie 1s mot aopted to te mteresta, prospepity or grentnens of the American mation, and whetber we look at the momentous comsequenoes involved. the fearful ordesl undergone or the glorions results sttained, ow wonder is unbounded. This generstion should Dever osase contempisting them. I propose in my next mumber to consioer the nature and character of coin as cviliner in the light of aet recent experence, and to determime its resl value to mankind politionlly snd so-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1437,393,561,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Facrs 7o8 7H2 Laprea.—1 have ased my Wheeler & Wilson Sewing machine tor more than ten yesrs stesdy, dressmaking, from ten to fourteen bours a day. For the isst mineteen monthe I have used the same meedie, and am still waing 5t. My machine is in s good working order to day as when I first got it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1439,1010,560,220"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York MAn Caa LINCOLN'S R E LI1OGIO N. THE INDEX. A Wes Pap Devt FREE RELIGION o TERNS. TEA ForSapte Copy Aae T, O enclomag fime",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1437,1229,562,486"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TH Inpr sonep every resuit we . T rocoines o r t o boleves i Tr. Frnaom. Progre. Ro Brothery Love The nsition rom Chrinity Fr Region througs which the c ow pe. whic ry , ous i e i com h t wnstion of the Rowan Empire from Pasnien Cr t nd ofer h p p 30 yr t hp A . be oow commc",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1438,1747,561,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The MA S PRI1NG RADE Cy or a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p15#xywh=1433,2318,563,383"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/collection.json",
+ "type": "Collection",
+ "label": {
+  "en": [
+   "The Revolution"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Revolution, April 7, 1870"
+    ]
+   },
+   "navDate": "1870-04-07T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-07/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Revolution, April 14, 1870"
+    ]
+   },
+   "navDate": "1870-04-14T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-14/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Revolution, April 21, 1870"
+    ]
+   },
+   "navDate": "1870-04-21T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/revolution/1870-04-21/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/revolution/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Revolution"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/collection.json",
+   "type": "Collection"
+  }
+ ]
+}

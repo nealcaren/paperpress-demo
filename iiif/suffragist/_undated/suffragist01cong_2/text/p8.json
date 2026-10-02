@@ -1,0 +1,535 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p8.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "32",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=238,146,53,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. BRADFORD CLARKE Co.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=225,343,638,79"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GROCERS AND DEALERS IN IM- PORTED AND DOMESTIC DELICACIES G",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,470,708,593"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "G",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=521,889,58,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1520 Chestnut Street PHILADELPHIA PA. Commercial National Bank WASHINGTON, D. C. A. G. Clapham, Pres. James A. Cahill, Vice-Pres. T. K. Sands, Vice-President and Cashier F. E. Ghiselli, Ass't Cash. H. V. Hunt, Ass't Cash. Resources --$$:8,000,000 Your Account Invited Florist",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,1063,708,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Florist Perfect Blossoms Prompt Service HENRY PFISTER 1120 Connecticut Avenue WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,1607,683,250"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Delicious Cooking Nutritious Foods VEGETARIAN DINING ROOM 1219 G Street N. W., WASHINGTON, D. C. Phone, Main 3567 Wholesale Retail",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,1916,708,280"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Retail",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=791,2127,116,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wholesale",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=214,2129,187,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "JOHN H. MAGRUDER Fine Groceries Connecticut Ave. and X St. WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=278,2196,559,200"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Established 1804 LUTZ & COMPANY Incorporated Trunks, Bags and Leather Goods “of the Better Grade\" 1325 G Street England's Best Ladies' and Men's Gloves Harness and Saddlery with all its Accessories",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=211,2427,704,323"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NEW EBBITT WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=316,3248,511,106"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "within two blocks of the Convention Hall and just across the street from your Headquarters",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=299,3392,542,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A MODERN HOTEL WITH MODERN SERVICE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=329,3524,487,77"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "G. F. SCHUTT, Proprietor ASH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,3633,708,222"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ASH Importer of Fine Millinery 1416 H Street WASHINGTON, D. C",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=207,3799,708,380"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SUFFRAGIST",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1370,135,552,50"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "J. S. Raker, Mrs. James A. Frear, Mrs. Henry T. Ramey, Mrs. Albert B. Cummins, Mrs. John D. Works, Mrs. William Kent, Dr. Anna Howard Shaw, Miss Jane Addams, Mrs. Carrie Chapman Catt, and Mrs. George Middleton.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=938,267,696,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The political event of Convention week was the reading of the President's message to Congress on Tuesday afternoon. The President had been urged by Suffragists and Suffrage Societies throughout the country, by the National Association assembled in Convention, and by a delegation of women from the DPresident's State of New Jersey to take up the burning question of Woman Suffrage in his next message to Congress. The President failed to do so, and pointed the omission by urging the speedy enfranchisement of Filipino men. In a speech of great restraint and depth of feeling, Dr. Shaw, on Tuesday evening, commented as follows on the President's message",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=945,587,694,879"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It is a source of deep disappointment to one-half of the citizens of the United States,' Dr. Shaw said, “that in his address to Congress our President has neglected to mention, even by indirection, the vital question of Equal Suffrage. We are convinced that the President is not unmindful of the importance of our cause. We had hoped that he would realize the nation-wide importance and interest in this question, and would indicate some response to this. The President found time and space to urge the recognition of the Filipino's right to independence. He found time and space and propriety for his argument in favor of the extension of the fullest territorial rights to the people of Alaska.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=951,1469,693,921"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We had hoped that the President would recognize this greater need. We feel that the measure of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=959,2397,692,129"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PROGRAM FOR THE WEEK",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=999,2600,599,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ashington, D. C. Saturday, December 6th, 8 P. M. —Tenth Street and Pennsylvania Avenue; open-air meeting. Speaker, Miss Margaret Foley, of Boston. Monday, December 8th, 8 P. M.— Seventh and H Streets, openair meeting. Speaker, Miss Mabel Vernon. Tuesday, December 9th, 8 P. M.— Seventh Street and Pennsylvania Avenue, open-air meeting. Speaker, Miss Elsie Hill. Wednesday, December 10th, 8 P. M.—Fourteenth Street and Park Road; open-air meeting. Speaker, Mrs. Minnie E. Brooke. Thursday, December 11th, 8 P. M. —Tenth Street and Pennsylvania Avenue; open-air meeting. Speaker, Miss Margaret Foley.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=993,2669,664,1014"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "REAL ESTATE TRUST COMPANY 1414 F Street Northwest Washington, D. C. Sales, Rents, Loans, Insurance. 6% First Mortgage Notes. 5% First Mortgage Certificates. Exclusive Agents, Beautiful Bradley Hills Suburb.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=962,3737,697,286"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "disappointment which is ours under the circumstances is a grave one. It was the time for President Wilson to have spoken. The timeliness was the paramount factor in our belief that the President would speak.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1679,259,696,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“He has fallen short of the greatest opportunity which has come to him. No preceding President ever had such an opportunity. Even Lincoln's opportunity to free a race by a word is not comparable with President Wilson's opportunity to release from the bondage of disfranchisement half the human family.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1681,575,696,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Action on the President's message was taken on Wednesday afternoon, when Mrs. Medill McCormick, of Chicago, made the following motion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1685,1020,691,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Since the President omitted all mention of Woman Suffrage in his message of yesterday and since he has announced that he will send several other messages to Congress, outlining the measures which the Administration will support, I move that the whole Convention wait upon the President to enlighten him concerning our movement, and to demand that he make the Woman's Amendment an Administration measure, recommend it immedfately to Congress, and insist that it be considered before taking up any other legislation whatsoever.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1687,1243,695,702"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I also move that a committee of two be appointed to make the arrangements with the President.” An amendment weakening the motion was overwhelmingly voted down. Mrs. Medill McCormick and Mrs. Desha Breckenridge, of Kentucky, were asked by the chair to act as members of the Committee on Arrangements. The result of the interview with the President will be announced in next week's SUFFRAGIST.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1694,1949,697,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Friday, December 12th, 8 P. M.— Seventh Street and Pennsylvania Avenue; open-air meeting. Speaker, Miss Mabel Vernon. PATRONIZE OUR ADVERTISERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1701,2595,694,250"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Visitors to the Suffrage School and others will find the advertising columns of THE SUFFRAGIST a reliable and dependable shopping guide to Washington. Every one of the advertisers we know will give the purchaser who comes through this newspaper absolute satisfaction. We ask you to patronize them because they fully merit your patronage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1701,2855,696,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE MANAGEMENT of THE Sur- FRAGIST is anxious to secure volunteers to act as paper sellers on the street. Will all who are able to help in this way communicate with Mrs. Martha Tagg, 1416 F Street Northwest, Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1702,3362,697,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NECKWEAR SHOP DAVID FISHER, Proprietor Successor to Miss Bessie Rubenstein 1209 G Street Northwest WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1782,3723,558,291"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PAPER SELLERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=1858,3309,379,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CeaCu m",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2455,165,695,294"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "8322 Connecticut Ave (Opp. Rochambeau)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2592,522,354,83"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Luncheon, Dinner, Afternoon Tea",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2480,639,532,304"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cea cup Inn Lunch and Cea $hop 1307 F Street",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2455,759,695,463"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cafeteria and Service Dining Rooms",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2480,1244,570,315"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cea gup Inn Business Lunch 730-732 Fifteenth St. (Open froem 7.30 A. M. to 8 P. M.) Cafeteria Service (Open Sundays)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2455,1369,695,583"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our Home-made Candies on Sale at All the Inns",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2493,2012,589,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "JOHN C. WINEMAN $ CO. HIGH-CLASS TAILORING FOR MEN AND WOMEN AT POPULAR PRICES 914 F Street Northwest",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2499,2164,581,238"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LANMAN ENGRAVING COMPANY o WASHINGTON, D. C. HALF TONES ZINC BETCHIN GS PROCESS ENGRAVERS ILLUSTRATORS DESIGNERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2455,2470,660,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BORDEN'S Jpecialist in Hair Goods The Borden Patented H.AIR GOODS Combined with ever-desirable airy lightness, a masterly simplicity in construction allowing instant adjustment. Absolutely no cumbersome stems or cords, no lace, net, or wires. Of fluffy, natural, wavy hair. They are fashioned in natural",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2455,2697,695,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GR.AY and tDHITE H.AIR Also in beautiful Golden Blonde to deep Lustrous Black. Yes; we make up your combings beautifully. But mone are bought or sold at any price. pPatented Upright Shampooing, Manicuring, Children's Hair Cutting. High Frequency used in treating the scalp. 704 Eleventh Street N. tD. DHONE M.AIN 43445 LD.ASHINGTON sbury Park Atlantic City",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2480,3226,633,426"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TERMINAL TAXICABS NEW, GLEAN, PROMPT TEL. NORTH 1212",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2462,3724,688,455"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "December 6, 1913",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2717,120,364,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Atlantic City",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8#xywh=2893,3620,232,33"
+  }
+ ]
+}

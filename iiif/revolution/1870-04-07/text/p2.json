@@ -1,0 +1,205 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "210",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=272,121,94,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Ripley permitted his hand to be tanen, he did not offer it, and Mrs. Toplow certainly did all the shakmg. She and ber son Pitkin had been driving in the Cemetery thet sfternoon. Paps thought a drive there might revive her spirits, and she suffered unfortunstly. and unreasonably, from lownrss of spirits, she was sorry to say ; and the rain coming on, poor Pitkin in his endeavor to gain shelter, had run off a wheel, and so prevented the possibility of reaching home. “I wouldn't have run the wheel of,\" though. says Pitkin, addressing himself partly to Sally, partly to the table-clow, “if it had not been for that man in the gig—1I hate a gig, any bow.\" “But, Pity,\" says Mrs. Toplow, \"these friends don't know sbout the man in the gig—you speak as if it were all understood.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=265,211,560,581"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Well, you tell about it, motheryou saw how it was; just my luck, Miss Ripley!\" So Mrs. Toplow to1d about the man in the g. and made it appear that \"Pity\" had been farly run down and over and so they sat down to supper, laughing little Charley and Theress on cither side of the stern old man, and the visitors from town nearest the preserved fruits, and the sweet-cakes. When the grace was said, which occupied five good minutes, Sally arose to fetch the tea. and to her consternation found the mew toapot a melted mass of ruin among the coals. She lifted up her hands and her voice, but what she would have safd, can mever be positively ascertained, as ber exclamation was cut short by a sigpificemt gesture which Mr. Ripley made with the butcher-knife, fixing ber with his eye.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=258,798,560,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It was not often that visitors from town were entertained at Mr. Ripley's, and the pleasing circumstance caused the round, sunburnt face of Moses to glow like a coal of fire, when it is blown upon by the wind, and he more than once expressed his genisl gladness and good will by kicking the legs of Charley under the table. Woman, why did you waste good bread by burning it?\" says Mr. Ripley, holding s piece of the toast she bad boen at such pains to make before the eyes of Rachel She attempted an apology—her face for once reddening as if it would sct on fire the flimsyfrill of the cap, but he interposed with s thump of his great handled knife, and the dictation— “Next time, wait for orders!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=251,1377,562,539"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Speaking of toost, makes me think of a good story,\" says Pitkin, \"you tell it, mother. Then by way of compensation to Rachel, he askod Mr. Riploy if he would spare him a bit of toast; it was browned just to bis taste Nothing, bowever, could long withstand the effect of the stern white faoe, grey might-cap, and grey eyes Mis. Toplow lost spirit, Pitkin, especially when be adcresed bimself to Sally, ewayed about hke a red m the wind, and the younger people seemed froren like flowers in the neighborhood of an ioeberg. It was relief when Mi. Ripley, hitohing back farther and mther upon two legs of his obair, got bimself onoe more into the chimney corner, when twitching his night-cap sbout his eyes. he affected sleep.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=245,1919,561,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the course of the evening Sally oalled on Rachel to bring some of the harvest apples from the cellar, but Bachel couldn't be found, and Mosen being deputed, returned presently boar ing a milk-pan heaped bigh with geldon sweet ings, and be dmed has aripping shirt sleeves at the fire, weported that it was dah piton, and raining bard. “And what de you think \"be",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=240,2475,553,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "says, “I mw s light wavering up the lame, as t somebody wes picking thei way, and osrrying s lantern. Tot, tut'\" ecried Mr. Ripley. suddenly opeming his eyes—not even fools and women would go out on such nmight as this—iesve wuch stories to your mster Sally",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=843,119,561,328"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now. Sally, to the best of ber recollection had never seen s hght wavermg along the lane at might, as if some one were carrying s lsntern there, and could not therefore ave ever himted at such a circumstance, and all the sweet thoughts and fancies that, impelled by the smiles of Pitkin, had been settling toward her beart for the last half bour, were suddenly directed back to the old dark channels. Lesve such stones to ber, indeed! as if she had no charscter to maintain, and then to thimk Mr. Pitkin Toplow should have beard it At Pitkin's suggestion, a circle was formed round the pan of apples, and then be ssid, \"mo. ther, let's have fortune telling, you know bow to do itand so saying. be seated himself by the side of Sally",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=840,453,562,547"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now you must each peel an apple, says Mrs. Torlow—and throw the peeling over your left shoulder bebind you, and it will form the first let ter of your sweethearts' name.\"All set eagerly to work, and the peetings flew over the sboulders in rapid succession. “Mine makes the letter S.,\" ones Pitkin, and then there was clapping of hands. and blushing on blushing on the part of Sally.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=835,1002,561,284"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“And mine doesn't make anything,\" says Doreas. “Yes, it does, it makes C,\" eries Sally, and that stands for Court! Well, dear kmows. your 'er weloome to him \"—and so she was, just then. Isracl, junior, and Moses were too bashful to enter with much spirit into the game, and Theress was too much preoccupied. By-snd-by she went to the window to see whether the rain were still falling. and ss, shielding ber eyes from the candle-light, she peered out into the dark, she ssw the wavering light which Moses had described, but this time it was moving toward the bouse instead of from it. She said nothing, but remained where sbe was and kept ber eyes upon the light. Nesrer and pearer it came—to the very gate, then she heard the latoh softly lifted, and saw by the glimmer of the lantern a woman come in, and stealthily feel her way slong the stepping stones. The light was put out at the door, and then footstep went softly along the entry and bp thestairs Could Rachel bave been sbroad im such s storm. and if so, what could have been her errand?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=831,1291,559,726"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "While she yet mused aud wondered. Rachel came in, all ber garments pest and ordertly, and with her babitusl quietude of manner. But the hatr was ll set in frinzes as if by the rain, giving s double border to ber pretty little cap. She did mot join in the circle about the apples—she was mot asked to join it, but seating bersell an obsoure corner, busied berselt with s past of woolen stockings for the master of the house If the jests reached ber. she did not smile, perhaps she dd not hear themShe might bave been the shadow on the wall. a forany intorest that was taken in ber",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=822,2025,558,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Charley, who was not much interested in the fortune-telling, woon foll asieep, and somobo Rachel was the first to porosive i. There is mioe tte bed in my room.\" whe whinpored to Theress, \"would you mind bis sioaping in the No, of course. Theress would not mind 1 can oarry him.\" she says. and directly she got him in hes arms, and with his sioepy bead arop-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=812,2442,563,287"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ping over one souider. sippes out of ig Theress thought ere wore rs i r she went swsy. but sbe wae mot quite ure. To Safly the time had pever fiown so fast. nd when Mr. Ripley arose and wound the clock a eyes. To lose sight of that fiany-goiden ba and that pale, wesk face. was to teke ot of f all the besuty and poetry. and losve hard dark and common plsce. Good night, and the sweetert, swortent dreams.says Pit. tking the bnd of ay in his limp, white fingers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1421,217,561,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On the instant. bare fort were beard pattering along the entry. and slmost immedistely the tremt. to0d eor them. w wi, ened eyes. Theresa. blusbing like a 7one, hnstened to gather bim up in her spron, snd aganst bis will tugged bim back mp stasrs, but as they approsched the door of the garret be began to writhe, scream, snd otberwise assert himrelf in a most unususl manner. He, by po means, would go into that room agsin, he would rather sieep m the barn, in the mill with the wery old devil, or even Uncle lereel himself, than go back.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1419,636,565,445"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The urgency of bis refussl ooupled with b socurtomed feariessmess, and the strange sounds beard within by Theress hersolt, induced ber to stop at the landing snd, if possible, pacity him before sttempting to foroe him any further, for he was evidently aresdfully frightened. It was some time before she conld gather amything satisfactory be would not go back, thet was all be would say, and not wuts he wes repestedly assured that be should not again be lef aione could smything furtber be elcited He did finally admit, bowever, thet hbe was afraid, and that he had beard s noise unlike anything be had ever before beard: thet it seemed in one corner of the gurret, and thet. going towards it, he saw two ghittoring cyes. and that he thon ran down stairs with all bas might",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1410,1085,567,551"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "They listened t the 3o07 and bearing mothing Treswy persusded the boy—if she dad mot persuade hersclf—that it was only a est whioh he had seen and board. and assuming an wr of boidness she pushed e door open am wot talkimg in s loud key snd bolding the onle well forward. while be. pulling st ber ares came sfter her",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1405,1644,565,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The general spoct of thimgs would mot in bep pier circumstances. beve been pleang The walls were rough and ras ged. amd the dmgy ors ower bend apiked with p. upo who a grest waricty of o16 bata towner pet coatsalse bunches of berbs. knotsof yarn, and bage of sed. with bore ond thore wuch trophes of the chae ad l aer or the kim of r posing than a the . pe solitary peg the awe-inapiring rogalis which lsrnel Ripley bad worn in his younger anr when investnd with the honors of m p tain",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1403,1901,574,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "About the room wer o wheet, el. wool. hoape of tow and fn. ro o14 1oom. wimeger n wh with other ugy . the dim cormers of the plaoe. were b etty visible p he od a r ty, the hand of 1n the firt place. t we a ro",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p2#xywh=1392,2346,566,381"
+  }
+ ]
+}

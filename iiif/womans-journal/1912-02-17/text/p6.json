@@ -1,0 +1,865 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=63,119,211,4919"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "54",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=516,167,65,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "while to try for it, where there is no possibility of obtaining more? suffrage we recognize. But that there are many more not ripe for it is apparent by the large adverse votes given after costly and exhaustive campaigns to obtain favorable legislaticn. 1 should be glad to correspond with any who may wish further information on the subject.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=504,258,577,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Chairman of Presidentia Suffrage. 209 Butler avenue, Providence, R. I",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=512,758,553,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CONNECTICUT NOTES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=555,907,467,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The past week has been marked by a series of successes for the Connecticut W. S. A., which is now in the midst of its great winter trolley campaign. One of the most important meetings so far, and the most gratifying, was the one held on Feb. 8 in Waterbury. There had been a good deal of doubt as to how Waterbury would receive the suffragists and their arguments, but this doubt was immediately dispelled when the hall was completely filled and nearly a hundred people had to content themselves with standing room before the time of the meeting. The audience was one of the most representative and responsive that has ever been gathered together in the city. The attention paid was of the best, and the meeting from start to finish was a remarkable one. Miss Fola La Follette, Miss Emily Pierson and Mrs. Rheta Childe Dorr were the speakers, and for over two hours they held the audience spellbound. Over two hundred names were signed to the suffrage slips, and this in a city where it had been said there were no suffragists. The night before Miss Pierson and Mrs. Dorr addressed a meeting in Naugatuck, and this was another phenomenal success. Naugatuck is a town in which there is but one industry—the rubber industry. The meeting was largely attended by the working people, and so interested and earnest were they that over a hundred signed their names to the ever-growing roll of Connecticut suffragists. On the same evening, Dr. Stanton Coit addressed a small sathing in the Middlebury town hall, but even this small meeting gathered in a harvest of thirty names. Friday evening Max Eastman and Miss La Follette spoke in Ansonia, and on Monday evening Mrs. Dorr and Miss Pierson addressed a mass meeting in Greenwich.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=500,984,571,1840"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "During the week of Feb. 12 meetings will be held in North Haven, Centerville, Guilford, Cheshire, Branford and Madison. Helen G. Sherwood.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=506,2823,564,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MANY CHURCHES HELP VOTES FOR WOMEN Successful Effort by the Woman Suffrage Party of Greater New York to Enlist Their Aid The effort being made by the Party to awake the churches of the city to a sense of their duty and responsibility toward the woman suffrage movement is bringing fruit, under the guidance of the Rev. Marie Jenney Howe. At the first public meeting called to enlist public interest, the following resolutions were passed:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=509,3047,568,593"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Whereas, the aim of organized women has always been toward humanitarian effort, and whereas, the aim of organized religion has always been toward humanitarian effort, therefore be it Resolved, That the enfranchisement of wemen should be the common conviction of an enlightened womanhood and an enlightened church. Whereas, this humanitarian motive of women and this humanitarian motive of the church is one and the same; therefore, be it",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=510,3669,569,521"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Resolved, 1. That the movement for the welfare of children should be our mutual concern. 2. That improved conditions of labor for the millions of working women should be. our mutual concern. 3. All striving for higher morality and improved social conditions should be our mutual concern. 4. All suffering of the weak, and an abuse of the weak by the strons. should be our mutual concern. Whereas, the sreatest enemy of woman suffrage is the power of organized vice; therefore, be it",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=514,4191,575,559"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E WOMAN'S JOURNAL. FEBRUARY 17, 1912 Resolved, That the greatest friend has not deserted ner, out of her sep- ADVER of woman suffrage should be the power arate property when he has no separ— of organized righteousness. ate property and he is unable from Whereas, the moral force of women infirmity to support himself. Hus- PRINTE is a power unused by this State, band and wife are jointly and severaltherefore, be it ly liable for debts contracted for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1088,171,1529,317"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Resolved, That we, the Woman Suffrage Party of the City of New York, do call upon the ministers and churches of this city to aid us in our effort for a voice in government, because that voice in government will give power to the latent moral impulse of women, which is unsocialized, unrecognized and almost powerless in New York State today.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1092,490,577,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Since then the following letter has been sent out to all the ministers in the city:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1091,917,569,114"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Woman Suffrage Party, numbering over 40,000 in the City of New York, asks you as a progressive minister to bring the question of woman suffrage to the members of your church in one or more of the following ways: 1. To allow a woman suffrage speaker to preach in your church a sermon on democracy. 2. To allow a woman suffrage speaker to address an allied society of your church.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1087,1066,572,489"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3. To preach a sermon yourself bringing the subject of woman suffrage to the attention of your congregation on May 12th, which we seek to have set apart as Woman's Day. 4. To send to the Woman Suffrage Party, room 212, Metropolitan Life Building, a list of church members or friends who believe in equal suffrage. 5. To see that the enclosed resolutions are read in some meeting of your church.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1088,1555,568,450"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Is the time not here when all thinking people must realize that woman can never render her best service to either church or State until she has the dignity and protection of the ballot, and is the time not here when, believing this, the best elements of society should openly take their stand? In California and Washington, where women have been so recently enfranchised, the church has shown itself the strong advocate of equal justice. Must the women of the East expect less from the church of the East?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1088,2010,567,519"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An answer to this letter will be greatly appreciated, as we who love the church are deeply interested to see it take the right stand on this great issue. Many churches have signified their willingness to open their doors as requested. Among them are churches of the Episcopal, Congregational, and Unitarian denominations. This is a line of work which might well be extended elsewhere.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1088,2533,570,448"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LEGAL STATUS OF WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1095,3027,559,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "North Dakota",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1271,3116,213,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Lillian Lillibridge, secretary of the Equal Suffrage Club of Dickinson, N. D., sends the answers to the questions regarding the legal status of women for North Dakota. They were prepared by Mr. W. F. Burnett. 1. Does the wife after marriage own her clothes and other personal property owned by her before marriage? Yes. 2. Does a wife own her wages earned outside the home? Yes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1090,3198,575,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Can she by law enforce payment for her services performed in the home for husband and children? No, neither can the husband enfoerce payment for services performed in the home. 3. What authority has the husband over the wife's real estate or the rental therefrom? None whatever. 4. May a wife convey her separate property without her husband's consent? Yes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1096,3769,570,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "5. Can a wife's separate property be levied on for family necessaries ordered by her, and if the necessaries are consumed by the family can she secure payment? The statute provides that husband and wife contract towards each other obligations of mutual respect, fidelity and support. The husband must support himself and his wife out of his property or by his labor. The wife must support the husband when he",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1103,4297,569,449"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "has not deserted ner, out of her separate property when he has no separate property and he is unable from infirmity to support himself. Husband and wife are jointly and several ly liable for debts contracted for necessaries for themselves and ehildren. 6. Does the law secure to a wite any portion of the family income free from husbandly dictation?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1680,259,572,431"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Except as stated in the answers to question five, neither husband nor wife has any interest in the property or income of the other, except that nmeither can be excluded from the other's dwelling. 7. What share has the wife in the surplus of property, real or personal, accumulated by their joint efforts after marriage, or does a husband take this surplus in his own name?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1678,692,569,422"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There is no provision of law governing this. It is left to the agreement of the parties. Any contract made between husband and wife can be enforced. Otherwise each is entitled to keep his or her own earnings, subject to provisions as to support. 8. Has a husband any other control over his wife's personal property or liberty, except that which comes from his general control over the family pocketbook? Husband has no control over personal property or liberty of wife.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1675,1115,567,573"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "9. Are spouses' interests in each other's real estate equal, and do they inherit equally from each other and from a deceased child? (a) They have no interest in each other's real estate. (b) They inherit equally from each other. (c) If deceased child has neither husband nor wife, nor child surviving, the estate goes to the father; if he is dead, to the mother. 10. Is the wife entitled to a voice in the choice of the family home?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1669,1691,573,491"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Statute provides that husband is the head of family. He may choose any reasonable place or mode of living and wife must conform thereto. 11. What is the punishment for wife desertion? Imprisonment in jail not to exceed one year, in penitentiary from one to three years, or fine not exceeding $500, or both fine and imprisonment. 12. What are the legal causes for divorce, and are they the same for both spouses?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1671,2183,573,497"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The legal causes for divorce are: Aduiltery, extreme cruelty, wilful desertion, wilful neglect, habitual intemperance, conviction of felony. 13. Is the wife legally responsible for the support of the children and her husband? Yes, under certain circumstances. See answer to question No. 5. 14. Has she a right to share in the children's earnings? The father has a right to the earnings of the minor child. But if he fails to support the family, then the mother is entitled to earnings.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1678,2682,562,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "15. Is a father liable for some family expenses for wife and child, if the expense is one of which he disapproves? Yes. 16. Is a wife entitled to a share in the guardianship and control of the children, so that her wishes may guide in the choice of church, school, clothing, medicine and work? Yes. 17. Can a father will away from the mother the custody of their unborn child?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1683,3248,561,526"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "18. Are husband and wife legally competent to testify for or against each other when either one is a party in an action of law? Neither husband nor wife can testifty against the “other without the other's consent, except in a civil action by one against the other, or in a criminal action for a crime committed by one against the other. 19. May a wife make contracts or enter partnerships without her husband's consent? Yes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1684,3811,561,519"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "20. Are the public schools, from the lowest grade to the State University, open to girls on the same terms as to boys? Are women represented on the Boards of Control of these various schools?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1686,4338,566,222"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "21. Are women employed in the igher positions in these schools? Yes. 22. Do the salaries paid the women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=1701,4598,547,151"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We beg to announce that we are printers of many well known publications, among them “7h: Woman's Journal.\" If have booklet, a Open day and night. E. L. GREs ComPANy r23 Pearl St., Boston, Mass.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2264,473,569,219"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "D s.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2274,723,259,278"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "D s.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2274,723,259,278"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PRIMROSE ORANGE PEXOE Everywhers Most Popular 20 cents and this coupon will buy a regular 36c can at your grocer's or at 5 Commercial Whf., Boston",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2553,732,272,274"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INVESTMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2394,1048,308,40"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Independent women investors are realizing the value of our shares and in consequence we have only a few remaining unsold. We want to have you learn about the BEST income producer, for the longest time of any investment with which you are familiar: our DIXIE PECAN GROVES. PAPER SHELL PECANS ARE BEING USED SO MUCH THAT AT PRESENT THEY ARE BRINGING $1 PER POUND AT THE TREE, WITH THE DEMAND MANY HUNDRED TIMES THE AVALL- ABLE SUPPLY. WE DO NOT FIGURE MORE THAN 35 CENTS PER POUND.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2274,1149,532,1047"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Let us send you our booklet, “A Royal Income from the King of Nuts,\" so that you may learn something of our investment and what other people know about a safe yet profitable place to put your surplus.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2280,2203,527,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. W. DENNISON 132 North Grove Street East Orange, N. J.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2300,2468,481,195"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "JACOBS' 1912 EUROPEAN TOURS An Ideal Summer Vacation would be our five weeks' COACHING TOUR OF THE BRITISU ISLES, adding the Continent if desired. Prospectus gives full particulars. Address C. W. JACOBS, Drawer “J,\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2262,2741,567,246"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rock Valley, Ia.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2612,2983,207,27"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "average as high as the salaries paid the men? If not, what ratio do they bear to the salaries paid men?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2263,3053,566,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "23. Are any of the County Superintendents of Schools women? Has any State Superintendent been a woman? (a) Yes. (b) Yes. 24. For what school officers may women vote? How many others are there?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2263,3204,564,268"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "26. Are women admitted to the Bar?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2265,3662,558,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "27. To what elective offices are women eligible through special enactment, and to what because of lawmakers' omission of words “male\" or “men\"? Are these positions salaried? (a) To offices under school laws by special enactment. (b) Yes. 28. May the apparent equal justice of your civil service laws be evaded if a head of a department prefers a man rather than a woman who may have had higher marks?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2262,3774,568,457"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "No civil service laws. 29. Are any women on the Boards of Control of State charitable istitutions?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2265,4227,565,156"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "30. Must women matrons, keepers, physicians or nurses be employed in the State and county and city institutions having the custody of women and girls? Women are so employed in State institutions. No special provisions in regard to county or city. Larger counties and cities have women keep-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2266,4415,565,333"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If man 38. again youn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3644,285,79,277"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "year. tiary not both",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3652,716,70,145"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNOUNCEMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2935,760,386,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNOUNCEMENTS Ouaker City Office Supply Co. PHILADELPHIA, 39 South 10th St. Circular Letters, Cards, Announcements, Berkshire Typewriter Papers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2843,760,573,270"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ouaker City Office Supply Co. PHILADELPHIA, 39 South 10th St. Circular Letters, Cards, Announcements, Berkshire Typewriter Papers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2843,832,573,198"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "40. disfr effor them (a the resid six n vious exce",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3653,867,70,374"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Send 25 cents and get one dozen sheets of our best carbon paper.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2848,1054,567,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3032,1175,201,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "41. quall your",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3651,1248,72,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Equal Suffrage Program \"MAN, WOMAN'S EQUAL\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2916,1297,424,211"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NOoO 42. the ters In office 43. has tend",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3651,1375,71,334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Delightful entertainment; full of laughs; especially interesting to men; convert-making. For circulars, terms and dates, address EMILY MONTAGUE BISHOP, 600 W. 192d St., New York City",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2901,1545,446,188"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "44. tiona wom cffice office",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3651,1702,72,183"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAUNDRESS Swedish woman, expert in fine hand laundry, would like a few private families' laundry work. Address Box 303, Woman's Journal Office.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2851,1836,560,171"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An tend must elect eral",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3650,1890,73,186"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOUSEWORK.—Armenian of 20, with excellent recommendation from former employer, wants place, preferably In private family where he can improve his English. Can read and write English, but not speak it fluently. Address Olan Shirinian, 57 Market Street, Lynn, Mass.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2840,2047,570,174"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3657,2143,65,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r66",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NURSE OR CHAUFFEUR.—Armenian with four years' experience as nurse, seven as chauffeur, and twelve in drug store, wants work in either line. Speaks Englist and French; has first-rate references. Ad- Aris Garinian, 28 Kneeland Street, ston.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2839,2232,571,175"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Man; Pe the the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3661,2284,62,165"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOUSE OR STORE.—Armenian teacher, here to take normal course, could not fol. low lectures at Normal School for lack of practice in hearing English, though well spoken slowly. Wants housework or other Job where he can hear English talked, Bxcellent reference as to character. Address Bartevian, 253 Shawmut Avenue, ston.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2838,2408,573,243"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r69",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A bitio Hall after 28, b Thos to th (with Mon Mone presi socie",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3652,2492,71,445"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r70",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "iLINGI AL SUFFRAGE ASSO",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2867,2695,528,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r71",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "938 Fine Arts Blds., Chicaso, Dublishes the following literature: “Bridget's Sisters,\" a suffrage play; per copy.......... 256 “Why,\" a two-page leaflet; per thousand........... $2.00 “Shall Men Vote?\" leaflet; per thousand........... $2.50 Illinols Chronology, leaflet; per thousand........... $2.50 Mayors of Five States; per hundred .. Bible on Woman Suffrage; r o Laws of Illinois; per copy.. 10c “Mr. Lex,\" in paper covers; Handsome crepe paper, yellow-bordered suffrage napkins; per thousand..... $4.00 Per hundred............ 50c",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2855,2804,535,654"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r72",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Th benet furth and Wom nmame The Leag sor, Mrs. Duan Scolls Rhod Imog secret",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3645,2992,78,577"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r73",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ers, etc.,, for women and girls.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2846,3509,446,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r74",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ers, etc.,, for women and girls.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2846,3509,446,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r75",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "31. Are women physicians received as jurors in insanity cases where the statute may provide that one of the jurors shall be a physician? They are not usually appointed, but there is no provision against their appointment. 32. Does your law prohibit night work of women and girls? No law merely limits number of hours women may work. Law prohibits night work by sgirls. 33. Does your law provide sanitary regulations for factories and shops where women are employed, or prescribe hours of labor? Yes. 34. What is the “age of consent\"? Sixteen years. 35. What is the minimum punishment for rape? Rape in the first degree, not less than five years in the penitentiary. Second degree, from one to fifteen years. 36. What is the punishment for bastardy? Judgment in bastardy cases is within the discretion of trial judge, Defendant may be imprisoned and compeliod to ppt",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=2845,3538,575,1211"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r76",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Penns H. In orary Kelly Patte Miss Stever ter; Sophi Mrs. LaAwes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3640,3607,83,428"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r77",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Coll Penns Miss dents, Carey Cochr ence secret urer,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3637,4049,86,334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6/text/r78",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The the Co the W Jane vice-p kins, spondi dolph; Elisab Mary",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p6#xywh=3634,4390,89,358"
+  }
+ ]
+}

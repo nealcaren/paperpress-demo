@@ -1,0 +1,271 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=348,465,2775,855"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "[11 National Headquarters opened opposite the White House, Washington.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1569,1389,1315,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2] One of the deputations to Democratic leaders. (N. Y. deputation addressing Secretary of the Navy Daniels.)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1571,1483,1431,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "[3) Suffrage Special leaving Washington for West.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1573,1621,893,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "frage territory under state committees of the Congressional Union was completed. By the beginning of March a state branch of the Union under a strong chairman and committee had been formed in each state where women vote.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2173,1714,824,255"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the laying of the ground-work of organization in the suffrage states the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2175,2128,815,100"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Suffrage Special\" went through the West to rally the women voters to the great Woman's Party Convention to be held in Chicago in June. This, one of the most dramatic expeditions that has ever been made for suffrage, left a marked impression on the enfranchised states. Many of the most brilliant women in the country made this arduous journey to put squarely before western men and women the status of the federal suffrage demand, to point out the exact origin of the opposition in Congress, and to appeal for the formation of a Woman's Party that would put the question of women's freedom above political considerations. All along the route great demonstrations of approval were held by the voting women. A two-days' demonstration was held in Chicago; thrilling meetings followed in Kansas, Wyoming, Colorado, and Arizonma. In California impressive meetings were held in Los Angeles, San Francisco and Sacramento. Oregon, Washington, Montana, and Nevada were visited, the tour ending in a sreat conference of women voters in Salt Lake. Everywhere the welcome to these distinguished women from the East was official, Governors and Mayors going on record as favoring the full enfranchisement of the women of the nation.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2165,2229,822,1375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE Woman Voters' Conference, held in Salt T Lake City in May, with delegates representing all of the suffrage states present, crystalized this aroused sentiment of the voting",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2156,3773,831,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "4",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=424,370,43,50"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing larger s g larg f convenient amendment expand in center. Orga and entertain the efficient ments at th De F ROM t of the o the vo",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=323,471,1184,2235"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Review of the Year",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=441,2762,814,103"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE year 1916 has been the year of great- T est activity and greatest accomplishment since the Congressional Union for Woman Suffrage began its active fight for the passage of the federal suffrage amendment four years ago. During this short space of time suffrage for the women of the nation has been made a national issue. The cumulative events of the past year have done more than anything else to contribute to this result. Suffrage has been at last removed from the realm of causes, and the least astute politicians realize that the women of the nmation are now able to make a political demand which must be heeded.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=433,2891,824,718"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New Headquarters Opened",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=549,3685,586,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE opening of Cameron House, whose T old walls remember the plots of generations of politicians; whose front, flying the purple, white and gold of the Congressional",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=428,3778,824,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Union, looks across at the White House, was the first chapter of the Union's 1916 work. With this mansion as headquarters, furnish-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1567,1714,565,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing larger offices, superior equipment, and more convenient housing for the little army of federal amendment workers, the Union has been able to expand in many directions from the national center. Organization work, the raising of funds, and entertaining have all been simplified through the efficient ordering of the various departments at this pivotal point.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1298,1924,824,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Deputations to President",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1436,2412,549,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ROM the beginning of the year the emphasis F of the Congressional Union was placed on the voting women of the West, in the effort to visualize to Congressmen, to political leaders, and the general public the existence of the woman voter and her interest in national woman suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1299,2514,823,361"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The first expression, in 1916, by voting women of support of the National Suffrage Amendment, came from a delegation of Kansas members of the Congressional Union. When the President reached Topeka, his only stop in suffrage territory during the preparedness tour, in January, a deputation of seventy-five women urged him to pass the National Amendment. The deputation received no assurance of aid from the President, however. The same reception was given by the President to a delegation of New York members of the Union who waited upon him with the same object during his visit to New York on the preparedness trip.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1297,2883,822,725"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Organization of Suffrage States",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1366,3682,689,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE first comprehensive undertaking during 1916 was the swing through the suffrage states, commencing, in January and ending in March, during which the organization of suf-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1294,3777,824,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=1420,4021,88,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Suffrage Special",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2356,2035,453,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Salt Lake Conference",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p4#xywh=2328,3679,481,59"
+  }
+ ]
+}

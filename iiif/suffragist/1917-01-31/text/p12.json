@@ -1,0 +1,337 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "12",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=480,360,60,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "5,000 New Subscribers Circulation Manager: Miss Elizabeth Smith Assistant Circulation Manager: Miss Frances Pepper dembers Who Have Secured New Subscribers for \"The Suffragist\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=503,456,806,429"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(n this column we list the subscriptions sent in each week by our members. This is only o part of the total number of mew subscriptions received.) January 7th Through January 13th",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=481,912,828,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Vida Milholland.................. 1 . 4 New Jersey Branch, Congressional Union.. Mrs. Joseph Griswold Deane........... 1 h 1 Miss Anna P..Thomas............... 1 Mrs. Robert Adamson.................. 2 Mrs. Mary E. Brown.............. 2 1 Mrs. Mabel T. La Rue........ 1 1 1 Mr. John E. Milholland............... 9 Miss Mary Gertrude Fendall.......... 1 Miss Nettie A. Blasing.......... 2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=486,1182,832,776"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "30 Previously acknowledged in Tae Sur-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=488,2017,825,141"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Total through January 13th secured by",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=525,2212,766,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Cambridge 1828-30 Colwmbin Rond washington, 3. . REDUCING FLESH A SPECIALTY First-class accommodations for outof-town patients. Phone Col. 1027",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=500,2365,486,286"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Under the direction of an expert DIETE- TIAN. TRAINED MASSE USE in charge of baths, oil rubs, etc.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=996,2379,296,199"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WEST END TRUST CoOMPANY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=565,2768,668,242"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Receives Deposits Acts as Executor, Administrator Guardian, Trustee, Agent Sells Foreign Exchange, Travelers' Letters of Credit, Express Checks Maintains an Up-to-date Safe Deposit Department and a Storage Department for trunks and packages Manages Real Estate, Collects Rents etc. Lends Money on Approved Collateral Security",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=553,3278,686,613"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Public Principles Law aul Inst Wasnfhgtion. D.C. Mo A",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1365,465,784,290"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CHURCH ENVELOPES Of Every Variety JOSEPH COMPANY 1632 Meadow St. Philadelphia, Pa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1365,818,795,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CHURCH ENVELOPES Of Every Variety JOSEPH COMPANY 1632 Meadow St. Philadelphia, Pa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1365,818,795,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Denver, Colo. A Store where no transaction is complete until the customer is satisfied.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1384,1354,537,123"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Exclusively for Women Then why not stay at Hotel Rutledgte Lexington Ave. and 30th St. New York Rooms from $1.00 daily Room with full board from $12.00 to $18.00 per week. All outside rooms",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1365,1539,805,607"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SOCIETY STATIONERY E. MORRISON PAPER CO. 009 Pennsylvania Avenue N. W. Mothproof bags and paper for protecting the winter clothing, carpets, rugs, curtains, etc.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1400,2227,743,235"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "F AND TWELFTH STRERTS WASHINGTON, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1381,2787,769,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TELEPHONE MAIN 673 Lanman Engraving Co. HALF TONES, ZINC ETCHINGS PROCESS ENGRAVERS POST BUILDING Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1378,2927,759,264"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. MUSHINA LADIES' TAILOR and GOWN-MAKER 1348 East Forty-seventh Street, Chicago Telephone—Oalkland 1949",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=1370,3291,787,267"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our daily announcements in the newspapers contain much interest —do not miss them. CLASSIFIED ADVERTISEMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2221,1385,835,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rate, 15 words 25 cents, 2 cents each additional word. Five insertions for the price of four. All advertisements must be prepaid. To insure insertion in our next issue, all advertisements must be received not later than Tuesday morning. Address, the o Lafayette Square, W m, D. O. FOR SALE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2221,1822,835,299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FOR SALB HE WOMAN CITICEN'S LIBRARY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2359,2060,562,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "e as Edited by Shailer Matthews, D. D. A practical political and civic reference for women. Twelve handy volumes. GComplete in dealing with the entire development of the science of community better ment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2229,2140,822,163"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Special price to clubs or active workers. THE CIVIOS SOCIETY,. Trenton, N. J. FOR RENT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2221,2302,835,198"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FOR RENT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2553,2429,173,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FURNISHED APARTMENTS; adioining The Valencia. Apply Miss Wilson, 280 St. George Street, St. Augusting, Florida. ——————— WANTED ———",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2221,2500,835,189"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WANTED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2566,2621,148,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAUNDRY WORK BY HAND; for ladies and children. No machinery us Sunlight Hand Laundry, 1439 Morris Rd. S. E., Washington, D. O.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2226,2689,824,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VIOLINIST AND CELLIST to form trio or music in Washington. Box 28, “The",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2234,2812,820,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PER SONAL SERVICE PRINTIN G 621 Plymouth Court The Sign of Onalisy C H I C A G o Wash Skirts of Your Material WILSON 1418 Stevens Building Chicago, Ill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p12#xywh=2221,2955,835,581"
+  }
+ ]
+}

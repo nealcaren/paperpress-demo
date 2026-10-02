@@ -1,0 +1,315 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Congressiomal Rnion for Woman Suffrage National Woman's Harty",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=429,469,2569,301"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NATIONAL HEADQUARTERS, LAFAYETTE SQUARE, WASHINGTON, D. C., Tel. Main 5437 BRANCH HEADQUARTERS: Delaware, 17 East 7th Street, Wilmington Marytand, 817 N. Charles Street, Baltimore, Tel. Mt. New 709 Union Building, Clinton Street, Tel. Wilmington 5580 Vernon 3279 Newark. Distriot of Cotumbia, Lafayette Square, Washington, Mossachusetts, 401 Phillips Building, 120 Tremont New York, 13 East 41st Street, New York, Tel. Mur- S 252 ray H 50 East 42d Street, N. Y, City (City Committee) Building, Chicago, Tel. Ran- Michigan, 118 Farmer Street, Detroit oe Builaing, State and Sixtn Streets, Coumbus. Indtana, The Arcade, West Washington Street, In. Minnesota, 206 Studlo Bullding, corner Market and Pennsyivania, 213 Hale Bulldins, Philadelphia, Tel. dianapolis Fourth Street, St. Paul Filbert 3652",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=422,792,2585,419"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MEMBESHIP Ope to a women who, regardims woman suffrage as the foremost political issue of the day, will support it irrespective of the interests of any national political party.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=411,1285,2577,75"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Phoebe Hearst, Cal., Vice-chairman Miss Mabel Vernon, Nev., Secretary Miss Alice Paul, N. J., Bz-officio Dr. Margaret Long, Col., Treas.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1393,1691,1428,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "th Middle Western States—Mrs. A. R. Colvin, Minn. Inland Suffrage States—Mrs. E. M. Garnett, Utah.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1319,2265,1668,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INTRANCE FEE: Twenty-five cents. There are no dues.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=448,1359,917,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Frederick T. Ackermann, N. Y. Mrs. Lewis L. Delafield, N. Y. Mrs. Robert Adamson, N.Y. Miss Lavinis Dock, Pa. Mrs. Charles F. Amidon, N. Dak. Mrs. Rheta Childe Dorr, N. Y. Miss Jessie Ashley, N. Y. Miss Crystal Eastman, N. Y. Mrs. Mary Austin, Cal. Mrs. William . . Dr. S. Baker, N. Y. Mrs. J. Andre Fouilhoux, Ore. Mrs. Adoiphus Clay Bartlett, Ill. Miss Susan P. Frost, S. C. Mrs. Bea Wyo. Mrs. Emma Maddox Funck, Md. Mrs. Mary Ritthr Beard, N. Y. Mrs. Elizabeth Cal. Mrs. Edward Mich. Mrs. Charlotte Perkins Gilman, N. Y. Mrs. Alfred Minn. Mrs. E. Graupner, Cal. Reverend rown, Wis. Edwin O. Grice, Pa. Miss Mary A. Burnham, a rs. Jennie Law Mich. Mrs. Dora Buell, Col. Mrs. W. E. Hardy, Neb. Mrs. Annie Wells Cannon, Utsh Mrs. H. O. Havemeyer, N. Y. Mrs. John Carey, Ind. Mrs. F. R. Hazard, N. Y. Mrs. Mrs. Phoebe A. Hearst, Cal. Mrs. Willlam L. Golt, N. Y. Mrs. William Randolph Hearst, N. Y. Miss Anna Constable, N. Y. Mrs. George Hendrie, Mich. Mrs. Coonley, Ill. Mrs. Frederick C. Howe, N. Y. Mrs. Frank Cothren, Ill. Miss Mary Ingham, Pa. t, C Mrs. George H. Day, Conn. Mrs. Agnes M. Jenks, R. I. Dr. Maria M. Dean, Mont. Dr. Cora Smith King, Wash.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=439,3245,1212,657"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=428,386,40,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Alice Paul, N. J., Chairman Miss Lucy Burns, N. Y. m Miss Anne Martin, Nev., Chairman Finance Lobl Miss Alice Carpenter, N. Y. M iss Anne Martin, Nev. Men Literature M Miss Mary Gertrude Fendall, Md.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=433,1462,680,541"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Beulah Amidon Miss Lucy Branham Miss Iris Calderhead Middle Atlantic States—Mrs. Henry Bruere",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=433,2003,680,360"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "rizond Mrs. H. M. Clagett, Nogales Arkansas Mrs. Edward M. Jarrett Hotel Rex, Zellville, Marion Co. California Mrs. Ida Finney Mackrille, 1271 37th Avenue, San Francisco Colorado\" Mrs. Bertha W. Fowler 1225 Wood Avenue, Colorado Springs Connecticut Mrs. W. D. Ascough 56 Wa Sret, Hartor Delaware Mrs. Florence Bayard Hilles 17 East 7th Street, Wilmington District Columbin Mrs. W. T. Burch, 21 Madison Place, Washington, D. C. Idaho Mrs. Frederick Walker, co Travyeling Library, Oxford Hotel, Boise Illinots Mrs. Bertram S 1004 Stevens s., Chicago",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=438,2363,629,800"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Colors—Purple, White and Gold e United States Constitution enfranchising women. regarding woman suffrage as the foremost political iss here are no dues. National Executive Committee of the Con Mrs. O. H, P. Belmont, N. Y. Mrs. Gi n Mrs. Harriot Stanton Blatch Kas. Mrs. De Mrs. Tohn W. Brannan, N. Y. Mrs. W",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1086,1218,857,326"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Executive Committee of the Congressional Union Mrs. O. H, P. Belmont, N. Y. Mrs. Gilson Gardner, D. C. n Mrs. Harriot Stanton Blatch, Kas. Mrs. Donald R. Hooe Mad. Mrs. John W. Brannan, N. Y. Mrs. William Kent, Cal. Treasurer, Miss Joy L. Webster, Neb. Assistant Treasurer, Miss Gertrude L. Crocker, Ill. Secretary, Miss Mabel Vernon, Nev. Officers of the National Woman's Party Mrs. Phoebe Hearst, Cal., Vice-chairman Miss Alice Paul, N. J., Bz-officio National Departments",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1086,1404,1173,420"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Executive Secretary, Miss Virginia Arnold, N. C. National Organizers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1301,2012,816,104"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "District Chairmen",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1558,2223,319,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "lational Committee of State Chairmen",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1368,2317,691,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ndiand Miss Eleanor Barker, 611 Fletcher Sevings & Trust Co., Indianapolis Kansas Mrs. Dan Casement 43 Nor Sreet, Manbattan Maine Mrs. Robert Treat Whitehouse, 42 Deering Street, Portland Marpland Mrs. Townsend Scott, S17 North Charles Street, Baltimore assachusetts Mrs. H. Morey, 120 Tremont Street, Boston aichigan Mrs. Nelson Whittemore, 2967 West Grand Boulevard, Detroit Minnesote Mrs. A. R. Colvin, Davern Avenue, St. Paul Missourd Mrs. Edith Barriger, 5430 Cabanne Avenue, St. Louils Montana Mrs. C. S. Haire, 528 Iemlock Street, Helena",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1086,2370,622,787"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Advisory Council",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1481,3174,479,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Mildred Gilbert Miss Sarah Grant Miss Alice Henkle",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1128,2117,310,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cal., Vice-chairman Miss Ez-officio Dr. M artments National Headquarters, Committee of 200 Maintenance of Mrs. william Kent, Cal. Organization Miss Doris Stevens, Neb. ss Virginia Arnold, N. C. organizers Miss Elsie Hill Miss Hazel Hunkins Miss Marion McGaw",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1720,1687,652,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nevada Mrs. M. S. Bonnifield, Winnemucca New Jersey Mrs. J. A. H. 17 West Park Street, Newark New Megico Mrs. Joshua Raynolds, 308 South High Street, Albuquerque New York Mrs. O. H. P. Belmont, 13 East 41st Street, New York City North Dakota Mrs, Elizabeth Darrow O'Netil, 714 Eighth Street, Fargo Ohio Mrs. Mead, vandalila CEklahome Mrs. G. W. England, 200 West 6th Street, Oklahoma City Oregon Dr. Florence Manion, 517 Medical Building, Portland Pennsylvanta Miss Marie Ernst 213 Hale Bldg., Philadelphia",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1720,2370,628,784"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Fola La Follette, N. Y. Miss Gail Laughlin, Calif. Mrs. Lola Maverick 1ll, Mrs. Jessie Hardy Mackaye, D. C. Mrs. Lionel S. Marks, Mass. Miss Julia T. Miss Helen Marot, N. Y. Mrs. Harris Masterson, Tex. Miss Edythe Wynne Matthion, Conn Miss Marion May, N. Y. Miss Vida Milholland, N. Y. Mrs. Lilla Day Monroe, Kans. Mrs. John T, Morrison, Idaho Mrs. Henry Moskowitz, N. Y. Mrs. William Spencer Md. Mrs. Ellen . C. Mrs. Meredith Nicholson, Ind. Mrs. Adelina Otero-Warren, N. M. Mrs. Marsden Perry, R. I. Mrs. Annie Porritt, Conn. Mrs. Alden Potter, Minn. Mrs. William Prendergast, N. Y. Mrs. Nina G. Proctor, N. Y.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=1734,3254,541,642"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Secretary, Miss Maud Younger, Cal.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2022,3216,535,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mabel Vernon, Nev., Secretary argaret Long, Col., Treas. iss Hazel MacKaye, Mass. Press Mrs. Robert Baker, D. C. Research Mrs. Helena Hill Weed, Conn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2368,1515,639,491"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Gibson Ross Mrs. E, St. Clair Miss Margaret Whittemore rage States—Mrs. B. M. Garnett, Utah.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2368,2006,639,351"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "South Carolina Mrs. John Gibbs, 9 Pitt Street, Charleston South Dakota Mrs. A. R. Fellows, Sioux Falls Tennessee Mrs. Hugh L. White, Johnson City Tezas Mrs. Clara Snell Wolfe, 909 West 18th Street, Austin Utah Mrs. Margaret Zane Cherdron, 1901 South 9th Street, mast, Salt Lake City vermont Mrs. J, Borden Estee, Montpelier Mrs. G. Meredith, 204 st Grace Streef, Richmong Washington Mrs. Otis Floyd Lamson, 1237 Federal Ave., Seattle wWisconsin Miss Ada James, Richland Center Wyoming Dr. Frances M. Lane, Cody",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2368,2357,608,807"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. James Hayden Rector, Ohio Mrs. Henry Del. Miss Ella Riegel, Pa. Mrs. Julius Rosenwald, Il. Mrs. Charles Edward Russell, D. C. Mrs. Frederick Sanborn, Cal. Mrs. May Wright Sewall, Ind. Mrs. Austin Sperry, Cal. Mrs. Albert Steinfeld, Ariz. Mrs. Julius Stone, Ohio Mrs. David D. Terry, Ark. Mrs. Mary O. Therkelsen, Ore. Mrs. Robert Gibbes Thomas, S. . Miss Clars L. Thompson, Mo. Mrs. Shelley Tollhurst, Cal. Mrs. Samuel Untermyer, N. Y. Mrs. Richard Wainwright, D. O. Mrs. Hettie D. M. Wallis, Tex. Mrs. Thomas F. Walsh, D. C. Mrs. John Jay White, D. C. Mrs. Harvey W. Wiley, D. C. Mrs. S. B. M. Young, Mont.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2378,3253,629,644"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Lawrence Lewls, Pa. Miss Anne Martin, Nev.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p2#xywh=2468,1452,388,63"
+  }
+ ]
+}

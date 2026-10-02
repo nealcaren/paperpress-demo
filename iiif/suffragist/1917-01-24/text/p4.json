@@ -1,0 +1,117 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". h r",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=449,471,2552,1603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffrage Sentinels Still Wait at the White House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=991,2378,1467,243"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ARYLAND was the first of the states to M be represented in the demonstration now being conducted by the Congressional Union in front of the White House to remind President Wilson that the women of the nation are holding him responsible for the nonpassage of the federal suffrage amendment. Maryland day on the picket line was significant in that it drew from this state, one of the most conservative in the Union, with strong southern sympathies, a protest that convinced the most casual spectators that southern women are demanding political liberty with the East and the West. Thousands saw the block-long line of women during the afternoon.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=447,2717,823,778"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The demonstration of the women of Maryland was one of the most beautiful sights that has been seen in the Capitol for many days. The long line of women bearing the great banners of the Congressional Union extended along Pennsylvania Avenue the entire distance from the east gate to the west gate of the White House. From across Lafayette Square the floating purple, white and gold",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=446,3502,824,462"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Section of Maryland Women on Guard at White House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=1230,2116,978,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Section of Maryland Women on Guard at White House ge Sentinels Still Wait White House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=1230,2116,978,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tri-colored streamers of the Union could be plainly seen, a vivid decorative line against the classical white bulk of the White House. The Maryland delegation to the Presidential picket was organized by Mrs. Townsend Scott, chairman of the Maryland Branch of the Congressional Union. Among the representative women of the delegation were Mrs. William Fisher, Mrs. Maxwell Zurndorf, Mrs. Susanne Davis, Miss Eleanor White, Mrs. Olive Scott Gabriel, Mrs. Mark Jackson, Mrs. Almira Sweeten, Miss Florence McLouth, Miss Emma Morris, Mrs. Albert C. Miller and Mrs. Albert C. Kolls.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=1310,2716,824,608"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THER state and special days on the O picket line at the White House will follow each other in rapid succession up to the adjournment of Congress. Pennsylvania, New Jersey, Virginia and New York will all send large delegations to Washington to help in the White House guard within the coming two weeks.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=1308,3356,828,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "re HIVALROUS in the best sense and often ti te C touching have been some of the trib-w te utes paid to the pickets. The attitude st 1d of the general public changed rapidly from atf",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=1230,3762,978,479"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "gaicty to admiration, as the thermometer sank and the real winter storms began. But there were many men and women who from the first recognized the utility of this picket on a President. One old gentleman on that first day paused a little startled at the burst of floating color just outside the great white gates. He slowly read the lettered golden banners: “Mr. President, how long must women wait for liberty?\" Then he bared his white head and bowing with a real reverence in his demeanor he walked past the six silent sentinels, covering his head only to bare it again as he passed the six women at the western gate. He was one of those who have watched the long struggle of women for political liberty in this country; one who realized how patient and how self-effacing had been their protests, their attempts to draw the attention of the nation's chief to this proposition of fundamental justice. There was not a woman on the line that did not stand a little straighter and hold her banner a little higher after that gentleman passed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p4#xywh=2173,2716,828,1245"
+  }
+ ]
+}

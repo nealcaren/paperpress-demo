@@ -1,0 +1,392 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "c i i c nl in ve ge le an i in ha in rd en o ex s na;",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=0,201,52,1010"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Blatch was then appealed to as the presint of a “campaign state\" for her opinion upon effect of the Union's policy upon such a state. Although technically New York state is not campaign state, it is in reality,' said Mrs. atch, “because our legislature has promised— parties have promised—to put our bill right rough to the voters. We in New York state e faced with two national policies. This policy at has been proposed by the Congressional ion to call upon the women in the suffrage ites to chastise the party in power at Washgton and another policy to chastise individual ti-suffragist Congressmen. And lo and bed, under that proposal it is planned by the ational Association to strike at Congressman tzgerald in Brooklyn. Now that would hurt The Congressional Union proposes nothing the sort; it proposes to strike at the national ministration in far distant states, not in our mpaign states at all. So that I feel that as ere are two policies presented to us, one calls upon the suffrage women in the far West for sistance, and the other policy calling upon the en of the East to defeat a man right in our mpaign state in New York, I am for the Westn policy.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=65,300,834,1172"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "se dis he am de fte",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=0,1253,47,269"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“There is another point I want to make with the force I can here today, and that is,—give that idea, when you are entering upon the litical aspect of our question, that it makes y difference what a man's personal views are to suffrage. Whether he is for or against, he n only give you one vote. But as a cog in a g political wheel he is extremely important. nd we want to work in Congress just exactly as e work in the New York legislature. We do t care one bit whether you are for suffrage or ainst it. We want you in the legislature to put is question out to the voters. We want you Congress to put this question out to the state gislatures. We are not asking those men hether they personally believe in suffrage or ot. But as part of the administration it is enorously important to have them act so as to put e question out to the state legislatures.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=79,1478,838,818"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wh am fec tes. to ates ugh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=0,1533,56,348"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tha ere fea wopea by moong is tha",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=0,1864,60,518"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Brief speeches endorsing the election policy re made by Mrs. William Prendergast of the visory Council, Miss Elsie Hill, formerly esident of the College Suffrage League of the strict of Columbia, and Mrs. Thomas N. Heprn, president of the Connecticut State Woman ffrage Association.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=92,2303,827,305"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "toashisen verunh1 ave for ding urs. for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1,2396,70,505"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Collection",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=251,2723,482,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OLLOWING the enthusiastic endorsement of the election program, the appeal of Mrs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=122,2875,805,99"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "lidly g to feat such eak. feat we",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1,2910,76,301"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Donald R. Hooker for funds met with an nmest and joyous response. Pledges followed e another so rapidly that a halt had to be led repeatedly in order to enable them to be cen down. Mrs. John Jay White, a member of Advisory Council, Mrs. J. J. Brown of Coloo, and Mrs. Oliver H. P. Belmont each ofed to pay the expenses of one organizer durthe election campaign. Other members of conference offered to go out to the suffrage ites themselves and pay their own expenses. gift of five thousand dollars was made by rs. Belmont, who contributed so much in every y toward the brilliant success of the conferce. Contributions of large and small amounts ntinued to pour in until the pledging had to be opped to make way for the tea which Mrs. Belont gave in honor of the members of the Con- -ence.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=105,2979,824,832"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "this crats can't crats ainst one on a itical",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=0,3206,85,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Such a collection coming spontaneously from ch a small group is probably without parallel the suffrage movement in this country. I ve never heard of anything like it before in firage circles,' wrote one leading Suffragist 0 attended the Conference; “it would have en large for one of our national conventions.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=106,3817,827,303"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Social Side of the Conference",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1053,294,745,173"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NE of the unforgettable memories of the O Newport conference was the delightful gathering at the tea given by Mrs. Belmont on the terrace at Marble House looking out over the ocean. The guests wandered in small groups over the green turf to the ocean's edge and sat in the wonderful Chinese tea house on the cliff overhanging the ocean, until it was time to hurry away to prepare for the garden party in the evening.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=985,523,871,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Another enjoyable social feature of the conference was the reception on Saturday night in the Casino parlors, overlooking the tennis courts where so many famous matches have been played. Bishop Darlington, Mrs. Oliver H. P. Belmont, Mrs. Norman deR. Whitehouse, Mrs. Charles S. Whitman, wife of the District Attorney of New York, Mrs. Alice Duer Miller, and Mrs. Marsden J. Perry received the guests.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=994,978,870,396"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the close of the evening the violins stopped playing and chairs were drawn together for a few pithy and inspiring speeches before the company parted. Bishop Darlington, as chairman, introduced the speakers. Mrs. Crystal Eastman Benedict spoke of the great vigor of the suffrage movement today backed as it was by the power of the women voters. Mrs. Florence Kelley spoke of the enormous difficulty suffragists encountered in appealing for enfranchisement to the ignorant vote of men electors and of the practical character of national political work. Mrs. Alice Duer Miller made a pithy and penetrating little speech on the psychology of the anti-suffragist.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1004,1375,867,662"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The homes of many of the Newport members were opened to the conference and dinners were given in honor of the visiting guests. A dinner for the members of the Executive Committee of the Union was given on Saturday evening at Marble House by Mrs. Belmont. Mrs. Florence Kelley and Mrs. Blatch were guests in addition to the members of the committee.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1013,2041,863,347"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Luncheon at Channing Parlors",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1067,2474,768,177"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The conference was preceded by a delightful tuncheon at which all the women attending the conference assembled for the first time. The whole conference started off -in a spirit of buoyant optimism and the determination to get down to the actual business of the political struggle in order to close the suffrage movement in America within the next few years.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1018,2718,865,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The speaking was presided over by Mrs. Harriot Stanton Blatch, of New York, and the speakers included Mrs. Annie Porritt of Connecticut. Mrs. John Rogers, Jr., of New York, Mrs. William Prendergast of Brooklyn, Mrs. Wilfred Lewis of Philadelphia, Miss Eliza Hardy Lord of Washington, D. C., and Mrs. Agnes Jenks of New Hampshire. Mrs. Maude Howe Eflliott, President of the Newport County League, welcomed the conference to Newport.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1021,3074,864,436"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Isn't this an inspiration,\" said Mrs. Porritt in the opening speech at the luncheon. “It seems to me that one of the best things that the Congressional Union has done during its not very long existence is the bringing of things practical to a point. We have been working so long with the idea that woman suffrage was going to come at some very distant time and now we have been given the new idea that woman suffrage is something that we are going to get immediately. And that is the chief value of the Congressional Union. It has found a practical political means of getting suffrage politically; a means which before may have been thought of theoretically, but",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1023,3513,869,612"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "7",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=2728,204,34,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "which was never thought of as a practical possibility, and it has broken up forever and ever the ice of inertia, the lack of practical working power that seemed to have encrusted the whole of the suffrage movement. We are going ahead tremendously quickly—we are going to get votes for women very quickly, and I believe that for about nine-tenths of the states, we are going to get it through congressional enactment.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1952,304,861,389"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This faith in the federal method of work—this belief in its hopefulness, permeated all of the speeches, ending with that of Mrs. Charles Bell of California, whose interest in the Conference was of particular significance as a token of the support which the voting women will give in the coming stages of the suffrage struggle.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1955,697,862,304"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Comments of the Press",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=2077,1051,626,69"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Suffrage Campaign",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=2142,1171,501,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I is becoming apparent to leaders of the suffrage cause that if action is not taken within",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1969,1269,854,98"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the next two weeks on the proposed amendment to the Constitution of the United States extending the franchise to women the prospects for any action along this line in Congress during the present session will be greatly diminished and perhaps might as well be abandoned. For this reason, it appears, September 15 was fixed by the recent conference at Newport, R. I., of the Advisory Council of the Congressional Union for Woman Suffrage as the limit of the opportunity granted the majority party in the national Legislature to display its friendliness to the measure. It was announced at this conference, at least, that unless Democrats in Congress acted favorably on the suffrage amendment before the date named the Council would oppose their re-election. However, it is stated that in any event the details of the suffrage plan of campaign will be withheld from the public until September 19.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1968,1374,863,825"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It may be taken for granted that members of Congress who have placed obstacles in the way of submission, and members who may be found opposing the amendment up to the launching of the suffrage campaign will be vigorously opposed. As a political organization the right of the Suffragists to use every possible legitimate imeans to bring about the defeat of their opponents will hardly be denied.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1974,2203,865,390"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Whatever side one's sympathy may take in this contest, it will only be fair to grant women such rights as are never denied men in carrying on a political campaign. It is manifestly the right of men in politics, as it must be conceded, we think, to be the right of women, to oppose their foes and support their friends.—Christian Science Monitor, Sept. 3.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1978,2596,864,349"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Entrance of Suffragists into Practical Politics Newport Conference was remarkable in many ways, but in three especially. It was remarkable because, at a time everybody is in a panic-about money and nobody is giving anything to anybody, $10,000 was raised with little effort in a brief time.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1983,2985,865,435"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It was epoch making, in that it established beyond cavil the fact that women can keep a secret. Not one woman, but one hundred women, held the secret of the bolt to be launched at the Democratic party this fall.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1983,3423,866,215"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The third and most striking feature of the conference was that it marked the entrance of women into the arena of practical politics. It is true that women in various states are in politics in the sense that they vote and hold office. But at Newport, for the first time, was launched a national movement of women armed to fight with political weapons for their rights, as men fight in the political arena, by striking at the ambitions of those who want office.—New York Tribune, Sept. 6th.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p7#xywh=1987,3639,865,479"
+  }
+ ]
+}

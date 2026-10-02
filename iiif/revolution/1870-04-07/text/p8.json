@@ -1,0 +1,249 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p8.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "216",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=414,173,92,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ahe Hrnsiution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=407,260,551,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PUBLISHED WEEKLY, $3 A YEAR NEWw YORE CrTY SUBSCHIPTIONS, $3.20.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=454,391,458,71"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ELIZABETH CADY STANTON, Editor. PAULINA WRIGHT DAVIS, Cor. Editor SUSAN B. ANTHONY, Proprietor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=423,506,535,108"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OF FICE, 49 EAST TWENTY-THIRD ST., N,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=436,661,499,27"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK. APRIL 7, 1870.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=498,735,374,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EDITORIAL CORRESPONDENCE.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=470,804,438,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WAnA, Indiare. DEAn REVOLUTION After sending my last letter from this plessant little town, I met a most intelligent audience in. the Methodist Church, snd was honored with calls from s large number of fair women and brave men, all slive on the question of Woman's Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=409,870,556,220"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. S. Brenton, a young lawyer, is the moving spirit in the lyceum there. Over Crawfordsville, a dark cloud seems to hang in the shape of iron-bars across their college doors sgainst the daughters of the state. The twenty-three young ladies who applied and were rejected, are by no means in a bappy frame of mind. But as the president is a gentleman and a scholar, and honors the ladies who go to labor in that missionary field, with bis presence in the lyceum, and pives a patient hearing to all they have to say, no doubt in due time he will “open the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=407,1097,559,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Here I met Lizzie Boynton, bright and gifted with both pen and tongue. Sbe is mow spesking in ber pative state on the Rights of Man.\" I rejoice that the much-abused sex has st last found a young and besutiful champion in the state of Indiana. The poor fellows might do well to invite her to plead their cause throughout the country. At Indianapobs I met a few of the faitbful Among others, the Rev. Henry Blanchard, formerly of Brookiyn, and had s chat with bim on free trade, one of the grest issnes of the hour. Indisnapolis can boast of broad, well paved streets, but its public buildmgs, its state house and executive mansion sre reslly a isgrace to that wealthy state Everybody spesks bighly of Gen. Beker. and his remarkably intelligent, fine looking wife.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=405,1513,559,586"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ex.Govornor Morton, now United States Souster, is strong in the sffections of the people for his faithfulmess and devotion during the war. I mever restized the trisls and suxioty that state endured during the wer, until 1 hstened to the details from actors in the seenes.1 was surprined to find thet in o many repect Indians bebind New York in ber legisistion on woman. There sbe cannot collect ber own wages, and, like the minor, cannot make ogn contract. Women, of Indians. awske, and soe thet your reprosentatives in the state and at Weshgon ere yo in rights of citizens",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=405,2101,558,443"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "They say our champion, George WJulisn, will be obliged to make a hard fight for renomination and re-slection to Congress net winte If that i 5o, he bad better bring forwerd the Sixtonth Ambndament agsin this soion, ad thus rouse some enthusiam among the women of his state. These Republicans thus f have",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=404,2551,558,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Resintin taken good oare to make all their moves so inte in the session that mo sotion could be take on their messures. Now, dearly beloved brethen. this will not do; the women begin to see throngh your moe little game. We warn you, s we have mary Umee and oft before, that you do mot take up this question mantully. the Democrsts will steal all your thunder. Look at Wyomins. what a Democratic legisisture bave done there., women voting, womsn on juries. etc., ete",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=983,170,565,412"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "March 14th, Peons, Hlincis Here I met our beroic proprietor, and found the people all on tip-toe, as to which party will teke up Womsn's Suffrage. As a grand county convention comes off bere this week. all the leading papers bave long snd ably-written editorials on the quesbon The west eschewimg that kind of twad dle im which our esstern journals abound. seems to be givimg itself to s serious conmderstion of all the moral and material bearimgs of the subject As Miss Anthony bas a long hst of appornt ments in one durection and I in another, to-morow we part.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=987,588,560,418"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E.. The above letter arrived all out of time, via Washington and the dead letter office, out of which it was rescued by s lady clerk, its bills paid it and sent on sts way again.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=990,1003,561,155"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CONDITION OF THE FREEDMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=1044,1203,445,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TaEy have the ballot st last. If men. males, they have the ballot And now the strfe among ponticiars will be, bas for two years been, bow can we use them to subserve the imterests of our party? A few of ws, while defending their ntural, inslienable, inextimgmshable right to the ballot, both women and men, equaily with all other women snd men, have not been wholly blinded by inordinate party zeal to their pressing. perishing meed of some other things besdes. I made s httle tonr south last sutumn and reported what I ssw and beard, not in the cities, but on the plantations where the colored people mostly are and must remain, to enoountor such weal or woe as betides, with few to pity, mone or nesrly none, to save",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=985,1270,563,506"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And now Rachel Townsend, a benevolent Quaker lady, reports what is daily and mghtly and constantly seen in Washington. the capital of the country, with sll its bossted emblazonry of republicanim and region. Not the diml wamp plantations o theCarolins Sos Islands, nor the impenetrsble wilds of lower Louisiana and Texas, the onoe borrible beunt of the Logren of Slavery's reign. but Was ington, which presumed to reprosent the best. not the worst, forms of our christian and democratic civiation. Sbhe bay durimg the past winter mede three visits there and pow the Phdepis Post tt e foun the aged and sick freedmen in a most deplorsble condition, many of them in grent wuloring from fearul dinennes without uf ont clotng by day or might without beds. fire. or sitsble 1o0d mdeed, many withoul any food or fire. end if they wanted s phwician po one weemed willing to go to their wretohed hovels on tl. thing that human beings require to meke hom somtortable but there they had beon congre ated in lre broken door of 3d pis of or oe broken, oky oii ombers. Soarcely any of these poor, denpised onesare portect puysiosily. There are mny with bot one imb, ope ar. o wi bro b o arawn np with rheum m",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=983,1782,563,988"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "to the ground from weskno i for want of 1904, two, ome man n4 one womn. with both limbs off, fom being fronn while in sisvery, with most of the direful sens to winch, umen beings are subet d sbocking sight dafly in the most popuion strtin WasbingtogAnd yot te peopie boast of the large mumber of churches anof thetr advanor in religion snd civiation. ju as they 6o in Philsdetphis and other citien. an woutdtink thew churoh ort suffering condition of the peopie of oolr o be sluded to n y of them. While aaily going the rounds. fter earing the e a ory religon, 1 found desth was meking its revagee among these outossts. by oold and starestion. some beimg found in old garrets or oeller, dend or dying sometimes s desd motber, with living infant beside ber, gnawing a orche tlay in the agomies of Genth three othey itle ones lyimg on s beap of rage in the garret. orying “\"mother, we are cold. do warm we e us bread grve us bresd!but she besre them not; her eyes were cloned in death",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=1566,255,562,800"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The day before 1 loft Washington this le time. was a cold and wtormy asy. Sleet. spow. and rain falling continuslty. The good agent and myself spent it with the poor ones aown on the isiand, two or three miles below the oty. most of theni old amd mok. without food or fe to warm their benumbed fremes. They clung around our good agent, who hed o lomg wtohed over them, as if an angel from besven bed appe ared in thew midst, srengthoning them for the last confist.It was evidont only fow more ssnds were in the ginss of many of them. and afr being st bome a few aupn. 1 w - formed thirteen had gone to the spirit world",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=1566,1071,563,443"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Townsend says many of these poople re very intelligent and know much more the we are aware of, and she ot urpri h o many doubt amy ad al religion oing tie more then a faroe imposed on the wnsuspecting thst cannot be oarred out in prectice the lives of profesors betng cold and beartios. mot weeking for oyects of commisertion where kind hand oan be extona to int the bringing the down trodden up trom the degrads tion in to which they heve been plunged by the cupidity of the oovetous and crnel man ers. Not long before the last direru oimity of war Charies Summer was relly beton i unto desth by one of those chivairons gentie men for applymg the termbarbaronsto the omof t whe Charies Sumner now1 35 pot bober be indiferent to the d wnd hm co of th oring peoie p made in thewr eon y y ome the g condition es e lly y committ the t tret of Columbis. and vry h pi we comd",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=1566,1523,561,828"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr Ton thounnd dor e wotd prty p auring the winter and fve hundred donr. and w r thie m w Gr certainly o in he arede in a o vry T ofen fye r o pian. and",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p8#xywh=1566,2356,556,415"
+  }
+ ]
+}

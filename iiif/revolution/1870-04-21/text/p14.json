@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p14.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=194,292,556,122"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "n sa wo",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=230,471,202,27"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "oto eo",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=531,472,194,27"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o pp p p p p Lao pt po pod p p po p p Cao pa o pouaod uoedo od p p o o p on W O Ov",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=174,503,578,830"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o pop o o po Swusas pu Suom wran ud uot o pu p o op aodo po p esi",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=184,1555,560,392"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "p p p n p o p o o o o mo unp ,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=137,1951,574,829"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "pp p o p o po p oo on e o50 Po p p p p po pA o—p p e ommao m e ud pou p op a pus op p p L.o o A put p popdo o o peo ou A a am",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=770,261,557,576"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "—————— 1 woom o p sasa muo ammodds o 8 P o o ) oO p 0 uo oq —O",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=773,856,556,191"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wm pod Comop o pu woa u wo J ood uom o N po o d do0 od 100 a ——— ssowods s poounonas p o asn oo o o 83 mdy Swpa p p o wgng wwmo omO om jo sood o 19p pm oO p o Jo p ouA —OAN OO ————— asmon sopm",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=699,1115,630,553"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "0 p Sunared o 1 o o 10 o0os wpung 20 mry m o o pI Buuds , wa m om mo oo 00 o d po jo aopa piacjpoi jo sosison 4d R",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=762,1674,561,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "md — P p Smeo o oa—EAO a a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=738,1949,570,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o 1 0u 10 op om aou 10u op o oaL p us oua ouL Swign. amo m o ppa 0 —090 0 $0 0 o — 0 2OVO",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=699,2421,567,366"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "118194 2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=699,2822,630,166"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "oo o p p pp p A 00 p o soud uoo)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1347,257,555,255"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "10) posopp pous u 305 So a pu o ) poa",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1349,727,557,97"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o poouo oods pou jo omv owmou A pu oo H ome o N o o p po miswer won oo oH Y uop Suouuy u uwng woo PO ouoo po ud Buwups sudosor wou o ospur uouws a 1uo woH O u200) q90. pu o Py W sl uio) otuuer pus pooa oH H0 o uwis ApvO moqe o0 105 poo",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1349,828,556,577"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "peoas sowods o) Buom o Suo0 L ouop o 0 0 o o CrwsoAY A omoo o Spu pus op o o 0, o junooo wo suo 3 o wmoa o u paoad o opo o ) umpuomy qu 0 0 om wodn spoge o o u00 01 ou 1949 ,O Jo wpu opuomcoo omo Ao u mrysto",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1345,1403,560,393"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mo szm50093 o3 mom smbos munoo om o p 3 osuoos ma soned onod u mo 3 p 5on . p p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1324,1801,569,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". 1 p omoo d poriad 0 p Po IO mo ooypn wmo mots uL pmaL pu p oqd umuno pus o J O p ao oK moN mASN wH400) ut Bupsem rnuus remros plou uwonwioowy H",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1283,2157,583,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "O8V OVHAANN S.NVROM TYNOILWN m 40 aVSHIAINNY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1292,2680,531,105"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y97",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p14#xywh=1724,2826,92,52"
+  }
+ ]
+}

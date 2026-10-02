@@ -1,0 +1,29 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Subscribers TaLEPHONE MAIN $361 Open 8:45A. M. ave Secured New Booke The Suffragist” S. Kanmn F AND TwELFTH STRERTS WaAsHINGTON, D. C. SOCIETY STATIONERY 1 E. MORRISON PAPER CO. Ready for 4 Mothproof bags and paper for protecting the 1 winter clothing, carpets, rugs, curtains, etc. THE FLOO 1 TELEPHONE MAIN 673 ANI Lonmon Engraving Co. a AT JANUAR POST BUILDING Washington, D. C. Bocause we prior t. in THE SUFFRAGIST 4,409 a elp Yourselt CLASSIFIED r friend no better Help the dattsr ft than a year's b ption to Shuppt F RAGIST THE woMAN Eated by Aburrtiers ck how Congress oman suffrage CHURCH ENVELOPES oor 08 en aper is the most Of Every Variety JOSEPH BRENNIAN COMPANY, n t 1632 Meadow St. Philadelphia, Pa| LAUNDRY WORK BY ement Phone FRa. 81 LEOTURE by Hon. 0. orator. “\"Torpedoes John J. Donovan & Co. TRUST Hainters and Berurators o o to play chamber music 1210 N. 13th St. PHILADELPHIA, PA. LPHIA, PA. A. T. Lewis & Son C nd SURPLUS Dry Goods Co. Denver, Colo. 0,000 A Store where is com- Stle ihout Entr plete until the customer is satisfied. s Deposits or, t E-xclusively for Women it, Express Checks Then why not stay at 1310 CHESTNU o-date Safe Deposit Sit, Cont Hotel Rutledge t for trunks ch Lexington Ave. and 30th St. tate, Collects Rents New York ste Rooms from $1.00 daily F Approved Collter Room with full bonrd r $12.00 0 $18.00 curity per week. All outside rooms",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p12#xywh=859,400,1707,3651"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "12",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p12#xywh=442,408,62,53"
+  }
+ ]
+}

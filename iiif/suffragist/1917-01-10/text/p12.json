@@ -1,0 +1,304 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "To the Advertisement Manager, THE SUFFRAGHIST. Lafayette Square, Washington, D. C. Please insert the undermentioned Advertisement in Tus SurrrAcIST for.. ..... Insertions to be published .for which I enclose the sum of $....... Date WRITE ADVERTISEMENT HERE Classified Advertisement Rate, 15 words 25 cents, 2 cents cach additional word. Five insertions for the price of four. Al Advertisements must be presaid. The Advertisement Manager reserves to herself the right to resect and return with remittamce any Advertisement which she may consider wnsitable for insertion in this section of the saser.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=1298,2948,1658,983"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The New Shoe FOR WOMEN Pe-Dom-Ic Cantil A SHOE that brings to you a new standard of comfort and style—a shoe that conforms to the dictates of fashion, and at the same time affords you the very maximum of comfort.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=455,581,879,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The flexible shank and snug-fitting arch give proper support to the foot, but yield absolute freedom. A sole built on natural lines and a shaped heel keep the foot in the correct walking position. Scientific in design—pleasing to look at—delightful to walk in—the result marks the greatest advance in shoemaking since its inception—comfort with style. Write today for Booklet S. \"Care of the Feet,\" and measurement blanks, S. Dalsimer & Sons stablished 1880 —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=446,1155,890,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "S. Dalsimer & Sons",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=446,1461,993,361"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "21 MADISON PLACE N. W.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=492,2020,645,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE attractive drawing rooms of T Cameron House are for rent for private entertaining and for club and society meetings. Low rental for their use afternoons and evenings. One dressing room and the service of maid, also open fire if desired. For small clubs or committees requiring only one room special arrangements will be made. Visitors will be welcome to look over the rooms. For further information apply to Mrs. Ella Dean, Official Hostess.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=446,2172,731,424"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WEST END TRUST CoPANY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=473,2777,675,236"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Receives Deposits Acts as Executor, Administrator Guardian, Trustee, Agent Sells Foreign Exchange, Travelers' Letters of Credit, Express Checks Maintains an Up-to-date Safe Deposit Department and a Storage Department for trunks and packages Manages Real Estate, Collects Rents etc. Lends Money on Approved Collateral Security",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=473,3283,680,611"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "12",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=386,364,58,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "D",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=412,1581,94,101"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Drawing Rooms For Rent",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=522,1822,576,180"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=612,2093,393,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=612,2093,393,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CAPITAL and SURPLUS $4,000,000",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=557,3106,507,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "F AND TWELFTH STREETS WASHINGTON, D. C. John J. Donovan & Co. Hainters and Beroraturs '1210 N. 13 St. PHILADELPHIA, PA.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=1285,2014,793,579"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SOCIETY STATIONERY E. MORRISON PAPER CO. 1009 Pennsylvania Avenue N. W. Mothproof bags and paper for protecting the winter clothing, carpets, rugs, curtains, etc. To the Advertisement Manager, THE SUF Lafayette Square, Washington, D. C Please insert the undermentioned Adverti facoriioune fo he auheched",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=1285,2593,793,578"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "$6.50",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=1872,1366,149,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Brentaun's Booksellers, Engravers and Stationers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=1419,1858,518,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". Kanun Sons & G.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2269,665,555,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A ROSY GLOW Soft and restfully inviting, Floods the Rooms of Fashion's Finest Homes— Lamps Magnificent",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2239,791,580,209"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Have Again Come Into Their Own For Lady's Boudoir, a display includes quaint, delicate; ocoing to fancy; with shades pretty colorings, and of generous size. On the Library Table, the Lamp takes on a restful, quiet dress; and here shades are in softest tones. The Pianist finds delight in the clear steady light; the artist revels in the wondrous shapes and designs of Piano Lamps to be found in our splendid collection. Lighting the way up stately Floor Lamps stand tall and straight, in finest finish; with glorious shades of brocade and silken fringe; in odd and beautiful shapes. Priced $2.69 to $50.00 A collection worth a special visit to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2198,1004,685,570"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Kann's—Third Floor. Rate, 15 words 25 cents, 2 cents each additional word. Five insertions for the price of four. All advertisements must be prepaid. To insure insertion in our next issue, all advertisements must be received not later than Tuesday morning. Address, the Advertising Manager THE SUFFRAGIST,. Lafayette Square, Washington, D. C. FOR SALE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2136,1574,834,489"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FOR SALE HE WOMAN CITIZEN'S LIBRARY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2272,2004,564,91"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A practical political and civic reference for women. Twelve handy volumes. Complete in dealing with the entire development of the science of community betterment. Special price to clubs or active workers. THE OIVIOS SOCIETY,. Trenton, N. J. CURRANT JUICE from which fresh jelly can be made at any time by boiling four minutes and adding sugar. Sample for two glasses sent with directions for 20c. arion Tuttle, Hornell, N. Y.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2136,2136,834,353"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAUNDRY WORK. BY HAND; for ladies and children. No machinery used. Sunlight Hand Laundry, 1439 Morris Rd. S. E., Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2148,2521,816,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE by Hon. O. T. Atkinson, author, lawyer and orator. “Torpedoes for Anti-Suffragists. Metropolitan press rates Atkinson one of the ablest lawyers and orators, Booklet by request. Authors Selling Co.. 59 Court St. Newark, N. J.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2141,2643,829,142"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VIOLINIST AND CELLIST to form trio or quartette chamber music in Washington. Box Suffragist.\" AGIST. ent in Tus SurrRAGIST for.. ... for which I enclose the sum of $.........",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p12#xywh=2136,2818,834,424"
+  }
+ ]
+}

@@ -1,0 +1,282 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p16.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "224.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=186,99,91,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CLAFLIN a co.. Ons. V. C. WOODULL, Mas. T. C. CLAFLIN. BANKERS AND BROKERS, BROAD STREET, N v., Buy and sell Gold, Government Bonds and Securitics Rafiway, Mining and Ol Stocks and Brnds; Bonds of any State, County or City, and will make libers advances on sams; will make coflections on and iswue certinonten of deposit avasisble in all parts of the Un'on. win promptly attend to all Mafl or Telegrsphic communicstions. ho S A L V E",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=169,185,560,432"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The important disoovery of the Carbolie Acid, as s cleansing, puriiying, and hesling agest, is one of the most remarkable results of modern medical resesrch During the late civil war it was extensively used in the hospitals, and was found to be mot only s thorough msinfootant, but 's0 the mot wondrr py ing Remedy ever yot known. t is mow presented in s soientific combinstion with other soothing and hesling agencies, im the form of s SALVE; and, baving been already used in numuerienes casos with most satistactory and beneficial resurts, we have no hesitstion in offering it to the public as the most cortain, rapid, and efectual remedy for all soree and ulcers, no matter of how long standing, burns, cuts. wounds, and every sbrasion of skin or flesh. Soid by al drugeists. Price, 28 cents. JOuN 7. WENRY. Sole Proprictor. 94 1y No. 8 College Place, New York. ENOCH MORGAN'S S0n\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=168,647,570,541"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CLEANS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=450,1245,90,18"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "epot, $11 Washington Bereet, e oh A M E BR 1 C A LIFE INSURANCE COMPANY, 2329 BROADWAT, N. N. D. MORGAN, Pres't. The strongest combination of advantageous festures tht are offered to the Insurance public is prosonted by this Company. REGISTRY. NEw YoRR S1ATE REOTERED PoLIOIRS, secured by pledge of Public Stock, ke the ciroulstion of Nations Banks. Rvery Rogistered Polioy is o8 secure to the holder as a Nationsl Benk Nots, or United States Bond. See Roculer Bulloun of Registered Policy Account in every Tuesday's New York Tren All Policies registered in the insurance Department free of cost.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=168,1387,570,585"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NUTTALITY The Company is PURELY MUTUAL, an order authorizing the rettrement of the Capits stock baving been pranted uly, 1959. After January, 1870, all the pronts win be divided among the Policy Holders, after the www PLA oonT origind y Company. NON-FORFEITURE. A our Life and Endowment Polioes are monforeitale aer two or three anal Premiome bave boon paid, tho we oring to your heirs the value of every dollsy invested whether you can continue your Poliey or mot Cas PR A CAS BETURN oF SURFLU o the waw ConTRIUTIO PLAn of Dividen THIRTY DAYS' GRACE showe on ny onewsl pay ment. and the Policy beld good No RETo o TA in he Unit any pert of North Amerios, north of the Southern Cape o Tiorio, or in Burope at ny eeson of the yer Vige Presient eorta Ww. MERRILL.. m.C MRGAN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=176,1975,560,582"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AGENTS READ THIS W WILL PAY Ao A SALARY OF e oo ? Aaar w co.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=168,2573,570,400"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She Revslntins. LIFE INSURANCE COMNPAFY or NEW YORK.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=744,98,571,244"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "or NEW YORE. o. 200 BoADw. PET FoLTO A Jou CASH CAPITAL, $125.000.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=762,273,538,157"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CASH CAPITAL, $1325.000 $100,000 DEroT wIT T IRA DEAT oF THE STATE 708 THE FROTHOTIOn OF THR PoL HoLDw All the Offoers and Directors (without an exception reserves tor further protection of the Policy wi be made This Company makes s Ossh Dividend to ste Policy Holders of 333, to 50 per cont each year in a0vemoe. by means of its iow rates of premiums. The safety of the Poticy Holder is guarded All New York Companies are obliged by the Stste to ot aide the same Resorve. The Reserve for ch Oom y is the same. csiculsted on the same table of mor at the same rate of interest, consequently. all are sate CONDITIONS OfF POLICY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=744,401,561,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This Company imposes no restriction on trevel sfter one sunual payment has been made Thss Company insures the ves of femsles This Company will not contest any lega! clsim This Company will pay claims as soon as the proot thereof is rully The rates are lower than those of any other Compsny organized under the laws of New York, and responsible to the Insurance Department for its safety. The Farmers' and Mechanics will grant insuranoe to suit on (he 1oowing plane ORpINART LI7, Enow CHmRE EDOwHE. Conrouwn IR, Jo ENDow Io0m PRODUOTF, Jor LFE. TEan Livn. REToR PREIN, AurTIN. and in addition to the above plans will issue policies on the TONTINE MUTUAL.\" on CHEAP PLAN FOR WOREING WEN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=751,850,557,535"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o CHEAP PLAN 708 woRRINe wEn. Tontine Mutosl is s combinson of Insuranos and Endowment, and is singularly sdapted to the wants of cinns of poople who havs nitberto been debarrd rom the benents of Life insurance by its hesvy expenses. (Soe explanstion below. To insure your 1fe on the Tontune Mutusl Pisn you pay $13 once. You pey $2 anmueily. You pay $1.10 whenever s desth oocurs in your Ciass. You are certatn to recerve $1,000 And if your Class is full $8,000 Classes are regulated by ages. BOTH SEXES ADMITTED IN THE SAME CLASS ALL. HAVE TO PASS A MEDICAL. EXAMINATION Classos are limitod to ,000 Meombers. WHENEVER A CLASS 18 ONCE FULL 17 WILL ALWAYS REMALN FULL The guarantees that in case your death should oceur within yeur, althou there are mot one thousand Members in your Ulass, yot will your family recee $1,000 but in ce your Cle e more one thoussnd Members, then you would reeive a wy aoliare as thee Mom r o Ci your death",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=752,1362,558,582"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FIVE THOUSAND MEMBERS, T $8,000 Class A. Admits sll between the agee of 15 and 56 Class BAgmit all between the agee of 35 and 45. Cinee CAdmits s between the ages of 48 and 60 TONTINE FUND At the same time tht you beoome imsured. you slso ocome A MEMBER Of A TONTINE FUND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=761,1947,554,231"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A MEMBER Of A TONTINE FUND Which may give to yourel, while ving. rge o money This is the o Compeny in the Unsted at o basinees on ound si, , t pi $195,000, anh pont he policies o thie AEND FOR ROOK OF RATES.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=761,2154,553,200"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "REND FOR POOK OF RATES. ALL DIRECTOR ARE ALL OFFIC. ARE STOCK . MOMURDY, Prestaent. E. MARTINDALE. Vies President w , Lomus M. a. Consuiting Aotery ORLawpe L. SrewanE, Counss",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=782,2332,511,234"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Onae . a, MEDIoA EAMIE 3W mE, HD. Ro er A",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=744,2543,571,430"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NUTUAL LIFE TSURAOR O. No. a1 Beoapwan. Rww Yous",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1339,185,548,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o. 35 Bo. Wo This Compeny s o in e frt g mont f i ove 2.390 Poc insuring over .500,99 Don An he ,70 The Homoopets Mutns Lite Insursnos Compeny r Boo o Bo lower rots then amy other Kew or Compe y T NOo-ARTIOAT A T Company in the worls. Its ionees are all potd w p opt of the proots of art It policies ars all non forseable afer one m py ment No extrs charge is made on scoount of empioyet o ravel Premiums and Dividends al cast",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1331,245,555,568"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WONEN INSURED AT SANE RATES AS MEN p waArT Send io7 circuire and booka",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1350,820,503,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "D.T WARSHALL, Presisent. JAMES COSRING, 73., V. Pres. A HALSEY PLUMMER, Secretary. STEWART L. WOODFORD, Counsel E M. EKrLLoee. M. D. Meics Examiner",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1333,947,516,144"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "oEA M.D.. for Northers and Oepir New REYmA & CLEvELAnD, 21 Bronwas, New York n Cmam . Jons W. MA., Aror, , We SaL A, Cg, T. $or Co. Boow Baw. Beltore, for Maryi, We ir C L. DCoon, Csr le, I., for Chmton Co., .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1333,1129,556,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3. W. Ta1907, 150 Tremont strest, Boston. Mass., for New Englend Jom To, M.D., 19 Court t o Jons GDerw. 21 Broed re , . 5. Rooww. Miory, V o. X7 E U 8 E",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1332,1352,565,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "W",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1340,1477,54,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A.A. CONSTANTINE'S PERSIAN WEALING OR PINE TAR SOP Rach cske i wampedA. A. Constantine's Porinn Bealing or Pine Tir o. P mo oter 1 go Brwa I o.For e To. Ba No th o o 1 pr piexion tair, romoves al Denaru. sweps the Ba wo and siy ad prevents from iling of. an Iy Conns Chapped Hanos. Pimpios. Set Rboom. rot ee. r, o Ontar of the Bn. Toe Soan, t pri y this city and throngout the country ively by on ewt ph Wre ome houn et W i Di Age A. A CONSTANTING & CO. ) Ann wtrort Now Yort",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1333,1520,562,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NOVELTY KNIFE OR LADI AND RTL as one ormey . p i pp mas po a FOR. . 73 1 DaAY O 50.5 Or r A . . o 19 Weshingeon ., Chg.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p16#xywh=1338,2112,564,587"
+  }
+ ]
+}

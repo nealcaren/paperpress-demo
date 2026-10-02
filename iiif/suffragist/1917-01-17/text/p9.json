@@ -1,0 +1,227 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/text/p9.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Minority Appeals for Fair Play on Suffrage Report Made to Congress",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=547,460,2011,247"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HAT the extension of the vote to T women is right was definitely recognized by all political parties in the last presidential campaign; and the sole purpose of the federal amendment now pending is to make good the enfranchisement of women, nationally acknowledged to be just and right by the voters of our country in their respective political conventions assembled.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=343,769,689,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Such is the opening declaration of the minority report presented to Congress on January 10, by Representative John M. Nelson, of Wisconsin, Republican member of the Judiciary Committee of the House of Representatives, as “the views of the minority\" on the suffrage amendment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=273,1379,829,355"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In that paragraph is seen the result of western campaigns, of the expenditure of over a hundred thousand dollars, of persistent and consistent lobbying every Tuesday and Thursday of their meeting during the past year with the members of the Judiciary Committee. By it suffrage is lifted beyond a woman's rights debate, which character it has heretofore always assumed before Congress; it is presented as an acknowledged principle of justice about which there can be no argument, and in regard to which Congress has merely the choice of two courses of action. It can obstruct justice, prolong the exhausting struggle of the women of the nation, or it can expedite justice, free the energy of women for other things, and relieve itself of this “perplexing, time-consuming\" subject.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=273,1744,833,920"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Practically, it can choose between the two possible ways of establishing this acknowledged piece of justice throughout the land, which are, as the report says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=273,2676,831,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The national way, which is direct, well known, and effective. The state way, which is roundabout, seldom used, interminable.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=324,2918,720,202"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In a most skillful analysis Mr. Nelson discusses these two possible methods. The advantages of national work so often set forth in THe SurrrAGIST are carefully gone over, and the practically insurmountable difficulties of amending more than twenty of the state constitutions taken up one by one. This part of the report concludes with the statement:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=273,3168,831,468"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Women today are asking for a federal amendment and will, if need be, continue to do so until the end of time, because it is becoming increasingly clear to them that the national way is the quickest, the most direct, and, in fact,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=330,3663,725,306"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "4",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=883,4085,25,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the only practical road to national enfranchisement.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=1205,771,713,100"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Frequently a feeling of fairness on the part of members of a legislature, who may be opposed to the extension of the franchise, or it may be a sense of chivalry, to women, impels them to submit the question to a referendum of the voters of the state. A similar generous motive doubtlessly moved a majority of the members of the Committee on the Judiciary to refer this suffrage joint resolution to the House. Likewise, every Member of Congress, who does not wish to have this resolution pending here forever, may justify himself in passing it on to the states. Such action would surely be approved by fair-minded, right-thinking men, for most assuredly wisdom, prudence, and self-protection would seem to demand that Congress be relieved of this most perplexing, time-consuming subject-matter which the states alone can easily dispose of thereafter until three-fourths shall have ratified or onefourth rejected the resolution.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=1201,877,723,1236"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "stock objections to a federal amendment are then very thoroughly and convincingly answered.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=1153,2171,820,154"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This notable minority report concludes with this appeal to fair play and good sense",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=1155,2401,809,101"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“By putting forth these sophistries and spinning out these spider webs to bar the passage of woman on her way to enfranchisement no one can justify his obstructive attitude to the minds of fairminded men nor deceive for a moment the far-sighted, clear-visioned women in the forefront of the onward march of womanhood toward a larger democracy, nor becloud the minds of the host of women they represent throughout the land. Woman knows the way, and she will follow it, if need be, to the end of time. She will seek the franchise in state after state, well knowing, however, that the emancipation of her sex will never be fully achieved except by way of a federal amendment. She will therefore keep knocking at the doors of Congress until she is permitted to go through to the stateo secure equal suffrage under the federal constitution. Shall we stay her progress indefinitely? Shall we keep her always knocking at our door? Surely not. Let her pass through, and 'with genuine chivalry let us bid her Godspeed on her way.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=1201,2555,721,1402"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "9",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2799,365,40,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "e eeeSoNn o 1eport on tthe Susan S. M Anthony amendment after being filed with Congress was referred to the House Calendar. The amendment with which the report deals is technically known as House Joint Resolution No. 1. It was introduced by Representative Raker, of California, on December 6, 1915, and referred to the Committee on the Judiciary. A hearing was held before the committee on December 16, 1915. Then followed a careful and persistent lobby of the committee, which led to the report of the resolution without recommendation by the subcommittee of the Judiciary Committee on February 15, 1916. Four friends of the resolution were absent, and it was promptly voted back by the Judiciary Committee to the sub-committee, with instructions to hold it until December 14,—that is, until after election.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2010,792,828,953"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This hostile action from the Democratic majority on the committee was followed by an unremitting and most determined lobby on the part of the legislative committee of the Congressional Union until on March 14, with all friends of the measure present, it was agreed by unanimous consent to reconsider on March 28 the hostile action of the committee. On March 28, by means of unfair rulings on the part of the chairman, the motion was carried to postpone indefinitely all constitutional amendments. The of ponents of the measure hoped by this motion to postpone consideration of the suffrage amendment until after the election. The Congressional Union lobby was continued and members of its legislative committee were present at every meeting of the Judiciary Committee until the adjournment of Congress in September.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2010,1760,828,978"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On December 14, at the first meeting of the Judiciary Committee following the election and reconvening of Congress, the suffrage amendment was brought up and ordered reported without recommendation to the House. On December 15, Representative Warren Gard, of Ohio, filed the majority report which was referred to the House Calendar.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2009,2750,829,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On the same day Representative Raker introduced a resolution providing for a debate and vote on the suffrage resolution which was reported to the Committee on Rules for action. The legislative committee of the Congressional Union is conducting a lobby to secure the passage of the amendment and is secking the cooperation of the Rules Committee, in whose hands the measure now rests, in obtaining support for the amendment from administration leaders, in order to ensure its passage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2008,3170,833,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Copies of Mr. Nelson's favorable minority report may be secured by writing to him at the House Office Building, or at the Document Room of the House of Representatives, Washington, D. C.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/canvas/p9#xywh=2011,3734,829,218"
+  }
+ ]
+}

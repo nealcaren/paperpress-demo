@@ -1,0 +1,777 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/text/p7.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "various places alons our route, be sides doing most effective work at the regular suffrage meetings.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=289,287,560,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 have always thought Northern wisconsin beautiful in summer, but ow, with the snow piled up here and there and the whole wide expanse giittering with 10,000 icy diamonds, and the purple haze resting on the trees along the ridges contrasting with the dark green of the pine trees, I feel that Northern wisconsin is “all right,\" winter or summer, and I am sure we shall get a good vote up here which will offset some of the indifference in other parts of the State. Olvymbia Brown.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=292,402,569,512"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NINETY BEAUTIFUL YEARS HONORED BY HOME ? CLUB Tributes to President of East Boston Suffrage League",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=294,965,564,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Home Club of East Boston at a recent meeting celebrated the ninetieth birthday of Mrs. Judith W. Smith, President of the East Boston Woman Suffrage League, and a pillar also of this club. There were many tender tributes to this rare and noble woman, including several in verse. Rev. Ada C. Bowles sent the following poem: Mrs. Bowles's Poem Brave bearer of a noble name, nrolled on Judah's scoll of fame, Well have you worn from youth to age Your name, nor shamed its heritage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=289,1263,570,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "With heart of gold and dauntless will Earnest life's duties to fulfill, Responsive meeting every call, Receiving much, and siving all. Your home a kingdom wisely ruled By mated parents, children schooled To love the right, the wrong to feel And labor for the common weal. Mother of Mothers, may you see The better nation that shall be When barriers of sex and race To right and justice yield their place As you have labored through the years To bring that day though toil and tears So shall the triumph be your own, For you shall reap as you have sown",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=288,1832,559,584"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A poem by her niece, Miss Catherine Wilde, gratified Mrs. Smith especially, because one verse of it recalled her good husband: There was one whom you loved in your maidenhood's prime, Your lover, your helper through all the hard time. How one with your thought in all action he stood, How kindly, how faithful, how modestly good He is with us in heart, though we see him no more, And welcomes us here as he once did of yore.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=290,2438,563,538"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hand fami- 303,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=4,3127,78,121"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "All hail to “Aunt Judith,\" now 90 years young! By some bard far more sifted her praise should be suns. The Lord now and then sends such souls to our earth, To bless us with wisdom and cheer us with mirth. Like the sun of a beautiful, long summer day, Ninety beautiful years have shed light on our way.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=290,3128,560,377"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "'S zad If he",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=0,3305,77,425"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Like the peaks of the Alps her ideals arise, Towering lofty and grand in the blue of the skies, But steadfast good sense is beneath them outspread. And level as rich Western prairies her head! Her heart holds a wealth all earth's gold mines above, Califernia's even, that State which we love! has led us all higher, we following afar The light of her spirit, like Bethlehem's star.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=284,3531,568,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "fone sure sleep- , but oe of o the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2,3758,83,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ounty, ained pp at place Manutthe r Memany ought for a bored truest in has insti- Grim them. in ad- Civie in the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=0,4031,97,732"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The friend of my father and mother of old, In the core of my heart dear “Aunt Judith\" I hold. Every time that the thought of her crosses my mind, Tis refreshing and good as the wholesome sea wind, And the name of East Boston is sweet to my ear, Bidding her and her house to mv fancy appear.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=285,4080,562,368"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in the galaxy brilliant where jJulia Ward Howe Shone the bright central star, that has set for us now, Her friend Mrs. Howe always wanted her near, And she beamed with a lustre mild, steadfast and clear.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=278,4477,567,250"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, FEBRUARY 3, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1069,179,1364,65"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Sho has chilaren her sreat reforms on their wall to success. As a soldier in grim antislavery strife, As grandmother, mother and As a member of clubs and a wise, loyal friend, In her, endless titles to reverense blend. For two hours, on election day, not long ago, She stood where the voters streamed past in a row, And gave suffrage leaflets to all who would take them. Now isn't she plucky, and good as they make them? Too great are her merits for pen or for tongue, Our friend who today is just 90 years young! May she stay with us lons, and her warm vital spark Glow and shine till she reaches the century mark!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=871,281,579,908"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW HAMPSHIRE NOTES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=895,1208,533,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffrage is Attracting More Attention Than All Other Questions—Anna Shaw to Speak",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=885,1295,562,124"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Winston Churchill, acting for the Cornish Suffrage League, has booked Miss Shaw for Lebanon, Newport and Claremont, for March 1, 2 and 3. Mrs. Churchill is very active, and is conducting frequent meetings. She recently ordered a package of Journals for one of them, and only this week ordered 100 Journals of the current issue for another.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=872,1465,573,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Hon. H. H. Metcalf writes: “The suffrage campaign is now well under way, and will be energetically pushed till the Constitutional Convention meets. “As the time for the choice of dolegates approaches, the suffrage question is receiving greater attention ameong the people than any or all others, the Granges of the State, in particular, taking the matter up for discussion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=872,1874,568,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Since the organization of the Campaign Committee of the New Hampshire W. S. A., Miss Mary N. Chase, president and State organizer, has been actively at work, her latest efforts having been directed to arousing suffrage sentiment in Nashua, the second city in size in the State, and generally regarded as an unpromising field for a progressive movement. She spent several days setting about among the pecple, addressing several gatherings in the city and the adjoining town of Hudson, and arranging for a public meeting in the City Hall, which came off Jan. 24.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=871,2324,571,595"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The audience exceeded expectations as to numbers, especially as the weather was bitterly cold. Some two or three hundred of the most intelligent women in the city, with a small sprinkling of the male element, were present. Gen. Elbert Wheeler, one of the most prominent and influential citizens of Nashua, presided, and gave convincing reasons for the faith that is in him. Miss Chase spoke briefly, but with point and emphasis. The principal address was by Rev. Ida C. Hultin of Sudbury, Mass. and was one of the most forceful, logical and unanswerable arguments ever given in the State in behalf of this cause. It was heard with the deepest interest, and heartily applauded. Three local clergymen sat on the platform, and one of them—Rev. W. H. Morrison of the Universalist Church—followed Miss Hultin with vigorous words of sympathy.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=868,2923,570,894"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“This meeting will be followed by another, later in the campaign, and a good showing for the cause may be looked for in Nashua when the test comes. “Miss Chase has a meeting arranged for in Bedford Feb. 1, and has several engagements to speals at Grange meetings in the immediate future.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=864,3821,569,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The State papers are giving liberal space, and many seem favorably inclined. The Nashua Telegraph gave generous notices before the meeting there, and devoted several columns the following day to a very fair report. in which Miss Hultin's address was characterized as 'one of the most eloquent and forceful ever heard on a public platform in this city.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=865,4195,567,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Campaigsn Committee of the Concord E. S. A. is very active. A well attended meeting in Manchester on January 24, was addressed by Mrs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=860,4602,563,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Stanley McCormick of Boston and Mrs. Bancroft, wife of Dr. Bancroft of the Concord State Hospital. Mrs. Bancroft has served for many years on the Concord School Board. She has also done much for the hospital and for charities in the New Hampshire State Capital. Mrs. Agnes M. Jenks presided. Much literature was distributed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1458,272,574,383"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. George Cox, Professor of Philosophy at Dartmouth College, spoke at Dover on January 30, Mrs. Jenks presiding. The numbers and enthusiasm led to the meeting being held in the large Unitarian Church. Many of the best women in Dover are interested. The committee for getting up the meeting was Mrs. William F. Mason, Mrs. Susan Woodman, and Miss Alice Folsom. A larger committee included Mrs. Daniel Hall, Mrs. Elizabeth Sawyer, and some half dozen other ladies of social prominence.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1462,692,569,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Winston Churchill and Mrs. enks addressed meetings in Claremont and Plainfield, Jan. 31 and Feb. 1.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1468,1255,564,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A meeting will be held in Concord on Feb. 6, at the home of Mrs. Armenia S. White. Judge Charles R. Corning and Mrs. Stanley McCormick will speak. — —— A CAPABLE PRESIDENT Sketch of Miss Ada L. James",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1460,1404,571,293"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Ada L. James, president of the Political Equality League of Wisconsin, comes of an equal suffrage family, and has been brought up to believe in votes for women as in a religion. Her father, Senator David G. James of Richland Center, introduced into the last Wisconsin Lesgislature the bill submitting woman suffrage 'o a referendum of the people and more than any other member, perhaps, was responsible for the passage of the bill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1458,1728,571,486"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Her mother, who died several years ago, was a charter member of the Wisconsin Suffrage Association and an active worker. “Susan B, Anthony, Elizabeth Cady Stanton and many other pioneer sufragists came to our little city when I was a small child,\" says Miss James. \"I went to suffrage conventions with my mother and my grandmother.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1460,2217,567,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For twelve years Miss James has been active in club work in her city, and has served on various committees of the State Federation of Women's clubs. For four years she has been chairman of the Civics Committee of the State Federation. She has also become actively interested in settlement work, child labor, social purity, prison reform and industrial conditions, and has joined several national societies which aim to promote better conditions in these several lines.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1457,2594,568,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In 1909 Miss James went abroad and traveled in England and on the continent. She taught school for a brief time in her home city, but since her mother's death has been housekeeper for her father. When the Political Equality League was started as an active campaign organization, Miss James was naturally placed at its head, and has shown herself a remarkably capable and resourceful manager, while her sweet temper and kindly tact have wen golden opinions from all who have come into contact with her.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1454,3080,568,556"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It was famillarity with existing conditions, municipal, State and national, that made woman's enfranchisement a religion with me,\" said Miss James. “The work my mother did in trying to get the age of consent raised from 12 to 16 years, only to have the next Legislature lower it to 14—familiarity with legislation affecting the welfare of the homes, and children,— make me want to see the mother instinct made a direct influence in our national housekeeping.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1449,3642,574,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Bertha Hirsch Baruch gave probably the first address on “Woman's Citizenship\" in California after enfranchisement was sranted. She delivered it before the Arts and Crafts at Carmel-by-Sea, where she was a convalescent. The first study class in civics after the vote was won was aiso formed in “beautiful Carmel, the home of artists and lovers of nature.\" “Is there anything you can do better than anyone else?\" “Yes,\" replied the small boy. “I kin read my own writing.\" There are others.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=1437,4197,578,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUFFRAGE LITERATURE AND SUPPLIES —————— Order any of the following from NATIONAL SUFFRAGE 508 Fifth Avenue, New York of interest to Legisiators A revised and improved edition prepared especially for Legislatures where a suffrage bill is pend- A Suffrage Answer to An Anti-Suffrage Platform A new leafiet, in parallel columns. Every legislator should receive one this session ......... Per 100 25 Also good for general use............. Postpaid 30",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2034,278,1011,465"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of interest to Legisiators A revised and improved edition prepared especially for Legislatures where a suffrage bill is pendt A Suffrage Answer to An Anti-Suffrage Platform A new leafiet, in parallel columns. Every legislator should receive one this session ......... Per 100 25 Also good for general use............. Postpaid 30 LATEST PAMPHLETS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2094,469,1088,308"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Mrs. Harper The World Movement for Woman Suffrage ......... Postpaid How Six States Won Woman Suffrage .............. Postpaid By Mrs. Porritt The Causes of the Revolt of the Women in England.. Postpaid The Militant Suffrage Movement in England .......... Postpaid The Political Duties of Mothers .............. Postpaid vetes and 0. Postpaid WHAT WOMEN MIGHT DO WITH THE BALLOT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2087,811,826,462"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LATEST LEAFLETS “The Ladies Battle\" An Answer to Molly Elliott Seawell By Alice Stone Blackwell Mrs. Howe's Census Extracts from a Canvass of the Clergy in the Suffrage States Gains in Equal Suffrage A Table Showing the Progress in the Past Eighty Years",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2089,2183,697,308"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rainbow Fliers in German ........Per 100 15 2 The New America Per copy Per 10 Suffrage Song Used in the California Campaign o1 Postpaid .02 8 CALENDARS A Woman's Calendar Quotations from Master Minds Printed in brown and gold, 30 per cent. discount on orders of 12 or more................ 50 Postpaid 54 English Santa Claus Calendar Gay color and pretty sentiment............. .15 Postpaid 20 PENNANTS Yellow felt with white letters Per do Large size 12x30 inches................ 50 5.4 25 2.4",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2094,2510,1062,579"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Quotations from Master Minds Printed in brown and gold, 30 per cent. discount on orders of 12 or more............... 50 Postpaid 54 English Santa Claus Calendar Gay color and pretty sentiment............. .15 Postpaid 20 PENNANTS Yellow felt with white letters P Large size 12x30 inches................ 50 25",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2075,2699,998,356"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Quotations from Master Minds Printed in brown and gold, 30 per cent. on orders of 12 or more............ English Santa Claus Calendar Gay color and pretty sentiment..... PENNANTS Yellow felt with white letters Large size 12x30 inches............ l THE NEW STICKER or SEAL. VOTE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2034,2708,763,421"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An adaptation of the design showing Liberty welcoming the new star— California. Use them on all your letters and parcels. Neatly put up in oiled paper books of 100. Price, per book ........... $0.75 Price, 10 books ............. 5.00 Singly ...1 Cont Each",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2040,3137,570,340"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Sorl rTsnre eIis o A NEW KIND OF SUFFRAGE BADGE They stick tight Wherever they light, Try them and see. dood as Favors at Fairs, Luncheons and Teas, or to sell at meetings. Two for Five cents. $2.00 per 100. Postpaid $2.20 per 100.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2630,3145,557,333"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW PICTURE POSTER",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2054,3506,542,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Liberty welcoming the sixth star.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2621,3531,567,84"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ror adqvertsing meecungs Space left for date and place. Size 36 x 42 in. Printed in purple, green and white Price, singly—l10c. Postpaid—.15 Per doz.—$1.,00 Postpaid—$1.25",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2081,3554,477,132"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Prejudice battling with Justice.... An artistic picture issued by the Artists' Suffrage League. Price ... Five Cents Each",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2621,3701,568,116"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOTES FOR WOMEN NOTE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2042,3702,560,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "inty colors in dainty box PALE BLUE Lettered in silver PALE YELLOW Lettered in gold. 6oc Per Box Postpaid",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2099,3776,453,211"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Good as decoration. They are gay and yellow and each is tied with a votes for women ribbon. s",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2621,3891,569,123"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW SIiX STAR BUTT One cent each. 75 cents per 100. Postpaid 85 cents per 100.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2047,4009,461,132"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Votes for Women Paper Napkins Just the Thing for Teas, Luncheons, Etc. Decorated with a Blue “Votes for Women\" Border Order now Price 35 cents per 100, post pald.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2620,4092,576,284"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Votes for Women Rubber Stamps Letters this size —VOTES FOR WOMEN — The easiest way in which you can advertise the cause. Stamp every letter you write this year.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2041,4166,560,268"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PHOTOCRAPH CALLERY of EMINENT SUFFRACISTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2624,4398,556,78"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Price 15 cents, post pald. SLIDE LECTURES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2101,4438,413,94"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r66",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An interesting collection of portraits, mounted on canvas, all ready for hanging as a temporary exhibition.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2618,4499,563,148"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "65 Suffrage Pictures with typewritten lecture to accompany them. Can be delivered by any one.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2038,4540,560,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The gallery may be rented to any suffrage association for the nominal fee of $1.00 plus expressage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2612,4650,569,109"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r69",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rent of slides and lecture, $5 plus expressage. Special rates by the week or month.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2034,4655,567,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r73",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A Woman's Calendar",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2088,2677,317,31"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r74",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Postpaid Per 100 15 20",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2799,2307,373,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r75",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOTES FOR WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2689,3089,460,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r76",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW POST CARD",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2659,3495,467,31"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r77",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ENCLISH POST CARDS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2645,3642,511,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r78",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CALIFORNIA POPPIES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2671,3846,464,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r79",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "$1.50 Per Dozen",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2786,4042,239,28"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r80",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "39",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=3073,186,74,51"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r81",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Per Per Copy Doz. o1 10 02 12 05 50 06 54 03 30 04 34 .03 30 04 34 o1 10 02 14 o1 10 02 13",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=2962,774,220,463"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7/text/r82",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/canvas/p7#xywh=3451,378,276,4597"
+  }
+ ]
+}

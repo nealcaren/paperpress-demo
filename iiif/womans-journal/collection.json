@@ -1,0 +1,115 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/collection.json",
+ "type": "Collection",
+ "label": {
+  "en": [
+   "The Woman's Journal"
+  ]
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-03/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Woman's Journal, February 3, 1912"
+    ]
+   },
+   "navDate": "1912-02-03T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-03/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Woman's Journal, February 10, 1912"
+    ]
+   },
+   "navDate": "1912-02-10T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-10/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Woman's Journal, February 17, 1912"
+    ]
+   },
+   "navDate": "1912-02-17T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-17/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Woman's Journal, February 24, 1912"
+    ]
+   },
+   "navDate": "1912-02-24T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-02-24/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/manifest.json",
+   "type": "Manifest",
+   "label": {
+    "en": [
+     "The Woman's Journal, March 2, 1912"
+    ]
+   },
+   "navDate": "1912-03-02T00:00:00Z",
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/womans-journal/1912-03-02/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ]
+  }
+ ],
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/womans-journal/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Woman's Journal"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/collection.json",
+   "type": "Collection"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p9.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "have s mark set on him as fhe man that did not believe in Woman's Suffirage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=142,163,558,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "bave a mark set on bim as he man that did not believe in Women's Sufirge. Prairie ou Chien bossts one of the fimest hotels in the country, and the most jovisl, hospitsble landiord that the world ever produced. Tired, sleepy, at midnight, he was as genisl and happy as most men in the sunnieste conditions (ssieep or with a ciger after dinner).",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=140,163,562,253"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "He received us all like a loving fatber, and dispensed his blessimgs with an impartial hand. Suppers and beds for a whole tram. of unexpected guests was an emergency that none but a genius could have met, though be did it to the. satisfaction of sall conc erned. But oh! these western people, how besutifully they take all these delays and accidents! instesd of grumbling and swearing, as men 6o in the east, they make a frolic of everything. Being comfortably bestowed, listening to the merry voices, laughing and skipping through the balls, I philosopbized on the blessing of hardships how much more generous and self-sucrificing people are trained in this school, than in luxury and ease ; and yet we are all struggling to seoure for our children the very conditions in life that will enfeeble both mind and body, and pervert the whole moral being.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=140,424,564,599"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "With one long strnde stepped into Ripon, Wisoonsin, a beautiful town with a plessant circle of the faithful. Under the hospitable roof of Dr. Stone, a distinguished homopathie physician, s delightful surprise was prepared for me. Entering my room, a tafl, fine-looking woman popped from bebmd the door and embraced me with a wm, covering my face with kinses and tears. “Mrs. Henry Crosby,\" rich farmer's wife, with her broad acres. fine cbildren, and delightful home, was a poor, lonely Irish girl, who had found her first bome with me twenty years ago. A noble, faithiul girl, worthy the prosperity she enjoys to-day. Ob how we did talk and laugh over old times, how having taught her to prepare musk-melons for the table, she did once take a splendid water melon from the ice and treat it in the same way, and the horror that seized paterfamitias, about to dispense to waiting guests a much vaunted melon, to find that nothing but the rind remained! Poor Martha! how she blusbed when she learned her mistake. Now she raises all kinds of melons, aud eats them too, and knows what to throw away. Marths and her daughter, sixteen, are both ready to vote.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=138,1025,562,823"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "After my lecture in Ripon, a lady ceme to the platform, as she said, to ask me one question that to her seemed bedged about with diffioulties : How could women with balf a dozen babies go to Congress \" Ireplied, that I thought in most Congressional districts there might be found one woman without such sppendages. In overy community there are large numbers of old maids (generally the most intelligent class). widows, and womon past the age of forty-five who have crased bearing children. Few men came tnto public life bolore that age, and it would be better for the country if fewer still were pormitted to make laws for the mation untl yesrs and experience had given them wisdom. \"But suppose, said snother, that we should send some far maideu, and sftor her election she should marry some distinguished gentieman in Washington and become a mother ?\"She could resign. Georrit Smith wentto Congress and resigned after the first your. Marriage and maternity do mot exolude women today from all public hfe. So long as hundreds of women are olerks in all the dopartments at Washington, why could they not ss well be Congressmen? Women leave their",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=134,1849,560,821"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h Rersintin children to wash, teach sobool, sew, to spend winters at Washington, summers st Sarstogs. and yesrs in Europe. Multitndes of boys and guls, under the present dynmssty, are put in boarding schoois at ten years old. and yet the moment you mention the bsllot s general bue and cry is rmsed, Whast would become of the children ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=722,75,560,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "From Ripon to Chicago, where I bad promised mysell s rest over Sunday. but ndmg along reading s Chicago paper. my bopes of rest were suddenly dashod to the ground, for I found a reception announced at the elegant remdence of Fernando Jones, for Saturday evening, and s lecture for Sunday eveming, in Robert Collyer's chush. The triends of Woman's Suffrege arall wide awake there and about to form “Cook County Womsn Suffrage Asssocistion,\" a convention bemg called for that purpose. The leaders of our movemert n the state disapprove in toto of the action at Cleveland, and stull more of the sction at Springfield in a late convention, making the fimois State Society, by some manceuvering. auihary to Boston. Western people have a way of thinking for themselves, and mo men nor women need magine they “hold the west in the hollow of then hands.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=723,423,559,631"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "From Chicago back agsin to Chuton, lows, where I was most plessantly entertamed at the Revere House. There I found everything nest and comfortable, nd the proprietor so much interested in Woman's Suffrage. that when I caled for my bill, be gallantly ssad that Clmton, as well as himself, were grestly id bted to me. Iows is splendidly alive on this question. as ber people, by a Luge vote in both Houses. are to vote on it in the comig election. Our eastern foroes must now hold themselves in readiness to do for lIowa what was done in Kansas, scatter tracts and make speeches m every school distret, and log cabm. From the tone of the pross and peorte, 1 should not wonder if Tows should be the banner state, and on her sofl arise the first genuine republic among the nauons of the earth.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=723,1061,560,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Of Monteceltlo, Cedar Rapids and lows City. something in my pext. o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=728,1627,546,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE PEACE CONFERENCE.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=822,1737,361,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ir was held on Wednesday of last weok at Fifth Avenue Hotel in this city. Peacr Conference may not be a proper name, as it implies, or presupposes war wherens there is, there was no war on the part of the callers, and certainly, a appeared. none on the part of oneof the partios called. But in. responss to the inwitation, there were present Mr. Theodore Tilton, Mrs. Lucretis Mott and Mrs. Leurs C. Bullard, representing the signers of the invitstion (mumbering more than one thousnd), Mr. Lucy Stone, Col. T. W. Higginson and Mr. Goorge Wm. Curtss for the Amenosn Woman Sufirage Association. snd Mrs. Obariotte B. Wilbour, Mrs. Josephine S. Grifng and Ms. Parker Pillsbury on behalf of the National Womsn Suffage Associstion. Mrs. Stone and ber twe assoctes for the American Association wisbed to be considered as acmg without appoiatt having come s they smid. only as voluntoers,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=715,1811,562,662"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ax doubts bad been erpressed shout the attendanee of Mrs. Mot. on aout ot the on distance to be travelled. he age and fooble hesith, Mr. Francs D. Moulton had boon appointed as her substitute, whe oocupied ber place before she entered; and alse in the even-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=711,2478,559,191"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing. sfter whe bad retired from the oonierenes. The repreentae of the Amerioen Acistion, espocialy Col. Higginson, pertins. ciously insisted that there be no orgam tion of the conference. not so much as even the sppoitment of a chairmen. though emphasizing strong'y fhot fhey were not fhere ae doegates duly appointed wnde the Iaon. was suggestod, on the part of the Nasonsl Associstion, that as we were, in a but the mvited guests of Mr. Thton fosenda. and they sppesied to regard the apposntment of the cutomary chairman and secretary s eential to the better tctating of busimess, whether propriety and courtesy ad not require the we weive our obctions and pormu them our host to decide on the mapner of proceecg. Bot they seemed wholy disinclined to peld the pont and as the National aelegates hed ne particula pieferenoes ethber way, i was ooncinded to pass at onoe to the questions which had brought us togethe r",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=1303,163,561,696"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It was decided unsmimously with mo discns. sion, that reporters be not sdmitted.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=1307,869,554,61"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The discussions, though long and earpest. were most kind snd frendly in apr. M. Tilton read briet extracts of a lerge pumber of letters, nt from pearly all parts of the coun try, many of them offcal, signed by offos of 1o0al Woman Suffruge Societen, strongly urgng that the proposed union of the twe nations organizstions be consummated. Much was said by Mis. Stone and her associntes shont the causes which led to the calling cf the Cleveland Convention, the nsture and manner of that call; its entirely Ofive Bramchcharacter who mgnei it, and why. and under what oucumstances what was thought and smd of t at the Providence Convention. by Theodore Tilton. Col. Higgimson and others the Convention at Cleveland and the Society which was orgmined there what it had done, is doing and proposes to do. which could not possibly be done (so it was confidently beld by Mrs. Stone) nder the Nationsl Associstion. which had been in vigorous operation severs! months. and bed beld very large and important conventions, be sides doing much other work, while the Cleveland Convention and its oall wers mot all these and other topios were conidered in sonvers tional manwer for tour bours snd more. ow Amerioan Society assoctes showing mo wign of coming to, or towsrds a barmonions uniom. when Mr. Tilton. on behsif, of the oslore of the Conference. submtted. in writin the foliowns proposal",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=1304,944,562,1007"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rosoiwnd(y the Committe cting the Co Tost the followimg qution t ot p Are you in fevor o s wnion of the twe e o ocitie or o ome o o This uenton w of Ool. Hienineon and his wi s y Co TW. Bigginon ore aron on for any modn ion of preet po Amerian Women Sufrage Asotion W Cor. 1am in fvr o po r fored Mre Luey Stone wee m o p tonand at Cievsiond",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=1294,1961,568,466"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Parer Puis y 1 te A on A het omi on . Mre. op o. our—Whet 1 want is Women's Sufrere. w1",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p9#xywh=1291,2431,565,237"
+  }
+ ]
+}

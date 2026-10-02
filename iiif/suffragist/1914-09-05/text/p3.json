@@ -1,0 +1,381 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p3.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE RULES COMMITTEE IN ACTION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=198,244,1577,91"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Over Half of the People in Washington EAT CORBY'S BREAD-WHY?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=590,3767,1856,267"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mer wi use om ecia tar eve nt mor enn the tion er i Mc gar e in peti tha wo o0. 4 thar an sel; wag th t un the at to owe lace m to Per mer an ction ein",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,284,76,1836"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At a meeting of the Rules Committee, called riday morning, August 28th, at eleven o'clock, he committee again postponed action on woman uffrage. The following members of the committee were resent at the meeting: Mr. Henry of Texas, hairman; Mr. Pou of North Carolina, Mr. Garett of Tennessee, Mr. Cantrill of Kentucky, and r. Goldfogle of New York, Democrats; Mr. ampbell of Kansas, Republican; and Mr. Kelley f Pennsylvania, Progressive.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=91,380,849,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The suffrage question was brought up by Mr. ampbell of Kansas, who moved that the comnittee take favorable action on House Resoluion No. 514, providing for the consideration of he suffrage amendment in the House this sesion. A substitute motion was immediately made hat the committee adjourn. A tie vote was ast on the substitute motion, Mr. Pou, Mr. Garett, and Mr. Cantrill voting for the motion, and Mr. Kelly, Mr. Goldfogle and Mr. Campbell oting against it. Mr. Henry, as chairman, cast he deciding vote in favor of the substitute moion and the committee accordingly adjourned without having taken action on the suffrage resoution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=92,958,857,780"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This meeting had been long looked for by sufragists all over the country, for the Rules Comnmittee had not come together since June 10th of this year. The chairman was at last forced to call a meeting because it was necessary to bring the war risk insurance bill, an Administration measure, before the House. This bill had already been passed by the Senate and it was imperative that the House should consider it also.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=95,1746,860,467"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,2213,69,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Friday morning a deputation from the Congressional Union went to the Rules Committee room to urge consideration of the suffrage rule. The deputation consisted of Mrs. Gilson Gardner. chairman, Mrs. M. E. Brooke, Mrs. S. B. Mc- Duffie, and Miss Virginia Arnold.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=95,2221,865,311"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mon frag litica o the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,2377,82,317"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the door of the committee room, Mr. Henry's secretary declared that it would be impossible for him to take a message or a card to Mr. Henry.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=97,2539,865,205"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "rul ns o uenc the ag in",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,2706,84,288"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I should be glad, then,' Mrs. Gardner said, “to send a card to other members of the committee.\" “The chairman has given orders,\" said the secretary, “that no messages may be sent in to the committee room.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=99,2750,868,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mev com Grea with figh behal tha caus ation ranc",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,3007,85,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I quite understand,\" said Mrs. Gardner, “that Mr. Henry can speak for the majority members of the committee; but surely not for the Republican and Progressive members, and I should like your permission to send word in to one of them.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=101,3067,869,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The secretary maintained that this was against Mr. Henry's specific orders. Mrs. Gardner then went on very gently: “It is not the desire of the deputation to disturb the committee; but, on the other hand, it is the sense of the deputation that it is necessary to send the committee a message. What would you suggest that we do?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=107,3331,866,360"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "r, the tilitie omer mem is de",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=0,3478,91,219"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The secretary thereupon took thought and said that a message might be sent in by telephone. Mrs. Gardner accepted the use of Mr. Henry's desk phone, called up Mr. Kelly in the adjoining committee room and asked him if he would bring the suffrage resolution to the attention of the committee. Mr. Kelly promptly promised to call up the suffrage resolution if it were possible to do so. This colloquy effectively brought the matter before the committee, and the motion to take action on the suffrage rule was made by Mr. Campbell, and shelved, as we have seen, by the Rules Committee chairman.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1031,377,869,677"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Before adjourning, the committee not only decided to report a rule providing time for the war risk insurance bill, which they were called to consider; they also brought up a bill increasing the rights of self-government in the Philippine Islands, and voted to have it acted upon in the House.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1037,1064,866,359"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A statement was at once issued from suffrage headquarters commenting on the extraordinary stand of the Administration in going out of their way to give the Filipino man powers of self-government which they at the very same moment denied to American women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1045,1432,864,308"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Record of the Rules Committee",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1151,1842,670,170"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The action of the Rules Committee (which is, in the House, the big wheel of the Administration machine) in avoiding the question of woman suffrage last week by a motion to adjourn, leads one to think back over its full record on the suffrage question.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1050,2057,864,312"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the first (the special) session of the 63d Congress, the Rules Committee had before it a resolution to create a Committee on Woman Suffrage in the House. Mr. Henry refused throughout the special session to grant suffragists a formal hearing on this inoffensive resolution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1055,2376,865,363"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The hearing took place finally at the beginning of the first regular session, on December sth. Early in January Mr. Henry announced to the press that his committee would act promptly, and expressed himself as being in favor of equal suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1058,2748,865,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On January 17th the Democratic members of the committee met to consider theresolution informally. It was lost by a vote of 4 to 3; Mr. Henry, Mr. Pou, and Mr. Foster voting for the resolution; and Mr. Garrett, Mr. Hardwick, Mr. Cantrill and Mr. Goldfogle against it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1064,3066,864,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In January an “official\" meeting of the full committee was held to register the private verdict of the Democrats. Mr. Henry absented himself from this meeting. Mr. Pou attended and voted against the suffrage resolution, which was lost by a tie vote of 4 to 4. There were ac-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1068,3383,868,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2779,150,40,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tually six out of the ten active members of the committe who were on record as favoring the suffrage committee resolution; but the law of the caucus prevailed, and four Democratic votes swung the whole committee of ten.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1992,250,864,257"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffragists now took up undauntedly the Woman Suffrage Constitutional Amendment, and on May 5th secured a report of it, without recommendation, from the Judiciary Committee. A rule allotting time for the Suffrage Amendment was introduced and referred to the Rules Committee on May 13th. Mr. Henry said to deputations waiting upon him in the interests of the suffrage rule that it was out of the power of his committee to take action since the suffrage amendment had not been favorably acted upon by the last Democratic caucus. “You may tell this to the press, you may tell it to the newspapers,' Mr. Henry said, “my hands are tied.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=1993,515,868,730"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Early in June, however, Mr. Henry's view of his political helplessness weakened slightly. He promised to report out the suffrage rule, but could not be prevailed upon to state when he would do so.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2001,1252,867,253"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On June 10th the committee met, but decided to postpone action on suffrage till July 1st. Mr. Henry left immediately for Texas. On July ist a large deputation came to Washington to see Mr. Henry; but the promised meeting had been cancelled without notice to the public. Mr. Henry, it was announced, was still absent; and though a quorum of the committee was in town, the Democratic members declared they were strictly bound by a “gentlemen's agreement\" among themselves not to meet. August ist, when Mr. Henry returned to Washington, was set as the date of the next meeting. Mr. Henry returned August 3d, but no meeting of his committee was held till August 28th.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2007,1515,868,781"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Meetings have all this while been urgently called for. The rule adopted for the conservation measures needed serious amendment before it could be presented to the House. Instead of calling a meeting of the committee to make the necessary changes, Dr. Foster, who had the conservation bills in charge, himself changed the rule before presenting it to the House—a most irregular proceeding.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2014,2306,870,467"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Henry now states that he is “deliberately and unalterably\" opposed to the suffrage amendment. It cannot, indeed, be doubted where he stands, nor the party which he represents.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2018,2781,868,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Comments of the Press",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2142,3111,628,71"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the first meeting it has held in two months the House Rules Committee today reported a special rule to make privileged the administration's bill for the creation of the Bureau of War Risks Insurance in the Treasury Department. The Democrats of the committee again dodged a vote on the suffrage and prohibition issues, fear of which has kept the committee inactive since June.—New York Tribune, August 27.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p3#xywh=2028,3232,870,470"
+  }
+ ]
+}

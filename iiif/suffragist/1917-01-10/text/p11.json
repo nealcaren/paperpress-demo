@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p11.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Comments of the Press",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=669,467,984,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wilson Administration Friendly to Federal Amendment HE Wilson administration has determined to T place no obstacle in the way of the movement to enfranchise women by federal amendment. The judiciary committee got the tip to report out the Susan B. Anthony amendment, and did so. Champ Clark, when asked by the Congressional Union to permit the use of Statuuary Hall in the Capitol building for a memorial service to Inez Milholland, did not hesitate to grant the request.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=303,619,839,558"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The service, by the way, was most impressive. And now the chief of police of Washington has granted a permit to hold a suffrage parade on Sunday on Pennsylvania avenue, if the suffragists want to parade on Sunday, or even in the evening, if they wish a torchlight parade. If the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=304,1181,834,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Memphis (Tenn.) Commercial Asseal Confi amendment is not passed at this session, it will be the votes of Congressmen that will prevent its passage, and the Congressmen will have to assume personal responsibility for their opposition. —Gilson Gardner in N. Y. Coall, December 31.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=296,2433,846,463"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Anthony Amendment committee report of the proposed national woman suffrage amendment to the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=312,2939,818,167"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "House is frank recognition of the importance of the issue and the potency of the suffrage cause. It does not guarantee the passage of the amendment; it does mark definite progress, and it leaves the way open for further progress towards the complete enfranchisement of the women of the United States. And, which is politically important, it throws the matter straight into the House where the eyes of the public are upon it and upon the attitude and action of the members toward it. Attempts now to ignore it would be absurd.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=297,3112,836,542"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Discussion of woman suffrage has been in large measure switched from old-fashioned arguments to consideration of political expediency. The political expediency now emphasized is apparent. The Democratic party needs to strengthen itself",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=296,3660,835,215"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "$",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=202,82,58,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in Congress, at the Congressional elections two years hence. This must of course be the desire and determination of President Wilson. The President is not, we believe, addicted to longrange politics, preferring the closer and quickaction method which has served him well politically. Nevertheless it is undoubtedly in his mind that the suffrage strength is growing, and that in the recent national campaign the woman voter was a considerable factor. He must see that this factor will be more powerful two years hence, and that its strength needs to be cultivated for practical purposes—and this without discredit to him, for it is an obvious necessity that to further his program he needs the best support in Congress that he can win.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1172,621,833,686"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman suffragists are encouraged by the present situation. They have a right to be.—Boston Record, December 15.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1175,1312,829,128"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffrage at Washington affairs at Washington, however, are not being handled with paint brushes this",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1168,2679,837,177"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "season. There are those among the leaders of the real working organization, the Congressional Union, who will scorn this skimmed-milk verse. Their object is not to make the Congressman's year “more pleasant,\" but to offer him the chance to make his political health more secure. The suffragists working for the federal amendment talk plainly in terms of revenge. They have ceased begging—\"“Won't you set us free?\" The plaintive note is gone from their addresses. The word “must\" enters frequently into public and private discussions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1168,2856,831,538"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There is little poetry in the suffragists' demands, but there is much truth. There are twelve suffrage states and there is a well-heeled Woman's Party working for national suffrage. So why sing, when the light opera phase of the suffrage movement is past? If the suffragists, after their part in the 1916 campaign, fail to make their greatest demonstration during the present session of Congress, their friends will be much surprised and their enemies much encouraged.—Boston Journal, December 30.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1169,3397,829,474"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Confidentiall",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=1037,2494,233,50"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "11",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=2814,376,54,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1310 CHESTNUT STREET, PHILA. Suits, Coats, Gowns, Blouses, Skirts Millinery, Furs",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=2039,1837,826,673"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Exclusively for Women Then why not stay at Hotel Rutledge Lexington Ave. and 30th St. New York Rooms from $1.00 daily Room with full board from $12.00 to $18.00 per week. All outside rooms 1222 Walnut St. “Stols without Extravagance\" Philldelphis Institute\" 2107 S Street. N.W. Science, Literature Wasnfgton. D.C. Mus'c and Art",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p11#xywh=2038,2558,824,1311"
+  }
+ ]
+}

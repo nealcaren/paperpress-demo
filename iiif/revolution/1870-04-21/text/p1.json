@@ -1,0 +1,359 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dhe Rerolution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=422,30,1379,197"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE TRUE REPUBLIC—MEN, THEIR RIGHTS AND FOTRING NORE WONES, THEIR RIGHTS AND NOrSING LRESS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=283,305,1694,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE TRUE REPUBLIC—MEN, THEIR RIGHTS AND FOTRING NORE WONES, THEIR RIGHTS AND NOrSING LRESS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=283,305,1694,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. V.—NO. 16.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=291,407,261,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "he enstnti",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=291,407,491,229"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Che Hrnolntinn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=270,505,547,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PUBLISHED WEEKLY, $3 A YEAR. NEW YORE OrTY SUPSCRIBEES, $3.20. LIZABETH CADY STANTON, Eaite PAULINA WRIGHT DAVIS, Cor. Edit USAN B. ANTHONY, Proprietor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=291,636,491,247"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RLIZABETH CADY STANTON, Editor. PAULINA WRIGHT DAVIS, Cor. Editor. SUSAN B. ANTHONY, Preoprietor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=280,750,539,95"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OFFICE, 49 EAST TWENTY-THIRD ST., K. Y. r Portry.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=296,883,617,169"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Portry.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=438,958,201,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE THREE KISSES.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=398,1052,286,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 mAvE three Kissee in my life So sweet and sacred unto me That now till desth dews rest on them My iips shall kinsions be. One kiss was given in childnood's bovr By one who never gave amother, n lite and death I stll shall foel That last kiss of my mother Tho secomd burned my lips for years, Yor years my wild heart reoled in biiss At every memory of the hour When my lips felt young Love's fst kine The last kiss of the saored three. Haud all the woe which ere can move The besrt of woman—it was pressed Upon the dead lips of my love. When lips bave felt the dying kiss, And felt the kiss of burning love, And kissed the dead—then never more In kissing should they think to move",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=325,1122,436,586"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mas. E. B. BRowrIFa.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=577,1716,227,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DEEDS, NOT WORDS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=402,1777,292,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nov forever on thy knees. would Jobovah thee have found There are burdens thou canstesse, There wre griots Johovah see Look sround. Work is prayer if done for God, Prayer which God delightnd bears. fee beside yon unturned sod One bow od nesth aficon's rod Dry her tears. Notmg prayers. but sarnest seal This i what is wanted more. Potthy shoulder to the wheel Bresd unto the fmisbed dral From thy store. Not bigh sounding words of praise Do God want nesth some bigh dome Put that thow the falien reie Wring the poor from ise's bighways To thy home.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=364,1842,399,574"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Worship God by doing good nip the wffering e who loves 3o0 be ho Makes his heart's love wnderoot By ind de. Deds ar power. worare w Battering igh Hevon or L.t thy tove by actions apesd ————",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=291,2429,491,544"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK, THURSDAY, APRIL 21, 1870.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=802,406,652,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK, THURSDAY, APRIL 21, 1870.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=802,406,652,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Be it thine life's oares to mote. And so biighten eyes pow dim. Kind aeods Gone to ome no God aocepts as done, my brother, Unto Mim. —— tered sooording to Aot of Congress. in the by Alsoe Oary. in the Cleri's Offoe of the D of the United States, for the Southern Distr yor",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=900,571,449,317"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Entered sooording to Aot of Congresa. in the year 1870, by Alsoe Cary. in the Clerk's Offoe of the District Oourt of the United States, for the Southers District of New Yorh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=845,747,557,107"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Born Thrall.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=900,888,449,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BY ALICE CARY.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=915,972,361,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CHAPTERER XVI1.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1017,1051,216,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CHAPTEE XVI. RACHEL'S STORY (COWTINUED.) WrLL, when the young girl was pearl; —the story went on—she was callod",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=900,1051,449,147"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Wma, when the young girl was npearly sizteen—the story went on—she was called besutiful, and she was not foolishly proud of her had, of course, her own ittle vamity, on the approsch of a holiday in summer, the desire to have a white dress with pink ribbons in which to danoe took possession of her. What, with lost time, snd lost pay, she could not save enough from her ordimary wages to buy this rustic finery. and many were the harmliess devices she framed in order to procure it. At last she conoeived the ides of picking and selling berries, which she could do sfter the day's work was done, and thus obtain the ornaments she so much coveted.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=848,1124,562,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In due time, this plan was put in execution. One day it bappened that she set out with ber basket of berries under more than unnsuslly discouraging ciroumstances, and ill mok went with ber from place to place. Some persons seid they had no money, others that they could pick their own berries, while others again shut the door in ber face, and told ber she had better be at home st work like an bovest girl—that they didn't encourage peddiers of any sort. Such insults were hard to bear; a ough she knew in her beart that she was working like an honest girl, sbe coulc not keep up ber oourags, nor prevent the tingle of shame that rose to her cheeks.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=847,1600,564,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sun scorched ber shrinking face and shoulders, and the very plantains that were commonly so cool to ber bare feet, lay hot snd wilted fiat agninst the ground. The blood ooned from ber arms and hands where the briers had soratched them., and they ached with the burden of her basket, and hor heart ached. with its beavier, though unsoen burden. She beoame st last so tired, o sioh of all she ws. or ever could bope to be, thet, torgetting dres mbbons, and all that belongs to bobdays, she sat down in the shadow of a grest osk thet grew by the rosd-ide—ot 5o muoh to rent because she bad no courage to go on. Al around ber was serene and oheerfulquiet homesteads with blue smoke curiingov em. and venishing. sway iopy the yellow giears of harvestsihe white sioeved",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=847,2083,563,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WHOLE NO. 130",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1681,411,261,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "mowers and reapers—the rosd. rimg falling along the hill—grey barns, and besvytopped orchards. and ghmpeee of bedge-row —these were among the things thet she partly saw. and partly folt The children were at work in the meighboring hay-felds, and st play in the door yerds and their merry voioes and lsughter seemed to ber. as sne sat there alone. insolent almos. She was o bungry im ber soul. and in ber beart. and there was nobody in all the world to sy to ber that spe was nyhing to them The tears filled ber eyen, and sbe half wished the ground would opes benesth ber. and tht she might rest in the shadow of the grest ok tree for ever.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1421,507,561,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "But gradually the quist of the soeme stole over ber—the moiny talk of the bay-makers became fainter and fainter, snd the lsughter of the chiloren d3d mot mock ber any more, ber bead slipped from the trunk of the tres, agninst whioh it hed leaned, and rested on a gry knoll, and directly, sieop, thet good comtorter of the poor, came to her, and i ber dream she was as gay and as giad as the best of thom. When she awoke, the sun was almost down— bank of orange. topped wih streo o lay along the west—the mowers, with seythes over their shoulders, were gomg bome: the farmer's boy was cslling to his cows, and whistling between calls and the birds were twit. tering their last fittle sieepy songs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1427,1019,559,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As she raised herself from the grass, some thing cold and bright shid down from ber bare neck into her lap. What oould it be? Swprise and joy made her doubt ber own eyesight t first—he must be st areaming. She oo up on ber feet and looked about ber; mo, she was not dresming, but wide awake, and there. glittoring in the grams, were three bright pis of goid—the same thet bad shd from ber wo to ber lap; she took them up in ber hand, but they d3d mot melt—they were rel gold dolinr. She bastity tied on ber bonet, and stooped to take up ber basket, but no basket wee hr the berries were gone—and the money bas been 1e tond. She had hardly ever in be life so much at one time, snd ber first thought was of the white aress snd pink ribbon. bet these were forgotten simost immedistsly feeling of wonder and ouriosty Couwd some good fary hawe brought ber this rere had beard of such tiungs. Put while e turned over in beor mind uns childish cone ture, she bagn. to dinoover igne of heving hed mortsl visitor during ber. siep. wigne whih her bewilderment had at first preventd from secing. A fo yards fron e which she had boon, dresing o yomore tree, r ui the gra bonent and hot . nd os hed boon whe she t down plod. boten. p l r of the tree, ad others tw",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1427,1538,561,1079"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A borse bad bren tatoned re",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p1#xywh=1454,2620,527,353"
+  }
+ ]
+}

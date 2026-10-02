@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p16.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "240",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=360,115,95,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CLAFLIN a co. (Mns. v. C. WOODAULL, Mas. T. C. CLAFLIN, BANKERS AND BROKERS, BROAD STREET, N. 7., Buy and sell Gold, Government Bonds and Securities Raf way, Mining and On Stocks snd Bends Bonds of any Stte, Oounty or Oity, and will make bersl avanoe ou same ; will make coflections on and issue certifiostes of deposit svaflable in all parts of the Unton. win prompty sttend to all Mafl or Telegraphic communicstions. Interest aliowed on dsnly a op CARo 8 A L V E",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=343,199,561,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The important aiscovery of the Carbobe Acid, as cleansing, puritying. and besling agent, is one of the most remarkable results of modern medieal resesrch During the lste civil war it was extensively used in the hospitals, and was found to be not only s thorough asinfeotant, but 80 tne most wonderrul snd speedy Heal ing Romedy ever yet known. t1s mow presentd 1n com other soothing and bealing agencies. in the form of a SALVE; and, having been siready used in numberienes cases with most sstisictory and beneficial resuits. we have no besitstion in offermg it to the public as the most cortain, rapid, and effectanl remeds for al sore and uloers, o matior of how 1og maing, burD, wounds, and every abrasion of skin or fiesh. Soid by a arugsts. Price, 2 cents. JOHN F. BENRY. Sole Proprietor, 94 1y No. 8 College Place, New York.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=341,650,562,467"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A LT MAN Bros. & Co., S'xth Avenue. $1.25 yard. New Bisck and Siks, only yard Elegnt Sio0 of mew ATTHA ro Co.i ee Our sasb Ribbons are all now in Full ine, Gross Grain a1 75 and 88 ots. Riboons of ell other color A LTM AN Bros. & GCo., Su Avenoe Pioques al mew, m 9c., worth 40 Cts. Linen sor Suits 23 cis. worth 51 ot, Best make Aipaces at 47 ct worth 80 c A LT M A N Bros. & Co., Sixth Avenue. Towels, lige wize $2.00 on.Linen napins, damseh. only $1,00 s dosn. Woll Emown A L.TM AN Bros. & Co. Sixth Avenne. Full Linen DressGono. w r0. $8CheeneDres Goo0 A LMAN Bros & Co. Avenoe Sun Umbreltes from $1.00 A L.T W A Bros. & Co.. Sixth Avenue. Ladies mede up suits, Misses Walking Susts at A LT MA Go. A Gent go00 t bergin o oor. Gents and Boys Sear ane e ALTH Co., Ayenne All Good marked in ro. 1 ond 333 o Ave., bet. t r. —— —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=342,1270,563,985"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wA L 1 O N., PIANOS, ORGANS, MELODEONS. MUIOA. MECANDI. ET WUmC oo om o STEINWAY PIANOS JRFFERFON NT. RLOONINGTON, 1..",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=357,2245,530,286"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AGENTS READ THIS w PAY aon A SALARY OfF wet r Mw",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=350,2579,560,129"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3h ersintin FARMERS AND MECHANIOS INSURANCE CONPANY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=922,111,562,245"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "or NEW YORK. No. 200 BoAwA, PETwEE PULTOor A om CASH CAPITAL. $1325.000. $100,000 DEoTT wT T IAC DA o7 T S7.73 7o THE PROTHOTION o7THE PoLC Ho All the Offoers and Directors (without an exception are Stockbolders, and wil o00 care that the proper of toe Policy Holoers wi be made This Compeny manes a Cash Dividene to e Poliey Holders of 5354 0 50 per cont ech year in sovnoe, by meane of its iow rates of premiums. The safoty of the Policy Hoider is guarded. All New Yor Compsuies are obliged by the Ste o set aside the same Resorve. The Reserve for ench Compeny is the ssme. ciinton the me tale of iality, and t the same rate of interest consquently. all are sate CONDITIONS OF POLICY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=923,287,556,542"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This Company imposes no restrcion on travel aftor one annual payment bas been made. This Company ineures the ves of frmales This Company will not contest any legal cisim This will pay claims 5 soon s th.e proo thereor is esta The retes are lower than those of sny otber Compsny organized under the 1sws of Rew York. and responsible to the insurance Depertment for its safety The Farmers' and Mochanios will grant insurenor to suit on the tollowmg plens ORpAny LI7R. ow CanDRE ENDO. Conpourn InTRRR Jon ENDowH 10om PROOTR Jor LaF, Tew Livz. RETo PR A. and in 54438om 10 the sbove plans will iswe policies on the TONTINE MUTUAL,\" on CHEAP PLAN FOR WORKING wEN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=924,860,556,536"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tontine Muteal is Inuren En o e cis o poopie who bav ier e ararrd o the benests of Life insurance by its hesvy expenses. (See explanation below. To iosore vour 1e on the Tomtine Motnal Pisn you pay $15 onoe. You pey $2 sonually You psy $1.10 whenever death oors i your Cl You are certain to recerve $1.900 And f your Clses is full $5,000 Chae a7e reint y BOTH SKXES ADMITTED IN THE SAME CLASS ALL BAVE TO PASS A MEDICAL. EXAMINATION Clasnoe re imit 00 Momber WHENEVER A CLA CEFULL 17 WILL ALwAS yoL. The Compeny gus t oyonr aot shoald occur within a yesr, sithough there sre not one ounnd r in or i t o recerve $1,000 but in ca your Clsse has more then one thousand Membere, then you would receive y doliars as there are Meombers in your Clese at the tme of your e FIVE THOUSAND MEMBERS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=923,1402,557,580"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "T $4,900 Clans A.Admits al, prtween the ages o 18 ame Ciase BAdmit all betwon the ane of 5 an 45 Ciane CAami 5 Detwn te age of 4 - TONTINE FUND At the same time that you booome imsure, you sise A MEMBER OF A TONTINE FUND Which may give to youre. wh , o mo This is the ow Ompny te 135,000, andha ponit SEND POR BOOK OF RATE. A1A DIRECTORS ARE, STOCKBOLE ALL OFTIC E MCMURDY, Pret ATA La w o, A Los . a Coniting A Omanpe 1. SrewanE, Counss",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=925,1993,559,583"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "woa w. . Ro A o o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=922,2587,562,401"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "T Cop in te ft ig o o o 2,380 Poicie",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1505,306,555,102"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2.380 Poicin ir .500,900 A4 . The Bomopsi Mutns Lite Inurne Compeny r o o Lower rui then sny other Kew 10r Compry",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1505,383,557,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "es lomes are a put opt of the proots of a I8 poiscin are all mon or p met No enr chg o trael Premtums an Dvideono WONEN INSURED AT S4ME RATES AS ME Aocw WaA send ior cireniars ane books",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1503,644,556,279"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "D. D.T. MARSHALL. Presient AMES COMRING, In. V Pre A HALSEY PLUNNER, Secromry STEWART L. WOODFORD. Con. E M. Eri09. M. D. Mesics! Examine",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1507,961,512,142"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o E. B. Houwes. .D.. for Norters an Contrs New Bristo, Conn., Site Jon Ww Sexy Srn, Chog, ., $or O O., Boows Aaw, Bar, for Marin, We Virginis ane D. C",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1504,1141,558,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "L. D.Ooon In., Sor Cto O., T .. Roowwa. Mry. m-2t W Us E A. A CONSTANTINE'S PERSIAN HELING OF PINE.TAR SOA a oe pA Co Besims or Pine Tar Soap, Pesentnd Mereh 1 19— ote Bwa e To. NU th So s q prr pioo . r . and silky and prevents it tron flling of. and e be 11 Conms Cosppes Banos. Pimpies. Sa Rhonm. r Ostsrib of the Bend. ape i Goor mavne Ros",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1505,1343,559,550"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Toe o. pri this city an ron ot e vty y et om t A .CONSTANTIN & 00. A R E NOVELTY KNIFE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1504,1894,561,262"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NOvVEL TY KNIFE OoR LAT A T o i and many t pot 5 o . a O O 31 DAT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1507,2125,567,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“4 )t XX 31 p AY $ 73 2 O . ri A —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p16#xywh=1503,2521,638,467"
+  }
+ ]
+}

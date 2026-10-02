@@ -1,0 +1,348 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ahe Revolution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=334,93,1358,198"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE TRUE REPUBLIC—MEN, THEIR RIGHTS AND NOTHING NMORE WONEN, TEETR RIGHTS AND. FOTNIwG LESS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=161,369,1709,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. V.—NO. 15.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=182,468,262,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. V.—NO. 15.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=182,468,262,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Che Hrnslntion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=160,564,548,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PUBLISHED WEEKLY, $3 A YEAR. WEw YORX CrTY SUBSORIERS, $3.20. ELIZABETH CADY STANTON, Raitor. PAULINA WRIGHT DAVIS, Cor. Bditor. SUSAN B. ANTHONY, Proprieter.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=171,694,540,202"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OF FIOR, 49 EAST TWENTY-THIRD ST., N. Y.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=187,927,488,26"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tortry.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=160,989,551,152"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SONNET.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=373,1077,119,28"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wa weary at the messure of our tash More than m doing, and the visioned lengts Of our grest journey more consumes the strength Than the one step by step the moments ssk. One pulse is all of hfe, one second's beat The utmost impact of eternity The insistent drop gives all the tidal ses, The immancut ray the whole sun's conquering hest. Great triumpbs are the work of each grest blow Storuck now—and now, th' exhaustiess repetend Of Power's unit, that imvolves no end Bocsuse it is oternsl in its mow Move only this next stom by thy band And the great world shall swing at thy command Ozonor S. BURLEION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=170,1141,527,392"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THERE is in souls a sympathy with sounds, And a tho mind is pitoned the ear is pi With melting sirs or martial, brisk or grave Some chord iu unison with what we besr 1s touched within us, and the beart replies. How soft the music of those vi.lage bells, Falng at intervas upon the ear In cadence sweet, now dying sll away. Now pealing loud agsin, and louder still. Clear and sonorous, as the gale comes on With essy force it opens all the cels Where memory slept.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=213,1565,462,317"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WH. COwPER.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=557,1880,135,21"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SONG OF THE BELL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=292,1925,280,29"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Be| thou soundest merrily, When the bridsi party To the churon doth hie Bell thou soundest solemnly. When, on Rabbath morning.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=276,1991,310,133"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Boll thou sonndest merrily Tollost thon at evening. Bod-time araweth nish non thoo soundest mournfolly. Telost thou the bitter Partimg hath gone by how canst ho mor Row censt tho reote Thou art but mets a And yet all our sorrowings. And sll our rejoieing",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=274,2162,332,310"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "God beth wonders many. Whioh we csnnot thom Pi wit y for When the hert is inhi Thou sone canst reie Trembling in the storm",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=279,2511,288,159"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "H. W. Loworssow",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=160,2674,551,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK, THURSDAY, APRIL 14, 1870",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=698,468,642,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Enteret ocordimg to At of Comgrem, m e yr 1870, by Allos Cary, in the Clerk's Offos of the District Oourt of the United Ststes, for the Southern District of New York.)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=735,563,560,108"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Born Thrall",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=796,706,438,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Born Thrall",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=796,706,438,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RY ALICE CARY. CHAPTEER I RACHEL's STORT. RAOHEL. having carefully set the house in order, so that the eyes of Mr. Ripley might not in the morping find themselves offended by evidenocs of the last might's revel, resmrned to ber little filends im the garret.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=734,789,562,313"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The rain stifl sounded on the roof, and a great beam, rather than flash, of lightning illumined all the wide room as she entered. Janey wes fast asleep, and, baving passed ber hand tenderly along the monstrous besd with its short olipt bair, and little peaked face, orossed the room coftly, paited the curtsins, and wes in her own littie \"ohamber. The candle still burned, but very dimly, for even s tallow candle has its requirements, and gives back better ight when it is set in s can diestick, and trimmed and tended, than when stuck in s junk-bottle and left to take care of itself.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=735,1111,562,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The half hour seemed very long to Theress. as she lay there is that little chamber, wide awake, pondering upon many things, and ber beart fluttering up into her mouth if a mouse but crossed the floor. She was, therefore, very gind when Rachel spoke, even thoagh sbe only said Are you asleep, Tressy?\" O no!\" she answered quickly, lifting her head fiom the pillow. and looking at Rachel who bad just closed her little worn Bible, and wee repiacing it beside the hymn-book on the osken chest, which served her at onoce for table and oratory.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=735,1524,563,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There were traces of tears on her cheeks. but ber face was white, and quiet almost as stone. She seemed to bave forgotten thet whe bad spoken to Theresa, and for a minnte or more remained motionless. ber bare feet peeping from the folds of her night-gown., and her bands lyimg 14ly together in ber lap. “What time do you think it is?\" inqeired Theres, more for the sake of saying something than from any mterent in the quo. Rachel did not know—she bad not thought about it, she smd. Do you suppose it can be midnight? hear the cooks orowing. Thers went on Rechel could not tell whether or mot t wee midnight—abe had not hesrd the crowing of the oooks. Don't you bear them now?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=735,1969,561,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "she dd mot hear them She had taken off ber filmy oap by this time, and thick masses of her bright han ll down sbout her pock, and among the white folds of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=736,2538,558,185"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WHOLE NO. 1189.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=1571,472,268,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ber might dress, anas she aat there—ber eves resching far sway. she looked like some saimt at her moditaton. Do you think M. Toplow very henasome \" Therens asked, striving. by some mesns, to engage her attention. Sbe had not hesrd the question, and when was repestod, smd., the ad not know whst she thought—in truth, she h not out of Then whet beve you thought sbout,\" askes O my child! my dear, imnooent ohild1 have thought of all my ie—my wasted, weary “\"Well, don't think any more now. and dont sit there alone. I am used to be aione,\" Rachel answered. I want you to come.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=1314,567,560,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tou want me to come?\" and Rechel's fon assumed tn imot ard pro “Yes, to be sure. I beve hept wide awaks, waiting for you so come, dear Rechel.\" No, child—I would rather not—I often st bore all might. out her arms snd almost aragged Rechel to the pillow. She was trembling from besd to to0t, wnd Theress inquired if she were oold?\" “No, she was not col—be oould pot tel why sbe should shake so—really it almost made ber lsugh.\" Theress aid ber obeek sofly agninst Raobers, for she had felt the tears in ber faltering voice all the while she spoke—and there they were. sore enough—grest soslding arope—alling o thick and so fast.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=1316,1170,559,599"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Softly the young hands wwootbed the bar from the forebesd, snd softly the young srme got themsetves about the meok. drooping so how to the throbbing bosom. ? ot touch me you kme—be turmed ber face quite dow upon ber piliow. ans sobbed as if ber hesrt would bresk If I knew what ?and without waiting to be answered, Theress went on—\"yeos. I woutd touc you Rae t t hseng orslt p , e on ber eibow. and leaming to the white, besvimg Rachel better then word. could bave done. tht she pitied ber orr hon. m bomg t ber.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=1313,1773,561,569"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Reaohel aid ow . for e to meke us undertand that we re belod. am mot sure, indoed. but thet e e whatever is highont an bo. om through int She kmew , fo an ven the ron t the o boee t e p So when the grest burdes of be groitde hed bad sts sapresion, Reohel 1 from the piliew; for the Sower besten meve e",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p1#xywh=1312,2348,568,348"
+  }
+ ]
+}

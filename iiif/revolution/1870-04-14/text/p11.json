@@ -1,0 +1,150 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p11.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "oven been, iie 5o many Republicans, Eiors, a plenty, inciuded, converted to oolored male citzenahip only as militsry and then politionl party necoesity, his case would have been very different. But none cen know better than Mr. Forney, that for many years Mr. Julian has been well and widely known as a champion for the total and unconditional aboltion of siavery and the elevation of the slave to all the rights of ciuzenship. And, if such an stlusion be pardonsble, when, a dozen years ago, he married the accomplished daughter of Joshus R. Giddings. he sympathized rully with her im the entire doctrine of the Rights of Woman. And so the vulgar sneer of the Press at \"that sufferimg creature called woman, is not more paltry. than is the charge unjust, that what Mr. Julian dr1d m offering the Stxteenth Amendment, was only \"to attract notice to himself.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=270,181,564,609"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "But there is an implied principle in this censure, rather than oriticism, of Mr. Juhsn by the Press, more reprebensible stull. It says, “In this country the reform must precede the amendment—must be fought out first.\" By which we are to understand that Congress has nothing to do with reform, and that to move a measure t promote it, even though it be one so importsnt as the enfranchisement of womsan, is out of place, is out of order, if not indeed, s censursble offence.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=271,799,563,347"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Such morslity, however, in politios 1s not strauge, when it is remembered that it has lone boon inoulosted in the cburch. Stavery survived unharmed, untouched by auy efficient church saction, for generations. When the American Board of Commissioners for Foreign Missions was arraigned for its complicity with slavory, it defended itself on the ground that slavery was a civil and politicsl insutution and that its missionaries must not therefore interfere with it. And so the Creek, Cherokee and Chootaw Mission Churcbes were made up, in considersble measure, of slsvebolders. In 1845, the Board at its annual meeting was compelled by the growth of anti-slsvery sentiment to apologize for its course and that of its missionaries. 1t apoointed an imposimg committee with Rev. Dr. Woods of Andover Thelogicsl Seminary as Chairman, to investigate and report. The substance of that report was contamed in a single sentonce as sfterwards simplified and rendered by a member of the Board itself, namelyThat it 1s the duty of this Board to prosecute the work of saving souls, without interfering with the civil condition of society any faster han the consciences of th people beoome enlightmed.\" And on that philosophy the church acted, not only on the subject of slavery but also of polygamy in the Mission Churches. For in 1846 the Board was again memorialized on that subject also. And a committee was spointed to make report, Chancellor Walworth of New York, being chairman. As was expected, the report cloaked the sin. It was found thst polygamists were in the mismon churches and the course of the missionaries was sustained by s unanimous vote of the Board. There was some discussion, but Chancellor Walworth and Dr. Tyler silenced evory clamor by a single remark, each. The former said, \"Polygamy is common in Turkey. and oases may arise there. In New York polysamy is felony, but there it is lawfat.\" And Rev. Dr. Tylor, an instructor of ministers and mi sionaries at another distinguished Theologionl omary, 3 in the dio, W e good right to ask this Board to say that polysamy in extreme onses is right, as others bave to ask us to say thet it is wrong!\" With such",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=269,1146,567,1538"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "en xpoundingnd expisining by D.D. m L.L.D.'s, afl were so fully convinced. that when the fimal vots was taken, not one negative hand or voice was raised",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=850,95,562,215"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Such was the standard of church morality in the epoch of sisvery and for sught tht is known. is still as respects polygamy, It i the business of the church to prosecute the work of saving souls without interferimg with the civil condition of society, any faster than the consciences of the people become enlightened. To enlighten the conscience onhe of m stoaling, of slave-broeding an slave-trading i no part of the businens o s christan missionary. To encroach on Brigham Young's prerogstive of muttiplicity of wives is no part of the wors of the Amencan Bosrd of Commissioners for Foreign Missions in Turkey, because Chancellor Walworth pronounces polygamy lawral there, though in New York the mission converts might be confined in a felon's cell, minus the ministrations of even a single wife.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=854,325,560,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "To the same casy virtue Mr. Forney commits the politics of republicanism. And with religion and poltics thus him ted, what wonder that “reform must be fought out And fought against what, but this very religion and repubhoanism! The Press says, “the very fact that Mr. Julian's amendment can be offered simost without attracting notice, i evidence that the public is not yet ready for the discussion of the question. But i that any resson why the amendment should not be moved in Congress, in the Press, im every press. in every pulpit. in every place? 1s the fact that balf the popointion of the country are ignomimiously, unjustly, unrighteously prosoribed, despoiled of all civil and political rights on sccount of sex, is that fact reason for Mr. Julian's silence, for Mr. Forney's silence, for everybody's silence, except a few fanstical women and more fanstical men, as people, press. pulpit, everybody almost, everywhere, bas been accustomed to call the earnest workers in every movement for reform? Isthat enhghtenment of conscience which is essentisl to every step in resl progress. political ss well as morsl. the work of fanstio alone ?Hos the church nothing to do with enlightening the conscience of Turkey and Arabis on the question of polygamy, or of the Cherokee and Choctaw proselytes, on slavehoiding?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=856,900,559,925"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Has Congress no interest, no duty, in the enfranchisement of the best, bravest, purest, noblest half of the American pation, thet Mr. Ju. lisn must be tauntingly reproved for moving s preliminary step in that direction, and all womankimd insulted and sneered st in the same bresth, by the mde of their champion? Then what is the business of Congress? Of what earthly use is such a church, such a pulpit for if reform has to be fought out\"agsinst cburch, congress and government, wnti party demagogues and deceivers oan sately and wuecessfully reap their harvests of spoils. f the oosoience of the people has o beenlightened by “fanstios and infidels\"(s all proneer reformore in every age have been oslied by the respectabilitien in state and oburch), why csnnot the whole work of ne the wortd be 1t to thm 1 both the popi reigion and republicsnism osn wink at and tolerste. age after ags. such wholesale sbominations as slsvery and polygsmy. untl by infiuences wholly outside of themsetves the public conscionce sufficiently enlightened to repudiste thom. how oan they be eutrusted to treat with lo oviis Every aay. vory hou, nd w as day, proves that they camnot. And there",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=853,1827,562,856"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ot ome umn per mpening t oe ower the publie or persoma prosperty or ety of the mation, oome rom whet soure it my. against which suy man or woman feels any more secure on 000unt of the exinteno o tion of what is called the government, or the church. Indeed. from Mr. Formey w rt ment of Mr Julian nd his smeniment, the women cm see that they ba vs mo worse foe to firht agninst, than the Congrew whose work be has volunteered to mark ont i bs evere ad most unwarranted strictures on Mr Jubsn, t the be ad of this arbcle r",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1433,182,563,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LETTER FROM XI188 ANTBOVY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1500,639,429,31"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Jorsvman. Mich. Aprit 7. 1870 Dras REvoLuIo81 sent telogram to Theo dore Titton yesterday to 5th Avenne Conferenen, and bope it got there m tame to be rend. There but one feehog al through this giomous west sheme to hewe s front st this suspicions moment. One strong. bold pull af together, and the victory is ours. The west will decide sny who siand for the order of fheir gotngas hindranoes, and leave them behind.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1434,704,563,345"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The west w.ll be lergely, griously represented at our May Anmiverssry. And at will aemand wion every ti And must have it. All the differences and disngreoments of pertie and persons must be put in the background. Every eye must be fixed on the gosl—the Sr- TREwT ANRDME. Semstor Trumbull nd Bepresentative Bingham must report the bills now sieeping in thew committees for immediae aoion. Everywhere in the splendid sudiences in Dlinois, and mow bere in Michigan, the vote is wnan imous, demanding that Congress submi the proposition. Everywhore the peopie in dignty resent and spurn the ides that the inteligont women of this mation—the peers of our pres dents, judges. congressmen wnd legiistors. must go down snd ask the ignoran mans of men it they will graciously pormt them to bwe a voioe in the government. Nol no s the thundering answer. It is hwmiiating enough tor us to be compelled to ast the Representstiven t Washington and the Stnte Capias for what is owr right, and sbout whoh they bave po business to way yes or may to us. more than we to speak or decide for them.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1436,1058,567,789"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 t1l you. if our Representstives in Congrens oould see and bear the homes indione ion of the Aonest peopie of the country. they would ench and all make haste to emct what we omend and must and will have. To the rosone. en. very one for A Congrese betore it shall adure the prot wion! We oan oom and Ws on only anl of we will on Lot afl, then. come ur t New Vork on the 10.h of May. and let us pot i great woeel and push o to emphatonilyWoms worL e po lager i h afl stick together.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1434,1855,564,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "P. . Eimee my lt e Quincy. Farmington, Eimwood. Monata. Pore and La Salle—Bsts in. Peoris wnd Champig in Timoi. and i S Fom . 1o And t the o e p y way to pieh the bos ayes. Not one of me, of sou",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p11#xywh=1431,2368,562,313"
+  }
+ ]
+}

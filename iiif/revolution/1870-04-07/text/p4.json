@@ -1,0 +1,161 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "212",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=292,225,90,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NEW 1ES1AMENT WOMAN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=331,310,455,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A yEw weeks since an srticle appesred in the New York Gbserver, entitied \"The New Testament Woman,\" m which the many virtues of said woman, both possible and impossible, were cxpatiated upon, snd she was made out that perfect being whom man had so lovg sought for in vain smong women, who, sias sre buman like thomselves; instead of the angelic beimgr which their fancies fondly paint ber.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=281,383,558,284"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "which their fancies fondly paint ber. Among many other dresdful things, womeno the present Cay were spoken of as wearing load of their own or somebody else's bair. Now, I bope for the credit of the sex that ther is mo more evil among them than this; for the bair be their own, and placed upon then heads by the Creator, it can be mo disg ce. an if artificial, as in meny imstances it is, still t is no worse than many equally ridiculous fash on adopted by the otber sex. There surel are faults enough of dress to correct m both of us; and I propose that the one faultiens in this respect, cast the first stone. My godly mother, who is an honored resident in our family, and who considers the New York Observer as next to the Bible, if mot a part of it, at least inspired, banded the paper triumpbantly scross the breakfast table, and pointing to the article in question, an looking at me over her glae, as if this was the uitimatum, smd, \"There what do you think of that? Now ar2 you sat isfled what scrt of person a Bible woman sbould be?\" Nol said I, emphstically. Why don't we heor something of the duties of man? Why don't some one write an srticle on The New Testsment Man?Is there such a being in existence ? If s0, trot him out by all means. Or has the raco become extinet ? Now, Iam nots Woman's Rights woman, in the common acceptation of the torm; but I have some rights and do not hesitate to use them, and whatever I can do well, 1 claim a right to do. I have so long heard about \"woman's sphere\" and \"the duties of woman, that I say, by all mesns let us, for a change, hear something about the duties of man, and let the insignificant creature woman rest a little. It sorcly is bepesth the dignity of the lords of Creation, to be continally pointing out the duties of woman, and in the mext breath calling them \"wesk vessels,\" ete. I their buttons are all sewed on right, their tockme darned, and their slippers and drensng gowns meekly laid upon their easy chsirs at might, in the name of common bumenity let them desist, orthey wil only help matters along in a way which it is mot their intention to do. And why do our leading journels, both rehgons and political, trouble themselves so muoh sbout he Women Suffrage movement, unless they are afreid it will be brought about? It swrely wil e and it is only a question of time. Alrendy the Neomems of Justice is on the ack, and slowty but surely, we shall rise to the level at loast of he long despined African race and then, in the words of bishop Loguen, we will remember",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=262,641,561,1789"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 sometmes think whon rend articlen of apprebenmon in the public journals of the day, of wine saying which my dear father was fond of repesting, and mk r and if the indie will oue me fo the comparson 1 will use i. It is well satd thet the horse does ot know his srength for a4d he know . tond of being the doie aninal be i, there 1s mo what he might e i int his end t .And the pog 1 do mot by any means wish to condemn the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=249,2460,556,351"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Revolutisn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=909,220,459,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "clergy as a bocy. or their teschings in gemersl, but am s member of a Christan Church. and do mot intend to mdicule the ministry, yet cannot belp smiling, visily of oowrse, in church, when 1 bear remarks like the following. One Florenoe Nightingale is worth a dozen Susan B. Antbonys.\" and as a slight trbute to the usefulness of woman, I think it will appear in the hght of etepty. that the Marys and Marthes of the church bave sccomphshed more good than any other instrumentali. ty the chrstian ministry excepted. And why are the Marys and Marthss extolied thus? Because Mary meekly sat at the feet of the Master and \"Marths was cumbered about much serving. Now as far as the Mary and Mar hs of Soripture were concerned, this was most lovay. but when gentlemen put themselves m the Master's place it is absurd. JosTrTIA.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=857,305,559,602"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "P. 8. Since waiting the above. 1 am imformed by the New York Obserper that The New Testament Man\"bved in the Garden of Eden. the pattern was lost when Adam left Faradibe but he in erpected to resppear shortly after the commencement of the millennium.\" May God speed the day. .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=849,916,560,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN AS A POWER,.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=969,1189,315,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ThAT man is a sole power is an exploded ides It is as imposmble as mbuman to seperate the rights of man and woman tere is the sep arstion of sex and s sex's demands, pever o buman rights. A community of women with out men, or a community of men without wo mon would become orgenizations which it was not the design or tmten iomo God should emst on His footstool. No! the two genders form the ome human family, to dwell and work together, unti ancient time winds up bis clock for its last tickings, and the sun casts its final shadow over earth's dinl plate. Why bas the Great Creator mv. en to woman talents, gentus, intelleot, if it were mot to contradict the unreasonable declarations and weak srgumente of irascible man and popular prejudice? In the eye of the Maker. who can deny she is mot equal im the sobedule of divine interpositions and goverrment? God uses her to subserve His own ends and purpoe m the same manner as man, when His omuipotemce judges her to be His best tt His better power and in all specisl event tem ing forth from the bistorion page of the bumsn rece, we fail mot t find womn much of aotrens on the stage of life. 'as man is an actor the two are imeparabie and undivided— God finds one to f He uen the otber, whilst He besitaten mot to ue oth as H powerl age Man assumes the more arrogant pomtion to de clare he 1s the solus power. She can render to Omsar things which are Cmsars smeve po to vote to make Cmsar Emperor. Ber power and intelligence can be equally balsneed and proportioned as man. whom the Lors intended as a co-w orker m His harvest-field.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=835,1260,558,1135"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "What a sham, what sbterg sta) 3 tht man bighe power emning Juect from God Take woman ss she stands forth from the pagee of Soripture1n the wery first event thet fcllowed crention. whe was the mtrumen tl power tht brougt donth into the world. Agsain, after the roll of ages. whe brings baokin the person of Holy Mary. the rovvi cation from win and wtormal hie the babe of the Vargin, mot the won o Joe, i the le Soo o t o. Fro e p hour of tomptatsen to the tg 3y of the orpes fixion, woman bas beon the implement which",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=826,2401,561,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hes mod the oeltin mry p rights commenond in the garden of Eden,— oradie ws worked by Dine qity p shment and in the futre promin of pardon parts of sny fects conoerning Hos first pair the one seorifioe was sufent for the relens of sll men and women. intimating the sure tor timony that Be is no respecter of unequsl rights or of divided justice. Has womsn no power When John the Baptist was bebended, it wass Herod's wile who wanctioned the drendfal deed On the trbie dny Fo w e H Priost. it was the apouse of Pilste who wared the Romish Governor not to orucifs the Innocent. It was the inst 1oo) of s loving Sevion thet was given to weeping woman—it was woman last r first at the grave,— was she who was the telegram to dispateh to dependent dsciples the gisd tdings, He rinen,and it was to ber Jesus gave His ifoence and blessing. i thus publicly sbowing ber His faith in ber own power. Ab' womsn. toy power is great, and perbaps yet undeveloped let not the Juggernaut osr of man's idol worsip of self prove thy ruin or thy defest! St. Paul found that Doross and Lydis were s power in his day. It was Pharsob's dsnghter who sved Moses. It wes Muiam who ssng the song of deliverance of lsrael's armies. It was Hannab who brought Samuel to El in the tempie. t was Bathsbebs who made David to sim. 1t was Jsel who smote Sisers—s Detilah shoared the locks from off the besd of Samson. 1 might write of Deborsh. of Ruth, of Rether, of Queen of Sheba, every one an active power to do God's will. Who were the hendn of Iarsel?1 answer in the words of Soripture—\"Rache and Leab, who did build the bouse of Iwsel.\" t was womsn whom God bonors and man shames She is the grand agent thet fits man to be s man be cm er posi i epie fmcy, her demonstrative affection be discarde ber in manbood as impotent to defy ber to be hi qu powe—degr er to te poition. tool he lord an m thi ption of oee egal. she might lay smoe ber wopons of ae. enoe—",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=1423,311,561,1590"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Act he pert .e i Da p Woman has shown she ba the power to orn and to govern well Who would aetbrone Queen Victori to sost hoontions Primeso Wales upon an Eng o of Fra bossts of Empror.—i Engoie. the Empress, who botds the bearts of the masmen and keops s tottoring Empire ow folling",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=1412,1904,575,308"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Empires and monarchios pas o e w le of — the . or y e po W rend of Belen, Clo. we stand awed before Queen Ele we over the ot fr gret a Lady Jane Grey's wntmels mte— grieve over Maris Antoietg desthw gory Cntharime 11of Rowi and oWe ee e Ave pin ory. Woman's powss rose en y he Fo s o A oli prp porwonde ie aoouion the ioy Wostr boiperWasing mon's power hidden in Fvery acbeme. Co",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p4#xywh=1407,2221,565,601"
+  }
+ ]
+}

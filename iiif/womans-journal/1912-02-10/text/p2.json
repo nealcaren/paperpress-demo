@@ -1,0 +1,491 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "42",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=392,189,58,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE CRY OF THE WOMEN WORKERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=391,274,570,82"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Swinburne Hale Whatever our masters' choice is, Whether for greed or lust, Always our masters' voices Clang out the great word Must! Always on us the world bears Though we have never our say, Cradled and wrecked in the darkness,— Daring to dream of the day!— On our necks lie the collars, Our eyes are dry with dust; Through us they srind their dollars And fling us back our crust, But what have we for happiness? Dear God, is the balance just?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=391,396,588,557"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cradled and wrecked in the darkness! Too long have we felt the sway That our masters claim by their ancient law,— Let them show us the right of their way! But here is the answer they sive us When we meet them face to face: “If you don't like your work and your wages There are plenty to take your place; Get out and make room for the others— It's easy enough to go!\" They talk as if we were the choosers— But the working women know!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=400,953,574,556"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cradled and wrecked in the darkness Dreaming the light to come! Too long have we dreamt in silence, Too long have our lips been dumb! Not ours are the laws that bind us To ends we know not of, Not ours the years behind us That shackled us for love, Not ours our masters' chivalry For which our blood is paid; But ours to break the bondage Their sovereign wills have made! And till they set us with them And bring the new day in, And give us power to help them To purge the ancient sin, Oh, let us stand together, For the fight is still to win! —The Woman Voter.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=405,1532,564,579"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SITUATION IN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=416,2141,422,40"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MARYLAND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=729,2185,245,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Great Progress Reported Since Last Session of Legislature (1910)—Members of Present General Assembly Willing to Weigh Proposed Statewide Suffrage Bill on Merits",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=417,2256,562,190"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "During the past two years, public sentiment in Maryland has undergone a very radical change with regard to the woman suffrage movement. The victories in Washington and Cali fornia have made their mark here, and people have begun to realize that woman suffrage is an admitted fact in some of our own States. The success of the suffrage movement elsewhere has also done its part towards convincing Maryland people that woman suffrage is bound to come in the end, and especially in the ranks of the suffragists themselves this encouragement has been a stimulus for renewed activity.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=405,2477,572,634"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the last session of the Legislature two years ago, most of the Delegates had never even heard of votes for women. This year they all realize that woman suffrage is one of the great questions which they must face. Most of the Delegates have been personally interviewed, and all of them have received quantities of literature and letters on the subject. Some of the most ardent suffragists in the State are members of the General Assembly, and Mr. Trippe, the Speaker of the House, appointed Mr. Thomas G. Campbell, of Baltimore County, the sponsor of the Woman Suffrage Bill, a member of the Committee on Amendments to the Constitution, in order to make sure of having the bill properly handled by the Committee.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=402,3114,571,745"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We have already been assured that the bill would be reported out of Committee, and the date of the hearing before the Committee has been fixed for Feb. 13, at 2 P. M. It is an admitted fact that mever before have the people of Maryland shown so much discrimination in selecting their Representatives in the Legislature as they did at the last election, and the high character of the men who represent the people this year insures fair treatment to the suffrage bill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=400,3860,571,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An indication of the general inter est felt in the subject may be found in the fact that the Speaker of the House permitted the suffragists the use of the Hall of Representatives for a suffrage meeting on Tuesday evenins,. Jan. 30. Delegate Campbell presided, and Miss Julia R. Rogers of Baltimore and Mr. Max Fastman of New York were the speakers. The meeting was a tremendous success Every",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=394,4343,570,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, FEBRUARY 10, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1191,175,1315,65"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Ells Maddox Funck, President Maryland State Suffrage Asso- Mrs. Donald R. Hooker and baby. She is President Just Government League of Maryland Mrs. Frank F. Ramey distributing suffrage literature at Maryland Pure Food Exhibit.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1035,1351,1640,1470"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "seat was occupied, and even the salleries were overflowing. The Delegates and Senators turned out in full force, and much sympathy for the cause was evidenced. It must at least be admitted that the Delegates are approaching the subject with open minds, and that they have an honest desire to decide fairly the merits of the cause.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=976,269,579,378"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The meeting in the House of Representatives was susgested by one of the Delegates, and the ready acquiescence of the Speaker to the presence of the suffragists might perhaps indicate that the plan could easily be carried out in other States. WHERE SUFFRAGISTS AND LEGISLATORS MEET",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=981,651,575,381"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Attractive Housekeeping Headquarters at State Capital Visited by Many Delegates—Gov. and Mrs. Goldsborough to Attend Reception",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=996,1064,556,152"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Before the meeting of the General Assembly this winter, it was decided",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=995,1253,556,76"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "by a joint committee composed of Delegates from the four suffrage organizations in Maryland that it would be expedient to open headquarters in Annapolis. The purpose was to afford a comfortable place of residence for suffragists from various parts of the State, where they could come and stay in order to interview their own Delegates. Accordingly, an eight-room apartment in the Claude Apartment House was ensaged, and Mrs. Reba T. Foster and her little daughter took up residence there. The permanent assistants in the Headquarters are a nurse, cook, and housemaid. Bvery Wednesday afternoon, from three until seven o'clock, a reception is held at Headquarters, and foremost amons the guests who have accepted the invitations to the receptions are Governor and Mrs. Goldsborough.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=987,2857,569,823"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Many small suffrage meetings have been held at the Headquarters, and the people of Annapolis, as well as the Delegates to the General Assembly, have indicated a deep interest in the work. At one of the meetings about 50 of the Delegates were present. Every Saturday night suffrage meetings for women only are held there, and “The Relation of Woman Suffrage to Morality\" is the topic for that evening. Small informal dinners have been arranged in order to make it possible to talk over the suffrage question under pleasant circumstances. One more ambitious affair was arransed for Wednesday, the 31st, at Carvel Hall, when all the members of the Committee on Constitutional Amendments were invited to dine with the suffragists.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=982,3688,570,786"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "All in all, the plan of having housekeeping Headquarters at the capital seems to be a very wise one, as it enables the suffragists to come and bring their families, and talk without inconvenience to the members of the Assembly.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=976,4508,580,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ALL LEAGUES UNITE ON ONE BILl",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1572,268,550,100"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One of the plessant things in the Maryland suffrage campaign this year is that all five of the State Suffrage Leagues have united in support of one bill. This bill provides simply for “equal suffrage,\" and is ordinarily defined as “the State-wide universal suffrage bill.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1569,416,570,302"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Circulars have been published sivmsg on one side the names of the Delesates from the various districts, and on the other detailed information as to how the suffragists can help to pass the bill. They are asked to write or preferably to telegraph their Delegates of their wishes, and to be present at the hearing before the committee. These circulars have been given a very wide distribution among the suffrage forces. Copies can be had by applying to any one of the Suffrage Leagues in Maryland. They are practical and useful, and have already proved their value in this State.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1572,722,568,603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WAR CHEST FILLING",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1633,2854,451,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Almost $10,000 Raised Since Fall— Maryland's “Suffrage Chorus\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1580,2931,557,77"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Just Government League decided early in the autumn that matters had advanced far enough to permit of charging an admission fee to the suffrage meetings. Tickets for the vari ous meetings have ranged in price from $1.00 to 25 cents. Four meetings have so far been held, and the total receipts, including subscriptions pledged at these meetings, amounted to nearly $10,000. At the last meeting, held on Feb. 1, at which Dr. Stanton Coit of London was the speaker. $5,139.40 was realized. This is good evidence of growing interest in the cause.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1574,3044,562,602"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In Maryland, as elsewhere, the suftragists feel that the greatest hope for the success of the movement lies in the rural districts of the State. Al ready six active and effcient county Leagues have been organized under the direction of the Just Government League: The Just Government League of Allegany County, Mrs. Merwin Mc- Kais, president; The Just Government League of Frederick County, under the direction of a board of twelve governors, as follows: Mrs. Arthur D. Willard, Miss Anna Belle Lloyd, Miss Mollie Kemp, Mrs. C. B. Trail, Miss Grace D. Ely, Mrs. John K. White, Mrs. Elizabeth McDannel, Miss Mary C. Ott, Mrs. D. H. Ramsbergh, Mrs. Sarah O. West, Miss Florence Trail, and Miss Bertha Trail. Treasurer, Mrs. Harry Haller; recording secretary, Miss B. Frances Hancock; corresponding secretary, Miss M. Z. sitford. The Just Government Leasue of Caroline County, under the direction of a board of twelve governors, as follows: Mrs. E. T. Tubbs, Mrs. H. E. Ramsdell, Mrs. H. A. Roe, Mrs. George R. Spirvin, Mrs. Theophilus Smith, Mrs. William Siden, Mrs. N. A. Ward,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=1570,3652,565,1125"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Clifford Brown, Mrs. T. P. Fisher, Mrs. W. A. Stewart, Wrs. Josephine Downes, Miss May Fisher. mer Deen; treasurer, Miss Annie M. Lewis; dramatic committee, Mrs. Emil Pearce. The Just Government League of Howard County, Mrs. B. J. Byrne, president; The Just Government League of Salisbury, Mrs. Nevine Collier, president, and The Just Government League of Laurel, Mrs. LePage Cronmiller, president.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2151,262,578,496"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Owing to the fact that the number of representatives returned from Baltimore City is wholly disproportionate to the number of inhabitants, the county work is especially important in this State. The total population of Baltimore City is about equal to the total population in all of the counties put together, but Baltimore City elects only 24 representatives and four senators, while the counties elect 53 Delegates and 23 senators. Fortunately, there is much less opposition to suffrage in the counties than in Baltimore City, owing to the fact that",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2155,760,574,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "there is less corruption in politics in the counties, and the liquor interests are less strongly intrenched there. The ease with which energetic suffrage organizaticns have developed in the counties augurs well for the future.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2153,2847,574,271"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "STATE EQUAL FRANCHISE LEAGUE OF MARYLAND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2162,3165,556,89"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "What Mrs. Ellicott's Forces Are Doing—State-Wide Organization Composed of Eight County Leagues",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2164,3293,558,115"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Just about a year ago—Feb. 3, 1911 —the State Equal Franchise League of Maryland was christened and launched on a career of great activity and usefulness. During the very short time it has been in existence eight leagues have become affiliated with it —The Bqual Suffrage League of Baltimore, the Woman Suffrage Association of Montgemery County, the Just Franchise League of Talbot County, the Political Equality League of Baltimore, the Junior Suffrage League of Walbrook, the Junior Suffrage Club of Bryn Mawr School, the Equal Franchise League of Thurmont, the Equal Franchise League of Emmetsburs.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2155,3450,572,646"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Equal Suffrage League of Baltimore While the League has worked this season chiefly for the interests of a municipal bill for tax-paying women of Baltimore, its energy has also gone out in many other directions. All of the large organizations and most of the ministers in the city have been written to and asked for a hearing—a public hearing or a private interview—and in many cases the League has received not only permission but a cordial invitation.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2154,4132,568,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Very encouraging also are the sults of the Thursday afternoon meeting held at League Headquarters, 817",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2151,4660,578,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "What Others Are Doing",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2833,467,420,158"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NE Maryland womas has O twice earned $8 in commissions for getting subscribers to The Journal. Bach time she has sent the $8 back to the Journal to pay for s2 new trial subscriptions. Those who want to help The Journal can follow this Maryland woman's example and thereby send in 64 new subscribers. There are many ways of helping if amea hense is in ahe",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2778,662,535,483"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "one's heart is in the work. AVE you ever thought of paying a competent woman of good presence for canvassing for Votes for Women? A test has recently been made and has worked well. For a period of 20 weeks a woman was hired to call on the enrolled suffragists of several local leagues who were not subscribers to The Woman's Journal. The purpose of her call was to ask them to subscribe. In nine cases out of ten she was able to get a subscription every time she found a woman at home. When she found a woman keenly interested in suffrage and apparently able to further the cause financially she asked her for a contribution for the work. She explained that, generally speaking, when people know the meaning of equal suffrage they are suffragists: that there is therefore great need for educational work; and that in carrying on educational work money is needed. Most people are keenly interested in the educational side of equal suffrage and literally thousands of people who are willing and waiting to help have never been approached with a request to help. When, therefore, a sensible woman calls on them quietly, explains her mission, perhaps explains the cause a little, she often gets a check and usually it is for not less than $5.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2779,1123,535,1667"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE only disadvantage to this work is that it is difficult to find people at home. It certainly is a plan worth trying, however, even if it means a salary to the woman who carries it out. Of course, a woman could use all of her time in this work or part of her time in it, but if it is done systematically by a woman of discretion among enrolled suffragists there is the possibility of raising a splendid fund for local work. It would be possible to pay the salary of the canvasser out of the commissions for getting Journal subscriptions if vigorous, well-directed work were done by a woman in co-operation with a league in getting subscriptions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2777,2793,534,863"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OR further particulars and F suggestions on this phase of work address the office of The Woman's Journal.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2778,3656,531,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HROUGH the interest of Mrs. Lewis Johnson, wife of Professor Johnson, of Harvard University, it has been arranged to have The Woman's Journal on sale at the Harvard Co-operative Society.. The President of the Harvard Men's League, Mr. Allen S. Olmsted, was instrumental in having the following notice inserted in the Harvard Crimson of lanuary 16:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2776,3811,530,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing en su for pas ing wh col Le ber thv in",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=3656,4282,55,515"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“WOMAN . SUFFRAGE LEAGUE.—The Woman's Journal, the official organ of the National Woman Suffrage Association, will be on sale hereafter at the Co-operative.\" As this notice appears just before The 1915 Baseball Management Competition it unreceived due atten-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p2#xywh=2775,4294,528,421"
+  }
+ ]
+}

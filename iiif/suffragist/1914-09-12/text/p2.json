@@ -1,0 +1,337 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "15 10 H Street N. W. Fifth Avenue and 46th Street WASHINGTON, D. c. I. New Yorl SUITS Paris Cincinnati Duluth, Minn. WR APS COATS BLOUSES NOVELTIES WILLINERY GOWNS FURS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=394,3761,2819,427"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2 Vol. I SEPTEMBER 1914. No. Weekly Organ of the Congressional 0 for Woman Suffrage",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=375,175,892,448"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EDITORIAL AND BUSINESS OFFICE: 1420 F STREET N. W., WASHINGTON, D. C. SUBSCRIPTION PRICE: Ssls Coples. Checks, drafts and postofice orders should be made payable to Hhe Treasurer of the Congressional Union Columbian Printing Co., Inc., Washington Entered as second-class matter, Nov. 14, 1913, at the Post- Office at Washington, D. C., under the act of March 8, 1879",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=386,635,880,542"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Notes of the Week",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=521,1275,621,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Situation in Congress",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=592,1435,477,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ONGRESS has been occupied during the week principally with the conference report on the Interstate Trade Commission bill and the Rivers and Harbors Appropriation bill. Great difficulty has been experienced in maintaining a quorum and several times an adjournment has been taken for lack of a quorum. On one recent roll call twenty-seven out of forty-eight New York members were absent, eight members were absent from Massachusetts, and the entire Maine delegation was absent. The suffrage measure has not been considered.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=397,1550,867,618"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women are frequently wont to pardon their representatives at Washington for neglecting to push the suffrage amendment on the ground that their time is completely absorbed with other legislative matters of general importance. No such excuse can be made for Congressmen at present, however, since they apparently consider the measures before them of too little consequence even to require their presence in Washington.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=402,2180,860,429"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Election Plans",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=577,2748,520,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HIS week is historic in the suffrage world T because of the initiation for the first time of a national election campaign on behalf of the federal suffrage amendment. The Congressional Union plans to go into the Congressoinal and Senatorial elections in all of the nine suffrage states and there appeal to the women voters to withhold their support from the national Democratic Party until that party ceases blocking the passage of the suffrage amendment. This plan was formally decided upon at the meeting of the Executive Committee and Advisory Council of the Union at Newport the last of August, but was not publicly announced until all details were complete for putting it into operation. A group of campaigners will leave Washington on Monday, September 14th, for the West to begin",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=404,2862,864,863"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "a personal appeal to the women voters to stand by the disfranchised women in the coming Congressional election.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1343,287,869,128"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The National American Woman Suffrage Association has also put forth an election plan which is different from that of the Congressional Union but not in any way in conflict with it. It names nine Senators and nine Representatives in Congress “whose opposition to woman suffrage is so powerful as to constitute the greatest obstacle to federal legislation that the women have to face,\" and appeals to all suffrage organizations to concentrate their influence on defeating for re-election the men named. Those on the “blacklist\" are: Senators Brandegee of Connecticut, Clarke of Arkansas, Dillingham of Vermont, Fletcher of Florida, Gore of Oklahoma. Root of New York, Shively of Indiana, Smith of Maryland, and Lodge of Massachusetts; and Representatives Underwood of Alabama, Mann of Illinois, Fitzgerald of New York, Page of North Carolina, Callaway of Texas, Garner of Texas, Garrett of Tennessee, Hay of Virginia. and Sisson of Mississippi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1352,418,863,921"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This election appeal is signed by Dr. Anna Howard Shaw, President of the Association, Mrs. Medill McCormick, Chairman of its Congressional Committee, and by the other members of its Congressional Committee. Each state is left to carry out the campaign or not as it considers best. The only state association which, up to the present, has taken action on the proposal is that of Illinois, which has decided by a vote of eight to three not to undertake a campaign against Representative Mann, the only person on the “blacklist\" from that particular state.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1355,1342,866,527"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Campaign States",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1552,1962,474,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "UFFRAGISTS in the seven states where the S suffrage question will be voted upon this",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1363,2065,859,100"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "November are planning a particularly vigorous campaign during the two months remaining before election. Speakers of national reputation will hold meetings in the principal centers of each state. Miss Margaret Foley of Boston, and Mrs. Laura Gregg Cannon of California, began work this week in Nevada. Dr. Anna Howard Shaw, President of the National American Woman Suffrage Association, is speaking this week in South Dakota, and will visit the other states. Miss Jane Addams has arranged to give the first two weeks in October and will hold two or three meetings in each state. Mrs. Glendower Evans, of Boston, and Mrs. Robert LaFollette, of Wisconsin, have just returned from an extended speaking tour through Ohio and report that the prospects for success in that state seem very bright.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1361,2172,864,836"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women and War",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1609,3103,370,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE committee of two hundred womenin T charge of the recent Peace Parade in New York City, has instituted plans for a permanent organization to oppose war. The organization proposes to appeal to enfranchised women throughout the world to pledge themselves to use their political influence against war, and a similar appeal will be made to all women organized to secure the ballot in the United States and abroad. The co-operation of other groups of women will also be asked.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=1365,3208,862,514"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Suffrage Movement Abroad",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2437,284,591,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "UFFRAGE work in European countries has S been almost entirely suspended and the various suffrage organizations are concentrating upon alleviating the distress, particularly among women and children, in their respective countries.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2302,385,870,281"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ber pri tio bee pre phi Sm stis",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=3203,526,55,348"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An International Woman's Relief Committee has been formed by the International Woman's Suffrage Alliance and on the committee are representatives of the International Woman's Suffrage Alliance; the World's Young Women's Christian Association; the Francis Josef Society; the Friends of Foreigners in Distress; the American Women Residents' Relief Committee; the British-German Friendship Society; the International Board of the Lyceum Club; English Goethe Society, and the Frauen Verein flir Innere Mission.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2310,670,868,526"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This International Committee is endeavoring to help women of all nations and has already assisted a number of German and Austrian women stranded and often almost penniless in London, to return to their respective countries. un pu Great Britain act",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2302,1201,959,370"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "various Suffrage organizations in Great Britain have turned their attention to open-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2323,1620,861,96"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At an Pa M El sie M nm u Ur att Anm h a. in r he wi e Jr e a u v re i th F. in m 2 re m th si",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=3197,1647,64,1898"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing work-rooms for unemployed women, labor exchanges for voluntary workers, and the establishing of free milk depots for mothers and children. The Women's Social and Political Union has not resumed the publication of its paper “The Suffragette,\" nor any of its militant and other activities. The other societies, however, are continuing to issue their papers and to conduct occasional meetings.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2319,1727,868,437"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Christabel Pankhurst, who has been in exile in France during the past two years, has p. returned to England to assist in the patriotic; work which is being organized at this national crisis. No effort has been made to arrest her since her return. he wi Holland e J",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2302,2167,959,453"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Holland",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2665,2526,183,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LTHOUGH Holland is not at war, it is A completely mobilized and upon the women has fallen a large amount of the work done by men. Upon the outbreak of the war, the Woman Suffrage Association suspended the collection of signatures to suffrage petitions and its other political work and the whole organization has been turned into receiving volunteer workers and ascertaining for what special service each one is fitted. They are also seeing that the food supplies are as satisfactory as possible.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2322,2620,868,501"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Switzerland",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2626,3219,258,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE National Alliance of Women's Societies T has issued an appeal to the women of Switzerland, in view of the mobilization of the whole army, to undertake the duties commonly discharged by men, and has recommended the setting up of a central bureau in each town which shall get into touch with the local authorities and aim at reorganizing labor and furnishing information.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-12/canvas/p2#xywh=2324,3311,874,413"
+  }
+ ]
+}

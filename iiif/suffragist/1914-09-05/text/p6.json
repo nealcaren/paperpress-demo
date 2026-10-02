@@ -1,0 +1,227 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1510 H Street N. W. Fith Avenue and 48h Sreet WASHINGTON, D. C. J in $ da. New Yor SUITS r D WRAPS GCOATS BLOUSES NOVELTIES MLLINERY GOWNS FURS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=394,3755,2799,356"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=428,161,38,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2. Ratification, by majority vote, of threefourths of State Legislatures. Under the Shafroth-Palmer Amendment 1. Passage of amendment through both Houses of Congress by a two-thirds' majority. 2. Ratification, by majority vote, of threefourths of State Legislatures. 3. Collection of initiative petitions in thirtynine states. i. Thirty-nine referendum campaigns. Miss Paul said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=383,264,867,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“One point against the new bill is that to have two bills before Congress simply allows Congressmen to play one bill against the other; and it divides Suffragists. Some are working really for one bill and some are working really for the other. We have already found how Congressmen do play one bill against the other. We had a vote in the Senate last Spring when we lost by only eleven votes. Senator Pittman of Nevada voted against us, in spite of the fact that he had supported the Bristow-Mondell amendment when it was introduced. Senator Borah, from Idaho, voted against this measure also. He was from a suffrage state. We felt positive he would have voted for this measure if there had been only one. Borah is a man with whom we have had to work a great deal. We had a conference of the National Council of Women Voters and got the president, Mrs. Emma Smith De Voe, to come and speak. Mrs. De Voe spent two weeks in Washington and went to see Borah nearly every day; she said he was safe, and we had every reason to believe he was. However, as you know, he has presidential aspirations. He wants to conciliate the people of the South and he still wants to keep the good will of the women voters of Idaho. Borah was the man who, according to Mrs. Booth, suggested this mew bill and was of course very glad to vote against our bill, stating at the same time that he would support the new bill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=391,752,863,1363"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We have never in the whole history of the country been so near to success. We have a powerful leverage in Congress. One-fifth of the Senate, one-seventh of the House, and one-sixth of the electoral college come from states where women vote in national elections. We are always hearing of the immense power of the Catholic vote, the Jewish vote, the Mormon vote. There is the same power in the woman's vote. When we reach this stage, to start in and work for a national initiative and referendum bill seems to me the very height of folly. At this moment our measure is on the calendar of the Senate and on the calendar of the House. This year, for the first time since 1892, we have had a favorable report in the Senate. Not since 1896 has there been any kind of report. Federal suffrage work had been dead. Not since 1887 had suffrage been discussed on the floor of Congress until the past session.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=396,2124,861,878"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Has anyone else anything to say on this subject?\" Mrs. Agnes Jenks, of Rhode Island, said: “It is said that the Bristow Mondell amendment interferes with states' rights. Would not the new bill interfere with states' rights as much as the old amendment?\" Miss Paul said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=387,3007,869,355"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Miss Kate Gordon,who is president of the Southern States' Suffrage Conference, said that it was a trial to them to think that they might have to face a federal suffrage amendment. They would take suffrage that way, of course, but they hoped to get it from their own state. But it was more than flesh and blood could bear to have to take not only suffrage federally, but also to have to take",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=400,3366,861,350"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "a national initiative and referendum measure federally.\" Mrs. Helena Hill Weed, of Connecticut, said: “I think there is one thing that we want to realize in connection with the cry of states' rights. The Constitution of the United States gives to each state the right to determine its own electorate and the Bristow-Mondell amendment does not interfere with that right in any way, excepting to say that each state shall not discriminate on the ground of sex.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1343,270,858,482"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Harriot Stanton Blatch, of New York, said: “The fundamental idea lying behind amending the Constitution in regard to woman suffrage is that we do not have to come to a referendum in the states—that women who have been born and brought up in this country and perhaps whose ancestors for generations have been born and brought up in this country—the rights of such women are not to be determined by the votes of the last immigrants that have arrived on our shores. That has been the inspiration always lying behind this effort to settle this question by national amendment, and to my mind this Shafroth-Palmer proposal is so utterly ridiculous in the face of the whole inspiration of our movement that I cannot understand why any sane person could have entertained it for one instant. (Applause.) The only reason for wanting a constitutional amendment instead of working state by state is to avoid referendums. In heaven's name, do you propose to land us in thirty-nine referendums all at the same time? 1 feel personally that we have too many referendums this year. We ought not to lose one. If we do lose one it is because we have too many on our hands. Think of having thirty-nine Think of appealing to all the men of the South and all the foreigners in the North to vote whether we shall have the right to vote or not.\" Mea Annia Darritst of Connecticut aaid.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1343,761,865,1334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The one point I want to make is the point of cconomy. Speaking of thirty-nine referendums, let us take that in terms of money. In Connecticut we have spent for the state association something like $15,000 and the year is not finished yet. In every state we have got to spend in the same proportion. If we can concentrate on the Bristow-Mondell amendment, we can all turn our faces in one direction, and not in thirty-nine directions, and we can surely make an enormous gain in economy.\" Mrs. Thomas Hepburn, of Connecticut, said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1350,2117,860,530"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It occurs to me that it does not really matter what the opposition has to say. We all seem to be agreed that we should unite on some bill. Well, if we are going to, there is only one bill we can unite on, because the Congressional Union is determined to force the Susan B. Anthony amendment, and the National Association always has stood for the Susan B. Anthony amendment. Mrs. Blatch said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1353,2652,860,399"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I was going to suggest that one subject ought to be very carefully gone into and that is the growth of the initiative and referendum in the different states. Now, by leaps and bounds the states are adopting the iniative and referendum on all sides and we do not need to go to the labor of getting this national amendment in order to establish the iniatiative and referendum. The Shafroth amendment proposes the iniative and referendum on call of 8 per cent of the voters. Before it goes out of Congress, if it ever does get out, a much higher percentage will be substituted.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1352,3059,867,568"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It was here moved by Mrs. Stubbs that Miss Paul appoint a committee to draw up a resolution",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=1362,3632,857,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "endorsing the Bristow-Mondell amendment. This was carried. Miss Paul appointed the following committee Mrs. Annie Porritt, chairman; Mrs. Stanton Blatch, Mrs. John Jay White, Mrs. Florence Kelley, and Mrs. Helena Hill Weed. The members of the committee withdrew. Mrs. Hooker said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2292,273,873,350"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The only objection that has been presented to me is this: if we proceed with the Bristow-Mondell it will inevitably fail if we can't win more states. When we have won a few more states, we shall then find it very easy indeed to pass the federal amendment which we all wish for. Thus the supporters of the Shafroth-Palmer amendment say that we shall never need to carry on thirty-nine referendum campaigns. We shall keep on winning states, reducing the number of unenfranchised states that have to be won by federal action to a very reasonable number, I should like very much indeed to ask Miss Burns to answer that particular objection because it is after all the root of the matter.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2299,628,867,650"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Burns said",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2338,1284,305,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We have enough equal suffrage states now, and a large enough number of women enfranchised, to win the Bristow-Mondell amendment, if we only unite and work hard for it. We only need, after all, enough states to form a section of voters big enough to count in politicians' eyes at election time; and that we have already. If only we utilize it, we can get the Bristow-Mondell amendment through Congress and before the State Legislatures long before we could enact the Shafroth-Palmer amendment into law and begin to win referendum campaigns under its provisions.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2301,1330,868,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Paul here read the Treasurer's report, which was accepted by the Conference. The Resolution Committee then returned; Mrs. Annie Porritt, chairman, presented the following resolution to the Conference “Resolved, That it is the sense of this meeting, since it is to the highest interests of the suffrage movement to have but one amendment before Congress, that all suffragists should concentrate their efforts, in the national field, on the Susan B. Anthony amendment.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2303,1896,869,484"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The resolution was passed unanimously, but the following people were recorded as not voting: Mrs. Maud Howe Elliott, Miss Agnes Ryan, Mrs. Florence Howe Hall and Mrs. Wilfred Lewis. the meeting was declared adjourned until mnday afternoon at three o'clock. The proceedi of the second day will be given in next week's “Suffragist.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2307,2386,865,395"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Among those present at the Conference were: Mrs. O. H. P. Belmont, New York, President of the Political Equality Association and member of the Executive Committee of the Congressional Union; Mrs. Donald R. Hooker, Md., chairman of Finance of the Congressional Union and President of the Just Government League of Maryland; Mrs. Katherine Houghton Hepburn, President of the Connecticut Woman Suffrage Association; Mrs. Harriot Stanton Blatch, President of the Women's Political Union of New York and member of the Advisory Council of the Congressional Union; Mrs. Maud Wood Park, Executive Secretary, Boston Equal Suffrage Association for Good Government; Mrs. Crystal Eastman Benedict, N. Y., member of the Executive Committee of the Congressional Union; Miss Elsie Hill, Conn., member of the Executive Committee of the Congressional Union; Mrs. Florence Kelley, N. Y., member. of the Advisory Council of the Congressional",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p6#xywh=2312,2790,867,929"
+  }
+ ]
+}

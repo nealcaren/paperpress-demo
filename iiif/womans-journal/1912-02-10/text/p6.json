@@ -1,0 +1,887 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "46",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=502,192,60,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "practised in so many American cities, and as the knowledse extends, there are evidences of indignation that are encouragings. A movement is under way, directed by men and women of the highest standins, who have made a careful study of social conditions for many years, that will not rest unt the public house of vice is a thing of the past, and social vice has been reduced to its lowest terms. O. Edward Janney, M.D. Baltimore, Md.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=495,278,572,496"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There is no doubt whatsoever but that the enfranchisement of the women of Maryland would be a great material aid in improving moral conditions throughout the State. Men who are foremost in the fight against the social evil are almost without exception bellevers in woman suffrage, for they realize the practical value of votes for women. Dr. Janney, the. chairman of the National Vigilance Committee, is one of the most ardent suffragists in the State. This faet speaks for itself.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=484,802,574,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GAGGED AND BOUND (Concluded from Page 41)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=542,1367,455,83"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "and Chicago could never have won their salary increase if they had been forbidden to agitate for it; nor could the Boston School Board have sot its last grant of money from the Legislature. The Board had tried in vain to get it; the efforts of the teachers put it through. This tyrannical and stupid order is merely an extreme example of the whole spirit in which the Board has been treating the teachers—as mere hired “hands\" who must be kept down and made to know their place: “Theirs not to make reply, Theirs not to reason why,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=486,1473,566,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "and sometimes, as in the case of Miss Griswold, to die. Mr. Brock is reported as saying that he believes this gasging order will be \"a great relief to the teachers\"!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=487,2100,567,198"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“IF I WERE A WOMAN\" (Concluded from Page 41)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=519,2337,506,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An economic earthquake has shaken the “old home\" to pieces. The foundations are crumbled, the walls are spread, and the winds of the world blow through. Today ten millions of women and children are compelled to work that they may live—not alone in the pleasant professions and occupations, but in store, mill, factory, and sweatshop.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=491,2471,562,387"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Not alone in this regard, but in many others, the home has lost its reudal or antebellum atmosphere. The nation, the State, the municipality— these three have stepped in, assumed practical control of the family in its most intimate relations—and are Over-Parents.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=490,2861,566,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Compulsory education laws tell when children shall go to school, how long they shall remain, and what shall be studied; pure food acts prescribe what may and may not be eaten in the home; building regulations even dictate the character and composition of houses; there are laws that specify the age at which boys and sirls may go to work, also the number of hours of employment for men and women each day, and the conditions under which labor may be carried on; franchise ordinances fix the prices to be paid for such imperative necessities as gas, water, electricity, and street car service; health laws, truancy laws, juvenile courts, parental delinquency laws, laws establishing the age of consent for girls—all assume authorities that were formerly parental; the tariff establishes the price of food, clothing and building materials; municipal ordinances control gambling, liquor traffic, the social evil, and so forth.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=493,3160,565,929"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "How, then, can a woman Iook after her own home and her children except through the law, and how can the law be controlled except through politics? If I were a woman in 1912, these two fundamental things—the real meaning of politics, and conception of government as an Over-Parent—are what I would consider primarily and resolve upon understanding. For a modern woman to say, “I have no place in politics,\" is as though she said, “In name only will I fulfill the functions of wife, mother, sister, or communal entity.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=496,4096,568,522"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We have equal suffrage in Colorado, and it is to this that we owe many of the fine, humane laws now on our statute books for the protection of the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=495,4617,570,151"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "—",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=28,4807,51,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "home and the people within that tories, offices, stores. This oversight ADVER home. And if I were a woman in 1913 must be siven by mothers to the —living in other than an equal suf- places for study and amusement, as frage State—I would send for a list of well as to those for eating and sleepthese Colorado laws. All of them, ing, and to the passageways between Who Me when considered, will be seen to have them all—the city streets. The city is had their inception in the tenderness. the twentieth century home, corre- Are they made in sw es and humanities of motherhood— spondins to the early idea—the house All articles at The La woman's keener perceptivities with with the acres around it that save DRESSH regard to injustices, inequalities, and food, shelter and all the interests of UNDERWEA helplessness. life.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1080,194,1522,502"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The International Parliamentary Union—a world-wide organization of expert sociologists—has declared that Colorado possesses the most humane, most progressive, most scientific laws for the protection of women and children of any State or country. Had the women accepted the assertion that “politics is a dirty game,\" this verdict would not have been won, nmor would all these splendid safeguards have been thrown about the home, the youns, the weak, and the helpless.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1075,700,567,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Judge Lindsey sets forth in detail and at some length the abuses in American politics, and the way in which, if he were a woman, he would study them and their effects. He says in conclusion:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1076,1257,561,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“What could I do? Well, if there was an equal suffrage movement in my State I would join it, and if there was none I would start one. I am not a great believer in the 'silent influence' of which we hear so much. The way to get a thing done is to do it yourself. Exert all possible influence on your husbands and your sons—by all means devote club work to a study of the vital and pressing political problems of the day—but work for equal suffrage.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1071,1482,563,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Every suffragist should read this article. Buy the February Housekeeper at the news stand, or send 15 cents in stamps to Collier and Nast, Publishers, 443 Fourth avenue, New York, and get it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1068,1973,563,226"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NATIONAL CHILD LABOR CONFERENCE (Concluded from Page 41)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1071,2238,555,131"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "has spread even across the river, and, with the assistance of the Louisville Association, the New Albany women have organized into a very live Suffrage League.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1075,2406,558,185"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A few weeks ago, a public debate was held in one of the social centers between the president of the Louisville W. S. A. and a prominent lawyer and all the sympathy of the audience seemed to be with the affirmative side. The editor of The Herald (a paper always ready to declare itself for suffrage), as Commencement speaker at a Girls' High School Commencement on Friday, turned the usual platitudes reserved for such occasions into a stirring suffrage speech.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1073,2594,562,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Last of all, to point to one result already obtained, the School Suffrage bill has passed the House and we are hopeful of its becoming a law in a few weeks. Virginia P. Robinson, President Louisville W. S. A.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1078,3081,558,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TWENTIETH CENTURY HOME (Concluded from Page 41)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1116,3396,487,128"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The old home included them all, under the constant supervision of the mother quite as much as of the father. The fertile acres around the walls of the house furnished the raw material, industrious parents and children prepared it for use and stored it for future needs; school, if attended at all, was but a few weeks. While this simple life had its weak points, they were not those of today that require juvenile and divorce courts, organized charities and regiments of social workers, for the life up to legal majority was a busy one, continually under mothers' and fathers' guidance.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1075,3557,565,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is imperative that we revive the old conception of home to solve our problem of parental incompetency and wastefulness of life. We must again christen as home the place where work, study, amusement, as well as eating and sleeping are had, and they must be in an environment controlled again by mothers as well as fathers. There is no true home without both. Today, as before, the buildings are usually supplied by fathers, and should be kept wholesome, physically and morally, by the mothers, as were such rooms in the original homes. We call the work rooms in this century fac-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1079,4160,564,602"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tories, offices, stores. This oversight must be given by mothers to the places for study and amusement, as well as to those for eating and sleeping, and to the passageways between them all—the city streets. The city is the twentieth century home, corresponding to the early idea—the house with the acres around it that save food, shelter and all the interests of life.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1657,284,578,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman cannot escape responsibility for this twentieth century. home-making, for, by common insistence, the care of children is hers. That the father cannot do it all, the census demonstrates. Natural law takes no excuse from mothers. It continues on its inexorable way, blighting here, cutting off there, until men and women shall learn the lesson paid for in wasted lives—that children need good mothers as well as fathers in all their years of growth. The mother is not released by the Creator from her duty because others place children in factories for long hours, or employ them in morally degrading work, or surround them with the influences of “red-light\" neighborhoods and the saloon, or supply them with adulterated food, impure milk, vulgar literature and entertainment; or defile the water supply and the city atmosphere, the streets and neighborhoods. The laws of life and death hold mothers as well as fathers answerable for these conditions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1656,706,564,1010"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This responsibility for one's own makes the woman the keeper of all other children as well, for they form the society in which her own must live. Our statistics of unfortunate lives are far below those of the eleven countries where women have shouldered their responsibility for guarding children, and our American mothers' sense of duty is rapidly growins.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1653,1722,563,379"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE INALIENABLE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1655,2169,398,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the course of the development of our American form of government, much has been said of the inalienable rights of men, and “Life, Liberty, and the Pursuit of Happiness\" have come to be considered as the ultimate goal of democracy. This ideal indicates perhaps better than anything else can the fact that women have heretofore been altogether left out of our government, for women would unthinkingly, if they were given voice, declare that the first inalienable right of all creatures is the right of the mother to protect her young. This means the safeguarding of the future, and, beside it, all else falls into vacuity and swift nothingness.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1651,2320,567,676"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The right of the mother to protect her young; how is this first inalienable right of women insured in our modern civilized form of government? Not only is it not insured, it is altogether swept away and lost, for government has taken to itself the sole right to protect the child, and government is managed solely by men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1652,2999,566,337"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Surely in any wise government the mothers should be permitted to protect their children through proper legislation, for it is the duty of the women to care for and bring up the children, and the means to the fulfillment of this duty must not be abridged, or the race will inevitably suffer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1652,3338,568,340"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Two Maryland Laws Which indicate the Need of Votes for Women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1660,3724,557,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1. The Age of Consent: It is a criminal offense for a man to seduce a girl under the age of 14 years. It is a misdemeanor for a man to seduce a girl between the ages of 14 and 16 years of age, unless he be under the age of 18, in which case he cannot be prosecuted. At the last session of the Lesgislature, an attempt was made to raise the age of consent to 18 years, but the bill was killed without any explanation whatsoever in the Senate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1654,3850,566,494"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2. The Bastardy Law: The mum amount that a father of an illegitimate child in Maryland can be forced to pay towards its support is $30 a year for seven years. The first payment, however, cannot be demanded until the child is one year old. Surely, if the women's point of view had direct representation in the government, laws such as these could be materially improved upon.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=1659,4345,566,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ADVERTISEMENTS CLASSIFIED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2438,290,767,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ADVERTISEMENTS CLASSIFIED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2438,290,767,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Are they made in sweatshops or under healthful conditions? All articles at The Label Shop have a label denoting a sanitary factory. DRESSES WAISTS PETTICOATS UNDERWEAR KIMONOS STOCKINGS, etc., etc. Call or send for price list. THE LABEL SHOP, 4 West 28th St., New York City. Incorporated by women. Managed by women for women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2281,407,1079,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ILLINOIS SUFFRAGE ASSO. 38 Fine Arts Blds., Chicage, publishes the following literature “Bridget's Sisters,\" a suffrage play; per copy...........25c “Why,\" a two-page leaflet; per thousand...........$2.00 “Shall Men Vote?\" leaflet; per thousand.,......... $2.50 Iilinois Chronology, leaflet; per thousand....... $2.50 Mayors of Five States; per Bible on Woman Suffrage; Laws of Illinois; per copy.. 10c “Mr. Lex,\" in paper covers; Handsome crepe paper, yelllow-bordered suffrage napkins; per thousand.... $4.00 Per hundred...... 50c",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2257,824,528,760"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PRINTERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2249,1583,529,101"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We beg to announce that we are printers of many well known publications, among them \"“7he Woman's Journal.\" If have booklet, a magazine or a book send it along. Open day and night. E. L. GRIMES COMPANY 122 Pearl St., Boston, Mass. — PRIMR o ORANPE Evorywhers Most Popular D 20 cents and this coupon will buy a regular 36c can at grocer's or at 35 Commercial Whf., Boston",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2237,1745,564,538"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INVESTMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2368,2323,306,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INVESTMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2368,2323,306,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Independent women investors are realizing the value of our shares and in consequence we have only a few remaining unsold. We want to have you learn about the BEST income producer, for the longest time of any investment with which you are familiar: our DIXIE PECAN GROVES. PAPER SHELL PECANS ARE BEING USED SO MUCH THAT AT PRESENT THEY ARE BRINGING $1 PER POUND AT THE TREE, WITH THE DEMAND MANY HUNDRED TIMES THE AVALL- ABLE SUPPLY. WE DO NOT FIGURE MORE THAN 35 CENTS PER POUND.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2246,2424,533,1042"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Let us send you our booklet, “A Royal Income from the King of Nuts,\" so that you may learn something of our investment and what other people know about a safe yet profitable place to put your surplus.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2259,3472,524,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. W. DENNISON 132 North Grove Street East Orange, N. J.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2276,3735,482,197"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SOME POINTS IN PRACTICAL EXPERIENCE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2243,4012,552,87"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The True Value of Petition Work",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2265,4144,513,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The True Value of Petition Work",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2265,4144,513,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is often said by suffragists that petition work is useless; that the members of the Legislature 1ook upon a long petition as so much waste paper, or that, worse still, they do not look at it at alll The experience of the suffragists at the last session of the Legislature would seem at first sight to bear this idea out, for it is an actual fact that one member of the General Assembly, who has not come back, spat upon our lons petition two years ago, as it was unrolled in the Hall of Representatives. The suffra-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2237,4225,572,525"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "electio the us The names petitio accord form who candid counte the pe",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3613,287,95,397"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Und Marga youns a new tion been of si gratis, Sales with the c neck b they s valent of the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3613,719,95,568"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A TOUR TO AND THROUGH SWEDEN NORWAY to see THE MIDNIGHT SUN by way of Scotiand and England. TOUR to leave New York, June ist, by the latest built steamship S. S. CAMERONIA. Special attractions in Sweden this year—The Olympic Games and the Singing Festival.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2838,853,537,440"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1ne the au gins, for so and it literat vantag img ov sold, would",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3609,1300,99,354"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Communications from intending travelers and information regarding this tour will be promptly also estimates of to all parts of the world if wanted. Write for itineraries. Passenger and Tourist Agency 127 South Third Street Minneapolis, Minn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2840,1300,525,304"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE BUREAU",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2918,1654,379,40"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Next method air me the dis those the sto most a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3607,1661,101,259"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wrl. B. FEAKINS Sucoessor 9 (CVIC FORUM LETURE BUREA) REPRESENTS RO MIN E NT P LATFO R M EOPL E 21 West 44th Street -Now York",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2810,1721,898,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ANNOUNCEMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2902,2059,390,40"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The suffrag the ev",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3605,2070,101,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Quaker City Office Supply Co. PHILADELPHIA, 39 South 10th St. Circular Letters, Cards, Announcements, Berkshire Typewriter Papers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2814,2129,571,196"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Quaker City Office Supply Co. PHILADELPHIA, 39 South 10th St. Circular Letters, Cards, Announcements, Berkshire Typewriter Papers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2814,2129,571,196"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Thos comic stoutly is runi",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3604,2190,101,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Send 25 cents and get one dozen sheets of our best carbon paper.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2822,2348,556,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Glendo nmual League at 3Jo at 3 P.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3602,2348,104,222"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3000,2468,203,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This Maryla ditional Funck, Lavinia etc., ar going t tion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3602,2575,104,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r69",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An Inimitable Equal Suffrage Program MAN, WOMAN'S EQUAL\" DRAMATIC PORTRAYAL OF SCENES FROM THE SENATE entertainment; full of laughs; especially interesting to men; convert-making. For circulars, terms and dates, address",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2879,2588,438,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r70",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Gov. told, at Michiga finally women. vinced extend life to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3596,2886,109,299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r71",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EMILY MONTAGUE BISHOP, Michiga 600 W. 192d St., New York City finally women. vinced ex LAUNDRESS iife fow",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2810,2961,898,212"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r72",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAUNDRESS Swedish woman, expert in fine hand laundry, would like a few private familes' laundry work. Address Box 303, Woman's Journal Office.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2829,3128,555,170"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r73",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The 1 be cong ment u Nothing suffrage ponents oftener and air flimsines",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3591,3198,116,332"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r74",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOUSEWORK.—Armenian of 20, with excellent recommendation from former employer, wants place, preferably in family where he can improve his English. Can read and write but not speak itnuently.Address Olan Shirinian, 57 Market Street, Lynn, Mass. NURSE OR CHAUFFEUR.—Armenian with four years' experience as nurse, seven as chauffeur, and twelve in drug store, wants work in either line. Speaks Englist and French; has first rate references. Ad- Aris Garinian, 28 Kneeland Street, ston.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2812,3340,572,357"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r75",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Study C Good Go next Tue jections Wemen Unduly ference",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3587,3548,120,299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r76",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOUSE OR STORE.—Armenian teacher, here to take normal course, could not fol. low lectures at Normal School for lack of practice in hearing Enslish, though well Spoken siowly. Wants housework or other Job where he can hear English talked, Excellent reference as to character. Address Bartevian, 253 Shawmut Avenue, n.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2810,3698,578,247"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r77",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Better standing election Woman primary, frage al this resty",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3582,3865,124,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r78",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "gists were much chagrined at this ignominious treatment of their sympathizers, and they decided that, if the members of the General Assembly would not listen to the silent appeal of the signatures, they should hear from them in a way that they would understand.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2817,4008,570,299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r79",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Morga urer-Gen terview women drop of t try from Russia.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3577,4128,131,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r80",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Consequently they set to work to copy the long petition on to a card catalogue, and divided the cards into election districts, and now they have at their command a long list of voters and workers who can be appealed to at election time by suffrage candidates for support in a political campaign. That these lists are a valuable political asset has already been proven, for the suffrage candidates at the last",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=2822,4313,566,430"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6/text/r81",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. J. cartoonist her hushe ers of the ada, and it to suc ardent ad and they est in th",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-10/canvas/p6#xywh=3568,4395,140,331"
+  }
+ ]
+}

@@ -1,0 +1,249 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the prinoessIf Isay thet I am one, the world will befieve me, or else, what is the e of being the wisest man? If Isil, I shall only be whst 1 am siready—s fool! therefore, I am s primoe and I will go mary the princess. o Novw, this princess of whom the fool had spoken was, as all princesses must be, the most besutiful and hard-hearted young womsn of the pemod. The gates of ber palsce were mobbed by suitors, and as many as five or stx hung themselves in despair, each day, because the primoen was detormined to marry no one but her wuperior. When the fool heard that, he pondered a gain. ““The princess is a wise woman, and I am s fool. She is dotermmed to find her superior. Very good, I will be her superior!\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=337,261,579,553"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Aoocordingly, when desired to wait upon the princess, in her ball of sudience, he seated bimsolf instend, saying baugbtily I am not certain yet that 1 desire to see the princess at all. The womsn whom I marry must be besutful, wise, bumble, modest, witty, truthful, amsble, graceful, and madly in love with me.\" Then he crossed his legs and losked up at the ociling with such an air of indifference that the princess sent to demand who he was, concinding that he must be some grest person who dared to be so uncivil, and required se many virtues and acoomplishments. \"“Tell ber,\" rephed thefool, \"that it is of no consequence what I am or bave been. A grest many things are permitted a man that would be intolerable in a woman.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=350,821,564,570"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "When the princess hesrd that, she was at once convinced that she had found her superior, and they were merried forthwith.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=350,1394,560,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Court-fool was now the busband of princess, and recived suoh honors as are paid to kings; yet he was not altogether on roses. The priucess was sharp-witted, and be was constantly in danger of being found out, had it not been for the wisest man's receipe. When he uttered some folly, and the princess exclaimed, \"“my dear1\" he returned loftily, \"if you bad been wiser, you would have understood me better. 1If sbe was inclined to medadle in state affairs, \"which is the wiser,\" be asked ironioally, “you or 17\" And as there was always danger lest sbe should see and bear too constantly informed her that if she wished to preserve bis admirstion, she must know as little as possible about out of door mat tor, and keep herself in a sort of seclusion, so that he could wlways think of ber as something 150f and part from every-day people and the rebble.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=348,1489,562,627"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "So pumber of years passed happily for the foot, but mot so bappily for the primoess. who bardly dared darsw a full breath. lest she should do it, like a common person, and so lose some of that admirstion so bardly kept and so casily ost; amd at inst, whe said to her busband I am hesrtily tired of the monotony and soolumon of my hfe. As well be a pictare on the walls at onoe, If you are a prince, 1 ama prinoss. 1see no rearon why 1 sbould not know something of what is gomn on outse. nd when you mgn the state papors. why should mot sot my name there also. They concorn me, as well as you. The fool was troubled at onoe. You ough not, beonse it is mot proper. be wid. 1 pever meddle with your ourl papers. Loave my acts and statutes abne.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=345,2123,563,571"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“But why is it not properusged the pri",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=351,2697,555,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Shz Bsnsintian.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=985,172,482,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Why, because no prinosss ewer Goss such things “Time, then, that one commenoed. The fool was frightened, and relapsed imto his folly. “Then,\" sid be, sas soon a you have omoe set your mame to a state paper, you will rule stead of me. You will take my crown snd robes, adminster justice, and make laws, and1 shall be only Court-fool set to rock the orsdle, to sew on buttons, to make paste, to stich wp soams.\" when the princess beard the, she was much perplened, and bappening to meet ber nurse. she 4d her what her busband bad just boen saying. The nurse burst into a violent fit of laughter. The princess drew berself up.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=933,262,564,541"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“My dear,\" said the murse, pray do not be ofended. But does your Roysl Highnmess conmder your busband supenior to yourself? Cousider I know that be is;\" cried the princess. “Certainly! Of course ! but bow did your the fact? Why. he to1d me so,\" answered the prinoess. hesitatingly and surprised.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=935,810,558,297"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Enactly! and be tolls you now, that if you set your name to certain papers, thet be will beoome Court-foolThen, depend upon it, my dear, that be knows himself to be that alvesdy and thet any men who deciares that B will lose his manliness, resign his privileges, echange duties, to sueak sbout in kitchens and nurseries, and turn fool, if hs wife signs peper, or bas an opinion on state affairs, is a fool already ; only be bas not yet been found out.\" NASCULINE INSOLENCE.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=931,1110,560,421"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NASCULINE INSOLENCE Unpun this beading the Cincinnst Gastte sministers wholesome rebuke to those journals that, with taunt snd acoff and sneer, sttempt to cover with ridicule and obloguy the brave Wyoming women who have recently sat on jury, a follows:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=930,1435,559,293"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Now, in the name of the imaliensble right of every born person to the pursult of bappiness, we have to sAre pot these women competent to decide for themeelvee wheter their housebolo. thet che or ttr are of more port r p lic Gutien And heving thie best mesns for Geciing ts ouestion, have they mot the right to decide Whe has the rigt to pick out the fmie ry lenge them with the quetion wheer they are ot pe cin ooi0 o e u W challengee a male juror and demands whether be lon ty pro, or it, through bie Getention in Oourt, the cupbore wi e re. w , in thew trowsers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=929,1736,561,391"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This is simply the crech of the famili wh of mn sbeoiute Gomination over women I meene pothing short of thetr compiete sueon. Kot to e rig is to. sbandon them. There are imconvenione oe i 1 po t ther whould be abanaomes woul mu prowo the convenienee of man be would let hie polten T e por p bu be would soon nd thet he had ne rights len",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=929,2130,560,237"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A up fm T wrons i womn. t m or the ae w wir on e l repo Vot meny mon torege marige eomes and re, a o s p Nobody Cm o. mn i he ly ol o i iy p aiction of congs jore, wt e ve W There is some hing more funament i",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=928,2368,561,394"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "p T t. . Amerio r o t e onty o o p 1or t prowemy. Then they mey comset i bos w potstion rights are Dount tog. t one is to senon Tris by ury p pr To be poer on y i pr of equal rig. To semon te t mn subjertion to men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1513,262,563,368"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Por women to megiet ry clusive priviens to sapr women, n to han h right to be tred by s jury of theswr peers Bow om men jesuty judee s womss They sennot beve et ow p p tion whih roguiite tempes oms They osnnot comprenend the varn. moods an mot om, mo t powe Ttis monstrons muntio t sor women y am rie mo. A i an tener mp w wom exposed. erring wiste. Fourthermore, many of e crimes of men are aginst women. Bov o men arecite the mpursThet wh i , ty the expmive Amns Dicimon . ow osts How can jutioe be enpectnd from hoe i mty o pr pr womenFor the somiitrion of ti w who are oo. o emale jrors and odgee ar in ap",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1511,638,565,527"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "forrign Correspondencr.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1552,1211,477,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TT . MANoTE. MArh, 1870 EDIUGE LRADS TRE wA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1629,1309,414,102"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EoTU A T At a mesting of the wown Counel of Bamburgh, beld last week. the Lord Provost presiding, the Couneil resolved to petition Parbement in favor of the bill to remove the ais ties of women. It is mot improbsble thet we Mayors and Councile of other cties will follow this example. Now that women posses the municipal suffirage. the corporstions will mot be unmindful of the mghts of thew constit oen ME. TAWORTT' LOT T",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1509,1383,561,404"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". Mrs. Fawcett the wie of Prot Fawort, M. for Braghton, aewered locture on Wmey lest in the Town Hall of thet oty. onThe Electors! Disbilies of Women Mrs Fov cott enumersted snd rapled m deta to the arguments ususlly savanond agnint ing the franchine to women She contenaed thet the cluims of women rosted on the wame basis as those of mer—he mghts e e must stand or fall together",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1508,1759,562,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the lnst gront mesting of the Lonson No. tional Somety for Women's Suffrge. bead o July 17. 7969, M. F plodging the Sooit t e y o men. and proposing the inrooon o this session.The Manchonter Commite Bristol, and Cartie o Ma. 3 rg C forwars the i wow beto P rore pe ot g",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1507,2123,561,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 have plr mectmg is being heid bony Lomao por of Ameiey. dot Wom onne re p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-14/canvas/p6#xywh=1507,2573,559,190"
+  }
+ ]
+}

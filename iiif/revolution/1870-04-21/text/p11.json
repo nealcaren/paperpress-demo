@@ -1,0 +1,238 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p11.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "prossed my surprise st finding a womsn of ber apperent educstion and refinement in such a position. She told me that her busbend was studying for a physician, that to support the family and enable him to do it, she had undertaken this toy-shop, and, she added, with great pride, “I bave suoceoded beyond my expeotstions. I do not intend he shall be asbamed of us oither,\" said she. \"When spring comes on, 1 shall replace my toys with fancy goods and little garments of my own making, and I expeot to make enough to set bim up ss a physician m a respectable quarter, and then when he is established we can join him, and mo one will know anything about it.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=211,132,555,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I said, “Do you think he will realize the sscrifices you are making for him?\" She looked at me in simple wonder! She had not thought of sacrifices. As I left, with my arms laden, I thought, Oh woman, how great is thy faith, thy mns will always be forgiven thee A SucomsrUL WomAN.—There is, among the eite of our city, a lady who has worked out tor hersolf the beginming of a fine artistic reputstion. It is the more noticeable, beosuse she has done this alone and unsided. Two years ago, she conceived the beautitul ides which she has so successfully carried out, and, meeting with but little encouragement from any source. sho concealed her work even from her husband, until it wes completed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=208,616,557,544"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1t is Book of Flowers,\" with a poeticsl cxpression of their emblems—s union of color and poetry. There were thirty-six flowers, all most exquisitely painted, the colors handled with the most perfeot freedom. I have not seen anything in water-colors that surpassed it. The leaves of each flower stand out from the background as if o real lesf had been lsid thereon. Every vein and veinlet is copied with the most perfect exactness. The straw-colored ground in the flower of the Abutiflos, for example, with its red veins delicately traced ovor the surface, is most perfectly represented.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=202,1164,560,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Then, the transition from flowers to poetry is most natursl, and in this book seems like an inspiration. Her next difficulty—or the real one was to find a publisher. She submitted the work to the eriticism and judgment of a prominent artist who is well known for his liberal education and grest generosity towards sall fellow-artusts. He was delighted with her work and pronounced it a gem, \"but thought it would cost more to publish it than would be realized in the sale of it.\" A friend then suggested publicstion by subscription, and the price of a singe copy was placed at thirty dollas. The success of these two in obtaining wubsoribers was so great, that she found berself more than repaid for ber lsbor, with surplus enough to cover the expense of publishing. Her husband (a lithographer) then offered ber $15,000 for her book It is now in the hands of the publishers. and will be issued in Mey next",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=200,1593,558,666"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The book, wo far as it goes, takes the same place in the floral kingdom that Anudubon's Book of Binds\" has in the dominion of the feathered tribe, with the addition thet it ssvors wore of postry and romence HaAnmy 8. Broows, Chicago. How A Wonan Dors I1.—In the little town of Nauok Mass., wes inaugursted a Dobating ocety or Club, t which the male Solons were wont to air their sloquence, during the winter evenings. Among the pumber was one who, though the busband of a very quict, refined",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=194,2264,561,394"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hs Rarsintins.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=831,43,452,69"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "nent of Woman's Rights,\" sn4 firm behever in woman's mental inferiority. One evening he came bome and relstod to bis wife, in bis batting the arguments of an opponent, but snddenly stopped to tell ber, that the socety had received a communicstion, or essay, from some unknown person, that far echpsed in literary sbility the production of the most gifted of the Club. He was exceedingly snxious to loarn who the mysterions person could be he brought home the manuscript, and never tired in resding it to his wife, eulogzed every somtence, and declared that the man who wrote it nsd s better knowiledge of buman nsture, a finer command of language, geve expression to nmobler sentments, than it had been his fortune ever to bave heard before. He remained in s state of profound mystification for some time, when his wife confided to him an important secret—that she had written the essay berself, and gave him the proofs. The revelstion bad the effect of making bim not only s wiser. but a bumbler man. BENNETT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=786,118,562,817"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York, April 1870",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=806,940,264,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "New York, April 1870",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=806,940,264,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RUwE., Cherokee County, Texas",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1009,984,319,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RUwE., Cherokee County, Texas",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1009,984,319,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SERINo that you desire all friends to the csuse of woman's elevation to send you statements of every suc cossful doms of woman, 1 would call your sttention to s lady of our village who. 1 think, 1 eminently wortny to be rewarded by potice even in paper with the infinence and circuls tion of Tz REvoLOTION. Hermame is Mrs. Dr. Lucy Wiggins. Without the bepet of an sarly educstion, she has, in the face of every difculty. burst the bonds of her thridom, and carried with ber success in the practice of medicine. Sbe bas been de rided in every manner by the people of this country— in fact, there is woaroely an epitbet that has mot been applied to ber, in order to discourage her efforts Yet she has been undsunted; snd the O13 Root Doctor,\" as sbe has been oslied, among other things. is pow set tiec fact in the County of Cberokne. Her charges sre always reasonable. Her praces are soarcely more the ball of those of others of her profession. She is yet mak ing a good ving, besides bringing joy to many a bed of pain. She is now fty yesrs old. but bas lost pone of the energy of youth. Sbe speaks of goimg to Philsdel phis mext winter to wisst a sister who resides there. where she will probably remsin, which would be s matter of grest regret to many whoknow and oan sppre ciate ber bers. 1 could give you many instances of her remarkable oures, as well as undreds of certinoes of the relieved sufferers, many of whom owe their hesith and perbaps 1ves. to ber, but 1 bave trepened on your space enough Yours respectfully. Mes M. N",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=782,1009,561,775"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CLavA I Th following facts are apropos to your isndsble on deavors to guin equal pay for equsi lsbor, Mi E. W. one of my sister teachers in this Institute, and her brothes. pursued the ame coure of — corric o o o— the degree of A.R. Both commenced tsching the same time, he for salsry of $1,500, she, for $490 year. Her department was that of Letin and Greel and required sta hours labor dsly in the reottion room. When she left this position with the bope of seouring one whore the r m prop ate to the labor required, one of ber pupils, a youns man who had given only half the time she bad., to the Claion. who l by tenching. woroa her and red 800 for o the fact that it is cwstomsry to pay s men double of Gmsdruple what is given to women or the e worh just as woll performed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=776,1797,561,535"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This ro he same amout t t i be oet te dof fo pr, pti ti, mot he. co t y whils the brother has been able to visit forsisn landn. to fent his eyes on the gai of r and Romse, to wpend a-ions hoe in the r o e wr e w w, p he tt, 4 e o a w w, w",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=775,2335,557,316"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "251",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1819,54,84,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". T i t. ot t i vists of mity og wery y. Man H. o —T opened Forei Boo r Wi Bosto. o A p p h y y wendt 1s Omicago. Mise AG Bm. W. on r A A.Jonneon beve openes arng iore wmo t suspioes, and with the conndenee they heve irer . sptred. i thetr oare, aitenion, juagmet, a are cerin of succe",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1364,141,564,470"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "M La 3. BaARLow an Mis De Cp t type in th ofe of the Briageport (CL Sinto Thore are wis or wvn men in the weme ofo M Bariow equsis. and Miss Chapmen xonis any of e male compoior. i o lars per wosk, reiving pay t e Miss Chapman's weskls wages wxoont oe of any who set type in the offo A KENTUORY WomAN.—Mrs. ATbers. of Eontueny has, by ber own ori, t o0s $o the poor ti popi ving mon the mountins of that te THE WEAREs ERX.—Mr. BarmUm, Apeking of ero ing the Piains, mentions the faot of srons. moi me o i . a at w the toams to the end of e journer FE IDUT —A brignt exampie of fomin i0utry h i r 1 te t yg iy of the Baaor . m, w w 20,9 but who works on, day by day, esrming ber siz doners wekly",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1363,619,563,582"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LADins oF SOmOooL ComMyTERS.—Laties bave be slocted on the so0l commit i Piympton, Mars old, an Sout Gi the acoo bosrd. A UszL ATTENT —A womsn in Perin ee devoted her life and means to chom or the ot r o t . tolligt ooug t e o A Wousw's WoR.—The widow of Dr. Bria. loar Cnimee o, where sbe is devoting ber efors to the ouei Chinese girs. for whom she ts buliding lerge orph age or school AACCo PT socomplisbed gi in Oroviie, Csl., privtet. wnd she works every day at the case-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1362,1203,559,465"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK CITY WOMAN'S SUFFRAGH ANSOCLATION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1363,1717,555,66"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tas primcipsl copversation on Fridey after moon was upon the laws of the state on e ownership of ehildren by the parents. Veory many interesting facts wore givon. iustrting the injustice. and eveon crpelty of the isws in most of the states. where by logal enactment the father i he propritor o the chre or sfter legal marriage, and the mother i pot o wdered even partne in the conoern1n this free country there are but two stton ht have reached a suffiient degreeof ovili to assert by law the right of s mothe t he and misory otmes. and the lnw tht openly contr ot Gd worthy the same of leww",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1356,1816,558,572"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tis proposed by the oty pt gether many stiking ots on thi (mow in po o to the wome o the rt A pariors for an n ometof he ry",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p11#xywh=1352,2393,557,251"
+  }
+ ]
+}

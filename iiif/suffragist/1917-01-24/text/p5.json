@@ -1,0 +1,95 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p5.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "i",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=1477,1697,1394,1147"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Washingten Children Presenting Flowers to the Pickets",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=1739,2902,863,115"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On the second day the young pickets took their stands in increased numbers. When the Presidential car shot through the lower gate he laughed openly at the battery of earnest eyes. He has since reached that stage of friendliness to pickets that he bares his head as his car rolls by. And the same frankness and courage that forced the President to salute those Congressional Union banners that figured so largely in his late campaign in the West, is winning friend and foe alike as they stand at the White House gate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=300,2926,838,618"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE close of the first week of the Con- T gressional Union for Woman Suffrage on the picket line marks a tremendous change in public opinion at the Capitol. There is a growing interest in the political significance of the lengthening guard at the White House with their lettered banners, and a declining interest in the vivid spectacle of the silent sen-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=302,3582,840,418"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tinels as a mere curiosity. The public, in short, has readily accepted the suffrage demonstration in front of the White House as a legitimate piece of suffrage propaganda, as they accepted street speaking, a few years ago regarded as “militant.\" Even the conservative, accustomed by habit now to the daily scene of plucky young women at the White House holding high the suffrage colors in all weathers, have ceased to regard the new tactics as even “dangerous.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=1171,3067,832,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "That a few Congressmen still take this attitude was shown by the protest of Representative Emerson, of Ohio, on the floor of the House, who wished the suffrage guard withdrawn as “an insult to the President.\" His protest met with no response from the other members.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=1175,3638,830,362"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "O-OPERATION in the remotest states is, in fact, remarkable. From the Pacific Coast comes the news of meetings held to uphold the picketing principle, and to protest against the action of a President who has refused to stand behind the principle of political liberty for all the women of the nation. In Portland, Oregon, a meeting supporting the picket was held, with Dr. Florence Manion, state chairman, as speaker. Dr. Manion at this meeting started an “endless-chain\" protest in Portland which she says will finally cover the state. The officers of the Union in Washington State believe that thousands of demands for the passage of the federal suffrage amendment, upholding the picket at the Capitol, will reach the President and leaders of Congress before adjournment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=2034,3064,839,931"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "5",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p5#xywh=2852,392,44,52"
+  }
+ ]
+}

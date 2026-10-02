@@ -1,0 +1,1031 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/manifest.json",
+ "type": "Manifest",
+ "label": {
+  "en": [
+   "The Suffragist, undated"
+  ]
+ },
+ "metadata": [
+  {
+   "label": {
+    "en": [
+     "Title"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Volume"
+    ]
+   },
+   "value": {
+    "en": [
+     "1"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Number"
+    ]
+   },
+   "value": {
+    "en": [
+     "4"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Pages"
+    ]
+   },
+   "value": {
+    "en": [
+     "8"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Publisher"
+    ]
+   },
+   "value": {
+    "en": [
+     "Allied Printing"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Source"
+    ]
+   },
+   "value": {
+    "en": [
+     "<a href=\"https://archive.org/details/suffragist01cong_2\">https://archive.org/details/suffragist01cong_2</a>"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Citation"
+    ]
+   },
+   "value": {
+    "en": [
+     "The Suffragist, vol. 1, no. 4, undated"
+    ]
+   }
+  }
+ ],
+ "summary": {
+  "en": [
+   "8 pages. Text by OCR (newspaper-ocr 0.10.0); it contains errors."
+  ]
+ },
+ "viewingDirection": "left-to-right",
+ "homepage": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/",
+   "type": "Text",
+   "label": {
+    "en": [
+     "The Suffragist, undated"
+    ]
+   },
+   "format": "text/html"
+  }
+ ],
+ "partOf": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/collection.json",
+   "type": "Collection"
+  }
+ ],
+ "requiredStatement": {
+  "label": {
+   "en": [
+    "Attribution"
+   ]
+  },
+  "value": {
+   "en": [
+    "Scans from the Internet Archive: <a href=\"https://archive.org/details/suffragist01cong_2\">https://archive.org/details/suffragist01cong_2</a>"
+   ]
+  }
+ },
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p1",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 25"
+    ]
+   },
+   "width": 3246,
+   "height": 4219,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_01.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/1/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p1/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p1/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_01.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4219,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0002.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p1"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p1.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 26"
+    ]
+   },
+   "width": 3268,
+   "height": 4164,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_02.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/2/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_02.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3268,
+        "height": 4164,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0003.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p2.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 27"
+    ]
+   },
+   "width": 3247,
+   "height": 4220,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_03.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/3/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_03.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3247,
+        "height": 4220,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0004.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p3.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 28"
+    ]
+   },
+   "width": 3268,
+   "height": 4164,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_04.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/4/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_04.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3268,
+        "height": 4164,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0005.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p4.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 29"
+    ]
+   },
+   "width": 3246,
+   "height": 4219,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_05.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/5/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_05.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3246,
+        "height": 4219,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0006.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p5.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 30"
+    ]
+   },
+   "width": 3268,
+   "height": 4164,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_06.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/6/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_06.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3268,
+        "height": 4164,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0007.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p6.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 31"
+    ]
+   },
+   "width": 3247,
+   "height": 4220,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_07.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/7/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_07.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3247,
+        "height": 4220,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0008.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p7.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8",
+   "type": "Canvas",
+   "label": {
+    "none": [
+     "p. 32"
+    ]
+   },
+   "width": 3199,
+   "height": 4199,
+   "thumbnail": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_08.jpg",
+     "type": "Image",
+     "format": "image/jpeg"
+    }
+   ],
+   "homepage": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/t/suffragist/_undated/suffragist01cong_2/p/8/",
+     "type": "Text",
+     "label": {
+      "en": [
+       "Read this page"
+      ]
+     },
+     "format": "text/html"
+    }
+   ],
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/page",
+     "type": "AnnotationPage",
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8/page/image",
+       "type": "Annotation",
+       "motivation": "painting",
+       "body": {
+        "id": "https://nealcaren.github.io/paperpress-demo/img/suffragist/_undated/suffragist01cong_2/page_08.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "width": 3199,
+        "height": 4199,
+        "service": [
+         {
+          "id": "https://iiif.archive.org/image/iiif/3/suffragist01cong_2%2Fsuffragist01cong_2_jp2.zip%2Fsuffragist01cong_2_jp2%2Fsuffragist01cong_2_0009.jp2",
+          "type": "ImageService3",
+          "profile": "level2"
+         }
+        ]
+       },
+       "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8"
+      }
+     ]
+    }
+   ],
+   "annotations": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p8.json",
+     "type": "AnnotationPage"
+    }
+   ]
+  }
+ ],
+ "seeAlso": [
+  {
+   "id": "https://archive.org/details/suffragist01cong_2",
+   "type": "Text",
+   "format": "text/html",
+   "label": {
+    "en": [
+     "Source"
+    ]
+   }
+  }
+ ],
+ "rendering": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/full_text.txt",
+   "type": "Text",
+   "label": {
+    "en": [
+     "Full text (OCR)"
+    ]
+   },
+   "format": "text/plain"
+  }
+ ],
+ "structures": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/contents",
+   "type": "Range",
+   "label": {
+    "en": [
+     "Contents"
+    ]
+   },
+   "items": [
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p1a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "DR. ANNA HOWARD SHAW, PRESIDENT, CALLING TO ORDER FORTY-FIFTH ANNUAL CONVENTION NATIONAL AMERICAN WOMAN SUFFRAGE ASSOCIATION"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p1",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a1",
+     "type": "Range",
+     "label": {
+      "en": [
+       "PROGRAM OF THE SUFFRAGE SCHOOL FIRST WEEK"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "REVIEW OF THE WEEK"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE PRESIDENT'S MESSAGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CONGRESS CONVENES"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a6",
+     "type": "Range",
+     "label": {
+      "en": [
+       "HEARING BEFORE THE RULES COMMITTEE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a7",
+     "type": "Range",
+     "label": {
+      "en": [
+       "NATIONAL CONVENTION"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p2a8",
+     "type": "Range",
+     "label": {
+      "en": [
+       "MEN'S LEAGUE FOR WOMEN SUFFRAGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p3a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "TREASURER'S REPORT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3",
+       "type": "Canvas"
+      }
+     ],
+     "metadata": [
+      {
+       "label": {
+        "en": [
+         "Author"
+        ]
+       },
+       "value": {
+        "en": [
+         "Mary Morris Lockwood"
+        ]
+       }
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p3a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "CONGRESSIONAL UNION FOR WOMAN SUFFRAGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p3",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p4a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "SENATE AND HOUSE JOINT RESOLUTION NUMBER ONE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p4a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "HISTORY OF AMENDMENT"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p4a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE PRESIDENT'S MESSAGE"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p4a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "THE FEDERAL AMENDMENT, ITS PRESENT STATUS."
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p4",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p5a2",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Hearing on House Woman Suffrage Committee"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p5a3",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Members of the Rules Committee Who Heard the Arguments"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p5a4",
+     "type": "Range",
+     "label": {
+      "en": [
+       "Jane Addams Speaks"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p5",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p6a5",
+     "type": "Range",
+     "label": {
+      "en": [
+       "National Convention at Washington"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p6",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p7",
+       "type": "Canvas"
+      },
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p8a11",
+     "type": "Range",
+     "label": {
+      "en": [
+       "PROGRAM FOR THE WEEK"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p8a12",
+     "type": "Range",
+     "label": {
+      "en": [
+       "[Patronize Our Advertisers]"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    },
+    {
+     "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/range/p8a13",
+     "type": "Range",
+     "label": {
+      "en": [
+       "PAPER SELLERS"
+      ]
+     },
+     "items": [
+      {
+       "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p8",
+       "type": "Canvas"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "thumbnail": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/thumbs/suffragist/_undated/suffragist01cong_2/page_01.jpg",
+   "type": "Image",
+   "format": "image/jpeg"
+  }
+ ]
+}

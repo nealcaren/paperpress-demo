@@ -1,0 +1,161 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PROGRAM OF THE SUFFRAGE SCHOOL FIRST WEEK",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=1320,258,1676,173"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Monday, December Sth. Bibliogaphy of the Suffrage Movement. Mrs. FRANCES MAULE BJORKMAN. Pioneers of Hquel Suffreaesese. Miss ALICE STONE BLACKWELL. Sete Campagmsmsnsnsn. Mrs. MARY WARE DENNETT. Hartord, Conn, and Commercialized fieee. Mrs. THOMAS HEPBURN. How to Interest an Audinn. Dr. ANNA HOWARD SHAW. Su Work in Loumnmnmnn. Miss JEAN GORDON. womoble Camprin. Miss EMILY PIERSON. Tuesday, December 9th. Hitor of ederal Work for Woman Sras.10 Miss ALicE PAUL (N. J.) .................... Mrs. SHuERMAN Boorn (I1l.) C...... Miss JEANETTE RANKIN (Mont.) .................. Miss LavintA Dock (N. Y.) Results of ual Suffrae in Wyomnms. Hon. FRANK W. MonDELL (Wyo.) Story of Women's Education in the Last Centty. Miss ELtzA HARDY LorD (Mass.) Wednesday, December 10th. ow o win Feder ene. Miss ALICE PAUL. obbymgmMMM. Mrs. SHERMAN BOOTH. Suffrage Papers and orrmmnmm. Mr. JAMES KEATING. Assembly District orgmatn. Mrs. JESStE HARDY STUBBS. Results of Eoual Suffrage in Coloradoeee. Miss HELEN SUMMER. pPure ood Rtomm. Dr. HARVEY W. WILEY. Thursday, December 11th. The Woman Suffrage Movement in England (1867-1909).....10.00-11.00 Miss LUucy BURNS. obn................ Mrs. SHERMAN Boorn (I11.) Suffrage ..... Miss MARGARET FoLEY (Mass.) women nimnmnmnmm. Miss CONSTANCE LEUPP. Results of Eout Surage i Ihieeeeee. Senator BRADY. Intermational Movement for Woman Suffrage.20-10.00 Miss JANET RICHARDS. Friday, December 12th. The Woman Suffrage Movement in England (1909:1913.)...10.00-11.00 Miss LUucy BURNS. Mrs. SHERMAN BOOTH. Suffrage Plays and Pageantss.0550 Miss HAZEL MACK AYE. e Poion Woe. Miss EMILY A. SPILMAN. Results of Equal Suffrage in Utah, Mrs. GRoRon SurmERLAND.$00-9.00 Feminism, Mrs. THoMPSON SETON.5010.00 Saturday, December 13th. History of Women's Education, Miss H ons. Lobbying (V), Mrs. SuusMaN Boorm..o012.00 The Use of Congressional Documents in Suffrage Campaigns, Mrs. HuLN H. GARDENER. 2.30-3.30 Voting Women of the Middle Ages, Dr. Annte HeLos An.50-430 Results of Equal Suffrage in Washington, Hon. J. W. BRvAN.$,00-9.00 History of Manhood Suffrage in the United States, Mr. Lours F. Posr..9,00-10.00",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=1195,506,1928,3533"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "26",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=220,129,52,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "REVIEW OF THE WEEK",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=222,259,837,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE PRESIDENT'S MESSAGE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=187,423,678,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "UFFRAGISTS the whole country over are S indignant that President Wilson did not rise to the great opportunity before him and recommend in his message to Congress the support of the Woman Suffrage resolution nmow before Congress. In a State paper that urged the enfranchisement of the Igorrotes and the dog-eaters of the Philippines, Woodrow Wilson could find neither time, space, nor words for the plea of self-respecting, civilized women—mothers, wives, and daughters—that they be no longer classed with defectives and imbeciles. President Wilson has fallen short of a great opportunity. No other president has ever had such an opportunity as is before him at the present moment. Even yet it is not too late for him to speak a word which would hasten the enfranchisement of a large part of the human family.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=184,491,922,845"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CONGRESS CONVENES",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=186,1376,536,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The first regular session of the Sixty-third Congress convened at noon, Tuesday, December 2d. Both Houses adjourned to reconvene immediately in joint session to listen to the President's message. The political complexion of Congress has not changed since the special session. That special session occupied eight months in majestic indolence, and did nothing for Suffrage. This present session has the opportunity to do something for Suffrage—it certainly has the opportunity to pass the measure. This is a good time for you to begin to study your Congressman and his attitude on the amendment.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=186,1441,921,622"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HEARING BEFORE THE RULES COM- MITTEE Wednesday, December 3d, was the first day of the hearing before the Rules Committee of the House on the question of creating a Committee on Woman Suffrage. Among the speakers were Dr. Shaw, Mrs. Carrie Chapman Catt, Miss Jane Addams, Mrs. Ida Husted Harper, and Representative John E. Raker, of California. On Thursday those opposed had their day, and on Friday those in favor appeared again.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=186,2102,922,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NATIONAL CONVENTION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=187,2699,587,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE Forty-fifth Annual Convention of the National American Woman Suffrage Association opened Sunday afternoon, November 30th, with a mass-meeting at the Columbia Theater, which was packed with a large and representative audience. Dr. Shaw presided and Oliver P. Newman, president of the Board of Commissioners of the District of Columbia, welcomed the Convention on behalf of the city of Washington. Jane Addams, of Chicago; Senator Helen Ring Robinson, of Colorado; Margaret Hinchey, of New York; Rose Winslow, of New York, and Mary Anderson, of the executive board of the National Boot and Shoe Makers' Union, were the principal speakers. Elsewhere in this issue a detailed story of the Convention is printed.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=184,2764,920,755"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MEN'S LEAGUE FOR WOMEN SUFFRAGE The District Men's League for Women Suffrage adopted a permanent organization and elected officers for the ensuing year at a meeting held in the Washington Public Library, Friday, November 28th. The following officers were elected: President, Dr. Harvey W. Wiley; vice-presidents, General Anson Mills and Gilson Gardner,; W. L. Stoddard, secretary and treasurer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=176,3550,924,474"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE SUFFRAGIST",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=1364,130,553,51"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "December 6, 1913",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/_undated/suffragist01cong_2/canvas/p2#xywh=2697,127,368,48"
+  }
+ ]
+}

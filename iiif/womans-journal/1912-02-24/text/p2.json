@@ -1,0 +1,491 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "58",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=435,240,62,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LOYAL TO A FRIEND By Frances A. Reed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=491,322,469,106"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "— fine and fit, With your Sunday go-ter-meetin' harp and gown, I1f yer find a mite of chance to be peekin' throush the fence, Just watch the crowd outside a-waitin' roun'. If you see a little woman with a tired- Icokin' face, Tryin' hard to fix it with a srin, A hurryin' and a scurryin' to 1each the Golden Gate, Not feelin' very certain she'll get in; Jest sidle up to Peter, give his han' a cordial grip, An' tell him you are sure he's on the square, An' youll take it mighty frien'ly if he'll open up the gate An' welcome in the little woman there. If he says she isn't pious an' isn't much on looks, An' she'd give him pain an' trouble without en', You might tell him, in the strusgle she was never known to quit, An' was always mighty loyal to a frien'. An' of St. Peter, standin' an' alookin' down the years, Will see the frien' an' Master he had known, Deserted, hurt, an' needin' help a loyal frien' could give, An' how he'd left Him standin' there alone. So I think I see St. Peter draw his han' across his eyes, An' hitch his girdle-buckle up a hole, An' say, “Because you're loyal, not at all because you're good, Come in, your name is on the honor roll.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=445,439,575,1466"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A SUFFRAGE BABY . By Amelia D. Peirce This little poem was written for Richard Holden Burke, who won the silver cup siven by the Chicago American for the baby prize at the Suffrage Bazar held at the La Salle Hotel, Chicago, recently.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=452,1937,568,320"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I'm an equal suffrage “aby, And I need my mother's vote. She always knows what's good for me, And scemetimes men-folks don't. They say my milk's in politics My food and all I wear; Street-cleaning—sanitation— Let my mother do her share. So please give her the ballot. For she loves her home and me, And can't help you adjust things Without voting, don't you see? River Forest, Ill. PROF. ANSPACHE. PLEADS FOR EQUALITY He Makes a Spicy Argument in Be- Half of Votes for Women en Ananpahear ans",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=444,2268,578,734"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Prof, Louis Kauffman Anspache, sociologist, playwright and student of political economy and ethics, writes as follows on the anti-suffragist: 1t is a question of democra. Either youre for it or you're not. f you're for democracy of course you believe a woman should vote. If you're not, for God's sake change your goernment. “Destroying the Home\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=448,2980,568,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The “anti\" claims that suffrage will destroy the home. No, suff age won't, but your present industrial system willl. Women are being exploited under present conditions against men— sometimes against their own husbands. A man goes to an employer and says: “I can't work for you for less than $1.75 a day,\" and the employer says: “All right, I'll get a 90 cent woman.\" And why? Berause the woman has no organization, or a poor excuse of a union with no political force back of it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=450,3425,568,555"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This exploitation works out in hundreds of places in industrial New Ensland, where the father stays at home and spanks the children while the mother takes her dinner pail to the factory to fill a cheap job. Someone's got to feed the babies. The Question of “Chivairy” The “anti\" argues that suffrage will menace chivalry. What does the factory woman know about chivalry?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=450,3983,569,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The “anti\" would narrow a woman's vision to her own four walls. But how about your women who haven't four walls? And your men, who are exploited so that they can't provide her with four walls? It's a mean, greasy ideal for any State to hold up to women—this idea of the fou walls. We provide prisoners with better than that.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=451,4392,571,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, FEBRUARY 24, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1240,222,1255,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Ballot and the Home The “anti\" argues that, siven the vote, woman would shun matrimony. Suffrage would undoubtedly keep her from marrying the wrong man. You talk about the sacrament of matrimony! Why, the greatest monstrosity of the age is the commercializing of love. Women marry to be provided for, to earn a living in what they think the easiest way. Economic independence of woman is the solution to the whole awful matrimonial tangle.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1029,312,576,491"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Equal Rights and Motherhood The “anti\" says that suffrage will destroy the maternal instinct. They put up the same argument when women first began seeking college educations. It has been proved since that college women have 33 per cent. more and better children than other women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1038,807,565,300"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "$6 the Average Pay Six million women are employed in the United States at an average wage of less than $6 a week. Think how many must be earning $2—not enough to pay room rent. And you expect these women to be moral! You might as well tell a starving man he shouldm't steal bread as to tell one of these girls she shouldn't sell herself. You've got to get at the root of the evil—the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1039,1111,563,426"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "economic dependence of woman. Conscience More Needed Than Genius It is said woman has never done anything eminent to entitle her to the franchise. In democracy we don't need people who do eminent things mearly as much as we do people who can do common thinss conscientiously.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1039,1532,563,292"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUFFRAGE AND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1041,1874,319,39"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SOLDIERING",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1335,1920,264,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Once in so often nowadays somebody rises to say that no woman should be allowed to vote unless she is able and ready to become a soldier or a policeman, and use a gun or a billy upon cccasion to preserve order or defend the State. We suddenly learn that only potential fighters are proper citizens, and that the true State is a latent army. “Government is based on force\" is the fashionable phrase which seems to be giving very considerable glee to a little coterie of opponents of woman suffrage. “Eliminate from government this element of force,\" writes one of them recently to a Boston newspaper, “and its sole excuse for existence is removed. All public functions requiring merely voluntary concerted action of citizens, without force, can be and are performed by private or non-governmental agencies.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1036,1991,566,853"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This notion is to mest democratic people at this time of day a little surprising. We are accustomed to think that the conception of the State as the voluntary cooperation of the people for promoting their common ends in an efficient and adequate manner, as could not be done individually or by little groups, is the true conception. This would appear to be not only an “excuse\" for the existence of the State, but most modern men would certainly agree that it was its real end and definition. That governments require police and military force for various purposes is unquestionable; mebody certainly ever heard of woman suffragists questioning it. Boston has a few thousand policemen; and the United States has perhaps a hundred thoeusand soldiers, quite enough for every need of its ninety million people. It has many more butchers and bakers, equally indispensable to every people, and rendering services equally mecessary to all citizens, men and women, although, in the proper division cf labor, the service, like the police service, is the service of men. Neither the one thing nor the other has anything to do with the voting system, or with qualification for voting.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1040,2846,559,1221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The curious thing is that it is only mowadays and for the sake of opposing woman suffrage that this silly contention has made its appearance. Nobody ever heard eligibility for military service urged as a condition or qualification for man's suffrage. There is no nation on earth where a man is allowed to vote because he can fight, or where he is not allowed to vote because he cannot fight. The mere proposition to subject voting men to such a test or definition would produce a popular outcry about milltary despotism from the very men now urging the test against women. Yet the only possible excuse or pretext for such a test belonged to the military past, when war was often the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1038,4068,565,703"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "resuiar and almost the chief business of nmations. It has no relevancy what ever to the present, when war has long ceased to be that. No contingency is conceivable when even a tithe of our able-bodied youns men would be required for national defence. If. ever such exigencies should arise as once arcse at Harlem and Leyden, we have no doubt that the women in the besieged cities of America would do their part as “manfully\" as those women in Holland.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1613,305,575,490"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I have said that no man ever escaped military service because he was not a voter, or was allowed to vote because he was a soldier. I wonder how many of our people know how many of our soldiers in the Civil War were voters? Out of less than three millions who enlisted, more than two millions were not twenty-one years old; there were about 600,000 voters. The millions were literally “boys\" in blue.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1618,799,570,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By curious and rather srateful irony, at this very time when we are hearing that wemen should not vote because they are not sood fighters, along comes Rudyard Kipling with probably the worst of his many bad pieces of doggerel, proclaiming that the trouble with woman is that she is so many kinds of a fighter, and such a dangerous fighter. “The female is more deadly than the male.\" So the Kilkenny cats may be left to fight it out and destroy each other, while rational men and women go on together in the patient and confident work of organizing the world upon a rational basis, which is not the basis of battle or the barracks.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1618,1242,569,666"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Edwin D. Mead.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1900,1914,253,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ZONA GALE ANSWERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1656,1988,496,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "To the many people who are sure equal suffrage is coming, and who make no effort to help bring it about Zona Gale, author of Friendship Vil lage, responds “But they say Democracy is com ing. Why do we need to agonize and glory in the work of bringing it? Why so hot, little man? I have a friend who knows. She says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1622,2070,557,374"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "““Whenever I see a good change come sticking up its head, I always think: “Well, you're a nice new change and I can see you're comin' along all right. I guess T'll go and sit down and rest till you get here. But as soon as I do, somethin' in me just prances to pitch in and help, and the first thing I know I've sot my brocm to work brushin' away the dirt in front of the nice new change. And what I want to know is this: If the world can work this all out by itself, why was I born with two arms to me? And what's folks for?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1617,2444,567,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE ABOLITION OF CHILD LABOR",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1620,3057,556,83"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Mrs. Florence Kelley",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1716,3175,366,38"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The federal government has recently published two illuminating little volumes, one on Juvenile Delinquency and its Relation to Employment, and the other on Conditions under which Children leave School. These are Volumes 7 and 8 respectively of the 19 which constitute Senate Document 645 of the Sixty-first Congress, Second Session. The whole report is on the Condition of Women and Child Wage Earners in the United States and is prepared by Charles P. Neill, U. S. Commissioner of Labor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1618,3250,564,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Everone interested in votes for women should own and study these volumes. They are arsenals full of ammunition. The Congress unfortunately limited the edition to 2,000 copies, and some effort is required to obtain them. They are distributed by Senators and Members of Congress. These 19 volumes show that we have in our Republic, in spite of the nationwide agitation during the past twelve years, thousands of children working by day and by night, thousands of boys and girls exposed to the utmost moral danger, all of them deprived of education which is their right.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1617,3769,567,590"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Story is Always the Same In every honest American official publication dealing with child labor, the story is the same. The schools are insufficient or they do not fit the meeds of the children, or the compulsory, attendance requirements are not carried out; the child labor law is not efficiently enforced by local offcials; it does not cover all the industries in the community, or its pro-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=1619,4364,564,406"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "visions are vague and unenforceable. In some States, such as Montana, where there is no temptation to employ in the messenger service as newsboys, the law, passed with little agitation or opposition, is comprehensive, sweeping and drastic, providing that a child shall not be employed under the age of 16 years.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2196,299,577,384"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In States, too, in which women have for a generation or more made a practice of availing themselves of the right to petition, the beginnings of a children's code are increasingly effective. Where, however, in industrially developed States, women have not yet learned to use the method of persuasion and petition, as in the Carolinas, Georgia and Florida, the children pay the penalty of this shirking by their natural protectors and advocates, and there is neither any compulsory education whatsoever, nor any child labor legislation worth the name.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2199,684,577,557"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "South Carolina's Experience In South Carolina, for example, one of the States in which the cotton mills most greedily claim the children, a few men, representing chiefly the National Child Labor Committee, sustained for several years the effort to free the children from work in the mills at any ase, however youns, and throughout the nisht, whenever it pleased the employers to have the mills running at night.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2202,1247,575,446"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the second decade of the 20th century, in this year 1911, South Carolina did, at last, establish 12 years as the age limit below which no girl or boy can legally work in a cotton mill. The cruel provision was abolished under which, up to July 1, 1911, a sgirl of six years legally worked in a eotton mill, because her father had deserted his family, though the desertion was no more serious than his living in the neighboring village, beside the nearest railway station, in constant communication with his family. When, however, this amendment had been made, and the men of South Carolina had established for the native white children of their State a standard two years lower than that which Massachusetts, New York, New Jersey, Pennsylvania and a score of other States set for the protection of their immigrant children, the fruits of all this effort were blighted by a stroke of the pen of Governor Blease, who vetoed the appropriation for factory inspection.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2199,1698,573,1007"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A child labor law without inspection is a sham, confusing to the employees and demoralizing to the employers. No such veto as this of Governor Blease of South Carolina has been resistered by the governor of a State in which women steadily avail themselves of their right to petition and criticise intelligently the actions of legislators and administrative offcers. Least of all could such a veto be registered in a State in which the governor would have to appeal, at the next election, to the mothers and teachers for their votes for his reelection.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2196,2713,569,599"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bad Conditions in New York In New York State, after years of effort, we have at last, fairly well enforced, the five o'clock closing hour for children in factories and mills, and the seven o'clock closing hour, and nine hours working day for children employed in stores. This applies to children between 14 and 16 years of age, and is the result of the patient joint efforts of men and women for many years.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2198,3320,566,445"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the light of the new federal report, however, this, too, is seen to be sadly insufficient, for according to the report the work of errand boys is morally the most dangerous of all occupations. The children, without constant supervision, by the very nature of their work, yield to the temptation to steal, and their characteristic delinquency is larceny. Yet in New York our legislators perversely put a premium upon this highly undesirable occupation by allowing retail merchants to employ children at any time between 7 a. m. and 7 p. m., a period of 12 hours, while the working day of children in factories and workshops is wisely limited to the nine hours period between 8 a. m. and 5 p. m., with an hour for luncheon. A second premium is placed upon the employment of boys in this occupation by letting merchants keep them at work nine hours in the day and fifty-four hours in the week, in contrast to the shorter working hours enforced against manufacturers.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2193,3771,572,996"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the light of this new federal report, the employment of boys in this work must obviously be discouraged. at least, before the sixteenth birthday. Nothing discourases the employment of children so effectively as shortening their working day, and the lons. slow, country-wide effort for the eight hours day for all working children will be sreatly strengthened by the new supply of official data.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2783,302,575,417"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "When we try to prevent children from working by shortening their working day and by raising the age at which they may begin to work, we can succeed only in proportion as we keep them in schools which meet their needs and promise them a future reward in the form of increased effclency.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2788,722,573,337"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Magistrates Encourage Law-Breaking Half-time school attendance seems to an eager boy or girl a most unconvincing substitute for the chance to earn a little money, and half-time gives rise to illegal work and truancy as naturally as truancy to delinquency and crime. When boys demoralized by half-time school attendance and much consequent street life, are found at work as truants peddling without licenses or selling papers without wearing badsges, or blacking boots below the legal age, they are by some magistrates encouraged in their law breaking. It is a common complaint in the poorer districts that some magistrates, both the elected and the appointed ones, fine widows or take their children away and send them to institutions when the children are charged with these offences. Voting fathers, on the other hand, are said to be treated by the same masgistrates with conspicuous leniency, though their children are suilty of the same offences. Such experiences are confusing te the moral sense of everyone concerned.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2785,2000,575,1085"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "child-Labor Law Nullified by the Courts It is, however, not merely by its failure to provide schools and teachers, and by the injustice of the masgistrates, that the exclusively man-made government of New York contributes to maintain the evils of child labor. Iin the decision of the Court of Appeals (the highest court in the State, an elective court), in the Jacobs case, it was held to be contrary to the constitution of the United States to enact a law forbidding manufacture in tenement houses. In consequence of that anti-social judicial decision, thousands of dwellings have been, for nearly a quarter of a century, invaded by manufacture. In them children work whenever they are out of schoel. Many little children work in the tenements before they are old enough to go to school. Manufacturers who, under the child labor law, could not employ children in factories or workshops, are enabled, by that decision of an elective court, to send work into the child's home and employ it there, while only the name of the mother, father or adult brother or sister appears upon the payrol. In some trades, such as willowing feathers and making flowers, the older workers cannot get work unless there are cheap children available for home-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2781,3089,576,1299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "di dr kn an B ter sh by ex su ris ma ed the its Bu",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=3669,3387,45,660"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women have no more weight with the State judiciary in New York than with the city school authorities. The judges are elected by men, for very long terms, and are personally unknown, even by name, to most of the otherwise intelligent women in the State. They are, of course, utterly beyond the reach of petition and persuasion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p2#xywh=2781,4395,569,370"
+  }
+ ]
+}

@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "214",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=286,166,90,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "more it effectuslly brings the subject before the people, for mo other topic is disoussed on the street, or in the parior to-day, but Womsn's Rights. The visits of Mrs. Stanton and Miss Anthony to Decatur bave done much to remove from the minds of our peopie a deep seated prejudice aguinst women as public speakers. The gross proceeds of the lecture smounted to $104.50, of which Miss A. accepted only $50. . Decatur, March 24th.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=262,252,560,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BUFFALO AND ERIE COUNTY.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=333,647,420,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz Buffalo Courier contains a report of the first semi-annual meeting of the Erie County Woman Sufirage Association, beld last week in that city. The meeting was called to order by the President, Miss E. K. Baker, and' safter the minutes of the previous meeting had boen read and approved, the Premdent delyvered one of the most interesting sddresses that bas emanated from a source o quiet and private, in a long time. Buffalo need hardly import advocates and champions for the woman cause with the like of Miss Baker constantly among them. Nor should she be willing to limit her sphere of operations to Buffalo, nor yet to Erie County. The truths she uttered in her address, should be beard all through western New York. Perbaps she does diverge far and wide, if not, she should. Sentiments like the following are not to be lost on her own single, city though Buffalo were bigger than Babylon",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=260,715,555,636"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Foeling how just, how fraught with good to all humanity, will be the triumph of the cause in which we work, we enter upon our secon year with cheerful hearts and high bopes. Were our labors suspended to-day, we should feol that our organization had not existed in vam. But its permanency will be measured only by the fiying wheel of progress. We are enlisted for the whole war, and not till New York has followed the example of Wyoming oan we suspend our exertions. Meanwhile, how bas this ideas for which we stand combined, progressed in the great world about us?It has been a year of unusual activity. With such rapid strides has the movement gone on that it seoms impossible to keep pace with it One can scarcely take up s paper that does not re cord some achievemant of woman in avenues bitherto unexplored by ber, or perhaps some college bak repealed the ordinance by which its benefits were conferred upon men alone; or suf. rage has been yielded. Every pro ession is in a state of siege. As physicians, women are no longer a subject of wonder; many are becoming ministors, some lawyers. They bhave dared to enter Wall street, and the world generally is reconciling itself to this state of things as it aiways does to the inevitable. The most active wmeasuros have been taken throughout the Unitod States to secure the ballo. Two bs. tional associationsone having its headquarters in New York, the other in Boston, are in active oporstion. New Engiand i wide awake so are the groat west and the Pacifie coast. Conven.ionn everywhere. Wyoming has takeon the initistive in giving the baliot to woman. Utab has followed. Many of the state legisiatures havs given s hoaring to the subject The nationst convention, during its lst sting in Washington, received a most respectiul hearing before the district sommittoe of the House and Sonste while sking for suffrage for women in the district of Columbis. In some atates women sre voting upon educationsl mat-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=255,1359,557,1403"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ters, orving on bool committers, or boiding politioal offices. Bills are in the United States Senate and House asking for s Sixteenth Amendment. In England there has been grest activity, Women now vote in all municipel elections. The bill is in Partisment asking for the full franchise for women. England's profoundest thinker, John Stuart Mill. has pubhsbed his most valusble work upon the oondition of women past and present",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=844,162,560,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On the continent. Prance and Germany sre moving in the same direction of reform. and the Emperor of Russia is regarding the ides with interest. It is as yet true that \"whst men have gained by our professedly democratic institutions, women have lost.\" A question which is seeking soluton from the best minds of the age cannot be set aside with lsughter and soorn. The agitation begun in earnest some twenty years ago by a' mere handful has gaimed in power tll it coufronts us everywhere. It is in vain that the Todds, and Fuiltons and Bushmells raise their puny protest. Not an ob ection have thay brought forward that has not been entirely refuted. THE socnL EwHL.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=842,576,559,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the face of the sttempts recently made in Ohio to legalize this most terrible phase of cur social life, and the exposure of the English laws (most hideous) relative to the same subject, I cannot understand how women can content themselves with simply building bomes for the victims of man's guilt, and not take active measures to produce a stste of society which shall render such benevolent institutions unnocessary. The cure of this great evil must come through woman. It is for her to create a public sentiment which shall draw its bues as closely about the lives of men ss they are now drawn sbout women. This public sentiment can be felt in all its power ouly when woman is the acknowledged equal, social and political, of mwan.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=835,1094,561,543"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "To still another way can women do service. by forwarding all the efforts which are being made to procure for women bonorable employment and independence, with adequate compensation for their labor. That philanthropy is the moblest, which, by creating opportunity removes temptation We all know what the early days of Californis and Austrahs were, while men e there alone. How quickly for the better everything was changed when women went there ?They did mot write books nor invent machimery, vet with them came. in a measure, order and de cency.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=834,1644,559,451"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Call womanweakness, beauty,\"a sen- Gment,\" by whatever fautastic name you plonse. with ber comes that subtie influence without which all is chaos. Man's bossted sttributes. his glorious powers, sink. into brutatity, tf he is 1of alone. What bas been made of thoe departments of life from which woman has been exciuded? What of politios? According to your own showing, a filthy poot. Dr. Busbrell in his book agninst Women's Suge. taos o casion to mention the very benefioial infiuences resulting from the education of the sexes to. gethor Will be, or any other porson, toll us at whet age this good infiuence of our e over the other conson 1 is good in the family, at i go i he oo be for blessing in every-department of life.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=831,2098,561,534"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The whole sddress was worthy s place i those eolume 1 tho omgt pr At he clo of the Prosidents aar. Mi Boeman, advisory counse for the eighth ju dic",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=831,2637,557,126"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "district, resd report, in which she showet that a vigorous canvas. of thet distriot, comprising eight counties. had been mode, and the following persons wers found and sappointed woe-presidents for thew respetive counties: Mrs. S. L. Cushing for Nisgms County Mm. E. E Cisrke, for Exie County Mrs. Amelis Wilerd for Alegany County Miss E. J. Pest, for Cettarsugus Counts Mrs. Lyman C. Howe, for Chautsnqus County",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1422,251,564,349"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Through correspondence with these offoers. Miss Beeman sdds, I have been brought imto commumicstion with many esrnest a3voonte whose enoouraging words and acts heve contirbuted no small impetus to the csune pow meet mg with such eminent success. Many thronghout these connties have idenfied themsel ves with the work by sending in the fee and thew names for bership to the state associstion while names bave been sdded to the book of record, disproving the assertion of the opposers of the movement that the women do not want the ballot. Petitions from the varrous counties were sent up to Wasbmgton st the time of the iste convention, and one from Erie County slone with ower 700 signstures.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1421,603,560,538"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "forrign Correspoundienct.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1461,1185,478,56"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LTTE 1A Mawon. Marh. 1870. ONTHLY JOURNAL OF THE MANORETE FATIONA SOCIETY FOR WONAN'S SUFFRAGE.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1426,1283,555,134"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 FoRwARD you the first pumber of this publication. It is edited by Miss Beoker. the Secretary of the Society, who, i ber itroduotory Remarks, ofiers the right band of fenowsbip to every isolated worker in the osuse. After announcin that the second rending of the bil to Remove the Electoral Dissbilines of Women. now before Parhsment, is fixed for the fourt of May, the aitor points ot the impor o petitions, quotimg Mr. Disracl's aertion. when Chancellor of the Exchequer, thet. Opimions expressed in petstions hed grest ifinence on the judgment of the Bouse The Jowrnol will comtain record of the potitions presented. Sinoe the, opening of the present sesmon of Parhiament, ap to the 1 o Marh the mumber of petitions presented in favor of Womans Suffrage sixty. boaring 90.166 signatul. Bomdes recording the progres of the question in Parliment the Jowrn will give n ooount of metings nd lor turon. prospective potes of moting presmonsof opiion in Prment wd where, the aparit of the pross. correpomaenon. and original artcio avoog righte",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1416,1425,565,832"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MEET On Jonwary 1765 p meting w e Edinbungh, in twor of coni of land or hounes in the o gtThe was filled to overfiowing. conmarl po of the. i M of Pat belonging e Uner p C bied i the Gu. . F. W. Newmon give an are o e menty S On 4o F p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p6#xywh=1411,2272,562,503"
+  }
+ ]
+}

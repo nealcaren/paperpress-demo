@@ -1,0 +1,249 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p13.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of the most costly as well as the poorest houses, yet they bave not seemed to think of the remedy in providing better demgns and calling public attention to them. REAL EstATE AORNs offer another excellent field for the sctvity of women. It is a quiet, nice business, in which a lndy would bave bttle to do but sit in bex office and receive clients, boys being employed, as they are mow by men, to colleot rents, show dwellings, ete. A nice office, comfortably furnished, with s sensible, well-informed woman at the head of it, would be an immense attraction in cities like New York where women do so much of the housc-hunting.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=166,231,564,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is a subject, moreover, upon which women necossarily know more than men, and should knmow. They can see at a glance if they are good for anything, if a house is habitable, well adapted to family needs and family comfort, and they can presont the points in the clearest and most attracrive form.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=168,715,560,220"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There are a thousand things for women to do besides making shirts and night-caps, though these are much better than doing nothing; but the point is that they must do them. The entire advertisimg agency business ought to be in their hands, and when they have got some money to put in it they will want a bank—a woman's savings bank—the president, directors and employees all women. They will also want a Woman's Life Insurance Copany, but not antil they have a vote, and their lives are worth insuring.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=166,938,563,384"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Why WoMEN WANT A VorE.—A short time since a man named Wetton obtained a decree of divorce from his wite, which she endeavored to have set sside on the ground that it was fraudulently obtaimed. No investigation could be obtained, bowever. The Judge sustained the man and turned the woman ont of court. A few days afterwards the man married agnin, the second wife mot beig as well suited as she expected, and hearing of the divorce, of which it seems she had beon ignorant, set a lawyer to work to find out the resl facts in the case. and so triumphently proved fraud in regard to the first wife, that ahe got her own divorce without any trouble.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=165,1335,563,474"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "But in what position is the first wife? Who is to compensate ber for the injury she has sustamed ? Would the Judge have dared to turn her out, and refuse to listen to her if she had a vote ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=164,1816,563,159"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A WowmaN AGAnsT SUFFRAGE.—A Miss Mand Ernest lecturod the other evening in the ball of De Garmo's building against Woman Suffage, and made a termble mess of it. The young indy, who is quite youns, with a sandy complexion and light ourls. smd, no woman ought to vote or to lecture; and oertainly she proved herself an excellent argument in support of her own proposition. There were forty-five persons present, most of them women, and they all hung the heads and wishes they were efer mot women or else that Miss Ernest bad socepted hor own ststoments and staid at bome. We are told that Woman's Rights leoturers are mot popular, but somehow or other they manage to araw orowds, and win the respect and considoration of the most intelligent men, while, on the opposite side, with perhaps a single e coption. mo argument bas been presented which even friends could consider respectable",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=164,1991,562,637"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AEroa Wonns AnTiwTe.—The English Art Journal in an seoount of the \"Studion of Roms,\" mentions those of American women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=164,2651,562,95"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h ti artists, and says they will richly repay s visit Among thom wre Mrs. Freeman, well known for her jolly and too attrective Baocbus,” and ber “Chersb, which any mother's beart would delight in. Miss Fotey. who is now eugaged upon charming group. foll of ma ture and simplicity, and bas, in 44i tion to ber grand medsllion besd of Jeremish.\" pretty, denonte eond of \"Undine,\" with water lillies in ber hawr",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=746,140,564,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mine Eamonis Lowis sttracts atttion for e bust of “Longie ow.\" a fine and troe leness of the grest poet, who gave the artist only three sittings. Queen among ber artisuc sisters. Mi Howmer. is now modeng cy o of the two Siciies. The tomb of an Ameriosn Ledy.\" Mrs. Lochwortp, is another of Miss Hoamer's recent works, and is copy. somewhst modied, of the ome executed by Reuch for Queon Louise at Beriin Mr. Loch worth had seen it and expressed a wish for one nesrly ke it, which ber friends gratined. Miss Bosmer bas also on the clay s besutitul modei for an English freplace.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=749,462,564,340"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrss MARwEDEL' HORTICULTAL SOmOo FO Wo- MEN.—Miss Anns Marwedel, formerly Princips of the School of Industry for Giris st Hamburs. Germeny, latd before the Farmsr's Club recenty her plan 1or estabiibing s Hortoultursl Sonool for Femsles in this country She has an offor from Mr. Robert W. Pearsall. of Osta5d Farm, Brentwood Sistion, L. L.. of some twenty scres of land, includins a oottage, farm bouss. and barn. and she now meeds only five thoussnd donars to enable ber to at omoe commence the school, fer plan is to combine theoretioal and practical instruction in horticulture with educstion for tamily mfe; or, in briet. to open snother svenue for female employmeont. She offors shares in ber project st five dotlars esch in order to raise the mecessary sum, unless some good, enterpriz ing man or woman will give it out and out.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=748,815,564,422"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TH BosTor HoRTICULTURAL SOmOOL.—The Boston Horticultural School for Women has been orgenined by the choice of the following offioers President, Miss Abbie W. May; Vice-Presidents, Mrs. Augustus Hemenway. Mrs. J. Ellerton Lodge. Hon. Marsball P. Wider Socretary, Miss L. M. Pesbody. Tressurer, Edward w Booper, Directors, Mrs. E. D. Cheney, Mr. Prancis Parkman, and twenty two others, isdies and geniemen A LaApy PRINTER.—On Saturday might the Printors Typosraphicsl Union of Philsdeiphis samitted to mom bership, Miss Loretts Maun, a lady who was formerly the Secretary of the Memphis Printers' Union, from which society she boid a certificate of mombership. The lady is mow regularly engaed in an offoe in thet city This case is the first in the country where s woman bas been admitted into a unmion composed of m en, In this city the women bave a separste union of their own, which is, however, subordimsie to the Nstional Typographios Union.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=747,1251,568,513"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WrzLL DowR.—Miss Alice Conkey, of Appleton, Wi has been appointed Professor of Matbemstios in the N. W. Female College at Evanstown, Hlinois. THE Brsy BoTAw.—Mrs T H Keecker, M.D.. of Cincinnats, is the best temsle botanist in the counery. Her collection of proserved plants is wondor o bold. How WonEs Cowpuct Sonoos.—The fomsle evening school at Newburyport, ., con is 7y teachers, is doing well. There are pesrly eghty popi. ANoTE Wonss Lw— . o. Brookiyn. NY.. student t the Louis Lw Soboo has passnd very severe sasminsion i that oity. betore Juage Knignt, of te Circust Oourt, d o aamined to practice A VETERA THACHE—R Mrs Joromish Porter Fomming foor scool in Brownevie. Ten. ty, te only Protestant schools in the Rio Orenae Vlley Mre Porter i etwe",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=744,1777,571,583"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OF Swon Kiwoo T overy member, male and femste, in good wiansing. present 5t any busin meting, sh be",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=745,2369,561,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Boows Cony Convo.—There will be Woman Boffrge meeting in Bimampton. New York, commencing st two o'ioh in the noon of Wednesday the thirsnth mant fr the orgnintion of County Convion. The Onll is signed by Ldis A. Jonhins, viopre dent.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=744,2520,561,225"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "221",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1777,145,84,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MES STANTONS LECTURES.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1410,232,396,33"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Duo the month of March Mrs. Stamion delivored loctures before large sudienoes t Wabssh, Crawfordeville, snd Indismapolis Indians st Peoria, in Dot Jnie. im Wisoonsin; st Decorst snd McOregor in iows andat Minnepol. Hastimgs. St. Pau, Stllwster and St. Cioud, in Mimnesots, snd st two or three other plsces Mrs. Stanton's engagements for April. so far as ascertained, are as foflows",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1331,305,557,323"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Esriville, Timion. Aprnl Se St. Joseph. Michigen I12th. Jackson. 13. Toledo, Omo i Tifn. 18th. Psr 0. Uniontown. ist Fredonis. n. m4. Easton, Pa. a. MISS ANTHONY IN MICHIG AN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1346,635,529,476"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrss AXTHONY bas engagements siready in Michigan folowe Scarg Api Jonesville, Hillsdae 7 Adrian, Jackson, Marshall, 13 Kalameo 13 Owso, 16 Eot Sg 18 Flint, 19",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1337,1146,556,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mas. STAwTON ATTHE Wre —Mrs. Stamton,i still in the Mississippi Valley. 1n s private letter she says she was imvited at St. Ponl to give a lecture on Marriage and Maternity to andience of Women. Six hundred sttended at an admission of ity conts eh Sbe 39. You never sew such interest. ix imvitat o. now lie before me to give hat lecte i many different places. No question. pot ove Saffrage, tonches the community hie thet. although at the east we are constantly to18 thet the bour for such wubpects bes pot come —————————————",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1332,1566,560,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Connmorros—The Kanss 13y whe ar od the smmiversery exercises of Kanss Agricn tursl College in lste REvoTon. winhos to matician whe ever aen ded h im o a lody n tht the oro e amniversary she reported. were originet",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1329,1988,561,220"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HraAnTs aAxp Hown—The wumber asted Apri th is eminony preco, meny iporant topos i e. and domestie eonomy. It has some wm bint throw y o o oreene the conort of rg ret . Pt s it is the oh d ot the omort d venienoe of the patron o the pais e, sireedy been poured inte th the ity pross i oo pp Bo and Rome may woll hol p hough t ao e M A ony S i og tt the oT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p13#xywh=1326,2257,562,479"
+  }
+ ]
+}

@@ -1,0 +1,502 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/text/p4.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "52",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=492,225,64,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=500,315,926,130"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LUCY STONE and HENRY B. BLACKWELL A Weekly Newspaper Devoted to Winning Equal Rights and especially to Winning Equal Suffrage for Women. MISS ALICE STONE BLACKWELL 3 MONADNOCK STREET, DORCHESTER, MASS Contributing Editors MISS MARY JOHNSTON MRS. IDA H. HARPER MISS ELLIS MEREDITH REV. CAROLINE BARTLETT CRANE MRS. MABEL CRAFT DEERING Office - 585 Boylston Street, Boston, Mass. Telephone, Back Bay 4717 NEW YORK office National Suffrage Headquarters, 505 Fifth Ave. NATIONAL AMERICAN WOMAN SUFFRAGE ASSOCIATION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=487,444,954,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "505 Fifth Avenue, New York City. ANNA HOWARD SHAW, President, Moylan, Pa. JANE ADDAMS, ist Vice-President, Hull House, Chicago, Ills. SOPHONISBA P. BRECKINRIDGE, 2nd Vice President, Greon Hall, University of Chicago, Ills. MARY WARE DENNETT, Corresponding Secretary. 505 Fifth Avenue, New York. SUSAN W. FITZGERALD, Recording Secretary, 585 Boyliston Street, Boston, Mass. JESSIE ASHLEY, Treasurer, 506 Firth Avenue, New York. HARRIET BURTON LAIDLAW, 2nd Auditor, 6 East 66th Street, New York. ALICE STONE BLACKWELL, Editor of “The Woman's Journal,\" Monadnock Street, Dorchester, Mass. SATURDAY, FEBRUARY 17, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=506,1052,914,537"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SATURDAY, FEBRUARY 17, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=637,1545,672,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "————— Entered at the post-office, Boston, Massachusets, as second class maner SUBSCRIPTION . . $1.00 Six Months . .50 Four Months on Trial . . . . Single Copies . . 05 Canadian or Foreign: One Year . . 1.50 On sale at Brentano's, New York City; also on news-stands in York, Boston and elsewhere. RECEIPT of payment must not be expected to show on address label d two weeks from date received. Instructions for RENEWAL DISCONTINUANCE or CHANGE OF ADDRESS should be sent two eoe the date they are to go into effect. Both old and new s lways De given. r Dusiness letters mould be addressed to the office of The Woman's Journal585 Boyiston Street, Boston, Mass. Registered letters or express company's money orders may be sent at our risk. Money sent et o ot e istered will be at the risk of the sender. Checks and drafts and post-office orders should be made payable to The Woman's Journal. Advertising rates will be sent upon application to advertising manager. New York Advertising Representative, M. D. Bryant & Co., Inc., 200 Fifth Avenue, New York City. Business Manager, AGNES E. RYAN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=484,1592,968,780"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LINCOLN DAY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=834,2412,295,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "This week Lincoln's birthday has been celebrated from sea to sea. Among the hundreds of celebrations, probably not one in twenty took note of the fact that Lincoln was the first prominent public man in America to come out in favor of votes for women. He was the precursor of all the Men's Leagues; and that particular leaf in his crown of laurel will srow brighter and brighter as the years go by. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=490,2493,957,265"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE BRITISH CABINET CRISIS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=642,2803,643,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A very curious situation has arisen in England, srowing out of the strength of the suffrage agitation and the obstinacy of the Prime Minister. It recalls the old conundrum as to what would happen if an immovable obstacle should be struck by an irresistible force. Just now it looks as though the unwillingness of Mr. Asquith to srant justice to women might bring about the downfall of the Liberal party. English papers abound in prophecies to this effect. It is interesting to see that in England the woman suffrage movement has grown so formidable as to be thought capable of overthrowing the sreat party now in power. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=488,2884,956,414"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A BAD RECORD",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=792,3343,345,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Liberal party has put through several reforms of high importance during the past few years, and its general program is one with which all Americans ought to sympathize. The weak point has been the Cabinet's attitude on votes for women. On this question its record has been abominably bad. Up to about a year ago it flatly refused to grant time for the House of Commons to put through a suffrage bill. Asain and again the bill passed its second reading by large majorities, but the time for third reading was denied. The women who protested were sent to prison by hundreds, and treated with such brutality that the public indignation began to cost the Liberal party many votes. Herbert Gladstone, as Home Secretary, was held chiefly responsible for carrying out the Cabinet's policy toward the suffragette prisoners. To save the Cabinet's face he was finally appointed Governor of South Africa and shipped off to make room for another Home Secretary, who introduced methods less savage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=481,3430,960,645"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The two members of the Cabinet mainly responsible for blocking woman suffrage have been Asquith and Lloyd-George. The Prime Minister is a bigoted opponent of votes for women in any form. Lioyd-George is a zealous party man, who believes in woman suffrage, but would rather delay it indefinitely than have it come in a form which would not bring a distinct party advantage to the Liberals.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=479,4079,954,263"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At last, about a year aso, Mr. Asquith promised that this year the Cabinet would srant time for the “Conciliation Bill\" to go through all its stages in the House of Commons. This bill had been drawn up by a “Conciliation Committee\" of 60 members of Parliament, belonging to all parties, as a measere that would not sive advantage to any party, but would be fair to all. It proposed to enfranchise the women “householders\" who had had the municipal vote for 40 years. A careful mvestigation by the Independent Labor Party had shown that 82 per cent. of them were women of the working class. The great majority of the suffrasists of all parties in Parliament were willing to accept this measure as a fair compromise. It passed its second reading",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=475,4344,954,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AL by a huse majority, in spite of the most earnest efforts of Lloyd- The George to persuade the Liberals to vote against it, on the ground that the —————that it was a Tory measure in disgulse. Evidently the House did and send nmot think so, for the Tories save a majority vote agaimst the Cabinet in bill, while the Liberals save a large majority in its favor, and ture entit the Labor members voted for it almost unanimously (32 to 2). Liloyd-Geo. Out of the 670 members of the House only 84 voted against ment\" and the bill, though the “Antis\" had tried to muster every possible their fists supporter. Still the Cabinet refused to srant time for the with fissu measure to go to third reading and final vote. Thesw A. S. B. about Pri",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1301,217,1289,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THREE POSSIBLE AMENDMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1606,778,675,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "When Asquith at last promised to srant time for the Concillation Bill to go to third readins, militancy stopped. But a few months ago he astounded everybody by announcing that he was goins to introduce a bill providing for manhood suffrage and wiping out plural voting and an vestiges of a property qualification. From our American point of view, they ought to be wiped out, of course; but in England the proposal for manhood suffrage is looked upon as ultra-radical. All the newspapers pointed out that there had as yet been hardly any public demand for it, and mo “mandate\" from the voters. All the Suffrage Associations, the non-militant as well as the militant, with one voice declared it to be an outrage to leave the women out when introducing a general bill to remodel the franchise. They were especially disgusted because the violent party passions aroused over the manhood suffrage proposal would render impossible the passage of the non-party measure which had been arranged with so much labor and care. As Lloyd-Georse boasted, it had “torpedoed\" the Conciliation Bill.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1462,866,963,695"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Headed by Mrs. Millicent Garrett Fawcett, a deputation representing all the suffrage societies waited upon Mr. Asquith, and he received them—thoush only two or three years ago he obstinately refused to meet any deputation of suffragists, and let many of the same women stand at the sate for upwards of 10,000 hours rather than allow them to interview him for ten minutes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1463,1564,963,267"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The women had insisted that Lloyd-George should be present on this occasion as well as Mr. Asquith, many of them regarding Lloyd-George as the real power behind the throne; and he came, “looking as cross as a bear,\" according to a member of the deputation. Mrs. Fawcett and the other ladies urged that women should be included in the government bill. This was refused; but Mr. Asquith promised that the House should be left free to add a woman suffrage amendment, and that, if such an amendment were added, the Cabinet would accept it as an integral part of the bill, and would fight for it against the House of Lords if necessary. Lloyd-George promised to do his best to carry an amendment for woman suffrage “on broad democratic lines,\" and also to make an educational campaign for it before the country.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1464,1833,961,537"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "All the Suffrage Associations except the W. S. P. U. (Mrs. Pankhurst's society) decided to concentrate their efforts on getting an amendment added to the bill. Lord Lytton, the chairman of the Conciliation Committee, and Mr. Brailstord, its secretary, expressed good hopes that it could be done. The intention was to introduce first an amendment to sive full suffrage to all women—this everyone knew could not pass—and next the “Norwegian amendment,\" i. e., one siving votes to the wives of all men who were qualified voters, as in Norway—and finally, if this failed, one siving votes to women householders, along the lines of the Conciliation Bill. The second amendment was the one understood to be favored by Lloyd-George, as it would give votes to the wives of workingmen.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1462,2373,959,492"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The W. S. P. U. declared that Lloyd-George could not carry the Norwegian amendment if he tried, and they did not believe he really meant to try. They said he and Mr. Asquith would simply engage in a sham figsht over this amendment, in order to throw dust in the women's eyes, with a private understanding that it was not to pass. They resumed militant tactics, declaring that it would be impossible for the members of the Cabinet to go on publicly contending against each other over the suffrage question, when it was unwritten law that in public the Cabinet ministers must stand together. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1463,2868,954,382"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NEMESIS OF LIBERALISM",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1613,3294,669,46"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We have hoped that the W. S. P. U. might prove to be mistaken as to Lloyd-George's insincerity. True, he had shown much bitterness and unfairness toward those who were pressing for women's early enfranchisement—a measure that he avowedly wanted to put off till after the disestablisnment of the Episcopal Church in Wales. He had repeatedly denounced as “hirelings\" the chivalrous youns men—largely college students— who went to heckle him at his meetings, without a penny of pay. When he was making a speech urging the women to wait, and an elderly woman rose and reminded him that they had already waited forty years, he answered, “You look it.\" But all this rudeness might have been compatible with honesty of general intention. It is now reported, however, from “semi-ofcial sources,\" that all the pledges to the women are to be thrown overboard.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1457,3374,956,574"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "First it was said that the question might be submitted to a referendum of the electors. But the Liberal party was definitely committed against submitting anything to a referendum, and if they did it in the case of woman suffrage, they feared it might be a precedent. The idea of ordering a referendum was considered by the Cabinet and was rejected. But something had to be done, for the British public was scandalized by what it looked upon as the indecent spectacle of Cabinet ministers taking the stump on opposite sides. The decision reached, according to the “semi-official sources,\" was that the Cabinet ministers should keep the few engagements they had already made to speak on woman suffrage, but should make no more, and that Lloyd-George should give up the promised educational campaign, and unite with the other ministers in a conspiracy of silence. Instead of bringing in a manhood suffrage bill which could be amended to include women, Mr. Asquith, it is said, will bring in a bill to abolish plural voting—a measure to which no woman suffrage amendment can be added—and the whole subject of votes for women will once more be postponed indefinitely. If these reports prove true, the government will stand, as the Liberal Daily News says, “naked of honor;\" and militaney will become active again all through Great Britain.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=1448,3953,960,840"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Torles are filled with unholy glee at the prospect that the disagreements over this question may turn the scale and send the Liberals out of power. Punch is ridiculing the Cabinet in cartoons, and the Pall Mall Gazette publishes a picture entitled “Falling Out Before Falling In.\" It represents Lloyd-George with a heavy basket labelled “Welsh Disestablishment\" and Asquith with another labelled “Home Rule,\" shaking their fists at each other while they stand on thin ioce cracked with fissures marked “Female Suffrage.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2439,307,965,347"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "M Yorl “ othe Bart and Mast beca only mor from",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3657,560,66,433"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Theswhole situation recalls George Macdonald's weird ballad about Prince Breachan and the whirlpool of Corrievrekan. A Danish prince asks the King of the Western Isles for his daughter's hand. The father bids him first prove himself a sea king by anchoring his ship in the whirlpool for three days and nights. The prince applies to the “wise women\" for a charm whereby he may do it. They tell him to prepare three iron anchors forged on Christmas Eve, and three cables:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2440,658,965,315"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Take a cable of hemp, and a cable of wool, And a cable of maidens' hair,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2577,965,686,77"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "that the such not Som in Th cont Mrs. nals, alonsg cne",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3651,1010,72,421"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And hie thee back to the roaring pool, And anchor in safety there.\" All the maidens are asked to sgive their hair, and amons them comes a golden-haired girl whom Prince Breachan had deceived and deserted. During his first night in the whirlpool the cable of wool breaks, and during the second night, the cable of hemp; but the cable of hair holds out, and the prince blesses the maidens of Denmark. The third night is dark with storm. The ship swings around and around the whirlpool. The prince keeps his anxious eyes fixed on the cable, which is twisted of three strands, one made from the black locks, one from the brown, and one from the golden—and he sees that the golden strand is giving way.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2443,1044,962,501"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Th occas Drove and need",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3649,1442,74,186"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The third morn, cool and clear, looked out— Nor man nor ship was there! For the golden strand in the cable stout Was not all of maidens' hair.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2562,1549,727,152"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As wom New and two",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3648,1638,75,185"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The wronged and sacrificed woman has been the rotten strand in the anchor-rope that has caused many srand schemes and magnificent civilizations to drift to destruction. If the illiberal streak in the Liberal Cabinet leads to the wreck of the Liberal party, history will only be repeatins itself. We are not concerned about votes for women—the women in England are sure to get the franchise, if not from one party, then from the other—but it will be a shame if the Tories reap the honor and advantage of what ousht to be a Liberal measure par excellence. There is talk of Asquith yielding his place as Prime Minister to Lloyd-George, since he cannot yield up his opposition to equal rights for women. That would be a better solution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2444,1704,960,500"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Meanwhile arrangements have been made for three monster meetings, the first by the advocates of universal suffrage for men and women; the second by those who believe in getting all they can, to be addressed by Lloyd-Georse, Sir Edward Grey, and representatives of the National Union (the non-militant suffragists) and the Women's Freedom League; and a third by the anti-suffragists, where some anti members of the Cabinet will speak. To this last meeting only anti-suffrasists are to be admitted. The whole situation is curious and excitins, and developments will be awaited with much interest. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2441,2204,962,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "IS WOMAN SUFFRAGE IMPORTANT?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2549,2661,743,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Col. Roosevelt says that he believes in woman suffrage, but that he considers it of small importance. If he realized how important all the vicious interests consider it to defeat woman suffrage and how they pour out money for that purpose like water, he might find in this a practical reason for believing that woman suffrage is a matter of some moment. Mrs. Zerelda G. Wallace said it grieved her to see how much more faith bad men had than good men that the majority of women could be counted upon to vote for righteousness. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2435,2748,965,342"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The by a pened worki womay brutal childr the el to sen the po the in what knmown all six",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3632,2929,91,502"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE QUESTION OF BAD COMPANY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2532,3138,763,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Col. Roosevelt quotes with approval a remark of Dr. C. W. Saleeby that he finds it needs “constant bracing up of the judsment\" to hold to his faith in equal suffrage in the face of the extreme and objectionable theories advocated by some suffragists. He might get it very well braced by observing the attitude of the solid vice and villany of the nation toward woman suffrage. On which side are all the undesirable classes of men that the Colonel excoriates so severely—those who beat their wives and neglect to support their children, the exploiters of women's labor and of child labor, those who profit by the white slave trade, and the mass of its patrons? There is some bad company to be found on both sides; but by far the largest amount of the country's immorality is in the camp of the antisuffragists.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2430,3223,965,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Duri suffrag water diansht Massa the Fu Womer promin its off tion to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3623,3440,100,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Howe had a much longer and wider experience of suffragists than the Colonel. She often said that one of the pleasures resulting to her from her conversion to the cause was that it brought her into “such high company.\" She had expected to find the men and women working for it wild and objectionable; she found most of them the salt of the earth. There were some undesirables even in the early days, and with the enormous spread of the movement in recent years, all sorts of people have of course been swept into it; yet Mrs. Howe could write in her reply to Mrs. Humphry Ward, in the London Times of Oct. 1, 1908: “In the experience of many years, I have always found the advocates of woman suffrage occupyinsg higher moral ground than that held by their opponents.\"” “We who are gathered here,\" she said at a suffrage convention, “are nmot contemners of marriage, nor neglectors of home and offspring. We are individually allowed to be men and women of sound intellect, of reputable life.\" This has always been true of the great bulk of the suffragists. A. S. B.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2424,3746,965,674"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The en in States, series many Sewall them t thirty propert Associa and the fore th The Wo Judge improve women' time.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3612,3814,111,635"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“How plished public a very created, may first be against and siv",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=3608,4455,115,336"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Is there any man willing to resign his own right to vote, and trust his welfare and his earnings entirely to the votes of others? Suppose any class of men should condescendingly offer to settle for us our capacity or our calling,—to vote for us, to choose our sphere for us,—how ridiculously impertinent we should consider it! Yet few have the good sense to laugh at the consummate impertinence with which every bar-room brawler, every thirdrate scribbler, undertakes to settle the sphere of the Martineaus and the De Stasls!—Wendell Phillips.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-17/canvas/p4#xywh=2416,4462,965,336"
+  }
+ ]
+}

@@ -1,0 +1,678 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p15.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Revolution, PFor 1870.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=217,173,519,98"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ThE REvoLUTION a weekly journal advorst ing Suffrage for women. ELLZABETH CADY STANTON, Editor. PAULINA WRIGHT DAVIS, Cor. Editor. SUSAN B. ANTHONY, Proprietor. TEns Six months. .00 CLUB RATS Ten copies Twenty five copies....50 00",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=164,319,593,505"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CLUB RAT?S Ten copies Twenty five copies50 00 RATES OF ADVERTISING 1insertion.Dcentss line",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,696,548,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1insertion..Dcentss line CASH COMMISSIONS TO AGENTS Those sending us from 23 to 50 subscribers may reta 75 cents per copy ; from 50 to 100, $1 a copy. All communiostions should be directed to SUSAN ANTHONY, 49 East 234 Street, New York.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,864,548,334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Those sending us from 23 to 50 subscribers may retain 75 cents per copy ; from 50 to 100, $1 a copy. All communtostions should be directed to SUSAN B. ANTHONY, 49 East 234 Street, New York. OUR AGENIS.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=193,1051,566,176"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tar following persons have kindly offered to act as agents to receive subscriptions for Tar REvoLUTION Francis Minor, Esq., No. 10 North 4th Street, St. Louss, Mo. Mrs. A. L. Quimby, P. O. Box, 3252, Cincinnat, O. Mrs. Rebecos W. Mott, 256 Oak Street (North side), Chi cago, . Mie Liltie Peckham, Wiscomstn Street, Mwaukes, Wis, Mrs. Mary F. Snow, 319 Kearney Street, San Francisco, Oal. Mary P. Sawtolle, M. D., Salem, Oregon Mrs. Caroline 8 Colby, P. O. Box, 434, Washington, D. C. Miss M. Miller, 1808 Lee Street, Poilsdelphis. Pa. Miss M. A. Thompson, 114 North 11th Sureet, Philadelphis, Pa. ENGLAND. Mrs. Rebecca Moore, Darling Place, Higher Broughton Manchester Eng",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=190,1274,568,578"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MEDICAL COLLEGE OF THE NEW YORK INFIRMARY. No. 198 SooND AVENUR, CORNER STn FTREET, N. Spring term commences April 11th. For sonoune ment and particulars address the o city. DR. EMILY BLACKwLL. M CRANE., KETCHAM & BOWER",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,1861,548,204"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "No. 198 SoonD AVENUR, CORNER STH FTRERT. N. Y Spring term commences April 11th. For sonounce ment and particulars address the on Fecity. DR MLy BLACK L1. CRANF., KETCHAM & BOWER D ESI1O NE RS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=190,1935,567,158"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DESIONE RS aAn ENGRAVERS CN WOO, BROADW AY, SRWw FOSRK.- AnIT CRA. FRAN A. LA . POw 1 NVALID'S HYGEIAN HOME",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,2065,548,214"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BROADW AY, SRWw FOSRK. AnIT CRAn. FRANg KA. LA . POw 1 NVALID'S HYGEITAN HOME. FLORENCE HEIGRTS, N.J. TRA, A Trestment atrictly Hygienie. No medicines, sieohone stimlnts. mor Turkish Paths omployed Send sampe for mew cireulars. Philadeiphis Omes, w28 Chestunt at GREEN SAVINGS BANK, 33 Prosdway, New Yorl Onen every 10 m. o p.Deposits of s sum Conts to Ton Trousand Dotirs wil be reived. i por con Intorest. fre o ovrment Tftret o e e posits commences on the first ot every mon. HENRY SMITH, Presidont",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,2164,562,470"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TRAL, M A Troatment strictly Hygiente. No medicines, sleohone stimu lnts. mor Turkish Haths omployed Send stsmpe for mew circulars. Philadeiphis Ofes, 928 Chestunt at",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=191,2320,562,136"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GREEN SAVINGS BANK, 33 Brosdway, New York Onen every dsy trom 10 m. o p.Deposits of s sum Conts to Ton Tousand Dotr i e v. por co Intret. e o ovrment Ttrt o posits commences on the rst o vry mon HENY MIT, Pr RERVES E. SEL.MES, Neorsiary.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=190,2487,563,168"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TER ROCHE a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,2654,379,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ARD A Vice Presidents. 1y —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=192,2664,548,324"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Eerni R ACT S A N D B O OK S8 T FOR SALE AT THE OFFICE OF",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,80,562,163"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taa A N D B O0 OKX 8 7OR SALE AT THE OFTICH OF THE REVOLUTION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,171,562,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ENFRANCHISEMENT OF WOMEN.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,330,387,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ENFRANCHISEMENT OF WOMES. By Mra John Stusri Mil",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,330,410,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By J bn Stuart Mill, (cloth",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=933,451,279,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Jbn Stnar M, (o 1 aper WOMEN. By Wendel Phiip TION OF WOMES. By Theodore Parker.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=933,451,389,180"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Wendel Phiipe UBLIC FUNCTION OF WOMEN,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=790,539,349,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN'S DUTY TO VOTE. By Henry Ward Beecher. THE OLP PROPERTY LAWS OF NEW YOR (Address before the State Logiia Fob. 14, 1854,) UNTVERSAL SUFFRAGE. Addrens before N Logisisture, 1867. DIVORCE. (N. Y Legistatore. 1961. By Elissbeth Oady Stanton THE MORTALITY OF NATIONS. By Parker Pillsbury. EQUAL RIGHTS FOR WOMEN. (44drees 1n N. Y. State Constitutional Convention, 185 By Geo. Wm. Curtis. RESPONSIBILITIRS OF WOMEN, (Addres the first National Woman's Rights Cony vention, 1850,)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,631,471,488"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE OLP PROPERTY LAWS OF NEW YORK. (Address before the K State Legisla ure Fob. 14, 1854,) UNIVERSAL SUFFRAGE. Addrens before NY Legisisture, 1867,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=777,690,492,138"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ESPONSIBILITIES OF WOMEN, (Address in the first National Woman's Rishts Convenvention, 1850, By Mrs. C.1. B. Nichels WOMAN AND RER WISHES, UGHT WOMEN TO LEARS THE ALPBABET\" By T. W Higginson. NOMAN'S SUFFRAGE, (Speech in the B. 1. Legisiature, 1869,)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=790,1038,532,261"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OUGHT WOMEN TO LEARNS THE ALPHABET By T. W Higginson. WOMAN'S SUFFRAGE, (Speech in the B. 1. Legisiature, 1869,) By Hon. J. W. Stillman",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,1184,500,139"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Bon. J. W. Stullmen. WOMEN'S RIGRT AND THE PUBLIC WEI. FARE. By Ron Geo. T. How. THE LEGAL CONDITION OF WOMES IN MASSACHUSETTS. By Samuel E. Sewall.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,1299,483,194"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Matids Joslyn Gage, WOMAN'S WORK AND WOMAN'S CULTURE. Edited by Josephine E. Butler. COLLEGE, COURT AND MARKET. By Mrs. Caroline H Dall.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=779,1529,486,142"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Mrs. Caroline H Dall UPF BROADWAY AND ITS SEQUEL.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,1648,410,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Virg nis Penny. BOUND COPTRS OF THE REVOLUTION FOR 1888 & 1869.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=781,1767,490,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUSAN B ANTHONY. RwoLo Of. 4 Eat 8 e, M RS. MARY DIXON 3ONES, M.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,1959,523,138"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RvoLo Ofo. 4 Eant 8 re, .",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=866,1992,462,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "4 RYERSON STARET. BROORLN. RA BOOKS, STATIONERY, 3",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,2097,471,141"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BROOKLYN BOOKS, STATIONERY, o. FRANCIS LOUTHEL. Mo La Al kipas of firsciens Account Roo, P onery o, us, proton p moderste prices. 35 Printing. grapbie Work snd Rool Binains of every",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,2142,484,274"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Al inas of firstcias Aceount Rooks, Paper an onry os, u, proo pri modorte prices. 3 Prin. grapbie Work and Bool Binding of every style",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=776,2310,557,102"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HENRY STANTON.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=928,2555,246,30"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HENRY STANTON. TTORNE AN COU A CEDAR STRET. Po, w yor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=832,2555,490,433"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUFFRAGE FOR WOMEN. THE SUBJECTION OF WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=779,390,333,58"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FREEDOM FOR WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=784,511,263,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FREEDOM FOR WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=784,511,263,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN AND HER WISHES,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=774,1152,313,24"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMAN AS INVENTOR.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,1502,261,22"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "By Elesnor Kirk,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=931,1709,180,21"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THINEK AND ACT.,.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=779,1741,194,22"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ONE BUNDRED TRACTS. ONE THOUSAND Orders sddressed to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=780,1866,277,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "M Rs",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=778,2052,91,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pivase call ot send yonr orders",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=790,2416,322,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "B. STANTON. aAnD",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=795,2472,298,67"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "AND",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1035,2521,44,18"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NoraAR: PULIC,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=776,2671,159,21"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "sngie copy",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1205,304,117,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "sngie copy",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1205,304,117,23"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEw Yous.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1196,2668,115,22"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "223",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1806,83,90,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A LINCOLNS R ELI G I ON THE INDEX. FREE RELIGION",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1363,171,421,239"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TERNS. $3 4 TRAR",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1524,472,230,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For Sampie Copy Address the Eaor, Todo. hse encoing fime cet",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1361,531,552,50"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TH IDw ep vry r i iring. It recouines mo suthority but of reas ame rit belseves in Truth, Freoom. Progres. Roul Righs, wn Brotherly Love. The trensition from Christsnity t Pree Relgion. through which the civie worid now passing, but which it very 1t ondr e. 1 en more mo ous comu t te t wanstion o Empore from Pagaminm Chrstnity. TH sime to t th wat chng it 1t and offers an opportunity for Giusions on ie u which nd no Setimg pince in other paper Mr Wx. H BERSDON. of SrRINOL. A..., $or 30 years the lew partoer ane mtmst rn of P DENyLrcou, contriutes to T IpEx for Apra 2, an xcdingy ng full account of M. Lawcon —t o connpected wits bis rengion",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1356,614,561,564"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r66",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sttontion of Nwws DEsLn is oali t anmnduncement 17-319",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1357,1186,556,51"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bros. & Co., Suth Avenwe. S. Bros. 4 Co., Sizth Avenve. Our esn Bons are o ol ine, Gro ri ct.Rione of o Au Bros. & Co.. Sisth Avenne. Piogue e, . wor rn Bros. 4Co. SistAyemoe Lpnen Towsls, ige se $3.9 aoren,Linen mapin, am 1.00 o r A Le o r eDr At MAN Bro 3Co. Ave o mri i Perenoie t L.T MAN Bros A Co. S Avenne A Mi Bros Co. A Gent Gon A AN Bros Co. A Neo ee pr WALTON, FIANOS, ORGANS. MELODPONS UCA Boo e STRINWAY TIANOS EFO L, aa a B Wat An mL. RALA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1341,1234,576,1341"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bros. & Co., Suth Avenwe. S. Bros. 4 Co., Sizth Avenve. Our esn Bons are o ol ine, Gro ri ct.Rione of o Au Bros. & Co.. Sisth Avenne. Piogue e, . wor rn Bros. 4Co. SistAyemoe Lpnen Towsls, ige se $3.9 aoren,Linen mapin, am 1.00 o r A Le o r eDr At MAN Bro 3Co. Ave o mri i Perenoie t L.T MAN Bros A Co. S Avenne A Mi Bros Co. A Gent Gon A AN Bros Co. A Neo ee pr WALTON, FIANOS, ORGANS. MELODPONS UCA Boo e STRINWAY TIANOS EFO L, aa a B Wat An mL. RALA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1341,1234,576,1341"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15/text/r69",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ca FRINTING 33 B , p",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p15#xywh=1358,2603,538,385"
+  }
+ ]
+}

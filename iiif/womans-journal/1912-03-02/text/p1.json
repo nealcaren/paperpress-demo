@@ -1,0 +1,645 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=363,315,2899,212"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "o o o O",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=217,186,86,888"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "lumn not s",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,481,98,160"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VYOL. XLIll NO. 9",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=351,672,433,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "om a m an olumn hat I",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,700,95,186"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FAVORABLE REPORT GIVEN IN NEW YORK",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=348,769,562,82"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FAVORABLE REPORT GIVEN IN NEW YORK Suffrage Measure Is Recommended By Judiclary in Both Senate and House",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=348,769,570,231"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "this he inf the vital m. I had s my antiand It olace.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,888,94,430"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "After so often working in vain to get their measure reported out of committee at all, even adversely, New York women are jubilant over having secured a favorable report this year in both branches. In the Senate Committee the vote stood seven to two, Hinman and Black being the sole dissentients. There is a new spirit in the air, all along the line.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=347,1031,574,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SHOW PUBLIC SPIRI",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=402,1439,446,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pasadena Women Follow Up Their Garbage-incinerator Victory with Plan for Civic Study",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=352,1512,559,114"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The newly-enfranchised women of Pasadena, Cal.,, lately turned out in force and carried an election in favor of installing a city sarbage-incinerator. The Pasadena News says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=342,1662,568,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Encouraged by the success of the recent bond election, which, it is acknowledged, was carried by the votes of the women of the city, who manifested judicious and thoughtful consideration of the subject, a movement has been started toward the formation of a woman's civics class, which will take up the discussion of questions of broader scope than those which have been embodied heretofore as a part of local club work.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=342,1852,569,450"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "s the the value the iewe gonot",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,2281,84,306"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“In the Woman's Civic League, a stimulus has been given many of the members to delve into questions of graver and broader import than formerly, and with the power of the bat lot entrusted into their hands, their interest in municipal affairs received an impetus that promises to carry them into the field of activity, where they may aid in carrying out their own plans and ideas. At the same time the women. have been brought into touch with subjects of national weight,\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=343,2305,568,522"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "symre a who fears dens, I alany- I am nt to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,2587,86,404"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A weekly class in civics has been organized and will be addressed by Clifford Howard of Los Angeles and other speakers. Mr. Howard will begin by telling how presidential elections are conducted, and explaining the direct primary and the caucus.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=340,2833,566,265"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "there elves y beether Beseen take have t eat who tis a o eat 'sseat for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,2998,91,550"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PERIER IS CONVERT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=412,3136,417,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Distinguished Frenchman Says He Has Been Won to Votes for Women By His Observations in California",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=342,3212,558,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Claude Casimir-Perier has been visiting the Pacific coast as a special representative of the French government to study what opportunities will be afforded to French capital on the opening of the Panama canal. In an address before the Women's Civic League of Pasadena the other day, he is reported as saying:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=334,3358,567,339"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "en or very Sponneed ually ssues ersaisists",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,3555,86,329"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I was not in favor of woman suf frage until I came to California, but when I saw how the women of this State regard suffrage and what good they had brought about by it, I was converted. The vote of woman is of immense value as a regulative force in society, and it will work for the amelioration of numerous social ills. I am sreatly impressed with the realization by the women of the United States of their great influence upon society. Votes for women will millitate against war, and woman is the sreatest influence in, the world for peace.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=330,3697,566,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "conwhat e eneeds s be- For ake a their vould comotecmust vote",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,3889,88,505"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In beginning his address, the distinguished Frenchman stated that it was rather daring for a man to speak on “Woman's Influence on Civilization\" at all, and that in speaking he did so as an individual, not as a representative of the French government.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=330,4295,562,300"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "f the n her howagists",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=0,4396,88,174"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“There are active and passive influences at work to make for civiliza (Concluded on Page 87)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=333,4595,556,115"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "fficial Organ of the National American Woman Suffrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=881,539,1843,70"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RHODE ISLAND AMAZED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1092,772,1406,97"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ". 270 wee y Courtesy of the R. 1. Sunrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1002,903,1592,1961"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUFFRAGE BALL HAS UNIQUE FEATURE! Novel Combimation of Suffrage an Fun in Dance Program",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=925,2896,545,169"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Novel Combination of Suffrage and Fun in Dance Program A leap year dance and cotillion, with yellow Votes for Women butterflies as favors, is the unique form of entertainment devised by the suffragists of Minneapolis. Last week the 1915 Suffrage Club gave a suffrage ball, and by their resourcefulness in naming the numbers on the program, have made themselves the envy of all society folk. It read as follows:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=920,2990,564,461"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1. Grand Marche Militante, “Susan B. Anthony.\" 2. Waltz, “Conversazione a la Suffrage.\" 3. Two-step, “To Man— Woman's Equal.\" 4. Waltz, In Memoriam Brothers Bok and Kipling. 5. Circle two-step, “Woman's Sphere.\" 6. Waltz, \"Why Is an Anti?\" 7. Two-step, “Suffragette Spiel.\" 8. Waltz, “Will the Firesides Go Round?\" 9. Two-step, “Ballct Ballet.\" 10. Waltz, “No-Vote-No-Tax.\" 11. Two-step, “Pankhurst Prance.\" 12. Waltz, “California Glide.\" 13. The Boston, “Woman's Journal.\" 14. Two-step, Meet Me at the Polls.\" 15. Asquith Razzle-dazzle. 6. Home, Sweet Home, “To Our Suffragents,\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=922,3451,561,855"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Forbes Robertson has been speaking in Minneapolis for suffrage, and a luncheon was given in his honor last week. The 1915 Suffrage Club has engaged a booth for the Automobile Show, and this will be made an opportunity for getting suffrage petitions signed, for selling suffrage buttons and literature, and using every resource for propaganda. The 1915 Club is a suffrage club of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=908,4305,573,408"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BOSTON, SATURDAY, MARCH 2, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1379,672,848,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "young professional women who meet a month at dinner, and are now launched on a publicity campaign for the cause. They are pledged to work for the ballot in 1915 (the first possible moment in Minnesota). The members are all young lawyers, doctors, newspaper women, probation officers and settlement workers, etc. The president, Dr. Mabel Ulrich, is a very beautiful and prominent woman, a specialist in children's diseases, and with two lovely children of her own. She was a member of the recent Minneapolis Vice Commission, whose report has been widely noticed. Her husband is a prominent physician and a strong suffragist, who brings the woman question into all the frequent addresses that he makes before men's clubs. Dr. Ulrich carried a yellow silk banner, “Votes for Women in 1915,\" in the grand march.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1497,2899,572,854"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The list of patronesses at the ball included very prominent Twin City women, such as Mrs. A. H. Bright, Mrs. Andreas Ueland, Mrs. E. G. Walton, Mrs. Marion P. Shutter, Mrs. Ernest A. Woodward, Mrs. S. A. Stockwell, Honorary President Minnesota W. S. A., Mrs. A. T. Hall, State President, Mrs. George F. James. We got our favors from New York, as advertised in The Woman's Journal. There were about 150 guests. Anne Herendeen.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1496,3763,565,497"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As The Woman's Journal goes to press, the eight federated Suffrage Societies of New York City are holding a big meeting to raise funds to help the Wisconsin campaign, with Rev. Anna H. Shaw presiding, and addresses by Mrs. Crystal Eastman Benedict, Finley Peter Dunne, Samuel Untermyer, Dorothy Dix and Mas EBastman.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=1498,4333,560,378"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DARTMOUTH MEN WORK FOR EQUAL SUFFRAGE College Is to Hear Anna Shaw—Big Meeting Expected—The Public Invited",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2088,2899,560,235"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Dartmouth Men's League for woman suffrage is to have the Rev. Anna H. Shaw, President of the National Suffrage Association, speak at Dartmouth College on the evening of March 8. A notice of the meeting has been sent to the local papers, and the League hopes that all who read the notice will consider it a personal invitation to be present The meeting is open to the public.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2084,3167,565,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A HOT TIME IN OHIO",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2140,3632,453,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Antis Make Friends for the Suffragists—Big Crowd Hears Dr. Stanton Colit",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2086,3721,560,117"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The fine vote of twenty to one for woman suffrage in the Suffrage Committee of the Constitutional Convention was not secured without a fight. Stirred up by the New York Antis about a score of Columbus women asked for a hearing to oppose equal suffrage. An Ohio woman writes in a private letter:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2078,3877,566,336"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“They had no arguments at all. One of them said that they were in favor of restricted suffrage. When the committee asked who should not have it, they said first, The working people, and then quickly added, The working people of foreign extraction. This made the labor men on the committee indignant, and we have now more friends than we had before, for these rather indifferent friends are now fighting for us. As soon as the (Concluded on Page 67)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2079,4214,567,489"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THINK MORE OF ETHICS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2701,777,542,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. Hugh K. Walker Says Woman Suffrage in California Has Made Politicians Consider Moral Quality of Their Acts—is Raising the Standard",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2685,859,569,192"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. Hugh K. Walker has lately accepted a call to be pastor of the First Presbyterian Church in Atlanta, Ga., and has gone to that city from Los Angeles, where he had been preaching for fourteen years, and had built up a church of 2,300 communicants. He was president of the Board of Trustees of the Occidental College, president of the State Anti-Saloon League, and influential in many other ways- In an interview in the Atlanta Journal, Dr. Walker says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2673,1097,577,487"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“So far, the suffrage of women has made California politicians think considerably more of the ethics of their actions, and if the women maintain their present attitude, a high political standard will be reached. “The bugaboo against their vote was that the good wemen would stay away from the polls, while the bad would flock to the ballot box. It hasn't been that way. The bad women do not want to give away their real names and addresses, and the good ones have taken a sane and active interest in political questions.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2670,1588,571,556"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MRS. CATT AND DR. JACOBS HOLD MEETING AT SEA",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2677,2198,560,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "They Preach Suffrage to Their Fellow Passengers on the Way to Ceylon— Much interest Aroused.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2674,2323,562,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Carrie Chapman Catt, in a personal letter just received, says:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2664,2486,566,75"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We are now en route from Egypt to Ceylon, on a beautiful, big, perfectly conducted Dutch ship, the namesake of the baby queen, Princess Juliana. The passengers are nearly all young married people en route for Java, where they will live.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2666,2607,569,263"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“A petition from the passengers was presented to Dr. Aletta Jacobs requesting a lecture on woman suffrage. She gave it, nearly all the first and second class passengers being present. There were so many who wanted to ask questions that the audience gathered the next day, and she devoted an hour to answering them. Then those who could understand English requested a speech from me, so the nmext day I spoke. It is needless to say that woman suffrage is the chief topic of conversation.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2669,2872,567,522"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“This trip is a wonderful experience. We are well. Our party is now reduced to two. We are now going to do India. This letter will be mailed at Colombo. “The Woman's Journal has a fine campaign spirit in it, which does my soul good. It sounds like victory.”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2670,3400,564,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Even the Chinese now have a republic, but American women are still considered unequal to self-government.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2670,3744,562,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As many women as men have registered to vote at the coming election in Seattle, although men in the State of Washington sreatly outnumber women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2666,3900,566,186"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Jane Addams is passing a few weeks in Augusta, Ga., preparing her series of articles in McClure's on the white slave traffic for publication in book form. She writes that she is greatly enjoying the delicious climate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2668,4128,560,230"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The South has been regarded as the stronghold of conservatism on the woman question, but while Mrs. Pankhurst was refused permission to speak at Harvard, her daughter, Sylvia, now in the South, is being overwhelmed with invitations to address colleges, universities and seminaries.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p1#xywh=2664,4403,567,298"
+  }
+ ]
+}

@@ -1,0 +1,293 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/text/p8.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“At a conference in Colorado Springs in August, it was decided to use our political power against that party which having the power to aid has instead persistently opposed the national suffrage amendment. “A vigorous campaign was thereupon conducted in the twelve suffrage states with the result that the woman voter has become a recognized power in national elections, and national suffrage has become an issue of immediate importance.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=500,441,830,513"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“This convention is called to discuss immediate plans and the policy to be adopted that the national eranchisement of women may be speedily obtained.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=500,961,826,201"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“All members of the Woman's Party are urged to meet at this time to determine what that policy shall be.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=500,1169,827,148"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Anne Martin, Nev., Chairman Phoebe Hearst, Cal., Vice-Chairman Mabel Vernon, Nev., Secretary Margaret Long, Colo., Treasurer Alice Paul, N. J., ex-officio\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=619,1377,635,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Congressional Union call makes the following announcement of proposed amendments to the constitution which will be offered at the convention In Article 1, insert the words “National Woman's Party\" in of the words “Congressional Union for Woman Suffrage.\" In Article IIl insert the words “Woman's Party\" in place of the word “Union.\" In Article IV insert the words “Woman's in place of the words “Congressional nion.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=468,1618,862,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In Article VI insert the words “Woman's Party\" in place of the word “Union,\" and insert the word “secure\" in place of the word “appoint\" in lines 2 and 3. In Article VII insert a comma in place of a period after the word “congress\" in line 2, and add the words “consisting of a president, two vice-presidents, secretary, treasurer, chairman of executive committee, and five directors,\" after the word “congress.\" In lines 2 and 3 strike out the sentence: “The chairman of the executive committee shall be chosen by the members of the committee.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=487,2183,829,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In line 6 insert the words, “Woman's Party\" in place of the word “Union.\" In Article VIIl insert the words “Woman's Party\" in place of the word “Union.\" In Article IX insert the words “Woman's Party\" in place of the words “Congressional Union\" in lines 1 and 3. In Article X insert the words “Woman's in place of the words “Congressional nion.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=480,2658,832,353"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Notice is given of these amendments in accordance with Article XI of the national constitution, reading",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=478,3072,826,132"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“This constitution may be amended by a majority vote at any convention of the association, provided that such amendment shall have been specified in the call for the meeting.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=474,3246,829,147"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HESE proposed amendments bring up one T of the most important questions which will come, before the conventions to settle;—that is the recommendation which has been made by the committees of the Congressional Union and of the Woman's Party that the two organizations be merged into one. In explanation of the proposed amalgamation, Miss Anne Martin, national chairman of the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=468,3445,831,462"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman's Party, has issued the following statement:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1375,447,811,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The amalgamation of the Congressional Union for Woman Suffrage and the National Woman's is most desirable. “There is no reason why the two organizations should not be combined into one, and there is every reason why they should be. Both organizations are working by political methods exclusively for the woman suffrage amend-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1368,594,822,285"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Anne Martin. Chairman of National Woman's Party, Who Will Preside at Woman's Party Convention",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1370,2588,788,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Anne Martin. Chairman of National Woman's Party, Who Will Preside at Woman's Party Convention",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1370,2588,788,223"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ment. Amalgamating the two groups will eliminate possible duplication of work or divergence of method, and will increase efficiency through the fact that there will be only one national executive committee where there are now two, one set of officers, one treasury, and by the fact that there will be absolute concentration of the power of the two combined organizations upon the work in Congress for the national suffrage amendment.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1344,2880,826,351"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Alice Paul, chairman of the National Executive Committee of the Union, has also issued a statement on the suggested amalgamation.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1342,3286,823,197"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The executive committee of the Congressional Union for Woman Suffrage has recommended the merging of the Union and the National Woman's Party into one organization to be known as the National Woman's Party, so that voters and non-voters may together make a united campaign for the political freedom of American women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1341,3529,823,282"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“In deciding whether to retain the Congressional Union or the Woman's Party as the final organization in the merging of the two, it seemed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=1348,3810,811,109"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wisest to recommend retaining the Woman's Party. The Woman's Party, made up of women voters pledged to use their political power to secure the enfranchisement of all American women has already out-grown in importance its the Congressional Union. The oman's Party is the most effective group in the suffrage world today, because it represents organized political Though created only last June, its membership is now greater than that of the Congressional Union in the unenfranchised states.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2234,453,828,418"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The Congressional Union has, in the four years of its existence, helped to make the federal suffrage amendment an issue of national political importance in this country. By now all its resources to the support of the National Woman's Party it will, we believe, create an organization of such financial and political power that the opposition to the passage of the national suffrage amendment cannot much longer continue.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2228,871,827,349"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE program opens with a reception for the T members of both organizations at nine o'clock on Thursday evening, March first. The reception will be given by the District of Columbia branch of the Union and the chairman of the committee on arrangements is Mrs. George Odell. The second day, Friday, March 2, will be devoted to business sessions in the morning, afternoon and evening. Saturday morning and afternoon will also be given to business sessions.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2219,1322,837,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Saturday evening, March 3, at seven-thirty o'clock a dinner will be given at Headquarters. Tickets at $2.00 a person may be obtained at Headquarters from Mrs. William Kent, chairman of committee on arrangements.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2217,1895,831,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The convention will close with a great demonstration on the part of voting women, expressive of their determination that the next administration shall not come to a close without the amendment having been passed. The demonstration, which will take the form of a deputation to the White House, will be participated in by the unmenfranchised women as well as by voters.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2213,2157,829,457"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Helena Hill Weed, Lafayette Square, Washington, D. C., is credentials chairman for the Congressional Union. According to Article X of the constitution: “Conventions may be attended by all members of the organization but the voting members shall be one delegate for each fifty women members in any branch for whom the twenty-five-cent dues have been paid. All “delegates of the Congressional Union shall be women.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2208,2623,830,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The credentials chairman for the Woman's Party is Mrs. George Odell, Lafayette Square, Washington, D. C. Branches of the Woman's Party will be entitled to one delegate for every fifty members. All railroads are offering reduced rates to Washington for inauguration week, and information about them can be secured at any local railroad office.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2204,3143,829,459"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Edith Goode, Lafayette Square, Washington, D. C., hospitality chairman, will give the addresses of hotels and boarding-houses to those who want them. An effort will be made to arrange for free hospitality for delegates desiring it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p8#xywh=2201,3611,829,304"
+  }
+ ]
+}

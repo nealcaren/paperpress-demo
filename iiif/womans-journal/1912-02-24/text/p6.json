@@ -1,0 +1,909 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WISCONSIN NOTES The Campaign Goes Forward Vigorously and With Bright Prospects The Political Equality League of Wisconsin is feeling greatly pleased at the result of the address siven by Miss Beatrice Forbes Robertson in the Davidson Theatre, Milwaukee, the afternoon of Lincoln's birthday. The audience was more than delighted, $200 were raised by subscription for the cause, and seventy-four new members joined the League.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=488,262,570,562"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One of the results of the active campaigsn being waged for woman suffrage in Wisconsin is the many noted speakers who are coming to the State to speak in favor of the cause. Mrs. Rachel Foster Avery, former president of the Pennsylvania Equal Suffrage Association, is now there and will speak in a number of cities. Prof. Zueblin will give an address in Milwaukee tomorrow evening. Prof. Max Eastman of Columbia University, and his wife, come a little later.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=486,864,570,529"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women employees at the Wisconsin State capitol voted on the question of woman suffrage a few days age, and the result showed that the majority favor suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=487,1432,568,191"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman suffrage speakers will appear at farmers' institutes at Juda, Darlington, Benton, Woodward and Ayoca, Wis.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=487,1660,569,148"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Republican Observer took a straw vote in Richland county, Wis., on equal suffrage. The result was 184 votes for and 150 against.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=489,1849,571,153"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The La Crosse Equal Suffrage Society is one of the recent recruits to the army of Wisconsin women demanding votes. Miss Rose Keefe is president. Mrs. Rachel Foster Avery spoke in La Crosse on Miss Anthony's birthday.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=491,2036,570,267"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A political Equality League has just been formed at Kenosha, Wis.: President, Mrs. Mary B. Bradford, also president of the Wisconsin Teachers' Associaticn; vice-president, Miss Florence Wells of Kemper Hall faculty; secretary, Mrs. R. C. Chase; treasurer, Mrs. Edward Stanlaw Jordan. The chairman of the finance committee, Miss Mary Randolph Thomas, is a cousin of President M. Cary Thomas of Bryn Mawr.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=495,2340,569,453"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Political Equality League of Wisconsin is already planning for the automobile campaign next summer. Several prominent people have already promised to loan their automobiles for a few weeks' tour, and more are expected. Miss Harrlet Grim, now speaking in the northern part of the State, a wonderfully-gifted sirl orator, will be among those in the auto speaking brigade.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=499,2828,571,415"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW JERSEY NOTES.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=570,3305,441,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW JERSEY NOTES.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=570,3305,441,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Measure introduced in the Legislature—Women Full of Hope—All Societies Co-operating, and Many Meetings Planned",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=509,3379,564,147"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Today I have good news for the suffragists of New Jersey. Our first Woman Suffrage Resolution in the annals of the Woman Suffrage Association was introduced in our Legislature on Feb. 13, by Senator Gebhardt of Hunterdon County, and referred to the Judiciary Committee, consisting of Senators Edge. Read and Fielder. We expect to have a hearing at an early date.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=508,3567,568,412"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Vickers and I went to Trenton and sat in the sgallery with Senator Gebhardt's wife, who is a staunch suffragist. We were very much encouraged as a result of our interview with a number of the Senators. We were also introduced to Governor Wilson.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=513,3981,570,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The State Suffrage Association, organized 42 years ago by Lucy Stone, and reorganized 21 years ago, now having 20 auxiliary Leagues, has combined with the younger organizations, the Equal Franchise Society, organized nearly two years ago, and the Weomen's Political Union, organized last June (the latter is affiliated with the State Association), for joint efforts in legislative work. The Men's League is also helping. Their",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=516,4282,571,450"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E Wo MAN JOURNAL. FEBRU ARY 1912 . ADV I know that Lucy Stone would be in suffrage propaganda, and was thee ——————— pleased could she see her “child.\"only woman appointed by Governor h e o o o the pl PRIN saged Mrs. Clara Bewick Colby, ers' Liabilities Commission, of which 7 Ph. B., for cne week, to speak in as she was afterwards elected secretary many towns and cities as possible from by the members. ers of many well known March 1 to 8. The schedule so far is: them “7h: Woman's J , WOMEN'S BRAINS NEEDED pen day and night. City, New Brunswick, Trenton, River- —— E. L ton, Moorestown, Camden, Bridgeton, James A. Sheridan, for many years 123 Pearl St., Boston, Vineland, Cape May City, Atlantic practising attorney in Milwaukee and ——————————— City. member of the school board of that INVEST!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1071,168,1473,588"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We have sent literature to all our legislators, and 1200 letters more, forwarded with literature, asking ministers to preach on woman suffrage, will go out next week. When we have our hearing we will charter a car and decorate it appropriately. Our constitution requires that a resolution for a constitutional amendment shall pass two consecutive Lesislatures, and four months after it will be submitted to the voters at a special election. Clara S. Laddey, State President.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1071,757,570,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE MEN CHEERED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1150,1390,416,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "At the recent hearing on woman suffrage at the Ohio Constitutional Convention, the Columbus Journal says, “Mrs. Harriet Taylor Upton reminded the women that applause must be left to the delegates; and consequently demonstrations were carefully avoided by all but members of the constitutional convention, who often applauded vociferously.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1072,1478,566,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "CONCERNING WOMEN Miss Sylvia Pankhurst is making many friends both for herself and for the cause, during her American tour. Pleasant reports of her meetings come from every direction.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1079,1909,561,255"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Emily M. Bishop gave one of her fine equal suffrage readings for the Milwaukee suffragists on Washington's birthday. She will repeat it for the Beston E. S. A. on March 7. Mrs. G. G. Scott of Montclair, N. J., celebrated Lincoln's birthday by hansging out the Stars and Stripes side by side with a flag bearing the words “Votes for Women.\" She said that in view of Lincoln's opinion on woman suffrage, his birthday was an appropriate time to start the custom in Montclair.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1078,2214,568,584"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Rev. Anna H. Shaw sgave two addresses in Philadelphia last week. On Friday she was the guest of the Philomusian Club, and told them why women should vote, and Saturday night she addressed a mass meeting held under the combined auspices of the Twenty-second Ward Equal Franchise League and the Ward Branch of the Woman Suffrage Society of Philadelphia, in Association Hall.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1084,2826,568,412"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Harriet Grim, lecturing in the southern part of Wisconsin for the Political Equality League, has been having unpleasant experiences during the late “cold spell.' She was stalled by snow drifts while traveling by rail to a meeting at Baraboo, and she says in a recent letter to the Headquarters that her trip has been a series of delayed trains, cold hotel rooms and general discomfort, but that in spite of the weather her meetings have been large and enthusiastic.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1088,3274,572,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Meredith Nicholson writes in the Indianapolis Star: “I believe that the interests of women and children will not be adequately cared for so long as only half the people have a voice in gsovernment. Until women vote 1 do not doubt that we shall continue to spend more for Dreadnaughts than for schools; to take more thought for the security of the Steel Trust and its accumulated millions than for the welfare of the miserable workmen who are paid less than living wages under the trust-creating system.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1099,3797,564,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Crystal Eastman Benedict, campaign manager for the Political Equality League of Milwaukee, is confident that Wisconsin will win in the suffrage campaign now being waged in that State. Mrs. Benedict received her training in the Woman Suffrage Party of New York City, under Mrs. Carrie Chapman Catt. She is one of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1104,4395,564,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the youns college women most active in suffrage propaganda, and was the only woman appointed by Governor Hughes of New York on the Employers' Liabilities Commission, of which she was afterwards elected secretary by the members.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1651,256,578,269"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WOMEN'S BRAINS NEEDED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1662,563,558,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "James A. Sheridan, for many years practising attorney in Milwaukee and member of the school board of that city, thinks women should vote because the welfare of the republic rests upon the intelligence of its people. Says Mr. Sheridan:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1655,639,571,262"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It is a maxim that a republic like ours depends for its progress and welfare on the intelligence of its citizens. I do not hesitate to assert that the women of Wisconsin are, as a rule, the better educated class of our citizens. Seldom if ever it occurs that a class is graduated from one of our high schools or colleges that the girl members do not outnumber the members, at least two to one, and practically all our teachers are wo men; and they are women simply because women are better qualified to do the work of education than men. The enfranchisement of women will double the intelligence of our voting population. The purpose of our public schocl system is to furnish intelligent citizens. Then why not permit all of our educated citizens to help in the administration of State affairs?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1651,902,580,864"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A WOMAN'S JOURNAL TO BE PRINTED IN CHINA Appeal for Papers, Magazines and Books for Women to be Transiated in a Christian College at Nankin There has come to me a cry for literature to be translated for the uplift of the women of China, so urgent and far-reaching in its possibilities that it will touch the heart of every progressive worker and receive a prompt response. May I pass it on through The Woman's Journal?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1652,1787,582,546"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The plea comes from Miss Laura M. White, who is at the head of a union college and normal school for Chinese girls in Nankin. Nankin is the most important educational center in the country, and will, in all probability, be the capital of the United States of China. In a private letter Miss White says: “Won't yeu mail to me any articles, books, or old magazines, on the woman or the child, etc., etc.? “Why do I need them?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1657,2337,575,476"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I think there is a turn or ways just mow in woman's work in China. The time has come when an appeal is not only to be made to the individual woman, but when we must furnish mew ideals, new customs, new paths of service for a whole nation of women who have rejected the old ways, who demand freedem, who wish to enter every path that men tread, even to the shouldering of a gsun on a Manchu-killing mission!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1670,2825,566,444"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“In connection with our college work I have consented to edit a Chinese Woman's Journal, financed by the Christian Literature Society. Much of the work on the paper will be done by our college girls, for I aim to make a good translating department a feature of our college. The books and articles translated and adopted will be published in The Woman's Journal.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1675,3274,565,407"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Thus in the college the girls will be learning how to teach a whole nation of ignorant, eager women, and learning a little of how to make altruism a science. They will learn to write articles broadly religious, with Christianity as the fulfilment and crown of science, and not the foe of evolution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1672,3684,574,336"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“They are now working on stories for children, adapting talks to teachers, to mothers, working on articles about hygiene, the cigarette, etc. One girl is working on the translation of Sadie Crewe,\" another on a series of Parables of Nature, while a very ambitious one has commenced Les Miserables. “Oh, that I might be deluged with American Woman's Journals and other literature about women! Not namby-pamby, predigested spuff, but things a little hard to digest.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1677,4023,569,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Now, please interest your progressive women in our girls and college plans, and if you and they will send me even old magazines about women and children, domestic science, teach",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=1681,4548,565,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ADVERTISEMENTS CLASSIFIED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2434,257,771,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PRINTERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2418,357,223,42"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "We beg to announce that we are printers of many well known publications, among them “7h2 Woman's Journal. have booklet, a magazine or a book it along. Open day and night. E. L. GRIMES CoMPANY 22 Pearl St., Boston, Mass.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2245,465,563,224"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INVESTMENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2373,720,311,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Independent women investors are realizing the value of our shares and in consequence we have only a few remaining unsold. We want to have you learn about the BEST income producer, for the longest time of any investment with which you are familiar: our DIXIE PECAN GROVES. PAPER SHELL PECANS ARE BEING USED SO MUCH THAT AT PRESENT THEY ARE BRINGING $1 PER POUND AT THE TREE, WITH THE DEMAND MANY HUNDRED TIMES THE AVALL- ABLE SUPPLY. WE DO NOT FIGURE MORE THAN 35 CENTsS PER POUND.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2256,830,531,1035"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Let us send you our booklet, “A Royal Income from the King of Nuts,\" so that you may learn something of our investment and what other people know about a safe yet profitable placeto put your surplus.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2264,1875,529,225"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "E. W. DENNISON 132 North Grove Street East Orange, N. J.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2283,2140,477,199"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "JACOBS' 1912 EUROPEAN TOURS An Ideal Summer Vacation would be our five weeks, COACHING TOUR OF THE BRITISU ISLES, adding the Continent if desired. Prospectus gives full particulars. Address C. W. JACOBS, Drawer “J,\" Rock Valley, Ia. PRIMROSE ORANGE PEOE Everywhors Most Populan DURE 20 cents and this PACKAGE coupon will buy a regular 362 can at En your grocer's or at e fasemeseief 4 feom",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2252,2410,578,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PRIMROSE ORANGE PEKOE Everywhers Most Popular 20 cents and this coupon will buy a regular 362 can at your grocer's or at 15 Commercial Whf., Boston",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2532,2709,286,262"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ing hygiene, kindergarten songs and plays and stories for translating and adapting—besides some tough meat for me—I shall be most srateful.\" 1 have already sent Miss White several packages of clippings, Woman's Journals, etc., and a copy of “Woman and Labor.\" Will others please respond? Send to Miss Laura M. White, 4 Thibet Road, Shanghai. Remember, old articles and books are as good as new ones, as it is all new to the Chinese women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2250,3033,571,524"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Who knows what seed sown in this Woman's Journal, printed in such a strange language on the other side of the world, may blossom later in “Votes for Women\" in the future United States of China?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2261,3561,558,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "3040 Hoover St., Los Angeles.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2287,3824,490,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“ANTI-SUFFRAGISTICUS\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2288,3904,508,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Prof. F. Spencer Baldwin of Boston University, an ultra “Anti,\" edits the department in the Boston Transeript called “The Social Settler” He can hardly mention votes for women without foaming at the pen, and his outbursts of opposition have called out some amusing verses from “The Looker On\" in the Beston Common. Says The Looker On:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2259,3978,565,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Speaking of the Transcript, its Social Settler, whatever that is, certainly has a grand srouch about Equal Sufrrage. I have visions of a wildeyed citizen tearing to shreds such luckless copies of Votes for Women and The Woman's Journal as he can lay his violent hands on, and dancing up and down on the fragments in an ecstacy of rage. I can't help it; that's",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2261,4356,569,375"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE BUREAU",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2920,343,389,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LECTURE BUREAU",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2920,343,389,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "vote addi quir",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3639,409,71,114"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Succenr to (CVIC FORU LECTURE BUREA) quir REPRESENTS R O MI N E NT T LATFO R M EOoPLE 21 West 44th Street - New York",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2822,420,888,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 has ence ing B. hav lini pro",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3643,570,66,366"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "DRAMATIC PORTRAYAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2864,772,491,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EMILY MONTAGUE BiSHOP is available for spring dates and for the season of 1912-1913 for her Suffrage Program composed",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2888,880,440,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wro Iw wor",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3647,968,59,150"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HUMOROUS SENATE SCENES Entitled “MAN, WOMAN'S EQUAL\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2891,1040,428,125"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 Mic birt erir",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3649,1134,57,172"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For circulars, terms and dates birt address erin EMILY. MONTAGUE BISHOP, 600 W. 192d St., New York City M spe LAUNDRESS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2822,1202,888,239"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "spe tion Wo",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3650,1340,57,149"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LAUNDRESS Swedish woman, expert in fine hand laundry, would like a few private families' laundry work. Address Box 303, Woman's Journal Office.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2835,1395,562,172"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "wou mar “Th Pro.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3647,1516,61,199"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r66",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HOUSEWORK.—Armenian of 20, with excellent 1ecommendation from former employer, wants place, preferably in family where he can his English. Can read and write Engliish, but not speak it fluently. Address Olan Shirinian, 57 Market Street, Lynn, Mass.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2824,1608,573,175"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "S hay use min pro",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3644,1722,63,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NURSE OR CHAUFFEUR.—Armenian with four years' experience as nurse, seven as chauffeur, and twelve in wants work in either line. Speaks English and French; has first-rate references. Address Aris Garinian, 28 Kneeland Street, Boston. HOUSE OR STORE.—Armenian teacher, here to take normal course, could not follow lectures at Normal School for lack of practice in hearing English, though well able to read it and to understand it if spoken slowly. Wants hou,ework or other job where he can hear English talked, Bxcellent reference as to character. Address Bartevian, 253 Shawmut Avenue, ston.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2822,1791,576,422"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r69",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "of I bet was den mor T Mot gar affl mern con",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3643,1972,64,496"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r70",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LLINOIS EQUAL SUFFRAGE ASSO. 938 Fine Arts Blds., Chicago, publishes the following literature: “Bridset's Sisters,\" a sumrase play; per copy........... 25c “Why,\" a two-page leaflet; per thousand........... $2.00 “Shall Men Vote?\" leaflet; per thousand........... . $2.50 Illinois Chronology, leaflet; per thousand.......... . $2.50 Mayors of Five States; per Bible on Woman Suffrage; Dr 0 Laws of Illinois; per copy.. 10c “Mr. Lex,\" in paper covers; Handsome crepe paper, yellow-bordered suffrage napkins; per thousand.....$4.00 Per hundred............ 50",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2847,2250,546,775"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r71",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It poli esti be cast tial New from in Mrs Car",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3644,2474,64,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r72",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A suff The N. cial on t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3639,2987,67,225"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r73",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "the impression he makes on me when I read his column, which I always do when I catch sight of the adjectives I have learned to associate with his masterly treatment of Equal Suffrage. It is really quite a study in the art of Socially Settling the question. But I wender if he really does settle it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2838,3091,570,299"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r74",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "H appr Perk cent gan The book",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3636,3245,70,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r75",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "When the Settler's not engaged in Socializing, Socializing, When he has a little space and ink to spare, Then the way he goes for women is surprising, quite surprising, And you really wouldn't think the man would dare.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2843,3406,568,245"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r76",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An State wom Lesi gani a ca amer",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3634,3543,74,257"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r77",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For they're after every womansuffrage-hater, suffrage-hater, And no matter how elusive he may be, They will get him—maybe soon and maybe later, soon or later, And his fate will be a fearful thins to see!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2842,3674,570,216"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r78",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Th Leag that Sund selve open mem",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3632,3835,77,264"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r79",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In a cage securely fastened, they will that show him, they will show him, Sund And the curious crowd will come to see him there, selve With a sign which reads, so everyone open will know him, one will know mem him: “Anti-suffragisticus—extremely rare!\" As han",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2822,3914,888,295"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r80",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As. has i latur const for tion marr count entitl",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3629,4149,80,336"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r81",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nobody supposes that the kingdom of heaven is to come out of the ballotbox; but it will be a clear gain if this last difficult step can be taken in the direction of equality of rights and unity of interests as between the sexes.—Rev. Charles G. Ames.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2846,4209,567,261"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r82",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On chise Wash herea direct direct",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=3622,4535,88,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6/text/r83",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I theoroughly believe in suffrage for On women, though I take no active part chiser in the movement,\" says Mrs. William Wash Watson, wife of the English poet now herea svisiting this country. direct direct",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p6#xywh=2822,4536,888,538"
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "12",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12#xywh=367,341,61,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "5,000 New Subscribers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12#xywh=407,437,759,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Subscribers for \" lLhe Suffragist Mothproof bags and paper for protecting the (n this column we list the swbscriptions sent winter clothing, carpets, rugs, curtains, ete. G. Ka Son in each week by our members. This is only o port of the total number of new swbscriptions DECEMBER 31 THROUGH JANUARY 6 aul Institfute\"\" anstts 5. Paul, LL..8. January 1 moOt S Street. N.W. e Now in Prog 1 Miss Mabel Vernon........ 1 large savings on PRINTERS:. Miss Vids Milholtand..11632 Meadow Street Philddphis, P. dress accessories a Mrs. W. Thompson Burch.............. 2 Telophone Fhd. 2 1 1 mecessitics. Miss Margaret Fay Whittemore.......... 2 Special Signs Poir Miss Eliabet B. Hedrick. DANCE Miss Katharine A. Morey.............. 1 Dr. Gillette 2 Under the auspices District of Columbia Bronch 21 Will be held at National Headquarter Previously acknowledged in Tas Sur- AGIT ... 0 ashington, D. C., urday, 8: M., e Total through January eth secured by January 27, 1917. D. Tickets, including refreshments, $1.00 FOR SALE ———————— per person, may be had at door. THE WOMAN OrTLEN'S Edited by Shailer Matthe Wash Skirts of Your Material Louis Brown's Orchestra. Chairman Committee on Arrange- , WIL SON ments, Mrs. W. T. Burch. ial price to clubs or active 1418 Stevens Building Chicago, Ill. THE o FURNISHED APARTMENTS: adio Apply Miss Wilson, 280 St. Georse TELEPHONE MAIN o Lanman Engraving Co. rentann's HALF TONES. 2C Booksellers, Engravers and PROCESS ENGRAVERS e IoL A oT POST BUILDING Washington, D. C. WEST END TRUST Polish and purify your Cooking Utensils with PHILADELPA, PA. Old Dutch CAPITAL and SURPLUS The Hygienic Cleanser $4,000,000 Receives Deposits ' Acts as Enxecutor, Administrator Guardian, Trustee, Agent Ool n Sells Foreign Exchange, Travelers' d Dutc Letters of Credit, Express Checks ( eanse r Maintains an Up-to-date Safe Deposit all A Department a Department for trun and packages Manages Real Estate, Collects Rents etc. Lends Money on Approved Collateral",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-24/canvas/p12#xywh=365,631,2281,3453"
+  }
+ ]
+}

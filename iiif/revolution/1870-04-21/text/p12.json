@@ -1,0 +1,216 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "252",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=330,107,111,54"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Loguott and Mrs. Tuoker were appointed a committee to prepare for the entertaiment, the time and order of exercies to be announced at the next Priday meeting, whi ch will be held as usual at 149 East 15th st. a NOMES OF THE STRONG-MINDED. Missoum, February, 1870. DaAR REvVoLUTION Presenting a petition for Female Suffrage to the good dames of this little town in the west (the town comparstively mew. yet brim full of idess of s bundred years ago), many of them echoed their busband's song. that women had better attend to the household duties, and ocare for the children, and let the men attend to politics.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=325,197,558,565"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Having been favored with the soquaintanoce, and partaken of the hospitality of many of the “strong-minded\" women, 1 could not help comparing theu households with those of my innocent, well-meaning, though weakly dames. It oocurred to my mind, that the more know ledge, experience, and common senss a woman has, the better is she sble to bring up ohil dren. and cook the beefsteaks. The more one knows of important and deeper subjects, the more one knows of little subjects. Anda woman who bas s0 hittle interest in the affairs of her country, that she cares not to keep herself posted sbout them, had better get herself to s nunnery, as specimen of the “stale and unprofitsble,\" whose companionship for any length of time must be more interesting to herself than it can possibly be to suy one else. I noticed where my dames had intelligent busbands, they generally spent their evenings away from bome ; if it was because they tired of the old subject of putting up peaches, or fallure in the bread, or the gossip about their neighbors' affairs, 1 know not.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=325,767,559,732"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As I have said, I have been favored with sn insight into the households of some of our leaders in the cause of Female Suffrage, and let me dwell a moment there, for 1 appreciste a charming home, and a well-cooked dinner. First, them, to the den of the Queen of Bears, to the but of one of the pioneers im the canse, who, of course, rakes brimstone over domestic harmony who probably recommends the growing of beards for women, and who must be orrtainly s coarse specimen, in appesrsnce, of s masculine woman—to the old home of Mrs. Stanton at Seneca Falls.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=329,1500,558,412"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is a large cottage house, embedded in the centre of broad grounds, be autifuily decorated here with some forest trees, and there with cultivated patohes of flowers, arbors of grapes, and farther back a space full of ruddy tomstoes, fresh corn, fat squashes, and all the other accomplishments of a well-regulated vegetable garden. The bouse, inside, 1 must contess. is little iferent from the generslity of houses, sorry as 1 am to sdmit it. In the first place, one room seims to look just. as well as suother, and a stranger would be much vexed in any of them, if the host or bostess would come in before he could get the arrengements in it all settled in bis mind. For, m every duection, on the walls. sre groups of heads one of pocts, another of philosophers. another of distnguished women, ste., ete also there is a profusion of busts, large and small, some of which look like stone, and others are parian. The furniture is o13-th ioned, as if they might have had, st least, some of the pieces some time, yot they are fresh 1ooking, or the roo could not heve such serupulous sir of nestness.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=335,1913,559,802"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The ersintin However, if there wers any difierence in the choice of rooms, I preferred the library and nussery—the iormer posscasmg s large and wellselected collection of books, the suthor of two or three of which, besrs the name of my ledy's busbend. This, of course, is s favorite room of both busband and wife, who are bere as congenial compsnions as elsewhere. Yet po loss often do we find Mrs. Stanton in the nursery, the hesdquarters of seven children—five robust. manly-looking boys, and two rosy, interesting girls, all of whom have the same sdvantages for an inteliectual, phymosl, and mors! bringing wp.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=904,107,563,505"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bat to the principal pomt I am simost sfraid my country dames will never believe me when 1 say that the cmsine is conducted on scient fic principies, and Mrs. S. is a scientific cook. Better bread, and more ravory goodies. one couid find nowbere, strange as it may sppear. Her canned peaches did not spoil, and her beefsteaks were nmever tough nor dry, to whomsoever belonged the credit.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=906,615,560,283"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And here I have been describing the home. without an sallusion to its sunlight, its fascinating influence, its life, in the cordial, soullively and piquant Mrs. Stavton berself, s bandsome. matronly-locking lady. brim full and running over with good humor—and withal a well-bred ar of refimement, which may be the result of good training, for ber mother was an educsted lady before ber, and ber father was an sble Judge of the Supreme Court of the State of New York. But I ssk pardon, dear REvoLUTION, for dwelling so long in the old bome of only one of our Woman Suffrage leaders. For I have visited Mrs. Davis, and several others, and 1 would like to have told about them all st omoce, but mow I fear you sre tired, and I will postpone the rest until another time.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=907,902,560,577"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "REGON—WOMHUN MEDICAL STUDENT1S.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=920,1528,545,32"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SALEN, ORRooN, 10th March, 1870. DEAn Miss ANTHONY Doubtless you have wondered what I've been doing all this long time that I baven't written to tell you of the strong-minded on this western slope. Tve been putting some of my pet theories into practice to the mo small amazement of the weakminded of both sexes.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=910,1594,558,252"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Only think of it, Miss Anthony. the sudscity of s \"female\"sttending the med lectures, “oloseted,\" as Greeley says, Sor four long months with male students. listening to learned male lecturers on the varied phenomens of lite, death and disesse, going dsily to the dissecting table! How much more sensible and proper it would bave been to be sbhut up sll winter in the kitchen as women ususlly are, and then i 1 got wick. bow much more modest witbal to send for a male doctor to cure me",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=912,1857,556,346"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Men bave at length got the ides thet mater mity is the highes duty of women. Now, 1ash them to be consistent and ailow us the privilege of ntting ourselves for this hoty mmon. Mon know that they mever can become wucces o1 meroh t, moch previons imstruction they ought to know well thet women cannot fill this responsible otion without the highest culture. The time is coming when sohool after sohool will be founded for eduosting ow girls and women this ech pegit. thoug igly branoh of womn's ringYes nd the h rious time i he ms fitre will e whe colleges will opon wide their doors, mobly. j ly and gonerously without s dissenting voios,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=917,2207,557,509"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "334 the foulty of the medienl Separtment of the Willamette University. when 1 snd for somittanoe. At Mngth the frems of Womes Suftrage in this plaos begin to show signsf life. Pursusnt to s very unfriendiy motior in wr daily paper. by an oid sogy. the frinds o Equsl Rights met in the Opers Bouss o te preliminary steps towsrds the formsation of Woman's Suffrage Assocston for the state of Oregon. A committee of fifteen. Gistributed through out the State, are to act as n exeoutive bos Mra. Marion Todd is s promiment womss m the movement. She gave s lecture on the sutpet of Women Suffrage to a large sodence in the Opers House on the following evening Yours, Da. MAzy SavTmAs",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1482,196,564,572"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 am going right to getting more subseribers and will wrts again soon Many",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1492,776,550,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NOTHING DENIED 10 LABOR",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1549,884,420,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ax spcsent philosopber seid, We are bere in a thestre, where every one has a port sliotted to am. The grest duty which hes upon man is, to act his part in periection. We may, mdeed, say thet our part Goes mrt su wa, amd that we could act another better But this i not our business. all that we are ooncermed in to exoel in the pert ve If it be an improper one, the fault mot in w, but Hon who has cast onr seversl parts, and s the prent disposer of the drama.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1484,954,562,347"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Epictetus, the author of these sentment. was himself a slave, and it a to be prewumed that be mesnt to advise contentment only with the inevitable. When the osnse of justace and right is to be promoted, we should stand rendy to aid in their sdvancement by the offermg of thougbt, work, seli-sscrifioe in any form. Hed all reformers been well sstissed with bollow creeds, and the unjust exprosson otpowers that be. thon religon erts would ever have been our noble heritace.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1485,1305,561,352"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1f Louther, Washmgton. Jobn Brown. had re sisted the convicons of the sonis. de fursd to work as imstruments of a HBigher Power. they would beve dome obvions wroms. not only to God and themselve but t potr and evil is ever being renewed. not only in evey beart, but in the brosd arens of the world Itis the evertastmg batie. Ench gemrion varies from the last. beving profived to some tent by the wictores n of genertions pest. d the changed iwn. oredn. o Ma himsolf, and overihrows thetvenorsle ty rant, enstom",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1487,1662,560,479"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The mors law some is writson on the tbint of eternity Laks it auth tordny. to-ay re Who for Sunanto the p te. it 1 re f unlimued agittion. The shaf o e w t ar e . We ully boid. toned the world Bu whe bnows how mny beromes have adnhonored aghng the only y the ime T w wo many rothery mo d nided in i promoon These many. o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p12#xywh=1491,2145,566,570"
+  }
+ ]
+}

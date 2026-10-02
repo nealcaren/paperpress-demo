@@ -1,0 +1,590 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=342,357,2878,218"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "O",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=186,223,85,808"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. XLIll NO. 8",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=337,723,439,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A GREAT HEARING IN MARYLAND.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=325,817,576,90"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nearly a Thousand Suffragists Crowd the State House at Annapolis—Distinguished Speakers Plead for the Women—Petitions from Every County in the State",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=326,949,571,190"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A special train of six cars carried a huge delegation of suffragists from Baltimore to Annapolis last week to attend the legislative hearing on the petition that a constitutional amendment granting women full suffrage shall be submitted to the voters. All the Suffrage Associations of Maryland were represented, besides many other organizations of women and men. A large number of voters accompanied the women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=319,1180,578,450"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Delegate T. G. Campbell, who introduced the measure, opened the hearing by reading many telegrams of endorsement. Addresses were made by Mrs. Donald R. Hooker, Mrs. William J. Funck, Chairman John B. Hanna of the Republican State Central Committee, Miss Julia Rogers, Miss Btta Maddox, Miss Elizabeth Taylor, Congressman Edward Thomas Taylor of Coloaado and his wife, Mrs. J. B. Burns, Stevenson Williams, Miss Edith Hamilton, Miss Janet Richards, Miss Edna Annette Beveridge and Dr. Warren H. Lewis. Then Dr. Mary Sherwood presented a great quantity of women's petitions from all the counties of Maryland, besides endorsements and petitions from more than 36,000 men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=316,1634,573,714"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The earnestness of the women was shown by the unprecedented offer of Mrs. Donald R. Hooker that, if the Legislature would submit the amendment to the voters, the Suffrage Loagues of the State would bear ah the cost. The galleries were packed. The hearing was a really sreat occasion, and made a deep impression. Copies of the Maryland number of The Woman's Journal were sold on the special train going to Annapolis, and before it arrived, they were all sold out.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=318,2349,571,526"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RHODE ISLAND ASTIR",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=373,2920,457,41"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Headquarters Open—Suffrage Booth at Food Fair—Stereopticon Lectures to Be Given—Various Meetings",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=326,3001,558,111"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The suffrage movement in Rhode Island has become very active. The nmew headquarters recently opened are running smoothly. The Scenic Theatre has arranged to have the suffrage slide lantern lecture given three times a day as soon as it is secured from National Headquarters. Mrs. Sara M. Algeo writes:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=317,3156,569,337"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We have taken a booth at the Food Fair, and are hoping to push it through successfully with the aid of Miss Hall, our new field secretary, who is taking hold of our work splendidly, Conservative estimates predict an attendance of three thousand a day at the Fair, which offers a fine opportunity for propaganda. We shall lay especial emphasis on the sale of The Woman's Journal, as past experience proves it the most productive in good results.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=315,3494,569,483"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "he er mwn rer ter ow he no",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=0,3598,52,378"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "beey en. en en as the ow ual en,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=0,3973,58,401"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Two of a series of Neighborhood Teas have already been given to Miss Hall through the activity of Mrs. Von Klenze, the president of the College Equal Suffrage League. A talk on Women the World Around, was lately siven by Mrs. Maud Wood Park. Noon meetings are being held for the down-town woemen; an evening meeting for the Rhode Island Association of Working Women's Clubs will be held on Feb. 26, and a suffrage prosram has been arranged for the Public Teachers' Asscciation in March.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=317,3981,568,515"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ffihoy rceeen ife why ake em",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=0,4379,65,317"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Volunteer workers are needed at Equal Suffrage Headquarters, Room 610, Butler Exchange, Providence. Already a large amount of work is accumulating, alons with the opportunities offered by centralizing the activitles.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=319,4500,568,254"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Official Organ of the National American Woman Suffrage Association",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=820,587,1910,70"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GEORGE WASHINGTON ADMONISHES B-k & (O.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=968,847,1621,100"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": ") W a ; 4 h",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=987,996,1568,1738"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Why not celebrate Washington's Birthday by resolving to tell the Truth?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1072,2781,1313,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WASHINGTON WOMEN SERVE ON THE JURY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=899,2941,559,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nomen Buy Fruit Trees With Jury Fees—One Plucky Woman Juror Secures First Conviction for Invading Fishers' Rights—Men of County So Pleased They Want to Send Her to the Legislature",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=915,3078,557,228"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Jury service is no novelty to Washington men. In Territorial days, from 1884 to 1888, women served on juries, with credit to themselves and to the State. Especially was the service of women on the juries effective in securing the enforcement of the law. Judge Roger S. Greene, one of the most eminent members of the Washingtton Bench, while a member of the Supreme Court of the Territory, in charging the grand jury at one time said:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=900,3346,571,481"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Twelve terms of court, ladies and gentlemen, I bave now held in which women have served as grand and petit jurors, and it is certainly a fact beyond dispute that no other twelve terms so salutary for restraint of crime have ever been held in this Territory. For nrteen years I have been trying to do what a judge ought, but have never till the last six months felt underneath and around me, in the degree every judge has a right to feel it, the upbuoying misght of the people in the line of the full and resolute enforcement of the law.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=897,3829,572,554"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Many prominent women of Washington served on juries. Some enjoyed jury duty. One said she never learned so much in any two weeks in her life. Another said she had never earned so much so easily. Many a woman's juror fees were used to buy fruit trees or furniture for the little cabin in the woods, and in pioneer (Continued on Page 59)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=900,4387,570,369"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SATURDAY, FEBRUARY 24, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1442,719,734,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MAY TURN THE SCALE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1520,2941,504,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MAY TURN THE SCALE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1520,2941,504,48"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nomen's Votes May Decide the Next Presidential Election, Dr. Tindall Says",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1500,3032,551,118"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Look cout for the women in the next presidential election This is the advice to politicians of Dr. William Tindall, secretary to the Board of Commissioners of the District, long-time friend of Susan B. Anthony and one of the vice-presidents of the State Equal Suffrage Association of the District of Columbia. Dr. Tindall has been compiling statistics about previous elections. He has discovered that six Presidents of the United States were elected by a smaller number of votes than those which woman suffrage States will control in the next electoral college.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1489,3182,563,600"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The States now having woman sufmrage are California, Colorado, 1daho, Utah, Washington and Wyomins, with a total of 37 votes in the electoral college. Three other States, Kansas, Wisconsin and Oregon, may be brought into the woman suffrage ranks next November, which would increase the electoral college votes to 64. Dr. Tindall's statistics show that Presidents Adams, Jefferson, John Quincy Adams, Taylor, Hayes and Cleveland were elected by a majority of 37 votes or less. Politicians Surprise Him",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1488,3783,562,597"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It is surprising to me,\" said Dr. Tindall, “that politicians are not tumbling over themselves in their eagermess to get upon the band wagon, especially in view of the fact that the States in which women vote for President and Vice-President will have 37 votes in the electoral college, and twice that number the nominating (Concluded on Page 59)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=1490,4383,562,364"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "MORE FARMERS DECLARE FOR WOMAN'S BALLO",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2071,2942,555,91"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "virginia Farmers' Union Asks Also that Girls Be Given a Square Deat at the State University",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2079,3071,553,114"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Virginia Division of the Farmers' Educational and Co-operative Union of America endorsed woman suffrage at its recent annual meeting in Lynchburg, after listening to addresses by Miss Mary Johnston and Mrs. John H. Lewis. The convention also asked the Legislature to pass the bill providing for the co-ordinate education of girls at the State University.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2071,3228,566,387"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HEARING SET FOR FEB. 26 IN MASSACHUSETTH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2074,3656,548,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The legislative hearing on woman suffrage will be held in Room 240 at the State House on Monday, Feb. 26. at 7 P. M.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2074,3780,560,153"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. James Bennett of Kentucky appeared before the Committee on Woman Suffrage of the U. S. Senate on Feb. 16, and urged that the proposed amendment to the Federal Constitution providing for the election of U. S. Senators by popular vote shall be widened to allow women also to take part in electing them.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2069,3975,568,337"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cleveland's progressive action in making Miss Mildred Chadsey its chief sanitary inspector has been received with much pleasure by the suffragists in England, where it is rare for responsible positions to be accorded to women. The Common Cause, the organ of the non-militant suffragists, hails it as “a most important step.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2071,4371,568,374"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "FIVE CENTS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2905,725,287,52"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WISCONSIN TEACHERS ASK VOTES FOR WOMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2666,818,568,94"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Say Women Are Able Not Only to Teach But to Vote Intelligently",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2665,945,569,79"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Northwestern Wisconsin Teachers' Association, at its recent annual meeting held in Oshkosh, adopted the following resolution “That we recognize the eminent service of woman in the educational work of the State. We belleve in her ability mot only to educate our children, but also to vote intelligently for the interest of cur homes and the general prosperity of the State.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2660,1060,571,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A GOOD OMEN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2787,1512,314,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "History Repeats Itself in Ohio",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2711,1586,467,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Fortune favored the suffragists in the presentation to the Ohio Constitutional Convention of the report recommending the submission of the equal suffrage amendment to the voters. The report was presented by Chairman Kilpatrick at 2.45 o'clock, on the anniversary of the birth of Susan B. Anthony, and at the same hour that the roll call was taken in Congress years, aso when Wyomins was admitted as a State with equal suffrage in its constitution. Mrs. Harriet Taylor Upton, who sat in the gallery at Washington with Miss Anthony at that time, and heard the roll call, sat in the sallery in Columbus and saw the report so in, twenty out of twenty-one members of the committee having signed it. Marshall of Coshocton filed a minority report bearing only his own sisnature.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2656,1661,574,866"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOTES FOR WOMEN SHOULD BE GRANTED",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2664,2562,558,83"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dean Joseph Villiers Denney of Ohio State University Speaks in Columbus for Equal Suffrage—Says Women Have Been Educated Up to the Point Where the Last Prize Is Just Before Them, and iIt Must Not Be Denled",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2652,2679,571,263"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Sunday Evening Men's Meeting of Trinity Church, Columbus, was recently devoted to a discussion of equal suffrage. Dean Joseph Villiers Denney of the Ohio State University was the speaker of the evening, and was enthusiastically received. Prof. Denney said, in part:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2653,2979,571,303"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The movement to secure equal suffrage is part of the larger movement to realize the democratic ideal in human society. Its growth is coincident with society's growing esteem for the individual.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2660,3317,564,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the progress of legislation and judicial interpretation concerning women and their rights and privileges, one fact stands out in prominence. Each concession has been an acknowledgment of individual personality. At the time when our forefathers declared that governments derive their just powers from the consent of the governed, it was not recognized anywhere in law or in human society that a woman is a complete and self-competent personality. Now that fact has been so far established in human society and law as to warrant full sovernmental recognition. The mark and badge of full governmental recognition of personality is the ballot.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2654,3541,572,670"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If full recognition is not the logical end, the granting of partial rights should never have been begun. Woman should have been kept in complete subjection, higher education should have continued to be a thing denied, and the theoretical unity of every woman with some man should not have been invaded by the humane progress of legislation and legal interpretation. Logically, the sranting of partial suffrage calls for the sranting of complete suffrage. Most of our (Concluded on Page 59)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-02-24/canvas/p1#xywh=2656,4213,569,514"
+  }
+ ]
+}

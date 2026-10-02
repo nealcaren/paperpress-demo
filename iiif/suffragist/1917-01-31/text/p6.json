@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/text/p6.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One young volunteer picket who had gone on duty in a light-weight coat and low shoes was amazed when a woman in a closed limosine drew up to the curb and forced upon her a fur coat and her own gaiters. She held the girl's banner while the gaiters were buttoned on, and volunteered to organize a committee made up of the older women who would gather together warmer clothing for the pickets such as their unusual occupation made necessary. One of the gifts that has been most appreciated is a great fur coat made of muskrat skins from Mrs. Hilles farm which she sent on behalf of the Delaware branch of the Union. The Virginia and Pennsylvania branches sent thick gloves, spats and slickers for rainy days.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=430,474,828,823"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE Saturday afternoon committee meetings T of the District of Columbia branch of the Congressional Union at National Headquarters in Lafayette Square have turned into experience meetings since the picketing started. The pickets have recounted their impressions and their enthusiasms, and the enthusiasm is so dominant that many of the new recruits for the line are women who have come to these meetings and caught the spirit. On January 19th, Miss Anne Martin spoke as a voter as well as a picketer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=430,1373,826,550"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The justice of suffrage is acknowledged,\" she said. “The idea we now have to overcome is that there is no injustice in women's having to struggle for suffrage for an indefinite time. We must show people that justice delayed is justice denied; that women should not have to wait two years more, or four years, or any number of years for justice. We must use a new kind of demonstration in order to express this idea. To go on having the same kind of demonstrations would make people feel that suffragists expected to go on having them forever. Our aim is to symbolize, to dramatize for the whole country the women's demand for immediate enfranchisement, and to throw upon the President the responsibility for further delay.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=427,1926,828,690"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Women Understand",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=617,2885,460,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE picketing of the White House grounds by a committee of the New York Congressional Union for Woman Suffrage, in the hope of inducing the President to commit himself to their cause, apparently worries some of the President's newspaper friends much more than it does the President himself. When the committee started to Washington, the New York World insisted that its mission was an example of feminine lack of knowledge and logic.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=435,2970,826,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In a solemn way it pointed out that the President has no more to do with the amendment of the constitution than the chief justice or the marshall of the District of Columbia. He can neither assent nor dissent. If two-thirds of the members of both houses of Congress see fit to submit an amendment to the states, the President is not consulted at any stage of the proceedings.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=438,3494,824,413"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "———————",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=1293,472,827,1932"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pennsylvania Day at the White House Miss Caroline Katzenstein, heading the line at the gate",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=1325,2437,768,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Press Views on the Picketing",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=1201,2721,1017,93"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "If the legislatures of three-fourths of the states ratify the amendment, the secretary of state has only the ministerial duty of proclaiming the fact. All of which indicates that the women are bardly as illogical as is the World. All that it says on the subject of a constitutional amendment applies with almost exactly equal force to any legislation proposed in or passed by Congress. In theory the President has no more to do with initiating such legislation than he has, according to the World, with initiating constitutional amendments. In practice, however, particularly under the present administration, the President does initiate and Congress has been merely recording the President's will. Examples are too numerous to recite in full, but the canal tolls furnmish a typical one, wherein Congress not only obeyed the President's mandate, but did so by repudiating its former action and by going directly counter to a pledge made in the national platform of the dominant party. The women understand perfectly the way things are done at Washington.—Seattle Post-Intelligencer, Jan. 14.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=1301,2887,824,1021"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On January 26th, Mrs. Richard Wainwright, wife of Rear Admiral Wainwright, told a bis group of women what picketing outside the White House meant to her. “While I was standing there,\" she said, “the thought came to me that we were in very much the same position as is a person who is locked out of her own home. You know how it feels to go to the theater and get home late without a key and find the door locked and the other members of the family asleep. You ring the bell, you whistle, you knock, you call. You stand outside, while inside are the servants who need your direction, the children who need your care, the man of the house who can't get along without you. Finally you rouse the neighbors and they help you to wake your family.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2167,439,829,805"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We women are shut out from the government in which we have a right to participate. So we stand at the door of the White House to ask help from the President, who represents to us the gates of the nation just now. We stand there that we women who bear half the burdens of this government should have that door opened for us and that we should come in.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2167,1249,827,342"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Imitation is the sincerest flattery, and I think the President of the United States is imitating us. He goes down to the Capitol—he calls it camping, but it seems to me that he is picketing. I also saw in my paper that Senator Sherman, being quite vexed at this innovation of the President's, says that the Senators will come up and camp for three days a week at the White House. We seem to be in good company.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2165,1593,828,391"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LANS are proceeding for the demonstration p in which the picketing will culminate on March sth. At twelve o'clock on that day President Wilson will take the oath of office at the Capitol. Mrs. Robert Baker is arranging for a great delegation of voting women, supported by non-voters, to meet him after the oath has been taken to protest against his first term's having gone out without action on the federal amendment and to ask that he begin his new term by initiating legislation which will bring about the passage of the measure.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2165,2059,832,563"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Woman Suffrage and the President",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2193,2894,776,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE women suffragists of this country, some T of whom have been pleading for over half a century, do not intend losing the advantage they gained when they forced from Mr. Wilson's lips the admission that their cause is just. Every time he leaves the White House he will be confronted by a banner inscribed with the women's plea for votes, and if this fails, other methods will be employed to keep the principle of woman suffrage fresh in the mind of the chief executive.— Toledo, Ohio, Times, January 13.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2164,2980,830,542"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Watchful Waiting OMAN suffrage is lending a compliment- W ary indorsement to watchful waiting that fully warrants President Wilson in taking off his hat to the sentries in courteous salutation. —W ashington, D. C., Star, Janwary 20.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-31/canvas/p6#xywh=2167,3589,826,325"
+  }
+ ]
+}

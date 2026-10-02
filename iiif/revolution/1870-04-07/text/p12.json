@@ -1,0 +1,260 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p12.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "220",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=167,160,88,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "EETING OF NEW YORE CI1Y AND COUNTY SUFFRAGE ASSOCIATION.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=159,246,541,65"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Taz regular monthly meeting was held at Cooper Institute, Room No. 24, on Friday sfternoon last. In the sbsence of the President, Mrs. Wilbour, the Vice-President, Dr. R. T. Halleck, took the chair. Mrs. Crosby, Secretary, read s letter from the President, expressing her kindly interest and mentioning the fact that Mrs. P. W. Davis had given a very successful lecture in Jacksonville, Floida, the first on the subject of Womsn Suffrage ever given in that State. A resolution of sympsthy with Dr. Sussn B. Smith, of Phideph n, n her resistance to taxation, was adopted.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=143,344,559,448"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Delegates were then appointed to the anni versary of the National Woman Suffrage Association, to be held in May next. Tuey were Mosdames Tucker, Bruick, Thompson, Halleck Stearns, Poole, and Miss Clara Norris,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=143,795,555,156"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss Mary F. Davis, of New Jersey, was then iuvited to address the meeting. She smd that men and women in their progress tarouh lfe are always admitted to be interested in all mat tors jointly, except political questons. which. after all, affect them both equally. One argument urged against giving women the ballot i that they will not use it; but she maintained that the man who always voted couscientiously was the best ocitizen, and so it would be with women; and as they had generally s good moral sense they would be apt to do their duty in this respect as in others. A great deal had been said against allowing women to sit on juries; but where women coald go. and must go, as criminals and witnesses, it was most certainly their mght and their duty to go as jurors, and even judges.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=142,953,556,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dr. Ha'leck said one very curious fact elicited by the present agitation was, that men, from their remarks on the subject, one would think, regarded women as some new and wonderful bipeds recently descended upon the planet, rather than one-balf the human race who always bad existed side by side with men. He then commented on the mixture of conceit and sudscity which prompted a variety of young women, but little out of their teems, to come before the pubho and attempt to controvert the arguments in favor of the ballot which had been so sbly presented by women whom these girls had not the intellectual ability even to comprehend.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=144,1525,557,438"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Blae said it was painful to her to see statements in papers opposed to this movement that when women could vote, marriages would be less happy then at present, when it is generally admitted that women observed the sanctity of the marriage-tie better thaw men, and it was only reasonsble to suppose tbat when women had more power they would wish to increase rather than break down the barriers which proteot the basis of society. Equally absurd and weak was the argument that infidelity would acoompany Woman Suffrage, when rehgion is in feot mainly supported by women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=150,1968,555,411"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mr. Poole and others followed, meluding Mrs. Leagett a stranger from Cansda, representstive of the drama, who spoke with partionlar force and earnestness The meeting then adjourned to meet at same place on first Friday in May, st half-past twe, afternoon",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=154,2381,554,188"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Wonan Sursa S7. Loor.—The Wo. men's Suge Ansociation held an election last Saturday sfternoon. President, Mrs. Frances Minet; Vice. Prosident, Mrs. Beverly Offin",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=157,2613,556,130"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ti responding Secretary, Mss. Wm. P. Hazard. Delegates were appoimied to sttend both the National and the American Suffrage Associstion Conventions eoon to be beld in New York.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=724,160,563,247"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WaATKINS, N. Y.. March 28 h. 1870",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=847,456,409,31"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WaATKI, N. Y.. March 25h. 1870 Dzan REvoLUTIOn By correcting su error which sppesred in an item in a lste issue of your paver, you will do me s favor. I am represent ed in said item, as having been conpected with the Elmirs Female Coliege. Ths is a mistake as my Alma Mster was the Ontaro Seminary at Canandaigua, New York. For the past two years I have had charge of the \"Ladies Liberal Ibstitute, at Climton, New York Having sundered my connsction with this institution. I may now. without charge of egotism, or sclf-pruse, speak a word in ite favor which I shall be grateful for the privilege of domg through the columns of your popular paper, wh-re my \"word must, becsuse of your extensive circulation, meet the eye of so many having daughters to educate.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=719,456,564,577"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As a school for young ladies, where an extended aud thorough carriculum is enjoyed by its students, no Seminary in the land., m on vinced, can offer superior facilies to the Clinton Institute. Its Facuilty conmsts of ma ladies of thorough education (and this i something which should not always be taken for granted regarding many schools and seminaries), who have had the advantage of extensive experienc as instructresses Miss Mary S. Baoon. its present principal, is a lady most highly esteemed for her intelleotual culture, snd devotedly loved by afl who know her, for her truly womanly attributes of",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=719,1043,564,485"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The building and grounds of the Ledies Inst tute sre commodious, well fitted up, and cheerful, furnishing for the inmstes and the institute many advantages, home-comforts, and even luxuries, rarely found st boarding schools. Most conscientiously can I recommend any desirous of sending their young daughtors from home, to a school where they will be wisely and tenderly cared for, as to physical health. manwers and morals, and where they will be trained imtellectually with the utmost paims-taking and fidelty, to commit their daughters and wards, to the kind and motherly gusrdianship of Miss Bacon. and her efficient corps of sssistants.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=722,1534,563,445"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "In the item to which I have referred. you allude very complimentary to the hospitalities ex tonded Miss Bisbes, upon occasion of s isit of this young lecturer to Watkins, two or three years since. The vist of Miss B. with one of T RvoLoN Associate Edrtors, Perkes Pillsbury. and the imtoresting and imstructive loctures dehvered by them, are. still remembored most piessurably by the Watkins public. The con vincing logic of Parker Pillsbury. upon thet ocasion, was. 1 am convinced, instrumentsl in arousing the, interest of many who had mever before given sttention to the Womsn tion.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=726,1982,563,442"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Agitstion upon the various phases of this theme, is all that is meeded in resding and thinking community like ours. in this wide awake. enterprising village of Watkins, to con vinoe it of the justioe f the demands pow be ing made throughout the cavilimed world by and Thersfore, thet information upon thi thems may be deinted, thought d fe cited, brain and beart both aroused. and",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=731,2427,564,319"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1ogo ot pr, send us \"agitstors!",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1311,249,551,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1ogiol and cloquent speakers, men snd women Lovs Bownes Do. VioePresident for Scbuyler oounty of New Yor Womsn's ufrage Aocition ——————— THE. WOREKING WONMAR",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1311,249,554,257"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "———————— THE. WOREING WONMAN\" Tazzz so much willmgners to work, much esrpestness and kimdty feeing among vanced women, that it seme an mie prty pot to concentrate all these imfiuenoes suo as to render them most powe ful for efecting their objeots. Partcularly st the present juncture women cannot afford to divide thesr foroes. or besitste in what way. or bow far they shafl gve themselves to the work that lies beiors them Whatever it may be, let them won talk abont it. nor wine compisipingly, por ask sympsthy on account of thew sex, nor wop to throw stone in any other woman's way, but do a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1307,414,559,543"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "There 1 no field of empioyment that is not open to woman's persev rance and efforts well as to those of men There sre pienty of men who never sunceed in mskomg even hving —there are others who work steadly snd pers. veringly for years in orde? to entahsh the con fidenoe of the public or of an idavidual, 1 thew trustworthimens od capacity Busimess is business. and wome must enter mio it upon the same bass as meon 1 will say, for their encouragement. bowever. that I have pever knowa one im earnest to fal But I have known men.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1306,961,562,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A young ledy writes that she thinks tolegraphing very bad busimess for women tht she bas looked for a situstion for thee months and bas pot yet found it. But it she does mot find s situation in three months more. it will not prove telegraphing s bad businens. por a prove the fact that many young women sre earning an excellent and bonorsble bvelibood by it. There is bhardly any employment st which some people are mot only earming a good hvms but making money. Tre question gomery one of skill, competoncy. snd stondt por pose.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1306,1374,560,441"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WouEs AncErTRCTS.—Anong the mew and antried fields ready for the oocupstion of women is thet of awelling bouse srohmtur. Evey housokeoper knows what enormons pdity has generally been dispiayed in the contrueon of the family awellimg the waste of cormer. the saorifioe of detail meoary to o and comiort. to apparent mize wnd shew. the utter ignoranee of those points in the imter nal arrsngoment which promote eouvonienoe and comtort and save time and l Some body hes istely undertaken to show bow moch actusl money bes boen we i pp p the lettor \"in hononr and sim word Could any one, or doren porsons. compote the me, money and ve oy lsbor of women owing to the miserle oon struction of dwelting houses",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1308,1825,559,599"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "in two how t te w pecil con e w meontioned were found t hve a indi Women rlly p wanto ot and clost of the want of windows tor vons istion. of the imoeiity of o most important setions ti. and varions othe r g. o",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p12#xywh=1313,2428,556,316"
+  }
+ ]
+}

@@ -1,0 +1,667 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/text/p3.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Weren't TheyDelicious? Educator Wafers, buttered as you would butter bread. Of coure you've wried them. But I bake another Educator Cracker, which I'm sure you'll enjoy just as much. It has that rich, sweet, nut-like flavor peculiar to all EDUCATOR CRACKERS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=360,938,492,357"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "h is called the Toastorette—already butteit t o at nd toed ete roTal e, to, t al—ith the whole wheat flour freshly wound by real old-fashioned mill stones. And each day's baking I personall to make sure that is just why, Educator Toasterettes are so ? aciglydifere fro amy other o tat them once yoursel o from us. send 10 cents In stamps for arge trisl box, please mention your grocer's nae. JOHNSON EDUCATOR FOOD CO. 24 Batterymarch St., Boston, Mass.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=362,1340,493,404"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Chalkley, who would not do credit to her kin if she were other than what she is, a forceful worker in the vineyard, for she is a niece of Olympia Brown Willis; Miss Hoffman, ex-president of the State E. S. A., and the present superintendent of press work for the Association. She is a perfect dynamo, and her energy for the present year is being used to roll the suffrage ball. There were county officers in numbers there, and to help us by their encouragement, a group of women from our sister city, Kansas City, Mo., alert, brilliant and enthusiastic.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=352,2108,568,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "km as re s0 it d. a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=0,2379,34,372"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“It certainly was woman's day. There were those who were born suffragists, those who have become suffragists, and some who by their association with so much enthusiasm will certainly have suffrage thrust upon them later. One family was represented by three senerations, Mrs. Rose, the witty toastmistress of the occasion; her mother, and her own daughter, a young university student.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=354,2710,565,409"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I can't tell you what a pleasant day we had. Of course the speaking was all to the point of votes for women, and if there were any there who were lukewarm in the morning, they certainly must have absorbed considerable suffrage sentiment during the day.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=352,3120,565,296"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The little lady who met us at the train had been up all night with a sick baby, but her bright eyes and busy fingers gave no sign. And now, lest you might think that baby was neglected, I want to tell you that a trained nurse was called in to care for it during the day, and, as the father was taking us to the train in his car, 1 asked him how baby was. He answered, 'I drove out home a little while ago to see, and he is doing nicely—better than he was this mornins. He's a fine boy, I tell you!\" That is one type of father and mother that believe in equal suffrage.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=351,3417,567,591"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "INDIANA WOMEN CAST A LARGE STRAW VOTHE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=353,4048,551,78"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Equal Suffrage Is Also Advocated Be fore the Bar Association—A New Spirit Stirring",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=352,4172,555,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As already mentioned in our columns, the Indianapolis Star has offered its women readers a chance to cast a straw vote for President of the United States. Much interest is being shown, and more than 15,000 women have manifested their preferences, most of them being for Roosevelt. Mrs. Antoinette D. Leach writes us that this is proving “a sreat Statewide education.\" She says women are voting who thought they did not want to vote, and whose husbands were",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=347,4320,572,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE WOMAN'S JOURNAL, MARCH 2, 1912",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1217,232,1138,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "sure they never would vote, and “great enthusiasm is being manifested all around.\" The Star calls this contest its “presidential preference primary.\" Mrs. Leach adds:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=936,325,575,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“We had a sreat celebration of Susan B. Anthony Day here, and a large crowd of very interested women. I feel very much encouraged about Indiana. Not only that, but at a recent meeting of the Indianapolis Bar Association Hon. William Dudley Foulke of Richmond, Ind., was the chief speaker, and he spoke on the revision of the present constitution. He advocated a change—but in the regular way, not in the Marshall style—and said that 'there were many changes needed, viz.: in the criminal code, in the corporation law, and last, but not least, we must have votes for women. When Bar Associations take the matter up, there will be something worth while.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=933,516,576,712"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A GERMAN HOUSEWIFE ON CITY HOUSEKEEPING",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=939,1280,562,81"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Pioneer's Daughter Champlions Votes for Women",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=942,1398,557,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A former president of the Consumers' League of Wisconsin, Mrs. B. C. Gudden of Oshkosh, has replied to the recent declaration of the German- American Alliance against votes for women. Her answer was written at the request of the Political Equality League of Wisconsin, and a very good answer it is. Mrs. Gudden says, in part:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=930,1511,575,376"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Louis XIV forecast the French revolution in his dictum, I am the state. The German alllance places itself in the same position in its opposition to woman's suffrage, and will doubtless be overtaken by the same revolution. “As a German by birth and education, and as the daughter-in-law of a broad-minded pioneer who left the fatherland in 1848 in search of liberty and representation, I cannot understand the narrow view of less progressive pioneers who deny to women the civic rights they themselves fought and suffered for.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=935,1889,570,558"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“German women have always been considered ideal home-makers and housewives. Possibly if they look upon suffrage from the broader responsible standpoint of municipal housekeeping, those who have hesitated may enroll in the vanguard of voman suffrage for Wisconsin.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=939,2455,565,298"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A HOT TIME IN OHIO (Concluded from Page 65)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=997,2800,452,110"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hearing was over, the committee went into session and voted out the amendment twenty to one.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=940,2944,565,108"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“When the Antis saw that their efforts were of no avail, they changed their tactics and advertised a public meeting. We all went. The leader was a Cleveland woman, Mrs. Gundry. She began by saying that she could make her own hats and clothes, and could support herself if she had to. It was a foolish talk. She pointed out all the weaknesses of women, and I was horrified that any woman could so berate her own sex. There were about three hundred present, more than half of them suffragists.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=935,3055,568,519"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The next day sreat numbers of people flocked to the Columbus Suffrage Headquarters and joined us— like Mrs. Ex-Gov. Campbell and other influential women.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=935,3578,570,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“That afternoon, Stanton Coit lectured at Columbus Library Hall, with Dr. Washington Gladden presiding, and there was such a crowd that several hundred could not get in, and they had an overflow meeting, addessed by Mrs. Harriet Taylor Upton. She told the audience what Mrs. Gundry had said about making her own clothes, and went on: “I once knew a man who made his own trousers,' and she told what kind of trousers they were, and added, 'but no one ever thought he ought not to vote because he made his own apparel. This struck the audience as sensible, and they gave good attention. The Antis, not expecting a crowd, came late, could not get into the hall, and were all in the overflow meeting, listening to Mrs. Upton.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=929,3764,571,775"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The Columbus ladies secured a lot of new members, and many men have given their names for a Men's League. Mr. Jaros was made secretary. “We still have a majority of the Constitutional Convention for us. Fortunately, the convention is not",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=928,4545,571,258"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "composed of politicians, but of farmers, labor men, and college professors, with lawyers and business men. They will be harder to corrupt.\" Another Ohio friend, Jeannette Eaton, writes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1525,320,566,231"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Interest in the question is now in Ohio rising to a high pitch. As everyone now knows, the Suffrage Committee reported twenty to one in favor of suffrage. But not cnly has this success roused widespread enthusiasm, but quite as much has feeling been stirred by the formation of the Anti- Suffrage party, unknown here and even undreamed by its present leaders, until last week.\" She says of Dr. Coit's meeting:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1522,552,569,448"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“A thousand people were present. Many had to be gathered into an overflow meeting, at which the Antis were laid away forever in the Lethal chamber, withered and scorched beyond recognition by the burning arguments hurled at them. There has never been a more wide-spread interest amonsg the women of Columbus than has now been aroused for this cause. The opposition of the Antis has created a political issue, has sreatly increased our earnest sympathizers, and has given the whele movement immense publicity and impetus.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1519,1004,567,560"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PERIER A CONVERT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1595,1611,420,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Cencluded from Page 65)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1602,1699,405,37"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "tion, he said. “Women's sreatest work in behalf of the advancement of civilization is their opposition to war. The Sabine women rushing in between their army and the Romans is the classical example of women put ting an end to war.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1521,1801,564,266"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Now, when the armies lie perhaps ten kilometers apart and shoot at one another, it would be a waste of time for the women to walk back and forth between the two armies; their influence is less direct, but none the less powerful. Women by their votes will work against war; women by their influence in the home work against it, have worked asgainst it from the beginning; and when war does come, by their service in the field as nurses, they do much to minimize its horrors.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1522,2070,567,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“All the werld over women are similar; women living in different countries are more alike in their attitude towards life than a man and a woman living in the same country. In Europe, where a journey of a few hundred miles takes one into a land where an entirely different language is spoken and an entirely different civilization prevails, the men are. different, but the women are all working for the influence of the heme and fighting against war. Their work may appear different, but at bottom it is the same.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1520,2594,567,558"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“English women are working for the vote, and whether or not they are adopting the best means of attaining their end, I firmly believe that, if they should gain it, England would be greatly benefited by the change. Their vote would benefit British society in a vast number of ways. Ensland would do well to look to Norway, where the terrible curse of drink has been made a thing of the past by the enfranchisement of women.\" Mr. Casimer Perier expects to return to California next year to take personal charge of the develcpment of French trade and interests.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1521,3156,563,594"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "GOSSIP AND GLEANINGS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1539,3795,527,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Twenty-five news-stands in Cleveland, O., had The Woman's Journal on sale last week. The play, “Her Great Match,\" lately given by the Massachusetts W. S. A., cleared about $1,200.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1515,3870,567,260"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sreat Suffrage Bazar in Philadelphia is in progress as The Woman's Journal goes to press. It promised to be a brilliant success.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1514,4166,567,151"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Our readers will be pleased this week to see another Headquarters Letter from Mrs. Dennett. Her report of the great demand for suffrage literature is most encouraging.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1517,4354,563,184"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "L. C. Schmidt has just been arraigned in Columbus, O., for killing Amos Joiner. According to Schmidt, they had quarrelled about woman suffrage, in which Joiner believed and Schmidt did not. Suffrage is evident-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=1512,4573,568,227"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ly a burning question in Ohio, and this opponent, seemingly, was worsted in argument, since he resorted to shooting. Mr. Witter Bynner lately visited Princeton and laid the foundations of ancther Men's League for Woman Suffrage. He is an indefatigable organizer of college and university men in behalf of votes for women. WHAT TO DO AND WHAT OTHERS ARE DOING",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2105,318,574,507"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The following letter came from the Illinois Suffrage Association under date of Feb. 17:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2109,841,563,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“You will be horrified, 1 am sure, to find that we are again pretty low on the subscription blanks. We sent out, you will remember, two to our full list, which was something like six hundred, and ten to each of the suffrage clubs. We are having, as you know, some responses, and if you are willing to send us plenty of blanks and a sample copy whenever we have an application for suffrage literature, it may bring some returns.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2103,955,570,489"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I wonder if you could send us a supply of the little leaflets or subscniption blanks on one side and Victory through You' on the other; also some of the blanks of 'What to Do and How' with a subscription blank at the bottom of the page. We will take as many of these as you can spare.\" We are not horrified but delighted over the contents of this letter. We only wish that every active State in the Union would stand by The Journal in this splendid way.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2102,1447,570,528"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Under date of Feb. 17 the following letter from Cleveland, O., was received in The Journal office:",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2108,1976,564,113"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I am having the Cleveland News Company send for a number of papers. We hope to have suffrage literature on sale in twenty-five places in the city next Saturday. We are having an advertisement made after the style of our usher's badge. I will send you a copy later, but the thought came to me that you might be able to boost The Journal decidedly if to your agents you would occasionally send the cartoon on the front page. Just take the cartoon and print it on a sheet of light-weight paper with simple statement, 'Woman's Journal, National Suffrage News, five cents, and send it out to be stuck on the windows. Twenty-five of those this Friday would help our story wonderfully; our dealers will use such in their windows.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2106,2092,569,783"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A list of nine new subscriptions has just come in from Grand Rapids, Mich. Among them are the president of the Children's Home; the editor and publisher of “The Times\"; the wife of the Representative who imtroduced a marriage bill into Congress, and the chairman of the Medical Milk Commission. The woman who sends these subscriptions writes: “My subscribers are all delighted with The Woman's Journal. I am confident a Journal subscription is the best possible way of making and encouraging workers.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2104,2880,566,559"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "As the list contains such a large percentage of influential people and as they all like The Journal, the",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2105,3442,559,112"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE NEXT BEST THING.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2420,3604,509,44"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Resourcefulness Counts Immensely for Votes for Women and Often Makes Up for Courage and Wealth",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2107,3679,1122,75"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "When the typical suffragist of today finds that she cannot help on the cause in the best way or the way in which others help it, she does not lose courage, but she begins to cast about to see what she can do. When she can't do the best thing for the cause, she decides to do the next best thins. For instance, three suffragists were asked to sell Journals on the street some time ago. They all said they could not do it. One works Saturday afternoons. Ancther has not the courage. The third has not sufficiently good health. Not one of them has ever joined the newsy corps for selling papers on the streets on Saturday afternoons. But they have all done something, each in her own way, to encourage the street sales of The Journal. For instance, one of the three invited the whole corps to her home for tea after selling hours one Saturday afternoon. Another came along last Saturday at four o'clock and invited the newsies to hot chocolate. The third offers herself for",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2098,3793,569,1003"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "cause and the paper benefit splendidly by the efforts of one suffragist. One way of winning is to get all the influential people acquainted with the merits of equal suffrage.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2700,321,564,187"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nora Perkins Jeanson of Wisconsin is doing unique work for The Woman's Journal. She writes that her experience in selling The Woman's Journal on the trains is really worth while. She is lecturing throughout the State and avails herself of every opportunity to sell Journals. She writes: “I hold meetings on trains, get five, six or seven in the end of a train and take up the subject of human rights. As soon as the boating season opens I am going to make a suffrage tour' in our launch, “The Juanita, and hope to have some of the Illinois women accompany me.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2697,510,567,643"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A Kentucky woman writes The Journal as follows: “If you have any old or extra papers on hand that you would like distributed I can do so for you, as I am a teacher. I will do so freely, gladly!”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2693,1162,565,225"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mrs. Ethel Sparks of Mackinaw, 1ll, was the first person to respond to the appeal of the mimois state Association for two new yearly subscriptions to The Woman's Journal. Our readers will remember that the Illinois State Association has started a campalign to double the subscriptions to The Woman's Journal in their State. Their plan was to send a letter to each subscriber asking her to get two more subscribers and sending her two subscription blanks; and send a letter of appeal to each league president and ten subscription blanks asking her to get ten new local subscribers. Other Ilknois women are responding, but Mrs. Sparks has the honor of being the very first.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2692,1394,567,753"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "An Ohio woman writes as follows: “Dear Girls: I am sending my Journals out as fast as they come in and enclosing a subscription blank and “What to Do\" leaflets, but now I am entirely out of them. Can you send me some more? .. . I am interested in your cash offer for suffragists—for the more people we can get to read a copy of The Journal the more subscribers you will have. I will be glad to have anything you can send me for distribution, and let me know of any plans you have that will help our country women to help you.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2695,2154,564,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "A Massachusetts woman has evidently been moved by our exhortaticns to sell The Journal on the streets and to get new subscriptions. for she writes us as follows: “Enclosed please find check for $2, $1 is to pay for my Journal and $1 is for contribution toward running expenses of The Journal. As I cannot sell papers on the streets or take active part in circulation plans please accept my mite in this way.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2690,2764,568,447"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "It is fine to know suffragists are feeling that they must do something for The Journal and the Cause. What if every reader of The Journal should be moved to do one of these three things: Sell Journals on the streets; take an active part in the circulation plans, or contribute $1 for running expenses",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2685,3218,568,333"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "sy service at any evening meetings when she is free.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2679,3792,567,71"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "These are all small matters, but they dfive encouragement, and they show interest, originality and re sourcefulness. They show that where there is a will there is a way, and they furnish an inspiration to others who want to help. Everything counts large in pioneer work. The accumulation of small things shows which way the wind is blowing. The most important thing, of course, is to care deeply; and while this suffragist and that is casting about for her way of helping, who knows but that the very best way will be discovered?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2681,3865,565,553"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sun is getting warmer, the days are getting longer, and the weekly sales are increasing! Those who feared to risk the rigors of street sales in freezing weather may plan to start the work soon. Send for instructions on How to Begin. It makes good reading for a suffragist, and cannot fail to appeal to the enterprising'",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=2683,4423,564,339"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "67",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/womans-journal/1912-03-02/canvas/p3#xywh=3202,236,61,49"
+  }
+ ]
+}

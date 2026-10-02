@@ -1,0 +1,249 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/text/p1.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "he Revolution.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=472,87,1361,198"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "VOL. V.—NO. 14.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=320,461,261,36"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "hr Hcnsutinn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=297,557,553,92"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "PUBLISHED WEEKLY, $3 A YEAR. NEW YORN OTTY SUBSORTBERS, $3.20",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=335,687,473,76"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ELIZABETH CADY STANTON, Editor. PAULINA WRIGHT DAVIS, Cor. Editor SUSAN B. ANTHONY, Proprietor.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=309,803,540,95"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "OF FICE, 49 EAST TWENTY THIRD ST, N. Y",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=323,936,489,27"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Poctry. THE WINDOW JUST OVER THE STREET",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=296,1011,548,119"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "I have nothing wweet to hope or remember. For the Spring o' th' year and of life bas flown \"Tis the wildest night of the wild December. And dsrk in my spirit and dark in my chember 1 sit and list to the steps in the street. Going and coming, and coming snd goms. And the winds st my sbutter they blow and best \"Tis the middle of night and tne clouds sre smowing And the winds sre bitterly besting and blowing. I list to the stops as they come and go, And list to the winds that are besting and blowing. And my heart sinks down so low, 90 Jow No step is stayed from me by the spowine, Nor stayed by the winds so bitterly blowing 1 think of the ships thst are ont at e. Of the wheels in th' cold, black waters turn ing Not one of the snips beareth mews to me. And my besd is sick, and my beart is yearninu. As I think of the wheels in th' blsch waters turning",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=288,1195,562,555"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Of the mother I think, by her sick baby's bed. Away in her cabin as 1oneome and daresry. And littte and low as the fisx breskors shod Of ner patience so sweet, and ber silence so weary. With cries of the bungry woll hid in the prairie. 1 think of a thinge in the world that wre wd Of chuldren in homesick and comfortiess pisces Ot prisons. of dungeons, of men thet are mad Of wioked, unwomsanly light in the faces Of women that fortune has wroaged with disraces 1 thimk of s dear little sun-lighted besd. That came where po band of us all coul deiver And craned with the cruciest pain went to bed Where the sheets were the toam tretted waves of the river Poor orn my e The footstop grow int and more frint in the mow 1 put back the curtain in very dewpeiring The masts orea amd gro s the wind come aa g And the light in the light-house all weirdly is Saring But what glory is this, o the gioom of despairing",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=288,1759,565,596"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "1 0 at the window just over the stree t. A maid in the lamp-light her tove. let tor re dime. Ber red mouth m in, he And the beart in my bosom is cured of its bleedins. A1 100h on the midn her o e i he has fnished the hottr, wd fol ime , i And ae t And mow in the hearth e ory A vision of grace in the rosete giow. 1 e ber unbinding the braids of hor ren And mow as she stoops to the ribbon thet tn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=290,2368,543,322"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "And mow a she wtoope the ribon t —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=288,2663,565,340"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "NEW YORK, THURSDAY, APRIL. 7, 1870.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=846,462,630,35"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "e pper. they t e o An o To mather them up ins fllet of lace And now she gone, bul m fancy trece The lvendered imen uporswn. e rouns r Hall sunk in the counterpane's broidered roses. Rovealing the exquimte outhine of form A willowy wonder of grace that reposes Beneth the white onr fey with rone e te Der Where the passionste dreams are so swest in ther sally The r httie ngrs they remble amd part As part to th warm waves the lesves of the hly. And they piay with her hand fike the waves with the 1ily",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=873,555,561,456"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Io white fiey Sowers. the queen o' the fowers k What to ber is the world wih tts bed, bitter westher Wide she opens ber arms— ah. ber world is not ours P 3 no e t gether— o What to ber 1 our world, with $ts ciouds and roug?B westher b Harsmidoigtthe winds m he ee biow an best 1 drop own the curtain d say to my o Thank God for the window just ovor the street Thank God there is siways a light whence to borrow. When dsrkmess is Garhet. md Sorrow, most Sorro ALsc CAn (ntered sccording to Act of Congress, im e yeur 187, by Alioe Cary. in the Clork's Ofoe of the Dierict Court of the United Statos, for the Southrn District of ew York.)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=846,1011,630,547"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Born Thrall",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=935,1593,445,43"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BY ALICE CARY CwAPTER R1 THE MYSTERY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1002,1677,305,145"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE MYSTERY",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1071,1797,163,25"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SALLY RPLEy s matursl orbit wes bouse-keeping, and she revolved in it on the evening in question with wonderfal celerity and splendor Up went the sieeves, as by instine, and the broom-bandle im her hands seemed to spin round of itselt—the egge in the bowl beoame froth im a minute, and, the butter in ber pot asly ran Jike a whirlpool. The unsecustomed eye could bardly follow ber, as with a towel for an apron. she flew from cupboard to table, and from table to cellar, and out and in, and in and out, simging smatches of rude ballads, and talh me to berself. one of bes visitors, o some chalr post, a it bappened. By way of patronage she gove Theress the handile of the wying-pen to bold. while the pioces of bacon wers frying for supper. wd this bandle was ome t y long. nd the pan on the fire, it must have ombsrrned the free movements o mot young isdios, but to Sally it was rher an dvantage. heiping to show ber dexterity; and while Reohel wes yot making bor jonst, she turned the mest out into great di thet occupied the middle of the table—whked up the chair, and king a un orn from its place by the me of the cloon, stepped to the door and blew lusly for supper.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=873,1834,564,852"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "WHOLE NO. 118.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1708,465,267,34"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The sound of oarriage wheels being besrd t that moment, Rachbel looked from the window, and exclaimed that wwitors were oome from town. The knotty stick was thumped down before. Woman, what's town \"cried Mr Ripley. And by siow degrees the daggers of bis ers drew themselves ont of the beart they had stabbed through and through",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1454,558,565,316"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "bed through and through. comp'ny'cries Sally—town or not, a body 's got to make s difference and she hastened to pull down her sieeves, and dsb back some of the tangles of ber beir. afer which sbe replaced the common with the best knives, filled two ssucers to overfiowing with preserved fruits and removed s dish of oold turnips. Sbe also brought fort from its ooncesiment on the upper shel of the cupoonrd Britsnnis teapot, which for seven years or more bad been Genominated the mew toapot, and which Mrs. Rapiey meer p o folks came visiting. Having emptied into t the contents of the old one, which wes seamed with black oracks, and checkered with tis boops thet held it together, she placed it on the bearth before the fire. and burried sway to weloome the visitors.—they were Mrs. Damiel Toplow. a she styled berwelt on ber oard, and ber on P Toplos—probsbly John or James Pitkin in e first place, but only Pitkin mow. We ar obliged to crave your hospitality for the might. myself snd Pitkin,\" says Mrs. Toplow, tonsing back ber wet ribbons, snd offering ber bend to Mr. Rapley, who by this time had taken his pinoe at the table. Her dress was qute too showy for its cost, and so unequally combined as to be.almost groterque, as if indeed one artiole bad been imported from Pans, and spother manufactured in ber owh basoment hiton. betw the Fontimg of the t. the aig o pastry. Her voo w hap d eyed p to high prioh by or o , eyos were sunken snd hed an eager look, and her manner was aggreve he bed born used to etbowing ber own way in the world. and had mot got on moh that The on wee shght, paleed young man. with By o bair. and bands as white s ile an ot only shght was he. bt pt og er h log festommot joim om hend to ot t womed firm. sured. or we Hs re was inbsrmonions Bke his mother's, wnd bore masks of ber bands in dentrous petohes wnd darns. Be wore s Btue ohip hat o one his head, ormemented with a bipe ribbon. ye low kid gh ves. much the worse tor wenr. a oo lar flumg down, and d wi i io nextonie ow apangied with stnds, andever pon rings on his imp bee Suger ia asite ansed aibes to ian eeotentiatime",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1458,841,561,1671"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "His wits soemed rther t e woi than. efciomtty t beod. a be co y plind to his mothe in oi eipl When w i. —you know how w. o. like",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-07/canvas/p1#xywh=1456,2495,555,184"
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/text/p8.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SUMMER CAMPAIGN",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=385,271,860,94"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Philadelphia Headquarters",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=483,405,691,75"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Saturday evening Reba Erb and I had a meeting at City Hall Plaza. This is the first time we had spoken at this spot excepting from an automobile. This time we mounted the stone paling surrounding our City Hall and held on to the iron railings for support. We had an interested audience of about five hundred people; about twenty-five different questions were asked, many of them were answered by men in our audience, and were answered so well that a man asked Miss Erb if we had our crowd with us to answer our questions. We adjourned our meeting at 10:45 and left about two hundred people listening to two members of our audience arguing the merits of suffrage. We hold meetings at this place twice a week and we find that we have regular attenders who have reached the stage where they want to answer the questions put to us.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=389,518,860,1004"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Monday evening we had a meeting in the manufacturing section, speaking from a “grapejuice box.\" We had an intelligent audience and at the conclusion a man came up and told me that he was a Democrat and was an anti until he came to our meeting. He said he “was converted and would not vote the Democratic ticket again unless that party brought up our bill this session.” He made this statement publicly.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=398,1527,858,520"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Wednesday I received word to go to Atlantic City at once. I arrived in time to speak at the afternoon meeting; found Miss Smith doing wonderful work, all alone. I remain in Atlantic City until Mrs. Stubbs returns. Anna McCue, Congressional Union Organizer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=399,2053,858,362"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Atlantic City Headquarters",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=488,2541,704,74"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The successful campaign which Mrs. Stubbs has been conducting here this month is not slackening during her absence. Miss McCue speaks at four o'clock every afternoon on the “Working Woman's Need of the Ballot,\" in an auditorium filled with listeners who receive her with interest and enthusiasm.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=406,2682,856,363"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Miss McCue and I attended the beach parade this morning, which was given to advertise the Star Spangled Banner Centennial in Baltimore, beginning this coming week. We carried the white “Votes for Women\" parasol with a lettered border which reads “Congressional Union for Woman Suffrage, Headquarters Exposition Building, Kentucky Avenue and Boardwalk,\" and attracted quite as much attention from the crowd as the paraders.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=408,3053,857,523"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Several prominent suffrage workers, all Congressional Union members, have visited our booth during the past week, among them Mrs. W. C. Carter of Philadelphia, Mrs. Milton Mc- Neilan of West Virginia, who was on her way to the Newport Conference, and Mrs. James M. McComack of Memphis, Tennessee. They are all very enthusiastic about our Atlantic City campaign. Elizabeth Smith.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=406,3583,865,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nevada",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1678,281,195,71"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ISS MABEL VERNON, who is assisting M Miss Anne Martin, President of the Nevada Equal Franchise Society, writes Miss Martin and I have toured Eureka and Lander Counties during the past week by automobile. We left Elko last Saturday morning and proceeded directly to Buckhorn, where an interested audience heard us speak that evening. On Sunday a meeting was held at Mineral Hill as we passed through on our way to Eureka.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1346,392,867,522"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The Eureka County Equal Suffrage League, under the leadership of Mrs. Rudolph Zadow, gave us a most enthusiastic reception Sunday evening. The people of Eureka, augmented by parties from Ruby Hill, the Windfall and the Diamond, gathered before the court house Sunday night to hear us. The sympathy of the audience was plainly with our cause. On Monday we departed for Austin, where a meeting was held Monday night. Former Senator Miller introduced us.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1334,920,878,572"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "On Tuesday the journey was made to Battle Mountain, en route to Reno.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1355,1498,859,99"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Last week suffrage speakers made their way at sunset one evening out onto the hay fields of the San Jacinto ranch, near Contact. A hay crew of about twenty-five men grouped about the tents and lying on the ground listened to our appeals to vote for the suffrage amendment. When we had finished, every man in the camp (except the cook) declared himself in favor of suffrage, and every one of them put on a votes for women button, promising to wear it until November 3rd.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1350,1603,864,519"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "During the past month we have toured Humboldt, Elko, Eureka and Lander Counties and find that there is no opposition worthy of the name to be found in the northern part of the state.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1353,2129,866,203"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "According to the canvass we have recently made in Lamoille, Ruby, Clover and Star Valleys. the ranchers of Elko County, practically without exception, are going to vote “yes\" on the suffrage amendment. The same hearty endorsement of suffrage is found among the women, who declare they are not only willing but even eager to use the franchise. Mabel Vernon, Congressional Union Organizer.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1357,2339,861,528"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Members Who have Secured New Subscribers",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1414,2939,735,158"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "August 23 to August 29 Mrs. Crystal Eastman Benedict......1 Mis Eeth Sith..:. Mrs. e Hordy Stubbls. 37 Previously acknowledged in “The Suf-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1363,3144,866,546"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Note.—Through a typographical error of the typesetter, after corrected proof had been sent in, the item “Total Receipts\" in the Treasurer's Report in the August 29th issuc, was printed as $22,886.51,' whereas it should have read $22, 866.51. In the Expenditures, in the same report, there was an error of one cent—the item “Training Organizers from outside of Washington\" should have read $61.80.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=1370,3704,862,392"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Treasurer's Note",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=2471,282,547,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Contributions Toward $50,000 Fund for Securing the Passage of the Federal Suffrage Amendmen",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=2309,423,854,106"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(Fund opened December 7th, 1912. Donations membership fees and tickets are here listed; receipts from the purely business departments of “The Suffragist\" and the Literature Committee are not included.)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=2311,568,855,256"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "gust 29th, 1914 9.30 Miss Elizabeth Smith .............. 40 1.00 Miss Anna Churchman .......... 50 50 3.75 75 10.00 1.00 Miss Winifred Mallon ............. 1.00 Miss Mary McKnight .............. 2.00 hh 25.00 150.00 Mi Doall Hooker. 50.00 Mrs. Cornelius Mundy .............. 1.00 1.00 Miss Rachel Howland .............. 2.00 Mrs. Elizabeth Fairlamb ............ 25 Miss Elizabeth Eckerd ............. 1.00 3.00 1.00 Mrs. Mary C. Brassington ......... 2.00 1.00 5.00 Mrs. Alexander K. Gage ..:.. 1.00 Wilmington, Del., Equal Suffrage As- 5.00 25 Mrs. Leonard Yerkes .............. 1.00 4.00 Miss Ellsabeth Geary. 2.50 2.00 Mrs. Arthur W. Lawrence............. 75 Mrs. Sarah M. Scofieid ............ 75 26 3.00 5.00 2.00 Miss Caroline Foulke ...... 5.00 Mrs. Olive Hasbrouck ........... 3.,00 Mrs. Florence Bayard Hilles......... 25.00 Misses Anna and May Dabney....... 1.25 Mrs. Harry Lowenburg .......... 5:00 1.75 5.00 Miss Clare S. Currier........ 2.00 Mrs. Panis . 5.00 5.00 Mis Allie. 5.00 Miss lIaeaeaea. 25.00 MrE E 5.00 5.00 1.00 635 Miss Marguerite Wallace ....... 50 1.,00 Miss Mary 5 fousn. 1.0 Colleetlons 59.3 Membership Fees... 69.5 69.0 Toutttt.... Previously acknowledged in “The Suf- Total to Augpst 29th, 1914......$40,280.6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1914-09-05/canvas/p8#xywh=2314,941,866,3150"
+  }
+ ]
+}

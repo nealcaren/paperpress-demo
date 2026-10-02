@@ -1,0 +1,194 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "242",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=277,93,90,47"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "have had s rider—ber benetactor had been only a man aftor a. However. ber dissppomtment was not very sad, and became indeed snything but sad, when she saw. lying on the grase near by, a white cambric bandkerehicf, which she found to bear the initial letters of a name she knew right well—that of oue of the handsomest young men of the neighborbood. In fact, mo fairy's mift could bave made ber happier than she was, as she sat on the gras smoothing the hamaxerchief scross her lap, but in a dream, that was more a dream than she had ever had in a sleep.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=271,179,562,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The whole world was suddenly changed to her, it wes as if everything bad been made anew, all wos so fresh, so beautiful ; she seemed to tread on air as she went along. She had earefully hidden the han dkerchief in her bosom but she was a long way from the oak tree before she remembered that she had left the money behind. . She went back; to go back or go on was alike easy now, snd there in the grass at the foot of the great oak glittered the three pre. eious pieces. “I know,\" said Tressy, \"where there in a big oak tree growing by the rosd-side, with a tall young sycamore a few yards from it.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=275,604,559,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“Do you,\" said Rachel, eagerly, adding, almost immediately, in calmer tones, “but there are a great many oak trees, you know, and the one under which this poor girl sst, can't possibly bave been any one that you ever saw! O no, that tree is a great way from this neighborhood.\" It was not likely,\" Theress replied, that she should have seen the tree, but what Rachel had said made her thimk of one she had often notioed. O no, you don't know the tree, mor the person who sat under it,\" answered Rachel, \"and you mustn't think sts anybody you ever saw, or heard of.\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=271,1090,560,480"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“I know I must not,\" said Theresas, \"and I don't, but what did you—I mean, what did the girl do with the handkerchief? and did she ever see the owner of it?\" \"Yes, that is what I was sbout to tell you. “Well, what came of 1t7? did they fall in love, and were they married ?\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=268,1572,559,221"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TPoor child,\" said Rachel, speaking low. as one speaks of death—\"the rest of the story is very, very sad. 1 don't know how to tell it, or to make you understand it, if I should it was all like a strange dream after that—the new dress and ribbon were bought and the silly girl wore them as she had hoped, and danced with the owner of the handkerchief, which was a great deal more than she bad hoped. As I said before, she had her own little vanity, and it was fed that day to her beart's content. Everyone oalled her so gay and pretty but the praise which was dearest of all, was what she should not bave hstened to. nor believed but she did listen, and did believe.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=266,1799,560,478"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The young man weas handsome—above the girl in fortune, and position; and pride perbape helped to complete what vanity began at any rate, she learned to believe in bim, to trust him; to love him, in short. and thet mean everything 1 could say. 1 bardly know bow it was, but be overruled her will with his. no that it was just as if she had no will; and even when she folt in ber heort that he was wrong, it was all one, he had beon right. Thought of himove for bim, eolored every thing, the days that used to be so long sna",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=259,2287,565,415"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ns Reralnti",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=904,83,453,72"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dreary, boome all at ppy the work thet used to be a was pow only a pastime.As she went sbout the house. she might be beard singing snd daily, when the shadows began to lengthen towsrd the sunset, she was sure to be found sting on the poreh. with sewing, or kmitting work—ber hair combed smooth. and her dress as fresh and bright se her best care oonid make it. And it was pot to listen to the birds, and not to look at the mesdows that she sat there. It was because the porch overiooked the high way. and because the young man would be sure to ree alongz. Sometimes, not often, be would stop and chat a little while. Sometimes he wouid tos her a flower, and sometimes only smile and nod but even though it were no more than this, she was contented, bappy, till the agproach of the bour when she might hope to see him agam.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=852,167,559,626"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "One tbme it happened that she met him, as at evenmg she crossed the fields to bring home the cows, they walked and talked together 1 don't know what they said, wuch sweet trifies, I suppore. as young people. who are fond of h other, are likely to say. but what they not matter, for it wes, after sll. what was said without words that made the int rview so delightful It was not long before it happened that they met again. and sfter that came snother and another chance meetmg—at any rate, they were chance meetings so tar as the girl knew or suspectod—and with each succesmive one the lover grew boider, and the girl less vigilant; and so at length the last barrier was down, and the gap that ied straight to ber heart open and undoefended.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=852,800,561,580"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "They found a bower under the tangled boughs or rather a bower made by wild vim es weaving the bonghs together, and drsgging them down to the green velvet of a turf that was thiok set with flowers—scariet and saffron—and with vioiots as small and tender as the drops of dew; all about the place there were pesce and sweetness, and the brght glancing of wings. And at first the girl would not go within the bower, tor when swhe bad parted the branches, she said “The light will not go in with us,\" snd why and balf afrad she turned awa;. Not 0, urged the Jover—for he was ber proclaimed lover now—If my pretty one will but go in. she with berself will hght up all the place, and we shall have no need of sun:\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=849,1390,561,510"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Thus persuaded by his words, and vet more poteny by the e. tored the bower, but alas, the light would not go in with her, neither did she, with hersolt, make it ght as the lover had prom ied. The day lingered in the west, and the rose sha ied to purple, and the purple to brown and grey and then the moon came and looked down with reproachful face but the time of parting must come, and it 33 some t lat And you will come to-morrow\" and the fittle bands were held so tenderly, and the eyss that looked down were so cloguent in thew pleading. “No, not to-morrow Then the mext day “No., nor then\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=847,1909,559,552"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The aay following? that will be to ster mity\" Perbaps though the perhaps ought to be no. VYou bresk my besrt with perhape nd ough.Leove meves tht way ot yo will come, n y hot w wh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=845,2470,551,265"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "See the fowers yor promne I 334 not promise Baut you will! you do! Twe days swd he Parsdise—iet mesleep out tins gret gpof time BeA why o repet wnch contreversy h but ohe enm An they perie with the distimet promse and ngreeent to m again and siter the wht r or seemed to be so. became bebitus d o meetmg took plos withont as. pr ng witbout many kissn. Soch a secret is pot liely to be seoret very long, apd theiw's was mot discovery was of course followed by open soandsl and of ouree all the condempation ans dngrace fel upon the woman.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=1433,175,558,579"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Old frends trested ber ooldly or ornefly ie show her bow much better they themsever were and not ove friendly vore warnod ber what peril she stood there has been but ome oc might have htened, and been saved. But harsh werds would 4o pe good. taunts and wmeers could mot wsl o belp ber—they who warned most ioudty 6 not ove ber—that was the trouble—sbe felt that. only that, ond the very truth they wrged so wagrciously was the swme ass ie. He was mep. proud, handsome, and whe was a poor work gir. He wonld soon tire of ber, snd oset ber off. and rightly enough she would be served at he wou1d e wed reckions fellow was mot going to reor al onoe, and whet was more, not going to marry the like of ber if be should she was s Bttle siumpleton to trust bim. and thet was the wery best that was a:d for ber. Why, be could bave. for the asking. the anughter of amy rich man of the moighborhood, any day snd was it ikely be wouid take her in preference. No, it wes not Likoly abe. for ber part, bad better suck to her distaf and she must have busband. look for one among ber equals snd he would not receive this good comnel she go where she would fare bettes",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=1435,763,557,890"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "She did mot reeeive this good counsel— seemed to ber that she conld mot e and so went from bouse o bonse. nd rom piace to plaoe. ted l alie wi r or contempt unti ahe od get e pi Heor pride was stung imtn obtn er wt was bumbled. and e for the bumiliston and a ber hosrt hrsoned towsrds other. it woftened w be could do with wht be would The ol3 mertings were omly more ecret. t loe frequent. mot less conont an e asys wont snd came. thes feet wandered fur ther and further soros the dangorons bordoro forbi3en groun a",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=1431,1663,568,483"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "For a time those meotings wore loge happy. and they walked or t t m light, be wouid simg love omgn. whoh e so full of himself thet it womed a he hae made them. All the braght hew snd exos he wung of mesnt bor overy window hebt he wo prie w her and me pt f she fot thet be wes kinsing hea. wnd u But ms ot imge ove th p enough o y hey ot The lowes rew moody. eom prc and sometmes n bo toge heraty p be would saybei. not depondont o wh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/revolution/1870-04-21/canvas/p2#xywh=1419,2151,567,552"
+  }
+ ]
+}

@@ -1,0 +1,161 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/text/p9.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "t",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=174,469,1223,1626"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2] Telephone appeal night before election, to women of twelve suffrage states to use their 2 vote for political freedom of women. [3) Ines Milholland, envoy from the unenfranchised women to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1404,487,1452,1714"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "[1] Appealing to the woman voter by strect banners in the Woman's Party campaign.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=162,2157,1259,105"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "smaller political divisions has been carried on in states where the state organization has been effected. In some instances, such as Wyoming and Arizona, every county has been organized under county committees. In other states, such as Delaware, even the smallest towns have been organized; and in the District of Columbia an organization has been brought about in each police precinct and considerable headway made in organizing each police beat city.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=235,2347,830,521"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The general organization of the country in support of the federal amendment is under the direction of the chairman of the organization department. She has endeavored to sub-divide the country into geographical divisions, and obtain a chairman for each division as rapidly as possible, who will assist in developing the organization in her territory. Already chairmen are at work in the Middle Atlantic, North Middle Western and Inland suffrage states. National organizers have been kept constantly in the field throughout the year. The total number of organizers at work during 1916 was thirty-two, some of whom continued throughout the entire year while others were engaged only during certain campaigns.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=230,2875,831,775"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Membership Membership Department shows a most remarkable growth in membership in the twelve suffrage states. The end of the year",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=234,3711,824,226"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "finds the total membership in the suffrage territory exceeding by a thousand the membership in all of the other thirty-six states combined. The membership files demonstrate that the concentrated effort by the Union in suffrage territory has born fruit.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1103,2349,827,308"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The year ends with New York heading the list with the largest membership of any state. It is followed closely by California and then by Illinois. The District of Columbia, the smallest division in the country, has over a thousand paid members, forming a splendid basis for the suffrage demonstrations and deputations which have become so much a part of Washington life.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1103,2664,824,416"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "National Headquarters",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1253,3130,522,66"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "W Mrs. William Kent as chairman of the committee of two hundred for the maintenance of the national headquarters, the whole rental expense of the house has been met. The bed-rooms on the two upper floors have been rented to suffrage workers and the drawing rooms to clubs and classes, the proceeds going toward the upkeep. The headquarters have served as a place for meetings, receptions and suffrage functions of all kinds, in addition to furnishing a home for all the business departments connected with the Union's activities.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1097,3223,831,713"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "9",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=2745,365,46,53"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "“The Suffragist”",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=2206,2431,359,63"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "HE circulation of ThHe SurFRAGIST has more T than doubled during the past year, and its advertising sections assumed an importance that necessitated enlarging the paper. The paper has been sent cach week during 1916 to the President and each member of Congress, different members of the Union having subscribed for the paper for this purpose. Federal amendment workers in the suffrage states, in particular, have appreciated being kept closely in touch with the work at the Capitol. The Illinois circulation of THE SUFFRAGIST, the largest in the country, has grown up within the year. California has doubled her subscription list, as has Colorado.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1966,2516,831,795"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "The cartoons in THe SurrrAGIST have been of particular value. They have been reprinted in newspapers and magazines all over the country and have been instrumental in keeping the general public in touch with the political situation of suffrage as it changes from day to day. During the campaign some of the most effective pieces of literature were SUFFRAGIST cartoons reprinted as dodgers, and the famous “Suffrage Girl\" was used on bill-boards and in shop windows through the entire west.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-10/canvas/p9#xywh=1964,3319,831,613"
+  }
+ ]
+}
