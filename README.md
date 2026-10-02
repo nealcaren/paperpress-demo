@@ -11,7 +11,10 @@ A small sample archive built with [paperpress](https://github.com/nealcaren/pape
   picketing the White House
 
 Every page is OCR'd in reading order, searchable, and citable, and each issue has a
-table of contents drafted by an LLM. This folder is the output of `paperpress build`;
+table of contents drafted by an LLM. Every issue also has a IIIF manifest, e.g.
+[The Suffragist, January 17, 1917 in Mirador](https://projectmirador.org/embed/?iiif-content=https://nealcaren.github.io/paperpress-demo/iiif/suffragist/1917-01-17/manifest.json);
+the whole archive is the collection
+`https://nealcaren.github.io/paperpress-demo/iiif/collection.json`. This folder is the output of `paperpress build`;
 it was made with:
 
 ```bash
@@ -23,7 +26,7 @@ paperpress add ia suffragist --from 1917-01-01 --to 1917-01-31     # and so on f
 paperpress ocr
 paperpress profile suffragist      # and the other two titles
 paperpress enrich
-paperpress build --base /paperpress-demo/
+paperpress build --url https://nealcaren.github.io/paperpress-demo/
 ```
 
 The scans are public domain, from the Internet Archive's copies. OCR text and the
