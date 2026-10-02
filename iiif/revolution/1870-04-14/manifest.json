@@ -35,6 +35,30 @@
   {
    "label": {
     "en": [
+     "Volume"
+    ]
+   },
+   "value": {
+    "en": [
+     "5"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
+     "Number"
+    ]
+   },
+   "value": {
+    "en": [
+     "15"
+    ]
+   }
+  },
+  {
+   "label": {
+    "en": [
      "Pages"
     ]
    },
@@ -76,7 +100,7 @@
    },
    "value": {
     "en": [
-     "The Revolution, April 14, 1870"
+     "The Revolution, vol. 5, no. 15, April 14, 1870"
     ]
    }
   }
