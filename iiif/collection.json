@@ -4,7 +4,7 @@
  "type": "Collection",
  "label": {
   "en": [
-   "Suffrage Press"
+   "paperpress demo"
   ]
  },
  "items": [
@@ -51,7 +51,7 @@
    "type": "Text",
    "label": {
     "en": [
-     "Suffrage Press"
+     "paperpress demo"
     ]
    },
    "format": "text/html"

@@ -1,4 +1,4 @@
-# paperpress demo: Suffrage Press
+# paperpress demo
 
 **Live site: https://nealcaren.github.io/paperpress-demo/**
 
@@ -21,7 +21,7 @@ the whole archive is the collection
 it was made with:
 
 ```bash
-paperpress init suffrage-press && cd suffrage-press
+paperpress init demo && cd demo
 paperpress title add revolution "The Revolution" --ia-query 'identifier:revolution-18*'
 paperpress title add womans-journal "The Woman's Journal" --ia https://archive.org/details/pub_the-womans-journal
 paperpress title add suffragist "The Suffragist" --ia https://archive.org/details/pub_the-suffragist
