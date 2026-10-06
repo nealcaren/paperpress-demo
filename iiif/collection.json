@@ -34,6 +34,15 @@
      "The Suffragist"
     ]
    }
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/collection.json",
+   "type": "Collection",
+   "label": {
+    "en": [
+     "Tranh Đấu"
+    ]
+   }
   }
  ],
  "homepage": [

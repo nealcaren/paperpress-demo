@@ -1,0 +1,711 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/text/p2.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "6",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=0,0,267,7200"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cáp xà hội Pháp 1789",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=464,400,1798,330"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "quí tốc cách 1789 n-chủ, bảng gọc » là một ng ngĐi rĐi, cừa xã-hổi. -chủ chuyên óc làm chúa ng, trong áy cai trì, xù ua táp trung như bôn ēn han. (servage) lân ây chỗ của a, Nivernais, o duộc giái tô thuế cho Giai cấp thư thyên trước cuộc cách mang 1789 Trong thế ký thư l8, công nghiép bát dâu khuěch truurng một cách mau lę. Áy là nhờ su phát minh máy móc. 1767 Arkwright phát miuh máy sQUI chay băng súc nuóc l779 Carturight phát miuh máy dét tư đông. 1772 James Watt ché tao máy hσει nuóc. 1740 phát minh dăng cách nău gan sát băng than dá.v.v Công nghiép nhân do mà phát triên. Các công xuống càng ngày càng to lón máy móc tinh xào, dung súc it, săn xuất nhẽu, số phí it. Mãy công nghiép nhõ và các hàng thư công cuKhông nõi phải tieu diét.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=726,736,909,1603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cấp qui toc có hai hang: tiêu và dai quí toc. Công nghiệp phát dat táp trung một số thơ thuyến dòng dúc. Nhò nhơn công ăn ở rê tiên ay mà công nghiệp (nhút là nhà may sơi) duộc phát triên Đát Đỗ ! Noi đến hai Đỗ, rüng rộng. tìng để chgon",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=309,2371,2612,169"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tiểu qui tổc là bôn « vô nghiép nghe », sông chì nhò huế lối dát dièn. Đất dièn truyèn tũ luru tôn chia xéra manh mung thành thư anh nào không làm dăng quân binh nhà vua hay là giáo sì th`song khó khăn. Bi khõ vây chó không có kiêm kẽ sanh nhai vl theo O Bordeaux, trong năm 1787các hăng làm duòng thâu dung 600 thọ, ò Marseille nhà may xà bong có 80:000 ngữoi làm việc. «Hăng lôn » ò Lyon có 58,000 thơ may sợi và 9.300 cái may dệt Ø Anzin có 4000 thơ mô. Trong luc dâu tiên, tiên luông thơ thật kém. hёт suc mau. Làm raít tiên mà thuě má lại nhieu. Giàu hay là nghéo, ngưòi nông dàn dêu phải dóng thuě năng : thuě cho nhà vua nhút là thưě gián tiép, (thnrě muõi, bột v.v.), thuě tháp phân (dîme) cho bôn giáo sì, thuě án trach (bénéfice) cho bôn qui tóc. Bôn thông trì lộ song một cách bá vurong, da só dàn thơ thi lao nhao chen chúc trong những noi am tháp. Về sanh là cái gi? Cùng có sõ vê sanh vây nhung con ngưòi khôn khô áy không có quyen toai huông dâu. ĐAu to, bung bư thông lóng bô cà xiêu,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=334,2538,2596,497"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bồn tiêu qui tốc thagy dai qui tốc trong triều định dạng giành sang, sung suróng thì hёт súc câm ghét, thagy bôn tur bân có tiên thì khinh rē. V1 vây,bôn áy sé có zhiêu phàn tū tham gia vào cuộc cách mạng dánh do n là vua. mõi ngày. Thơ may sợi lánh nhieu lăm là 25 xu, culi mô kim 15 xu. Giò lâm dài dăng dăng, 16 giò mõi ngày. May anh thơ dóng sách lâm 14 giò là suróng như tlên. Giá sanh hoát thì hёт súc",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=328,3103,1304,463"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Hang dai qui tốc duqc 4.000 gia dinh ở tai kinh dò lên xe, xuống ngua, châu chuc nhà vua, thiệt là sang trong. Vua mõi nám phát cho 33 triều luong, 28 triều tièn phu cáp, 46 triều luong quan vô (hon nūa ngàn quý quán bj) và nhiều dác quyèn khác nùa. mác mõ. Nhūng vát nhu dung mác hơn hét. Muõi bi thuě năng gia 61 quan 19 một trăm kilô duròng bi ó xu thuě mõi nừa kilô, bánh mì tù 8 cho đến l4 xu một kilô. So sánh vối tièn luông giá sanh hoát áy thật cao, gia dinh nguòi thơ sông một cách khó khăn vô hàn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=322,3566,1316,541"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Góp cã cúa cải bôn quí tóc thì dăng một số tièn to tác : đến « thôi k ý khūng bố » (La Terreur) nguòi cách mạng tích thâu hёт dem ra bán dăng 4000 triều livres. tô chúc chi hёт. Tuy nhiên, vì su bóc lột tu băn quá tàn nhăn, vi sông khô hёт suc, thơ thuyèn cüng lám luc biêp nhau dinh công doi quyen lợi. 1712 thơ dệt nī ở Sedan dinh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=320,4442,1309,339"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ô Triều định bôn dài qní toc chì lo chỗ bòi xa xí, xài tiên nhur nuóc. Có huế lợi 100 ngàn livrès môi năm thi cho răng «khô sò» lâm. Phàn nhiều huế lợi đến số triều nhur Bá tuóc, Polignac môi năm du戎 c tôi 1.220.000 livres, mà xài có dữ dâu ! tiên bác nhu thě mà biét bao nhieu ông hàu, bá bi màng nợ lút dâu. công. 1729, thơ nhà in Paris tranh dău. 1772, thơ làm giấy Ø Thiers nghi việc doi tăng luông 1776 thơ dóng sách Ø Paris định công doi bột giò làm. Tù 1786 cho tôi 1789 nhiều phong trào định công xây ra ; thơ làm khóa, thơ móc v. v... Ô Lyon, năm 1787 cuộc tranh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=324,4786,1299,641"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bá tuóc Biron môi 2l tuối xài hёт sự nghiệp là 100 ngàn dòng écus (dòng écu gia 3 livres) cón mang thêm 2 triên écus nơ nừa là khác. Ông hậu Clermont duçc 360 ngàn livres huế lối mà bị tiêu sự nghiệp đến hai lân. dău có về kích-liệt hơn hёт trong cuộc dinh công thơ làm nón có thơ làm day băng c Saint Etienne, thơ hôt toc ở Nantes và Paris huống üng. Trông may cuộc tranh dău trên day, thơ thuyên tuv chura",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=325,5430,1300,397"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bồn giám muc quí tốc cùng không thua gi ông hậu, ông bá. Họ cùng xài to, có hậu thiếp nhur ai. Giám muc Dillon ở Narbonne và Jarente ở Orleans có vợ bé ngô nghinh! giác ngô giai cáp, nhung càng ngày càng có tánh doàn - thê. Các cuộc dinh công chàng có tánh chát gi chánh trị, thuurng dê yêu c-au một vài quyèn. Iqi về nghè nghiệp mà thôi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=325,5825,1299,343"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tóm lại bôn qui tốc là một phàn thieu số ngưoi vô dung bócqlôt các giai cáp khác : tur sán thq thuyến và nông dàn. Vây mà bôn tài chù hёт suc chóng lai it khi nhuông bô. Các cuộc tranh đau thq thuyến phàn nhiêu bi thát bai vl con ròi rat.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=325,6173,1298,292"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Trước 1789, giai cáp qui tốc đã đến chò truy lac cuc diêm. Vì vAY các giai cáp bi bỆc lỘt không thể khoanh tay mà chiu bỊn áy dè nén. Đó là một diềuKIEN nãy nõ ra cuçc cach mäng tu sân 1789 vAY. Đěn luc cach mạng 1789. vỆ sân sē tham gia trước-iêp vào các cuçc tranh dău dê dánh dô nhà vua và bỊn qui tóc. Nhờ sư kinh nghiêm áy děn l848 vỆ sân pháp sē giác ngô mà dánh dõ nguòi thù sõ môt cúa mluh là giai cáp tur bán.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=325,6476,1304,468"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=304,7134,808,66"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=304,158,569,225"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cáp trước cuộc mang 1",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=312,736,414,334"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cáp quí tổ trước cuộc cách mang 1789",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=323,781,600,410"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Duôi chê-dô quân-chù, bang «nhành vàng la ngọc » là một hang nguòiăn không ngôi ròi, hang nguòiăn thép cúa xã-hổi. Truóc chê-dô quân-chū chuyên cně, một anh qui tốc làm chúa tête một vùng dát rông, trong áy duọc trơn quyèn cai trị, xù kiên, v. v...",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=320,1210,650,598"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=320,1808,650,2285"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Năm 1789, trong giai cấp qui tóc co 143 giám muc. Phàn huê lợi các giáo sì mõi năm du戎c l20 triều livres, thuě tháp phàn cừa nóng dân phài dóng cho họ dăng 120 triều livres nùra.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=323,4093,644,342"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=320,4435,650,548"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "*. The thì trước cuộc cách mạng 1789, xúPnáp dà có một giai-cáp thơ thuyến khá dòng nhung lục luông con yěu lâm vì không có",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=973,4113,661,321"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1447,7145,496,55"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1112,7141,335,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1795,157,582,226"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cập nông đàn trong cuộc cách mang 1789 Trong chě - độ phong - kiěn nông đàn là giai cáp bi dè nén hơn hẽt.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1635,736,651,585"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lúc cui cùng của ché do quàn chü, phàn nhiều nông dàn dẻu dăng tư do không bi cau thúc than the nhuriên nỗ vay.Nhung họ không khối dóng nhiều món thuě cho bôn quì tóc, giáo si và nhà vua. Cui the ky 18, nông dàn chuỞc",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1639,1308,627,476"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1633,1784,647,1329"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "cước như thu vát, ngây toi làm lung cho bôn quí tóc ăn xài. Đến 1788, thất mùà quàn chưng ở thôn quê bị doi, phàn nhiều phải xin ăn. Cuộc kinh tě khùng hoãng nay sè dura nông dân lèn con duông cách maug. Vì vây sau khi quàn chùng ó Paris phá ngúc Bastille thì quàn chúng ở thôn quê nhiệt liett huỷng úng cách màng diên dia nỗ bùng lèn.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1638,3113,637,661"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BÌNH DÂN PHÁP",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1762,4510,392,60"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ô các tính Franche-comlé, Maconnais, Dauphiné, Normandie nông dân phá dột lâu dài của bôn quí tốc. Đến dêm 4 Août 1789. các dắc quyèn bi xoá bõ. nông dân không con dóng thuě tháp phàn cho bôn giáo sì và tô thuě chоdia chù quí tốc nũrà. Hội nghị Lạp hiěn không dàm thăng tay, buộc n ag dân phải chuỆc nhiều dắc quyèn của bôn quí tốc, song quàn chúng ó thôn quê nhút dinh",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1633,4599,640,792"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dị chu qui tóc nua. Hội nghị Lập hiên không dàm thăng tay, buộc n ug dàn phải chuọc nhiều dắc quyèn cúa bôn quí tóc, song quan chùng ô thôn quê nhút dinh Họ tân cóng thơ thuyên, họ thay nhau mà tăn cóng mài, họ có nghiép doàn của chú nhơn con thơ thuyên xú nay không một lợi khi gì dê bào vê quyèn lợi cúa giai cáp minh.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1636,5083,1299,303"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1633,5391,647,161"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "quân chů bì lật tây đến 2 juin 1793, bơn phăn dòng girondins bị thật bai thi nông dàn hoàn toá giãi phóng. Đó chì rò răng, binh vức quyên lợi giai cáp minh, nông dàn cuông quyět tranh dâu. ..",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1638,5552,642,464"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tuy nhiên hội l789, nông đ�n pháp không thể thi hành triết để cách mạng diên thô, là chia dát dân cày",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1640,6036,639,229"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "danh cay Bơn phủ nông chồng với các giao cấp phongKIENLAI bị giao cáp tur băn lối cuôn. Con bơn băn nông thì ròi rat không ai dân dao, không chông nối cái áp lực của nèn kinh tế ur băn. V1 văn để sanh hoat, một phàn dông dan cay phải ra thành thị gia nháp tái vô sân giai cáp sẽ dân dao dung phurong pháp cách mang xã hội mà giao quyёт các nhiem vu tur sân dân quyèn. Vô sân pháp sẽ lật do chě do tur băn và cung nông dân thưc hiên muc dich tối cao của cách mang diên thõ là chía dát cho dân cay.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1635,6229,1300,537"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1633,6265,647,743"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "vào dào binh võ săn. Vì mâu thuân tur băn, giai cáp tur săn không thê giãi Vô săn Nga hội tháng muò 1917 dã chĩ duòng cho qua chung công nông thê giãi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1651,6768,1260,183"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=1943,7151,434,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2503,292,88,89"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Vi-doc báo «Tranh Đâu» Nhiều anh em lao-dông sò cao-su Quán - Lợi bi duõi Chông khưng-bố tinh - thần cùa BỘN BỘC LỄT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2282,387,665,900"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Duoi thoi ky Daladier tiên phát-xit, tài chú ở Đông-durong cùng nhur ở Pháp quốc họ càng nuong súc tăn công. Càng tăn công thì phong-trào tranh dâu của thơ-thuyèn lại càng bông bột lang tràn. Dâu răng có chỗ thành công, có noi that bại, bại hay thành thủng tranh dâu cùng",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2283,1327,649,453"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2281,1780,666,1358"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Dân thơ trong tinh cánh áy không dữ diếuKIEN để tranh dấu mặc děu thơ dàkbông muôn ra hội. Nhung gàn day,nhò các báo chí — nhút là “Tranh-dâu” — treo guông tranh dấu kháp ba ky lam phăn khối tinh thàn, anh em duong dư bi lực luông dăng doi dâu với hoon bóc cóng viêc làm con chua hoàn bj vua rởi các anh :",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2293,3138,646,641"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tành, chef d'atelier Cúng, chef magasinier Rên, Electricien Quàn, Soudeur autogène Huyên, Ajusteur méeanicien Toaí 》 » Chùng, Infirmier Ba 》",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2337,3799,594,469"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "8 anh này duộc chủ kêu lèn cho 15 ngày luông và duội ra khôi sơ láp túc. Ho cám-doc báo cách mạng, ho viến có ià 8 anh này doc báo Tranh-Dău 3 anh Nhi, Biên và Phàn cùng vì nhiều bát binh dôn dáp dẻu bố sơ theo số phân của 8 anh trèn, Kể vẽ Cartho. Cadece nguòi vẽ Thuduc-Ta tay bông tay dát, dì vai gánh lung mang,Vor day họ sung bàng cách nào với nan sanh hoát mác mở ?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2281,4274,650,740"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Sức khùng bổ lan tràn. Họ tấn công thơ thyěn, họ thay nhau mà tấn công mái, họ có nghiép doàn của chù nhơn con thơ thyěn xú nay không một lợi khi gì để bào vê quyèn lợi cúa giai cáp minh. Thơ thyěn kháp xú hay hiêp lái tranh dấu doi cho duçc tư-do nghiép-doàn. Một số thơ thyěn cao su Quàn-lợi",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2281,5014,666,585"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "LE CRI TRICOT",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2281,5599,666,164"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "BAN ao chemise dù kièu dò dàn-ông dàn-bà dù dò dùng bazar.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2306,5801,604,171"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2281,5972,666,837"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "và dông chí lên doan dáu dài",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3167,741,1527,127"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ngày 2 juin 1792, bôn Girondins, — lãnh tu của họ là người tinh Gironde, — dài biêu cuã giai cấp dia-chú và phú hào trong Quốc uóc hội nghi (Convention nationale) bị dánh độ và câm tù. Chăng bao làu họ sẽ lên doan dâu dài. Tai Quốc uóc hội nghi, bôn phán dòng con ở lại dêu sq sét, tù day xuôi theo chánh sách cách mang cuã phe Montagnards mà lánh - tu là Robespierre. Keu họ là Montagnards vì trough hội nghi hơ ngodi cao hơn hét. Phe Montagnards vùa chiêm dai so só nghi trường và duç Công xã Paris (la Commune) üng hô lai bi chia rě. Bên cúc tà phe Hébert chù trương chánh sách thù tiêu tôn giao, dóng cuã nhà thô và kêu nài cho duç ckung bố lan rông tuy luc do guom may chật không ngùng. Bên hữu có phe cuã Danton chù trương chánh sách « nùơn dao » chù chồng lai phong trào khüng bố. Nhung Robespierre và dòng chí (Couthon, Saint-just) nám duç bàng có chúng răng Hébert và Danton dêu làm chuyến nhơ nhuóc,ăn hội lô, thơ tiên của bôn quý-tóc, bôn phú hào. Robespierre nhút định trù kẻ nghic. Trước hёт Robespierre drua vào Danton, kề án bôn Hébert. Phe này lên doan dâu dài ngày Vì sq nên các ông nghi hoan nghinh nhiệt liét. Đêm do, bôn khá nghi tù tã sang hữu âm muu lật Robespierre. Chúng nó phàn phát công việc, mối tên dêu lánh trách nhiem trong tăn tuông chôn phong trào cách mạng nây. Bừa sau Quốc uóc hội nghi nhóm. Tallien, tay càm do�n dao, buóc lên diên dàng, chị vào mật Robespierre to cáo anh là một nhà dọc tài Robespierre dúng lên trả lối thì bôn nghích la lối om sóm không dê ai nghe duç tiêng anh. Collot d'Herbois ng�i ghế hội trường cú rung chuông mài cố y láp lối cúa Robespierre. Sự ôn ao kéo dài đến nám giò dòng hồ. Robespierre không trả lối duç lai côn dau dón thấy số nguovi xua nay theo mịnh ngày nay ng�i diём nhiên hoặc húa theo bôn nghích. Một ông dêng hjät Robespierre và bàng hữu cuã anh. Để ng�i duç tán thành. Quan binh dân Robespierre, Saint-just, Couthon... vào ngúc. Nhung may anh em duç Công-xã Paris trả tù do lai và ruóc vẽ nhà Hội Công-xá. Hanriot, quan coî huy quóc dân vẽ binh, mà cúng là ban cuã Robespierre, táp trung quân binh. Quốc uóc hội nghi chóng lai, giao cho ng�i viên Barras thông lánh các dao binh trung thành vối Hội ng�i va tuyến bô dê Ro-Nhiêu ông nghi làm bình phong cho bôn dâu cơ hoặc dinh liêu với bôn phăn quóc. Họ chở thôi cuộc thay dôi. Cháng bao lâu phe Montagnards rã rối, mật lúc lương cung bôi xu huông rây tieu diêt xu huông kia. Chirurg do bôn phăn-dông môi tư gỗ mật na cúa chú g nó di. Dai da só gôm có bôn Girondins côn sôt bôn ôn hòa và bôn án tôi lô kết liên-minh lật dô Robespierre. Sư xung dôt giũa nghi trường chăng qua là tiêng dôi cúa su xung dôt giũa các giao cáp trong xú. Đến nám 1794, giai cáp tu sân Pháp không muôn cho phong rào cách mạng di tôi nừa. Cách mạng xã hội dã dáp nát nbùng hinh thúc sanh sân cúa ché dô phong kiên. Tù day ký nghe và thuurng mài duç phát triên rát mau chóng. Tu bôn Pháp lo xày dung một chê do môi mà hô làm chữ. Hang dJA chữ cung khao khát hoà binh xá-hội. Họ dà mua ruông dát cúa bôn cõ-dao thuurng luru và bôn quý tóc xuát dương. Cách mạng dem dén cho hô hai cái lối: một là quyen chánh trì, hai là quyen sõ hữu. Họ côn mong nừa dâu ? Tur-bôn và dja-chū doat duç múc dich cúa giai cáp hô. Cách mạng tu bôn dã lâm xong, hô không khúng di dén cách mạng dân",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2940,1315,1977,2257"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Máy ngày äy, phàn thì một, phàn có hoi năn chí, Robespierre không đến Hội nghị và Uy ban thuong như tjuóc. O vào thôi ký cách mạng. mối giò phải giài quyёт nhiều văn để cuc ký quan trông, văng mật vai buổi nhóm cūng dữ làm cho mật thanh thể, anh huỂng. Bôn phàn động thura do tăn công. Chúng nó thì sq bay đau Chiêu theoDao luật ngày 10 Juin 1794 (22 prairial theo lich cách mạng), «Uy ban cuu dân chùng có quyèn truy to đến trước Tòa án cách mạng (Tribunal révolutionnaire) những nghị-vien khá nghị, khôi phải Hội nghị ung thuân hay không. Ban ngày văng mật chó ban điểm Robespierre thuòng đến diên thuyёт noi Club des jacobins (Hội những người ban của Hiên pháp, — Société des amis de la Constitution, — nhóm trong một nhà thờ cu của bôn có đạo jacobins). Robespierre ham lây dau bôn phàn quốc và duốc quàn chung rát hoàn nghinh. Ngày 8 thermidor (26 juillet), trước Quốc-dân hội-nghi, Robespierre-doc một bài diên văn dài khái ham sẽ gỗ mật na nhũng tay sai của bôn phú hào, quý tốc và của ngôi quốc. Nniêu nghị-vien hai hùng,—có tích hay nhút nhít, — lo sq nay mài dâu minh sẽ rung chăng. Càng sq hơn nừa là có tiêng dòn nhieu ông dúng về cuc tả sẽ bị truy tổ. bespierre và dông chí ra ngôi vòng pháp luật (nhĩa là něu bi bât thì lánh tội, không dem di xũ). Linh áy ra nhám luc huýnh hón. Trôi mura. Quàn chúng Paris ngác nhiên nhung không rut rít. Quóc dàn vê binh duói quyèn Hanriot chī huy ròi rà, không tinh thàn tranh dău. Lúc dô, trong nhà hói Công-xà, Robespierre và dông chí rát du dù, tím không ra kě, Haj giò khuya quan binh ao võ bât. Robespierre rút sung tay toan tư sát. Đàn trung nhàm hàm duói cúa anh bẽ nát. (Theo nhà sư học khác thì anh bị lính băn). Anh Couthon lièt bai bị xô té xuống lâu. Hanriot bị quảng khối cúa sô, té phía ngôi. Cá thagy dêu bị bât dân dên « Uy ban cuu dân chúng ». Cùng ngây dô, lúc bôn giò chiều, Robespierre và dông chí lên doan dâu dài. ... Chúng ta hüy kiêm nhũng nguyèn do cuộc phần cách mạng dân chữ ngày 9 térmidor trong nghị trường vàngôi nghị trường. Ò nghị trường, sau khi bôn Girondins dài bai, nhieu phàn tư bât binh su khing bổ,nhung vì sợ liên luy dên họ nên buóc lóng tán thành chánh sách cúa phe Montagnards. Nghi viến thay mật cho các tính, mà cùng là cho giai cáp tù sân, ohiêm da sõ nhung chăng dám phân doi phe Montagnards vì phe nây duóc dân chüng Paris üng hô. chů (révolution démocratique). Trái lai, giai cáp thụuyên không duç măn nguyên Họ văn lo sông hàng ngày, văn lo tranh dâu dê chông nán dól. Giá dõ�n vuQt lên mài mà tiên luong cúa họkhông thêm. Chánh phū lai côn dính tiên công tổi cao trong khi con buôn chăng dêm xia dén giá tõi cao cúa hàng hòa. Tưq thuyèn bì nhũng dao luật gát gao bó buóc, như luật ngay 16 juin 1791 (gội luật Le Chape-lier) cám hô làm reo. Nám I793 ó Paris là noi dâu mối cách mạng, thọ các xuống dính cóng lai bèn ap. Tinh hình kinh-tê khó kh�n lòi cuông dên hang thủ cóng, tiêu thuurng gia,nhũng hang ô vào giai cáp tề tu sân dá dòng vai trống chánh trong nghũng ngày cách mạng. Nhiều phàn tư chán nán bội doi khó, một mối. lo sq hàng ngày. Nám nám cách mạng dà làm cho tinh thàn tranh dâu cúa bó lung lay. Chông vôi nán ngoi xám, chông vôi nối loan, muôn cho cách mạng thành cóng, trong mấy nám tròi quàn chùng khép minh vao môt ký luật sanh hoat hét súc chắc chía. Hàng ngày thagy guơm mày chật dâu dem dên môt càm tròng não nè. Tinh thàn cách mạng bì dánh dô tù p la. Thăng duç bôn tay sai phù hào và tur bôn, phe Montagnards nhò quàn chùng Paris üng hô. Ngày 9 Thermidor, vì nhũng (coi tiếp trương ²)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2951,4678,1969,2252"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3042,6960,882,240"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "9 THE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3042,252,500,196"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ROB",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3042,569,500,137"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Truóc hệt Robespierre được vào Danton, kề án bôn Hébert. Phe này lên doạn dâu dài ngày 4 Mars 1794. Rối đó Robespierre và Saint-just trô lại hai tội của Danton. Danton và băng hùu bi chém dâu ngày 5 Avril 1794 Duông như thế luc của Robespierre vũng như tròng. Không dè đến 27 juillet 19749 Thermidor theo lich cach mạng) anh và các dòng chi bị tư hính.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2951,3394,650,749"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Truóc ngày 9 Thermidor, dja vi của Robespierre dã lung dông lay. Õnghi truòng, bôn phàn dông ra măt, số nguòi üng hô anh ta dã bót làn. Trong «Uy ban cúu dàn chung » (Comité de Salut public), — cơ quan chánh trì, — anh và Saint just vovi Couthon ngá vẽ thiếu số.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=2952,4154,646,517"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "RMIDOR : 27 JUILL ESPIE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3542,0,726,706"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Kết quả : Cách mạng binh đ�n thật hai. Bgon phàn dông doat chánhquyen mai đến cach mạng 1848",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3541,953,1294,271"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "THE EXECUTION OF MARY CATHERINE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3633,3607,1251,928"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Gυσм мάy trong thòi ky khủng-bõ",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=3936,4564,662,59"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "ET 1794 RRE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=4268,0,767,706"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "phe Montagnards ing Paris üng hô. midor, vì nhũng i tiép truônç 9)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p2#xywh=4549,6717,486,483"
+  }
+ ]
+}

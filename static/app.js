@@ -73,12 +73,25 @@
       reader.querySelector(`rect[data-r="${el.dataset.r}"]`)?.classList.add('hit'); }
   });
 
+  // original / translation / both: the choice is remembered across pages
+  const langs = textPane.querySelector('.langs');
+  if (langs) {
+    const setLang = l => {
+      textPane.dataset.lang = l;
+      langs.querySelectorAll('button').forEach(b => b.setAttribute('aria-pressed', b.dataset.lang === l));
+      try { localStorage.setItem('paperpress-lang', l); } catch (e) {}
+    };
+    let saved = null; try { saved = localStorage.getItem('paperpress-lang'); } catch (e) {}
+    setLang(['orig', 'tr', 'both'].includes(saved) ? saved : 'tr');
+    langs.addEventListener('click', ev => { const b = ev.target.closest('[data-lang]'); if (b) setLang(b.dataset.lang); });
+  }
   const showBox = (id, scrollText, smooth = true) => {
     const behavior = smooth ? 'smooth' : 'auto';
     reader.querySelectorAll('.sel').forEach(n => n.classList.remove('sel'));
     const rect = reader.querySelector(`rect[data-r="${id}"]`);
-    const para = reader.querySelector(`.textpane [data-r="${id}"]`);
-    rect?.classList.add('sel'); para?.classList.add('sel');
+    const paras = [...reader.querySelectorAll(`.textpane [data-r="${id}"]`)];
+    const para = paras.find(p => p.offsetParent !== null) || paras[0];
+    rect?.classList.add('sel'); paras.forEach(p => p.classList.add('sel'));
     if (scrollText && para) {
       // set scrollTop directly: scrollIntoView would also try to scroll the
       // image pane and the window, and the two animations fight
@@ -105,7 +118,7 @@
   // hit once the page has fully laid out (before the scan loads the canvas has
   // no height, so scroll positions get clamped). Instant, not smooth: smooth
   // scrolls started during page load get cut short.
-  const firstHit = reader.querySelector('.textpane .hit');
+  const firstHit = [...reader.querySelectorAll('.textpane .hit')].find(p => p.offsetParent !== null);
   const target = reader.dataset.select || params.get('r') || firstHit?.dataset.r;
   const jump = () => target && requestAnimationFrame(() => showBox(target, true, false));
   if (document.readyState === 'complete') jump(); else addEventListener('load', jump, {once: true});

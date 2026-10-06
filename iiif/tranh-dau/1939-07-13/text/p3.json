@@ -1,0 +1,799 @@
+{
+ "@context": "http://iiif.io/api/presentation/3/context.json",
+ "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/text/p3.json",
+ "type": "AnnotationPage",
+ "items": [
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r0",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "(tiêp theo) Đám dura xác phu nhơn, Marx không dư vào duộc. Nguòi duông bi binh sung phối tràm trông. Đến khi binh thuyênggiám, có thể di duông xa duộc thối thày thuốc khuyên Marx xuống phía nam về vùng ôn dài tính duông. Tháng Février 1882 Marx tói Algérie thi lại bi sung phối lai nüra. Bối một tiêt dòng lanh giò dòng hồ, có thì nhũng con ho quăn khúc giản vát thâu dêm. Ngày 11 Janvier 1833 Jenny Longuet chět thình linh. Marx với vàng vẽ Londres, luôn may ngày không một lối nôi. Marx không con cu nối với binh nguòi nừa. Đả lại con thêm bi bình dau có không thề nuột món án chi duộc. Ngày 14 Mars 1883 Marx qua dôi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=83,5163,1325,603"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r1",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chi vê đến Argenteuil,Durong bình ởnhà con gái đau lóng cúa nguòi, ròi sau đến ở gân hò Léman, Marx môi thagy binh nhé bót, có thể trò vê nước Anh. sơ thagy màn rù xuống. Xě hôm qua hội hai giò rùòi, Ià luc tốt hơn hột trong ngày để đến thăm anh,(chì Marx) tôi gập cả nhà khóc nuc nò... Durong như không con gl nüra cà. Tôi hội không côn. «Trong hai phút áy Ănh di xuôi một cách em thám, không dau dón chi cã. » Ngày 17 Mars thi hai của Marx an táng tái Londres, trong nghlia",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=87,6097,1965,338"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r2",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tư-do báo chí trong thò'i ký Đại cách.man.gov (tiêp theo trương nhút)",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=0,0,780,743"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r3",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "phép nói, việc, in tự - do nhung phải bị trùng phát nếu lam dung sự tự do áy trong nhūng ca mà pháp luật đã han dính ».",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=100,747,642,282"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r4",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Từ 1789 đến 1793, hơn một ngân tò báo xuất bán, đù hình thúc, đù cờ lôn, nhổ. Một phàn của nguòi cách mạng, một phàn của bôn tay sai của phú hào và quý-tổc ; bôn này binh vức nhà vua, chồng lai khùng bố cách mạng.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=99,1031,643,452"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r5",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mãy tò báo có tên tuõi là ; Les Actes des Apôtres (cực hữu), L'ami du Peuple, cừa Marat, Le Père Duchène, cừa Hébert (cức tã), Les Révolutions de France et de Brabant, cừa Camille Desmoulins, Le Patriote français, cừa Brissot. Hai tò sau nây dúng vè phía tã.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=42,1485,701,561"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r6",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nhiều tò báo có tên la thường như L'Alambic, ou le Distillateur patriote (Nội chung rưqu hay là anh đật rưqu ai quóc), la Poule patriote (Con gà mái ai quóc), Pendez - moi, mais écoutez-moi ! (Treo có tôi Iên, nhung hay nghe tôi l) C'est incroyable (Thật khó tin), vân, vân...",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=106,2048,647,564"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r7",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Đùng về cuc tă, một tô báo duçc hoan nghinh hơn hét là L'Ami du Peuple (Bạn Dân). Mối ngày xuát băn tù 1500 tôi 2000 tô,— vi may in chay chám, —nhung mối tô duçc cã chuc nguòi dọc.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=107,2615,648,391"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r8",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Anh Marat chiêm một anh huống rát lón, cho đến kê nghích cung phải nhìn nh�n. Ong Meillan nói : « Một chữ xen vào to báo của Marat cùng dù làm cho dan chúng xao xiěn và phát sinh một phong trào...» Tư do báo chí được trôn chăng ? Không dâu. Nhiều làn Marat phải di trôn, hoặc bị truy tố, hoặc bị kê nghíchKIEM giét... Đến lúc khùng bổ cách mạng (ferreur révolutionnaire), một dao luật cho phép chánh-phù truy to bôn khãnghi, vì đó mà so báo chí bột làn, chì con nhũng to một trăm phàn trăm ai quốc môi dúng vùng.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=103,3005,652,1020"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r9",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=42,4025,713,755"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r10",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Trong khi chánh phủ ký niêm Cách mạng 17s9, nguovi ta bő từ bő làm báo không ngôt, truy ung bài báo gội có tánh ao dòng thát là buồn cuovi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=103,4780,640,270"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r11",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=42,5050,713,645"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r12",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dắc biên và một tiět xuân am tháp làm cho bình rguòi năng thêm. Marx bèn qua Monte-Carlo mòng bình tính thuyến giãm, chẳng may ở dây Marx lai bi sung phở lân thír ba.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=104,5772,625,319"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r13",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Về đây lại gấp phải tiět vu-lô mít mù, Marx phải ròi thành Londres sang ở dào Wight. Ô dày Marx con bị eám hàn, phải nám bình luôn trong phòng, dêm chi ngữ duqe ba bôn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1,6441,731,639"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r14",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "an bi | ROBE",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1093,0,576,343"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r15",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Giai cáp bi áp húc hóc lột, hãy ghi nhó !",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=758,259,628,472"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r16",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Mắc dâu anh Phan-văn-Hùm hói-dòng quăn-hát, dang bị khùng bố tư-do, chùng tôi văn cưngquyet tiên lên con dưòng dã vách săng.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=750,749,642,314"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r17",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=750,1063,646,316"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r18",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Hàng ngày có anh bạn Caothuông-Thinh ở nhà hội thườngtrúc tái báo-quán La Lutte tiěp chuyên vối anh, chị, em và thâutháp nhũng tài liêu dê tiên cho công việc làm cừa chúng tôi.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=756,1379,638,371"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r19",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Hai anh Tа- thu- Thâu và Trầnvăn- Thачch sẽ xem xét lại những hồ sơ áy ký càng môi có thể can- thiép một cách triết để cho.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=760,1784,636,232"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r20",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nhóm «LaLutte Tranh-Đău» — MAISON — Đoàn em 6 p. 50",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=750,2061,646,444"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r21",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Một bổ lin de soie Thọ chuyên môn vẽ cát may Au phuc họp thoi trang Nơi dáng tin cây Chủ nhon PHAN-ÁI",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=813,2505,566,384"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r22",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=750,2889,646,1160"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r23",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "QUINAFORCE Ruquo máu bò Bịnh môi dô, xanh xao yẽu duõi, yẽu phõi, kinh huyёт không dèu, dang thai nghén, v. v. Ruquo bô huyёт, thơm khai vi tiêu thực môi ve 2$00 Do noi: PHARMACIE VUỘNG-HỨU-LÈ 144, Rue d'Espagne — SAIGON Có gỗi thuõc cách lánh hóa giao ngàn",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=876,3031,1123,529"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r24",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "COMPTOIR INDUSTRIEL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=907,3610,1013,98"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r25",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TÉLÉPHONE : 20.044 Adresse télégraphique : Comiel Saigon Bán do phu tùng xe hoi, dù các hiếu",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=945,3746,898,201"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r26",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ai muôn có lòi?",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1128,4049,552,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r27",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=750,4134,646,581"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r28",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Trong các làng, các xóm, các chơ nhổ kháp xú Đông- Duong chô nào quí ngài thây chua có dài-lý bàn thuoc ÒNG-TIÊN, muồn bán cú viět tho ngay nhà thuoc",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=828,4174,1160,178"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r29",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ong - Tiên Rue PaulBlan hy prolongée Phúnhuận — SAIGON",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=887,4389,1047,267"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r30",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Hội thể lẻ rít dê, huếhöng thát nhiều, ca mđoan thuóc nào bán không duế cbo dối thú khác, tiên cuóc phí vẽ nbà thuế cchu nét — chàng nhũeg khôi sơ lô vòn mà bát cú chỗ nào hê treo bân Đài-lý thuế ÓNGTIÊN thì bán chay một cách manh me (nhơ dê cò o$09 trã lôi).",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=824,4687,1166,362"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r31",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=761,5055,902,85"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r32",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Tho cho Sorge, là kē răt trung thành vovi Marx, Engels có cấu : «Tù sáu tuăn lẽ nay, môi buòi sóm, quanh qua góc duròng một con sơ hai có thể làm chět nguòi nó xâm lăng lóng tói, là",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=737,5772,653,319"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r33",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "vì chuyên gì, có chuyên gì xày ra không, hối để tìm cách làm cho vùng lòng. Thời ra anh bị thổ huyět một it, rối thinh linh ngã xuống. Mu già Lenchen chánh trước của chùng ta, là kê",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=740,6441,644,331"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r34",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=732,7035,662,45"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r35",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "i",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=780,0,313,110"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r36",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "và dông chí lên doạn dài dài (tiép theo trương hai) nguyễn do vừa mối kề, quân chúng Paris có thái đó không cuông quyết đói với phông trào ph�n dông. Sự lành dam và không cuông quyết áy làm cho Robespierre và dông chí mật cơ sở . Họ phải ngã. ... Kết quả ngày 9 thermidor. Phong trào cách mạng thời lưu. Bơn tay sai cừa tur bôn, địa chữ, của phái quyết lên năm chánh quyèn. Bao nhiều nghịvien trước kia ở trong nhóm Robespierre-Saint-Just, sau dã dão Robespierre, ngày nay dều bi tàn sát, hoặc bị day. Hơn 70 uy-viên công-xã Paris lên doạn dâu dài. Õ tính và máy thành thị lôn, sự khùng bố kéo dài nhung chị mùi trô lại mấy nhà cach mạng cục tá. Những hội ai quốc bịDEP. Báo chí có tánh chất bình dân bi dóng cừa. Ngoài duòng bgon thanh niên con nhà giAu láp doàn lũ rυQt dánh, giёт nguòi Jacobins (trung thanh với cách mạng). Đao luật định giá tội cao hàng hoá bi hüy (Décembre 1794). Bơn dâu cơ, nhút là bgon bán khí giói và lương thực cho quân dội, nhãy nhót mùng rò. Quốc-uóc hội nghị thảo ra một Hiên, pháp mới (Constitution de l'an Ill), thù tiêu phổ thông dâu phiếu. Từ day bgon phán dông thay một cho giai cáp tur băn và quýtóc lên nám chánh quyèn, dôn duòng cho Bonaparte thi hành chể dô dóc tài tur bán.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1390,349,676,2615"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r37",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1390,2964,676,167"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r38",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1390,3191,676,858"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r39",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1390,4134,676,567"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r40",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TUYEN-NGÔN CONG SẢN CỔA PHAN VẰN-HÙM PHIỈN DỊCH",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1474,5160,1807,269"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r41",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "TIÈU-SÙ' KARL MARX VÀ FRIEDRICH ENGELS",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1482,5479,1792,123"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r42",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "săn sóc chơ Ănh hơn một nguòi me nừa, buóc xuống nói vội tôi răng Ănh duông nám mê và tôi duọc theo mu lèn thăm. Khi chúng !ði buóc|vô phòng, thì ánh nám thim-thiép, để không bao giò thúc dây nừa. «Mach không con, hoci thõ",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1399,5668,649,423"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r43",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "dia Highgate, namd một noi vói Marx phu nhơn và chị Hélène Demuth, là chị tơ trung thành găn nhu một nguruì trong than thích của Marx. Libknecht nhơn danh thơ-",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1398,6445,641,324"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r44",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1394,7031,838,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r45",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "thuyên nước Đức, Lafargne nhơn danh thơ thyên pháp, và Engels nhơn danh thơ thyên kháp thể giói, độc lối ai-diěu trước phàn-uynh nguòi trôt doi phưng sự vô săn và dá doàn luyên cho vô săn một cái họcthuyết cách mang bát hù trải qua thời-gian và không-gian. Tiêu-sû' Friedrich Engels (Theo Éléonore Marx) Friedrich Engels sanh ngày 28 Novembre 1820 ở Barmen, thước nước Đức. Cha là mộtnhà công nghế. Khởi học ở Barmen, sau tôt nghiép ở trường trung học (gymnase) Elberfeld.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2048,5632,675,1139"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r46",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "SPIERRE | UL",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1669,0,515,364"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r47",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=1663,5053,401,80"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r48",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2232,7031,857,49"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r49",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "y-họ triết-dê RANH ĐAU\"",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2184,0,597,624"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r50",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "\"T",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2082,444,98,130"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r51",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Chúng tôi hiện dạng trải qua một thời ký hết_src khó khăn. Nhưng dâu sao di nừa tinh thàn tranh-dău cừa chúng tôi vân hăng hái luôn luôn. Giúp cho tinh-thàn tranh-dău áy thêm phăn khôi,các dòng-chí, các ban càm-tinh chór quên răng ngoài lực lương doàn kết con có văn-dè quan hé hơn hёт là « văn-dè tàichánh ».",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2072,685,640,579"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r52",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Bạn Phan-văn-Hùm bij giamcàm mắc dâu anh là dân biêu dã phát biêu ý-kiên binh dân. Chúng toi cực lực doi cho anh duộc tư-do. Chăng nhũng chung toi can xuát bān báo chi cho nhiều de kèu goi quàn chung trong xír üng-hô mà ngay bén Pháp, chung toi cung tim cách nhờ dãng-phái chánh trị và các dòng chi vân-dông doi tư do cho anh vói nhiều bạn khác hiên bì giam càm vi dã tư do phát biên ý-kiên. Chúng toi can có tiên de làm các cóng việc áy. Các dòng-chi, các bạn càm tinh, hãy mau gói tiên vẽ. Ung hô triét de «La Lutte Tranh- ĐAu» túc là giúp cuộc tranh-dâu giai cáp chóng kết-quã. Nhóm «LaLutte Tranh-DAu»",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2072,1283,655,1168"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r53",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Lê-van-Du 22, 24 Rue Sabourain,",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2070,2451,657,293"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r54",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Nhà buôn xe may và bán dữ dỗ phu tùng duoc — mQUI nguròi tín nhiêm —",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2111,2777,588,188"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r55",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2070,2965,657,428"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r56",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Xua rày dã có nám anh quăn-lý của các báo thơ-thuyèn bì băt giam. Tnêm vào só nguruì áy, mói dây nguruì tà bát ba anh Ng-v-A, Văn-công - Khai, Ng-v-Lông ở báo Lao-Dông vi một bài báo hội cuối nám 1938.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2079,3393,642,530"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r57",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Anh Truông-văn-Hai là nguòi coi nhà hội thường-trực cho nhóm Tranh-Dău ở Mytho trong lúc tranh cử hội dòng quán hat cüng mối bị băt, bị diечu tù Mytho vê Saigon, và bị tóng giam. Anh Hai bị băt vì anh dả dúng tên dem in nhūng tò truyèn don trong dip tuyên-cū.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2074,3946,648,609"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r58",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ngay luc Chánh-phủ làm lê cuộc dài-cách-mang 1789 sao lái bát bó giam càm nhiều nhà viět báo tư-do? Chúng toi nhiệt-liệt phăn-dối viéc này và doi thã các anh áy ra !",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2070,4574,651,486"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r59",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2070,5060,657,566"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r60",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "cóng nghe phát triên để nhút tu Ban thao là hal quyên to",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2702,6730,1321,62"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r61",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2781,0,628,86"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r62",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "2 chiên si c (tiép theo trương nhút) Trở về Paris, y-khoa bác-sī Marat sé dăng nối danh tài nghè, làm giành mau chóng. Tuy sông trong hoàn cãnh sang trông, sung suóng, anh không khi nào quên ýKIEN của mình. 1782, anh bật dầu phán doi dân chù chuyên ché. Mars 1789, anh nói: « Dân chùng chì có tin cây noi sự can dãm của mình mà thôi ». Avril 1789, anh được cử vào ban tuyèn cử trong hô anh ở. Juillet 1789, dan chúng Paris phá ngúc Bastille, thì Septembre 1789, Marat xuất bàn to báo « Bân Dân » (L'Ami du Peuple). Từ äy, trong tô báo anh sẽ nhiệt liên tranh dâu doi tự do cho quàn chúng lao khõ. Juillet 1790, trong số 175 báo « Bân dân » anh doi quyèn phở thông dâu phiên. 1791, cưng trong « Bân dân » anh phăn doi luật lao động Le Chapelier, vi luật này không nh�n cho thơ thyuen quyèn hiệp tác và quyèn định công. Juillet 1792, bôn quí tóc pháp xuất duông k€u ngョại quóc dem binh về dánh nuỘc minh để giét chết cách mang. Trước sự bị dông của giai cáp tur sàn, Marat k€u quàn chúng vô trang bao dòng. 1er Août 1792, vua bị phě, Lạp-pháp hội-nghi tuyèn bổ: « Tô quốc mắc nạn ». Ngày 9 September 1792, Marat duộc cử làm'dài bleu Paris trong Quóc uróc hội nghị. Trên diên dàng hội nghị Marat duộc các dòng viến Jacobins ho�n nghinh dắc-biêt. Ngày 5 Avril 1793, anh duộc cử làm hội trương cấu lac bổ Jacobin. Lúc äy bôn phăn dòng Girondins vì ganh ghét nên cáo anh viět bài trong báo “ Bân dân ” để xui dúc am sát và phiên loạn yêu cấu dem anh ra trước “ Tòa án cách mạng ” mà xũ. Nhờ các bân dòng chí Jacobins và quàn chúng üng hô, mà cúng nhơ tài hưng biên cúa anh nên Marat dăng trạng án cho đến ngày 2 Juin bôn ph án dòng bì quàn chúng sa thái . Sau các cuộc tranh dâu kích-liệt, Marat mắc binh nên tam xa trưởng chánh-trị. TrongLuc äy, anh bi một nàng con gái phú hào am sát. Nàng äy là Charlote Corday. Marat bì giét ngày 13 Juillet 1793. Trong báo “ Le Père Duchesne ” dòng chí Hébert viět : « Marat không con nừa ! « Dân chúng, hány than khóc nguòi bân tôt nhút cúa mi ! ».",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2718,92,709,5009"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r63",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Ban đầu Engels muôn vào học dai học, nhung mà bội ghét cái học của nguòi ta day ở day và cüng bội công việc nhà ràng buóc, Engels thôi học. Một năm sau khi tốt nghiệp ở Elberfeld, Engels vào làm việc một nhà buôn ở Barimen, rối sau đó tluh nguyễn tùng quân ở Berlin hёт một năm. Quá năm 1842 Engels được goto qua Anh ở Manchester làm việc trong một hăng để mà cha của nguòi có phàn hùn. Áy là hăng Engels et Ermen biên nay vàn còn. Engels ở dó hai năm. Hai năm ở giùa một xú mà",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=2726,5686,683,1038"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r64",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "băn của thể giói, rát có anh huông lôn E o hongels. Trong khi góp tài liêu để viет quyen « Tinh hình giai cấp can lao ở nước Anh» (Situation des classes laborieuses en Angleterre) Engels cùng lại tham gia vào phong trào chartiste và tr戎 but cho báo Northern Star và báo New moral World của Owen. Năm 1844 Engels trở về Đức, di ngã Paris, nh�n do mối hộiKIEN nguòi đã tho di tù lại tù lâu, là Karl Marx. Dău tich của cuộc gập gö do là quyen Thần thành dòng minh (Sain e famille ou critique, Contre Bruno Bauer et consorts), xuất bản năm 1844. và một phàn dài của quyen nừa, mà sau nay sẽ viет xong ở Bruxelles, Quyen sách áy không duộc rả doi. Marx ở trong quyen Kinh-tế chánh-Trì phê phán (de l'Economie Politique) và Engels trong quyen Feuerbach nói về quyen cơ in 8, tù lâu đã nám nội một hiêu xuất băn ở Westphalie thời tinh thế xui nên không xuất băn duộc. Chúng tôi cüng vui lóng phú cho sự phê blnh cap khoét của lù chuQt, bội vl cái muc dich chánh, thời chung tôi đã duộc dat nó rỗi, áy là sq minh tư hiếu minh. (la compréhension de soimème : Selbstverstoendigung) Năm äy Engels viет quyen La situation des classes laborieuses en Angleterre. Tù Paris Engels về Barmen nhung ở lại day không bao lâu rối thi năm 1845 theo Marx quà Bruxelles. Ò-day hai nguòi mối bât dâu hiêp tác hăn hội. Ban đầu hai hguòi láp Hội thợ thuyên dúc (Association des ouvriers allemands) và đeu quan trông là hai nguòi vào Ligue des Justes, hội này sau dối ra Ligue des communistes trú danh, và màm mông Đế ahút Quóc tế.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=3377,5171,1297,1531"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r65",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=3409,0,622,88"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r66",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "i cach mang ROBESPIERRE Với Marat, Robespierre chiêm trong lich-sūr cach mạng một dja-ví tối cao. Nguòi ta thường kề Robespierre là nhà chánh trị cừa cuộc cach mạng 1789. Nguòi ta muôn chi cái tài năng cừa anh trong các cuộc tranh dău giùa nghị trường và trước quàn chúng. ... Sanh năm 1758 tai Arras (Pháp), Robespierre thuốc về giài-cáp tiêu-tur-sân. Mę mát sóm, cha lại bố không nuòi, Robespierre tuối vừa nên tám thì dá biét cãnh nghèo nân. Song nhở anh ngоan lâm nên ông Giám muc thành Arras cho anh một cái học phí đến học tai trương Louis le Grand ò Parls. 1782, thi dô, anh vê Arras mà chuyèn nghè tràng sur. Trong luc áy anh dã nhiêm ý kién tư-do cừa các nhà triét học thê kỹ thú 18. Trong luc lâm thày kiên anh dã lâm phen binh vúc nhùng nguòi « ha cáp » chóng với sự ap búc, bóc lột cừa nhùng kế phú hào. 26 Avril 1789, anh duộc cừ lâm dài biêu cho để tam cáp (Tiers Etat), Hội dô thi anh môi duộc 32 tuối. Cüng như Marat, Robespierre là dáng viên cừa cấu lac bố jacobin. Nhóm Jacobins là một tô chúc chánh trị tã phái, phàn nhiều dàng viên thước giài cáp tiêu tư sân thành thị và trôn quê. Đưng trên láp trường dân chữ, nhóm jacobins trường biép nhút với thơ thuyèn và dân cayı dê tranh dău chóng bôn phàn dông Girondins dài biêu cừa bôn tur bán kỹ nghệ, lý tài. ĐAu năm 1792, nuóc Pháp cách mạng bị ngoài quốc xám lăn thì Robespierre và các dòng chí Jacobins biêu trieu quàn chúng dây lên cự dích với quán nghích bên trong và bên ngoài dê cừu cuộc cách mạng. Phong trào bông bột cho đến ngày l0 Août 1792, quàn chúng buộc Láp pháp hội nghị phái bát giam vua Louis thú 16 và gia quyen về tội phăn quốc. Binh cach mạng hùng chí đến ngày 2 septembre 1792 dành thăng quân Á một trần tai Valmy. Bên cuộc tuyến cữ vô Quốc uóc hội nghị, tháng Août 1792, Robespierre duộc dác cữ dung dâu sò vói Marat. Vào Quốc uóc hội nghị Robespierre sê trô tài hùng biên tàm cho bên nghích — bôn girondins — cùng phải khàm phúc.",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=3328,105,707,4997"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r67",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "---",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=3409,7023,622,57"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r68",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Toàn xá chánhtripham (tiêp theo trương nhút) Cuộc tuyển cử quân hai vừa rối quân chưng dã tô y muôn cái cách. Nhưng chánh phů muôn chóng lại. Các giai cáp bi áp chě phải dòng lóng phán đội chánh sách khùng bố hiên thời, doi tư do dàn chú và quyên định công cho thơ tbuyèn. Ký niêm ngày phá nguc Bastille, không có khâu hiêu tranh dấu nào hơn khâu hiêu : Toàn xá chánh tri phạm ! Chánh phů hagy trả tư do lại cho Hùm-Tiên-Quá-Long - Ganofsky- Thanh. Chánh phů phái toàn xá chánh tri phạm. Janvier 1789, sau một bài diên văn hùng hôn cúa Robespierre, quốc uóc hội nghị phải dem vua Louis XVI ra xū, chém ngày 21 Janvier. Từ áy sãp đến tháng mai 1793, tính hìn trong xử trở nên nguy ngáp ngoài thì ngoi quốc bao vày xám lăn bò cối : cUi tháng Mai 1793 quán Đức dả đến Mayence quán Áo đến Condé và Valenciennes quán Y pha nho chiêm Perpignan, quán Y dài lợi lây Savoie, quán Ann dô bố tái Toulon. Bên trong thì bôn quán chú ó Vendée day loạn. Vây mà chánh phů girondin, không lo giài thoát cú lo dàn ap phong trào thơ tbuyèn và nông dàn. Đυọc quyên chí huy cúa Robespierre và Marat nhóm Jacobins hiêu trieu quàn chúng vó trang bao dòng. Ngày 31 Mars 1793, 80.000 dàn biuh dén bao vày Quốc uóc hội nghị buộc phải bái giam 29 nguòi dai biêu girondins. Từ áy Robespierre cùng các bạn dòng chí nám chánh quyen láp «Uý ban của dàn chúng » để khüng bố bôn ph án cách mạng. Trong máy tháng, duối quyên Robespierre, quán nghích bên trong, bên ngoài dêu khiép vía. CUi năm 1799, xử Pháp qua khõi tính thế nguy cơ. Từ áy cho dén nừa nằm 1794, lúc luông ph án dòng dây lên lại. Cho dèn ngày 9 thermidor, Robespierre và các lông chí Jacobins bị bôn ph án dòng trong Quốc uóc hội nghị lát ngá. Đến l0 thermidor, Robespierre cùng 21 nguòi bân lên doàn dâu dài ! Cùng với Robespierre cuộc cách-mạng dân chữ 1789 phái chét theo mát ! cō in 8, tù lâu dã nằm noi một hiêu xuát băn ở Westphalie thời tinh thế xui nên không xuát băn duọc. Chúng tôi cüng vui lóng phú cho sự phê bìn cap khoét cúa lù chuQt, bôi vì cái muc dich chánh, thôi chúng tôi dã duọc dat nó rôi, ây là sư minh tư hiếu minh. (la compréhension de soiméme : Selbstverstoendigung) Năm áy Engels viět quyên La situation des classes laborieuses en Angleterre. Từ Paris Engels vê Barmen nhung o lai dây không bao lâu rôi thì năm 1845 theo Marx quá Bruxelles. ò dây hai nguòi môi bât dâu hiép tác hăn hôi. Ban dãu hai hguòi láp Hói thơ tbuyèn dúc (Association des ouvriers allemands) và dευ quan tròng lâu hai nguòi vào Ligue des Justes, hói nagy sau dôi ra Ligue des communistes trú danh, và màm móng Đế nhút Quốc tê. (côn nừa) •",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=4031,0,882,7080"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r70",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=4037,534,649,4360"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r71",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "Cùng với Robespierre cuộ cách-mạng dan chữ l789 pha chết theo mật !",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=4041,4894,601,174"
+  },
+  {
+   "id": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3/text/r72",
+   "type": "Annotation",
+   "motivation": "supplementing",
+   "body": {
+    "type": "TextualBody",
+    "value": "#",
+    "format": "text/plain"
+   },
+   "target": "https://nealcaren.github.io/paperpress-demo/iiif/tranh-dau/1939-07-13/canvas/p3#xywh=4037,5068,649,713"
+  }
+ ]
+}
